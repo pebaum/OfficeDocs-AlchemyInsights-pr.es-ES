@@ -1,0 +1,29 @@
+---
+title: ¿Cuándo se cargan mi tarjeta de crédito?
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: mnirkhe
+ms.date: 3/20/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
+ms.openlocfilehash: 2b59d78432c1ef62ba93c29965506cb1ec56c16b
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28313262"
+---
+# <a name="when-is-my-credit-card-charged"></a>¿Cuándo se cargan mi tarjeta de crédito?
+
+Con una adquisición inicial, puede tardar hasta dos días para el gasto que se produzca.
+  
+Cargos recurrentes ocurrir dentro de un día de la factura que se está creando.
+  
+Si el cargo se realiza correctamente, el sistema seguirá intentar resolver el saldo a través de las próximas semanas. Puede realizar actualizaciones a su información de pago en cualquier momento para asegurarse de que el siguiente intento de cargo es correcto. Para obtener más información, vea [Agregar, actualizar o quitar una tarjeta de crédito o una cuenta bancaria en Office 365 para la empresa](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+  
+

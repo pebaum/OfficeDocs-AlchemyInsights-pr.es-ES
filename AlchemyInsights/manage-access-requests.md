@@ -1,0 +1,35 @@
+---
+title: Administrar las solicitudes de acceso
+ms.author: mikeplum
+author: MikePlumleyMSFT
+manager: scotv
+ms.date: 8/3/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
+ms.openlocfilehash: a273b6dd665e1998c874203248bc31bbb40f20b0
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28314408"
+---
+# <a name="manage-access-requests"></a>Administrar las solicitudes de acceso
+
+Cuando un usuario intenta tener acceso a un elemento de SharePoint y no tienen permiso, verán un mensaje que necesitan permiso para tener acceso al elemento. El usuario puede solicitar acceso (en algunos casos, en el elemento específico o para unirse al grupo) y un propietario del sitio pueden aprobar o rechazar la solicitud. Si una persona que no es propietario de un sitio comparte un sitio con otra persona, el propietario del sitio obtendrá también una solicitud de acceso para el nuevo usuario. Para aprobar o rechazar las solicitudes de acceso:
+  
+1. Vaya al sitio, haga clic en el icono de configuración en la parte superior derecha y, a continuación, haga clic en **Configuración del sitio**. (Si no ve la configuración del sitio, haga clic en **permisos del sitio**y, a continuación, haga clic en **configuración de permisos avanzados**. Busque una pancarta que tiene un vínculo llamado "Mostrar las solicitudes de acceso y las invitaciones.")
+    
+2. En **usuarios y permisos**, haga clic en **invitaciones y solicitudes de acceso**. (Si esto no aparece, no hay acceso a las solicitudes se han realizado.)
+    
+3. Para conceder el permiso de usuario de forma individual, haga clic en **Aprobar** o **Rechazar**. Para seleccionar un nivel de permisos específicos, primero haga clic en el botón de puntos suspensivos (...) situado junto al nombre de la persona. Como alternativa, puede agregar el usuario a un grupo que tiene permiso para el sitio. Para los sitios de comunicación y los sitios de grupo clásico, puede hacerlo en la página Configuración del sitio. Para los sitios que pertenecen a un grupo de Office 365, puede agregar el usuario al grupo.
+    
+    [Administrar las solicitudes de acceso](https://go.microsoft.com/fwlink/?linkid=2008747)
+    
+    [Obtener más información acerca de los niveles de permisos](https://go.microsoft.com/fwlink/?linkid=867071)
+    
+
