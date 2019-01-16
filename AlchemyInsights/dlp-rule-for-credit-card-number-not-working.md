@@ -1,0 +1,51 @@
+---
+title: Reglas de DLP para el número de tarjeta de crédito no funciona
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: mnirkhe
+ms.date: 11/5/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
+ms.openlocfilehash: a56f32b54e6cb32fa044d26d08868bac8c368de5
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28313587"
+---
+<span data-ttu-id="845ce-p101">¿Tiene problemas con la **Prevención de pérdida de datos (DLP)** no funciona para el contenido que contiene un **Número de tarjeta de crédito** cuando se utiliza un tipo de información confidencial de DLP en Office 365? Si es así, asegúrese de que el contenido contiene la información necesaria para desencadenar la cuando se evalúa la directiva de DLP. Por ejemplo, para una **tarjeta de crédito directiva** configurada con un nivel de confianza de 85%, el siguiente se evalúa y debe detectarse para que desencadenan la regla:</span><span class="sxs-lookup"><span data-stu-id="845ce-p101">Are you having problems with **Data Loss Prevention (DLP)** not working for content containing a **Credit Card Number** when using a DLP sensitive information type in O365? If so, make sure your content contains the needed information to trigger the the DLP policy when it is evaluated. For example, for a **Credit Card policy** configured with a confidence level of 85%, the following are evaluated and must be detected for the rule to trigger:</span></span> 
+  
+- <span data-ttu-id="845ce-105">**[Formato:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 dígitos que se pueden dar formato o sin formato (dddddddddddddddd) y debe pasar la prueba Luhn.</span><span class="sxs-lookup"><span data-stu-id="845ce-105">**[Format:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 digits which can be formatted or unformatted (dddddddddddddddd) and must pass the Luhn test.</span></span> 
+    
+- <span data-ttu-id="845ce-106">**[Patrón:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** Trama muy compleja y eficaz que detecta las tarjetas de todas las marcas principales en todo el mundo, incluidas Visa, Mastercard, tarjeta de descubrir, JCB, American Express, tarjetas de regalo y comensal tarjetas.</span><span class="sxs-lookup"><span data-stu-id="845ce-106">**[Pattern:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** Very complex and robust pattern that detects cards from all major brands worldwide, including Visa, MasterCard, Discover Card, JCB, American Express, gift cards, and diner cards.</span></span> 
+    
+- <span data-ttu-id="845ce-107">**[Suma de comprobación:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** Sí, la suma de comprobación Luhn</span><span class="sxs-lookup"><span data-stu-id="845ce-107">**[Checksum:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** Yes, the Luhn checksum</span></span> 
+    
+- <span data-ttu-id="845ce-108">**[Definición:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** Una directiva de DLP es 85% seguro de que ha detectado este tipo de información confidencial if, dentro de una proximidad de 300 caracteres:</span><span class="sxs-lookup"><span data-stu-id="845ce-108">**[Definition:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** A DLP policy is 85% confident that it's detected this type of sensitive information if, within a proximity of 300 characters:</span></span> 
+    
+  - <span data-ttu-id="845ce-109">La función Func_credit_card encuentra contenido que coincide con el patrón.</span><span class="sxs-lookup"><span data-stu-id="845ce-109">The function Func_credit_card finds content that matches the pattern.</span></span>
+    
+  - <span data-ttu-id="845ce-110">Una de las siguientes opciones es verdadera:</span><span class="sxs-lookup"><span data-stu-id="845ce-110">One of the following is true:</span></span> 
+    
+  - <span data-ttu-id="845ce-111">Se encuentra una palabra clave de Keyword_cc_verification.</span><span class="sxs-lookup"><span data-stu-id="845ce-111">A keyword from Keyword_cc_verification is found.</span></span>
+    
+  - <span data-ttu-id="845ce-112">Se encuentra una palabra clave de Keyword_cc_name</span><span class="sxs-lookup"><span data-stu-id="845ce-112">A keyword from Keyword_cc_name is found</span></span>
+    
+  - <span data-ttu-id="845ce-113">La función Func_expiration_date encuentra una fecha en el formato de fecha correcto.</span><span class="sxs-lookup"><span data-stu-id="845ce-113">The function Func_expiration_date finds a date in the right date format.</span></span>
+    
+  - <span data-ttu-id="845ce-114">Pasa de la suma de comprobación</span><span class="sxs-lookup"><span data-stu-id="845ce-114">The checksum passes</span></span>
+    
+    <span data-ttu-id="845ce-115">Por ejemplo, en el ejemplo siguiente sería desencadenar para una directiva de número de tarjeta de crédito de DLP:</span><span class="sxs-lookup"><span data-stu-id="845ce-115">For example, the following sample would trigger for a DLP Credit Card Number Policy:</span></span>
+    
+  - <span data-ttu-id="845ce-116">Visa: 4485 3647 3952 7352</span><span class="sxs-lookup"><span data-stu-id="845ce-116">Visa: 4485 3647 3952 7352</span></span> 
+    
+  - <span data-ttu-id="845ce-117">Caduca: 2/2009</span><span class="sxs-lookup"><span data-stu-id="845ce-117">Expires: 2/2009</span></span>
+    
+<span data-ttu-id="845ce-118">Para obtener más información sobre lo que se requiere para un **Número de tarjeta de crédito** a ser detectados para su contenido, vea la siguiente sección de este artículo: [¿Qué el confidencial tipos de información busque tarjeta de crédito #](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number)</span><span class="sxs-lookup"><span data-stu-id="845ce-118">For more information on what is required for a **Credit Card Number** to be detected for your content, see the following section in this article: [What the Sensitive Information Types look for Credit Card#](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number)</span></span>
+  
+<span data-ttu-id="845ce-119">Uso de un tipo de información confidencial integrada diferente, vea el siguiente artículo para obtener información en lo que se requiere para otros tipos de: [Buscar qué el confidencial tipos de información](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for)</span><span class="sxs-lookup"><span data-stu-id="845ce-119">Using a different built-in sensitive information type, see the following article for information on what is required for other types: [What the Sensitive Information Types look for](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for)</span></span>
+  
+
