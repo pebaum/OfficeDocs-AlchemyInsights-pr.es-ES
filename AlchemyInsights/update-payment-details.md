@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f8d8b8d1-aed2-47df-b9bc-5f71b3c109dd
 ms.openlocfilehash: 366a29a2d3c0345ce857904bdceb8250ea88dc0f
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314252"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491103"
 ---
-# <a name="update-payment-details"></a><span data-ttu-id="793da-102">Actualizar los detalles de pago</span><span class="sxs-lookup"><span data-stu-id="793da-102">Update payment details</span></span>
+# <a name="update-payment-details"></a><span data-ttu-id="69a18-102">Actualizar los detalles de pago</span><span class="sxs-lookup"><span data-stu-id="69a18-102">Update payment details</span></span>
 
-1. <span data-ttu-id="793da-103">En el centro de administración, vaya a la página de [métodos de pago](https://go.microsoft.com/fwlink/p/?linkid=2018806) o elija **facturación** \> **métodos de pago**.</span><span class="sxs-lookup"><span data-stu-id="793da-103">In the Admin center, go to the [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page, or choose **Billing** \> **Payment methods**.</span></span>
+1. <span data-ttu-id="69a18-103">En el centro de administración, vaya a la página de [métodos de pago](https://go.microsoft.com/fwlink/p/?linkid=2018806) o elija **facturación** \> **métodos de pago**.</span><span class="sxs-lookup"><span data-stu-id="69a18-103">In the Admin center, go to the [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page, or choose **Billing** \> **Payment methods**.</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="793da-104">Si experimenta un bucle que se envía a la página principal de administración antes de que las actualizaciones están completas, intente modo Inprivate o Incognito.</span><span class="sxs-lookup"><span data-stu-id="793da-104">If you experience a loop that sends you back to the Admin home page before your updates are complete, try Inprivate or Incognito mode.</span></span> 
+    > <span data-ttu-id="69a18-104">Si experimenta un bucle que se envía a la página principal de administración antes de que las actualizaciones están completas, intente modo Inprivate o Incognito.</span><span class="sxs-lookup"><span data-stu-id="69a18-104">If you experience a loop that sends you back to the Admin home page before your updates are complete, try Inprivate or Incognito mode.</span></span> 
   
-2. <span data-ttu-id="793da-105">Elija la tarjeta de crédito que le gustaría actualizar.</span><span class="sxs-lookup"><span data-stu-id="793da-105">Choose the credit card you would like to update.</span></span>
+2. <span data-ttu-id="69a18-105">Elija la tarjeta de crédito que le gustaría actualizar.</span><span class="sxs-lookup"><span data-stu-id="69a18-105">Choose the credit card you would like to update.</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="793da-p101">Si otro administrador agrega el método de pago, no podrá actualizar la información de tarjeta de crédito o una cuenta bancaria para él. Si la tarjeta de crédito está a punto de caducar y el otro administrador no es capaz de actualizarlo, puede evitar que interrupción del servicio mediante la adición de una tarjeta de crédito diferente o una nueva cuenta bancaria para la suscripción, elija **Agregar forma de pago**.</span><span class="sxs-lookup"><span data-stu-id="793da-p101">If another admin added the payment method, you won't be able to update the credit card or bank account information for it. If the credit card is about to expire and the other administrator isn't able to update it, you can prevent service interruption by adding a different credit card or new bank account for the subscription by choosing **Add payment method**.</span></span> 
+    > <span data-ttu-id="69a18-p101">Si otro administrador agrega el método de pago, no podrá actualizar la información de tarjeta de crédito o una cuenta bancaria para él. Si la tarjeta de crédito está a punto de caducar y el otro administrador no es capaz de actualizarlo, puede evitar que interrupción del servicio mediante la adición de una tarjeta de crédito diferente o una nueva cuenta bancaria para la suscripción, elija **Agregar forma de pago**.</span><span class="sxs-lookup"><span data-stu-id="69a18-p101">If another admin added the payment method, you won't be able to update the credit card or bank account information for it. If the credit card is about to expire and the other administrator isn't able to update it, you can prevent service interruption by adding a different credit card or new bank account for the subscription by choosing **Add payment method**.</span></span> 
   
-3. <span data-ttu-id="793da-108">En la página de **Detalles de pago** , elija **Editar detalles del pago**.</span><span class="sxs-lookup"><span data-stu-id="793da-108">On the **Payment details** page, choose **Edit payment details**.</span></span>
+3. <span data-ttu-id="69a18-108">En la página de **Detalles de pago** , elija **Editar detalles del pago**.</span><span class="sxs-lookup"><span data-stu-id="69a18-108">On the **Payment details** page, choose **Edit payment details**.</span></span>
     
-4. <span data-ttu-id="793da-109">Hacer que las actualizaciones y, a continuación, elija **Guardar**.</span><span class="sxs-lookup"><span data-stu-id="793da-109">Make the updates, and then choose **Save**.</span></span>
+4. <span data-ttu-id="69a18-109">Hacer que las actualizaciones y, a continuación, elija **Guardar**.</span><span class="sxs-lookup"><span data-stu-id="69a18-109">Make the updates, and then choose **Save**.</span></span>
     
-5. <span data-ttu-id="793da-110">Para quitar esta forma de pago, seleccione **Eliminar**.</span><span class="sxs-lookup"><span data-stu-id="793da-110">To remove this payment method, choose **Delete**.</span></span>
+5. <span data-ttu-id="69a18-110">Para quitar esta forma de pago, seleccione **Eliminar**.</span><span class="sxs-lookup"><span data-stu-id="69a18-110">To remove this payment method, choose **Delete**.</span></span>
     
-<span data-ttu-id="793da-111">Para obtener más información, vea [Agregar, actualizar o quitar una tarjeta de crédito o una cuenta bancaria en Office 365 para profesionales](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) y [las tarjetas de crédito de solución de problemas y cuentas bancarias](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span><span class="sxs-lookup"><span data-stu-id="793da-111">For more information, see [Add, update or remove a credit card or bank account in Office 365 for Business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) and [Troubleshooting credit cards and bank accounts](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span></span>
+<span data-ttu-id="69a18-111">Para obtener más información, vea [Agregar, actualizar o quitar una tarjeta de crédito o una cuenta bancaria en Office 365 para profesionales](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) y [las tarjetas de crédito de solución de problemas y cuentas bancarias](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span><span class="sxs-lookup"><span data-stu-id="69a18-111">For more information, see [Add, update or remove a credit card or bank account in Office 365 for Business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) and [Troubleshooting credit cards and bank accounts](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span></span>
   
 

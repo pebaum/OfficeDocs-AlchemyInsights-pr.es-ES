@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
 ms.openlocfilehash: 6d3674a57ccbe10f274ee8f12493bcf5c6b08702
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314039"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490634"
 ---
-# <a name="move-items-in-a-sharepoint-document-library"></a><span data-ttu-id="72ede-102">Mover los elementos de una biblioteca de documentos de SharePoint</span><span class="sxs-lookup"><span data-stu-id="72ede-102">Move items in a SharePoint document library</span></span>
+# <a name="move-items-in-a-sharepoint-document-library"></a><span data-ttu-id="8ae28-102">Mover los elementos de una biblioteca de documentos de SharePoint</span><span class="sxs-lookup"><span data-stu-id="8ae28-102">Move items in a SharePoint document library</span></span>
 
-<span data-ttu-id="72ede-p101">Puede mover elementos a distintas ubicaciones dentro de una biblioteca de documentos. Si ha [configurado la opción de la versión de destino](https://go.microsoft.com/fwlink/?linkid=622980), también puede mover elementos entre sitios. Al mover documentos, también se migran su historial.</span><span class="sxs-lookup"><span data-stu-id="72ede-p101">You can move items to different locations within a document library. If you've [set up the Targeted release option](https://go.microsoft.com/fwlink/?linkid=622980), you can also move items across sites. When you move documents, their history is also moved.</span></span>
+<span data-ttu-id="8ae28-p101">Puede mover elementos a distintas ubicaciones dentro de una biblioteca de documentos. Si ha [configurado la opción de la versión de destino](https://go.microsoft.com/fwlink/?linkid=622980), también puede mover elementos entre sitios. Al mover documentos, también se migran su historial.</span><span class="sxs-lookup"><span data-stu-id="8ae28-p101">You can move items to different locations within a document library. If you've [set up the Targeted release option](https://go.microsoft.com/fwlink/?linkid=622980), you can also move items across sites. When you move documents, their history is also moved.</span></span>
   
-1. <span data-ttu-id="72ede-106">En un explorador web, vaya a los archivos, carpetas o vínculos que desee mover y, a continuación, haga clic en **mover a**.</span><span class="sxs-lookup"><span data-stu-id="72ede-106">In a web browser, browse to the files, folders, or links you want to move, and then click **Move to**.</span></span>
+1. <span data-ttu-id="8ae28-106">En un explorador web, vaya a los archivos, carpetas o vínculos que desee mover y, a continuación, haga clic en **mover a**.</span><span class="sxs-lookup"><span data-stu-id="8ae28-106">In a web browser, browse to the files, folders, or links you want to move, and then click **Move to**.</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="72ede-107">**Mover a** no está disponible si está usando la experiencia clásica de SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="72ede-107">**Move to** isn't available if you're using the classic experience of SharePoint Online.</span></span> 
+    > <span data-ttu-id="8ae28-107">**Mover a** no está disponible si está usando la experiencia clásica de SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="8ae28-107">**Move to** isn't available if you're using the classic experience of SharePoint Online.</span></span> 
   
-2. <span data-ttu-id="72ede-p102">En **Elegir un destino**, seleccione la ubicación a la que desea mover los elementos. Si desea mover a otro sitio o subsitio y no aparece, haga clic en **explorar sitios** para ver la lista completa de los sitios que se puede mover a.</span><span class="sxs-lookup"><span data-stu-id="72ede-p102">Under **Choose a destination**, select the location to which you want to move the items. If you're moving to a different site or subsite and don't see it listed, click **Browse sites** to see the full list of sites that you can move to.</span></span> 
+2. <span data-ttu-id="8ae28-p102">En **Elegir un destino**, seleccione la ubicación a la que desea mover los elementos. Si desea mover a otro sitio o subsitio y no aparece, haga clic en **explorar sitios** para ver la lista completa de los sitios que se puede mover a.</span><span class="sxs-lookup"><span data-stu-id="8ae28-p102">Under **Choose a destination**, select the location to which you want to move the items. If you're moving to a different site or subsite and don't see it listed, click **Browse sites** to see the full list of sites that you can move to.</span></span> 
     
-    <span data-ttu-id="72ede-110">Para crear una nueva carpeta para mover los archivos a, seleccione una ubicación en la jerarquía de carpetas, haga clic en **nueva carpeta**, escriba un nombre para la carpeta y haga clic en la marca de verificación para guardar el nombre.</span><span class="sxs-lookup"><span data-stu-id="72ede-110">To create a new folder to move the files to, select a location in the folder hierarchy, click **New folder**, enter a name for the folder, and click the check mark to save the name.</span></span>
+    <span data-ttu-id="8ae28-110">Para crear una nueva carpeta para mover los archivos a, seleccione una ubicación en la jerarquía de carpetas, haga clic en **nueva carpeta**, escriba un nombre para la carpeta y haga clic en la marca de verificación para guardar el nombre.</span><span class="sxs-lookup"><span data-stu-id="8ae28-110">To create a new folder to move the files to, select a location in the folder hierarchy, click **New folder**, enter a name for the folder, and click the check mark to save the name.</span></span>
     
-3. <span data-ttu-id="72ede-111">Haga clic en **Mover aquí**.</span><span class="sxs-lookup"><span data-stu-id="72ede-111">Click **Move here**.</span></span>
+3. <span data-ttu-id="8ae28-111">Haga clic en **Mover aquí**.</span><span class="sxs-lookup"><span data-stu-id="8ae28-111">Click **Move here**.</span></span>
     
 
