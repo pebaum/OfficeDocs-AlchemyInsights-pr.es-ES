@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 09a0553b-4fcd-410d-ba50-fe55cb79eea1
 ms.openlocfilehash: 4f0806ae2a857dd02f1da8fb3935569baf54b3c5
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314115"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491484"
 ---
 # <a name="restore-a-deleted-sharepoint-list-or-library"></a>Restauración de una lista de SharePoint o la biblioteca eliminada
 

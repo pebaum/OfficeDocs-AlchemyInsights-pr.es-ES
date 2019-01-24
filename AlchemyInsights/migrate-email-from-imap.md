@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
 ms.openlocfilehash: 075c0aef5ce46fdd25926cee7aaf1a45794423b6
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313805"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491267"
 ---
 # <a name="when-you-get-a-not-an-accepted-domain-error"></a>Cuando se obtiene un "Que no sea un dominio aceptado" error
 

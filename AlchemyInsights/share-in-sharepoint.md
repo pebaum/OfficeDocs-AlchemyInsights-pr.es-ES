@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
 ms.openlocfilehash: 5d4773e68d9e140ff762d4aaf6150a88acb4b120
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313804"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491493"
 ---
 # <a name="how-to-share-in-sharepoint-online"></a>Procedimiento para compartir en SharePoint Online
 

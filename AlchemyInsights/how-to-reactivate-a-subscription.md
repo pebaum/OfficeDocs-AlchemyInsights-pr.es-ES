@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
 ms.openlocfilehash: 0c1410ac74e3a749493bdb65d198de5a09b069f9
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314504"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491309"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Procedimiento para volver a activar una suscripción
 

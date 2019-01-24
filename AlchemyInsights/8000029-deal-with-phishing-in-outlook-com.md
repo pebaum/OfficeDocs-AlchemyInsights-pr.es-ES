@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 99ff945c-a5b0-463b-8626-734c2c88f1c3
 ms.openlocfilehash: 9fa81486e91315ace890c2d71a28ebf4fd60c6e4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314324"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491497"
 ---
 # <a name="deal-with-phishing-scams-in-your-inbox"></a>Abordar los problemas con las estafas de suplantación de identidad en la Bandeja de entrada
 

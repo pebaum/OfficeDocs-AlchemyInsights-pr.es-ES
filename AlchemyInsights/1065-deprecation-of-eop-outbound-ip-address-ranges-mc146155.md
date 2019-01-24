@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: bd41784e-8002-428d-bc19-25671cfd34e8
 ms.openlocfilehash: ec87141ffaa2fa3484620a9b52851e3e92f20b6b
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313743"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491422"
 ---
 # <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>Tipo de proyectos de intervalos de direcciones IP salientes de elevación de privilegios
 

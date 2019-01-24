@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
 ms.openlocfilehash: 88652b7d27ac13cacd9e07aaec5a4a1c38243c7f
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313324"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491251"
 ---
 # <a name="sync-a-users-profile-picture"></a>Sincronizar la imagen del perfil de un usuario
 

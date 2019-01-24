@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e8448771-3828-43d0-b17d-0c2c87377bf2
 ms.openlocfilehash: d1b8007a6ad1eee79d558af29f54ab133d49a03c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314494"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491332"
 ---
 # <a name="stalleddueto-errors-during-migration"></a>StalledDueTo errores durante la migración
 

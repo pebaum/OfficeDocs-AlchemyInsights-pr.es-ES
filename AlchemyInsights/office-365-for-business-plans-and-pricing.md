@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
 ms.openlocfilehash: fb61b3f6339a9929bf91845340bdcf9e11048cd1
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313440"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491431"
 ---
 # <a name="compare-office-365-for-business"></a>Comparación de Office 365 para profesionales
 

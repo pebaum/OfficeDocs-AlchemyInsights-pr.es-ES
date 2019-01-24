@@ -11,11 +11,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
 ms.openlocfilehash: 0c165dab0c9d1555f90fb2637ad1eeba6aab22a2
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313935"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491427"
 ---
 # <a name="search-experience-updated"></a>Se actualizó la experiencia de búsqueda
 

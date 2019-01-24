@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 998d9af8-91c6-4583-a752-dfbf21f7d9b8
 ms.openlocfilehash: 2ff47d6c32a1c9b1867e164073c98ee5f0420904
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313265"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491314"
 ---
 # <a name="enable-seamless-sso"></a>Habilitar SSO perfecta
 
