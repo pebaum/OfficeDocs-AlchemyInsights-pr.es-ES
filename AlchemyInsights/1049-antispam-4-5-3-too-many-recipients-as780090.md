@@ -13,8 +13,8 @@ ms.openlocfilehash: 7dd7998863645870333ef08229ff8b111eac58b6
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383479"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454015"
 ---
 # <a name="453-too-many-recipients-as780090"></a>4.5.3 demasiados destinatarios (AS780090)
 
