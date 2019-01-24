@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
 ms.openlocfilehash: 73d5128b55cae7712c48be9e2d05e558c3ba2e5c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314057"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491197"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Instalar Office en un servidor de Terminal Server
 

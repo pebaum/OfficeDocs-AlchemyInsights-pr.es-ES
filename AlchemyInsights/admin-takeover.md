@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 53aeac4c-00cb-4395-9d9b-b344cc5ada6f
 ms.openlocfilehash: e865b0802a8c16a3c923abc9972b3f77848a3f5b
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313494"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491246"
 ---
 # <a name="become-an-admin"></a>Convertirse en un administrador
 

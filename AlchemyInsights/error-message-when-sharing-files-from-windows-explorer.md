@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
 ms.openlocfilehash: 64a1ece4c9904dc0054e1c4340f3f7ae9111fb95
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314398"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490768"
 ---
 # <a name="error-message-when-sharing-files-from-windows-explorer"></a>Mensaje de error al uso compartido de archivos desde el Explorador de Windows
 

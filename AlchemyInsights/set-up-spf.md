@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
 ms.openlocfilehash: 853f23a7488be32973b2f2b13269f8e399528d48
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314168"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491243"
 ---
 # <a name="set-up-spf-in-office-365"></a>Configurar SPF en Office 365
 

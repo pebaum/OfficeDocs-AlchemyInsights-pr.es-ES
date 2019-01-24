@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 3a05fcd2-639a-4f16-a6ed-1cffa35fbdb3
 ms.openlocfilehash: bb3f57454b09c5667204ce8c7b812e5889c46d9a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314155"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490979"
 ---
 # <a name="fix-onedrive-sync-problems"></a>Solucionar problemas de sincronización de OneDrive
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 84f34326-94dd-44e7-867f-c6cac0b4fa75
 ms.openlocfilehash: 377e662773ad8b54a4923cd07a413c61c450a7c3
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313913"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491043"
 ---
 # <a name="uninstall-office-client"></a>Desinstalar el cliente de Office
 

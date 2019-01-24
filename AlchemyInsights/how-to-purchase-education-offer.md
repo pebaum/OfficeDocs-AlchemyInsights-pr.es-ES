@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
 ms.openlocfilehash: 83cae8951d20b071828aecfc1147d0469bcc5333
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313534"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491414"
 ---
 # <a name="how-to-purchase-education-offer"></a>Cómo comprar oferta de educación
 

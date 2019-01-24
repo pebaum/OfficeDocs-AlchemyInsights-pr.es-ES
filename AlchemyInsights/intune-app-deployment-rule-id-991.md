@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
 ms.openlocfilehash: 0db627cdda2b5598a01032de5eb0d4614184307a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313892"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491202"
 ---
 # <a name="intune-app-deployment"></a>Implementación de aplicaciones de Intune
 

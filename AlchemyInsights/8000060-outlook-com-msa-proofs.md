@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
 ms.openlocfilehash: 469a48d70dea82069a564ce87fe54ec5a961ad26
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314523"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491341"
 ---
 # <a name="security-info-and-security-codes"></a>Información de seguridad y los códigos de seguridad
 

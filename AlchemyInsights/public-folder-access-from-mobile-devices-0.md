@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 5943ac36-e093-4813-95c9-f9d9b35f2b32
 ms.openlocfilehash: a04ec80551b93714214940c24e348c918c3235a4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313945"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490803"
 ---
 # <a name="public-folder-access-from-mobile-devices"></a>Acceso a carpetas públicas desde dispositivos móviles
 

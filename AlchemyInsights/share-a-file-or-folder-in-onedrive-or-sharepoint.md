@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: b6d51993-c6dd-4721-a41f-5c4edcf7c3c7
 ms.openlocfilehash: 18dadbdbfb216522924ddadf6ff019084e3bf93d
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314031"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491017"
 ---
 # <a name="share-a-file-or-folder-in-onedrive-or-sharepoint"></a>Compartir un archivo o carpeta de OneDrive o de SharePoint
 

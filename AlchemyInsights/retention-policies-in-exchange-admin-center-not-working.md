@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
 ms.openlocfilehash: 0ceb1737040f0304bfe8b611241ce1deef487652
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313381"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491415"
 ---
  **Problema:** Recién creado o las directivas de retención actualizado en el centro de administración de Exchange no se aplican a buzones de correo o no se mueven al buzón de archivo o se eliminan elementos. 
   
@@ -30,7 +30,7 @@ ms.locfileid: "28313381"
 
 - Esto también se puede ocurrir si **RetentionHold** se ha **habilitado** en el buzón de correo. Si el buzón de correo se ha colocado en un RetentionHold, no se procesará la directiva de retención en el buzón de correo durante ese tiempo. Para obtener más información sobre la opción RetentionHold, consulte: [Suspensión de retención de buzón de correo](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
     
-    **Solución:**
+    **Solución**
     
   - Compruebe el estado de la configuración de RetentionHold en el buzón de correo específico en [EXO powershell](https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
     

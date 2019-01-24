@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e6c75434-efea-46ba-b8c6-383f7cddbc28
 ms.openlocfilehash: 7b2d0d6a976bd306f2aa121ff964cb3b6b0fa155
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314235"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491557"
 ---
 # <a name="links-in-outlookcom-dont-work-in-firefox"></a>Los vínculos en Outlook.com no funcionan en Firefox
 

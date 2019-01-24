@@ -10,13 +10,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
 ms.openlocfilehash: 2130f3fffccdc71e2777991d34ed39402142c23c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314464"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491543"
 ---
- **Opciones de pago**
+ Opciones de pago.
   
 Tarjeta de crédito, cuenta bancaria (domiciliación) y factura (mediante la verificación de pago o transferencia electrónica de fondos)
   
@@ -32,12 +32,12 @@ Si su suscripción de costos a través de una determinada cantidad de dinero (es
   
 Si paga por factura por su suscripción, obtendrá un correo electrónico que indica que está listo para ver su extracto de facturación. Este correo electrónico no contiene una copia de su extracto de facturación. Sin embargo, también puede elegir recibir [una copia de su extracto de facturación en el correo electrónico](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). La instrucción de facturación incluye detalles sobre las opciones para realizar un pago. Si escribe un número de pedido de compra al comprar una suscripción, el número aparece en su extracto de facturación. Para obtener información acerca del acceso a Estados de facturación, vea [ver su factura o factura](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide).
   
- **Cambiar la forma de pago**
+ Cambiar la forma de pago.
   
 Si desea cambiar la forma de pago para una suscripción actual, siga las instrucciones [aquí](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide).
   
  **Información adicional**
   
-[Pago de su Office 365 para suscripción empresarial](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
+[Pagar la suscripción a Office 365 para empresas](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
   
 

@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
 ms.openlocfilehash: 7b01f640b1c8d538e4209d7f905b1474b9ffabd7
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313305"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491564"
 ---
 # <a name="information-about-gdpr"></a>Obtener información acerca de GDPR
 
@@ -21,9 +21,9 @@ ms.locfileid: "28313305"
     
 - Para cualquier cosa relacionada con el **Contrato de procesamiento de datos** (DPA), revise: 
     
-  - [Recursos de protección de datos](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
+  - Recursos de protección de datos
     
-  - [Informes de auditoría](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
+  - Informes de auditoría
     
 - Información sobre **Las solicitudes de datos de asunto** (DSR) - descubrir, obtener acceso, corregir, restringir, eliminar, exportar es [aquí.](https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365)
     

@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
 ms.openlocfilehash: a4699122942b6c9f32063709426b4b6e8a61aa82
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313871"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490718"
 ---
 # <a name="anonymous-sharing"></a>Uso compartido de anónimos
 

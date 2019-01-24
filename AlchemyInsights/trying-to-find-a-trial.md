@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
 ms.openlocfilehash: 97d8c721b8cef887a965c26ef7311a23d99a3802
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314405"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491124"
 ---
 # <a name="trying-to-find-a-trial"></a>¿Intenta encontrar una versión de prueba?
 

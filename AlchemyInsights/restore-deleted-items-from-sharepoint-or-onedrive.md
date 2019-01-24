@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
 ms.openlocfilehash: a3c980565059e47a297a812cd6e2e656b36becb6
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314156"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490681"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Restaurar elementos eliminados de SharePoint o OneDrive
 

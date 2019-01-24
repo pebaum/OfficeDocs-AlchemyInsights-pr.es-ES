@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f5383fc3-d7fc-4efb-93b7-a520b374099a
 ms.openlocfilehash: 3ee77c3c4f625a6c0e7e712dbed670383847f788
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313431"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490657"
 ---
 # <a name="set-passwords-to-never-expire"></a>Conjunto de contraseñas para que no expire nunca
 

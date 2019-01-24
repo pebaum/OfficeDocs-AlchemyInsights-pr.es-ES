@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 6b5f15ba-ced9-4215-8c23-3ec1962a283a
 ms.openlocfilehash: e84ef3ad3a889bb491757775f4c1cbfcb7e7b31e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314262"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491031"
 ---
 # <a name="reduce-junk-email-in-your-inbox"></a>Reducir el correo electrónico no deseado en la Bandeja de entrada
 

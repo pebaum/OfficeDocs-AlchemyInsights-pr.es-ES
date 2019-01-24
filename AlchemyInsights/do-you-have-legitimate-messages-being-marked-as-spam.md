@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
 ms.openlocfilehash: a09e8e6201a6cca20bbc752fdf727ccad8f07eab
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313522"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491226"
 ---
 # <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>¿Dispone de mensajes legítimos se marquen como correo no deseado?
 

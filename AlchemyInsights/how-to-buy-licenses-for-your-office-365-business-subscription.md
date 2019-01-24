@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.openlocfilehash: 79106ca5562fa2d204da9dc7b470f07758f8da82
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314081"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491551"
 ---
 # <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a>Cómo comprar licencias para la suscripción de negocio de Office 365
 

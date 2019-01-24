@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
 ms.openlocfilehash: 6163e2da17fef6f71fb37cd2ac7d4c922a8f64f5
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314406"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491408"
 ---
 # <a name="office-365-urls-and-ip-address-ranges"></a>Intervalos de direcciones IP y URL de Office 365
 

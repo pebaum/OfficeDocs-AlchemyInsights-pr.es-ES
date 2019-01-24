@@ -10,11 +10,11 @@ localization_priority: Priority
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
 description: Los pasos siguientes describen cómo desinstalar Office desde un PC.
 ms.openlocfilehash: 04111e20f94d7c5c16d4e25c57f7ace9eac91d57
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314366"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490733"
 ---
 Los pasos siguientes describen cómo desinstalar Office desde un PC.
   

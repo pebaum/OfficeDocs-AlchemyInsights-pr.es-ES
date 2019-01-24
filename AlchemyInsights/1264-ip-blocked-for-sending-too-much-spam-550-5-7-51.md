@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: f7af4211-9dbe-415c-b0e3-fc20d43c3868
 ms.openlocfilehash: 44a6b5b3ee91a99b94af8fca7aef561870cf0921
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313738"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491338"
 ---
 # <a name="access-denied-banned-sender"></a>Acceso denegado, no permitidas remitente
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
 ms.openlocfilehash: 11941c07ea7185b8fe3f23b0d64d8634890fc60b
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313491"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491417"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Activación de una suscripción de licencia por volumen de Microsoft Office 365
 

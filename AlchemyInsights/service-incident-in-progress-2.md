@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e63fd594-347a-4a07-8dbd-a7074d6398bf
 ms.openlocfilehash: 26aae0254516e28b5dd18b89fb81bb4d0215558e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314349"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491027"
 ---
 # <a name="service-incident-in-progress"></a>Servicio de incidente en curso
 

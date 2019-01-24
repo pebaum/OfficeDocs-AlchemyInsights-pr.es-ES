@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
 ms.openlocfilehash: 5df0b249ad7a9e4d6ac0efd469fc20d404310a56
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314546"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490640"
 ---
 # <a name="trying-to-verify-your-domain"></a>¿Intenta comprobar el dominio?
 

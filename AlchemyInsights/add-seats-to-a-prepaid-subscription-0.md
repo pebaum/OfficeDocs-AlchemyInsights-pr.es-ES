@@ -13,11 +13,11 @@ ms.custom: Adm_O365
 ms.assetid: 4e88b66a-d1d8-4f07-be4d-de3849a6d248
 description: Inicie el artículo con una introducción muy breve (1 frase). ¿Colocar usted mismo en lugar del lector - por qué son aquí? ¿Qué debe hacer?
 ms.openlocfilehash: a55cab0383aa0a3de6c6c4a50ffd8c51e1673c44
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314540"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490895"
 ---
 Inicie el artículo con una introducción muy breve (1 frase). ¿Colocar usted mismo en lugar del lector - por qué son aquí? ¿Qué debe hacer? 
   

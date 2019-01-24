@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
 ms.openlocfilehash: 29ad4d52d8879014cc9a06bc933d5dda136e6421
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313708"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491007"
 ---
 # <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Archivos que no se puede cargar en SharePoint Online
 

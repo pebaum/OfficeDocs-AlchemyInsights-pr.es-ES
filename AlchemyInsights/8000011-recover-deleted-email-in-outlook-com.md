@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
 ms.openlocfilehash: 7da5c6d0a155ed9eccc8053d490ec5ec5de2861e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313745"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490677"
 ---
 # <a name="recover-deleted-email"></a>Correo electrónico de recuperar eliminado
 

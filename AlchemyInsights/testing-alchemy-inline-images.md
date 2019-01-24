@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 28d8036f-9df2-4dff-835b-9424bfe988a2
 ms.openlocfilehash: 9de1656e3e1fc3d64daf745eaa56e107bad82253
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313940"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490994"
 ---
 # <a name="access-the-domains-page"></a>Obtener acceso a la página de dominios
 

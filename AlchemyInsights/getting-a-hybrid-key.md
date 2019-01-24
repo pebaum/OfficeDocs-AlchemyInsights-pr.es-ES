@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
 ms.openlocfilehash: dd650c881d16b5901363190d292e7349ff17482c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313627"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491512"
 ---
 # <a name="getting-an-exchange-hybrid-key"></a>Obtención de una clave de híbrida de Exchange
 

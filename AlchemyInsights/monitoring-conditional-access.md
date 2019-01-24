@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
 ms.openlocfilehash: 06307b57475e8828e6d4e5e01625d5100576f12b
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314487"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490661"
 ---
 # <a name="monitoring-conditional-access"></a>Supervisión de acceso condicional
 

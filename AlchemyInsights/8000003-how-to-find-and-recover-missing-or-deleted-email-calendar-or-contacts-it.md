@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 8e24b096-fcbf-4d7e-a412-f6db2afad623
 ms.openlocfilehash: 5ec81b41e5a381366eb050458669435b7213f72f
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313253"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490893"
 ---
 # <a name="how-to-find-and-recover-missing-or-deleted-email-calendar-or-contacts-items"></a>Cómo buscar y recuperar los elementos de correo electrónico, calendario o contactos eliminados o que faltan
 

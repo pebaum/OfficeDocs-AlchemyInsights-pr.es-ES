@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 5190e27b-f94b-4f3c-b5b8-841e2bd7cff9
 ms.openlocfilehash: f06c366d05d781a17153159d52f756a252940ce4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314201"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491227"
 ---
 "No un dominio aceptado" error
 

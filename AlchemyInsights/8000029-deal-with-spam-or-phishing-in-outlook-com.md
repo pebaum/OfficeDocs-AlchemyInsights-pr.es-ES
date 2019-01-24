@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e03a7476-f02d-4c2c-bc55-42cad0ab8622
 ms.openlocfilehash: adb11e5bba4dc31c228b9a68919283fa370db768
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313570"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491339"
 ---
 # <a name="deal-with-spam-or-phishing-scams-in-your-inbox"></a>Abordar los problemas con las estafas de correo no deseado o suplantación de identidad en la Bandeja de entrada
 

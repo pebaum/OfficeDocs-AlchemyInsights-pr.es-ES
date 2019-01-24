@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
 ms.openlocfilehash: 3520a64bb4ce20f87d73c7c78e1d278e3614e39d
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313597"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491019"
 ---
 # <a name="adding-external-users"></a>Adición de usuarios externos
 

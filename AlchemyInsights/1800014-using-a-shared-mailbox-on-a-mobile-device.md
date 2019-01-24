@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 27d1c658-af62-4442-864c-ab6c6afa19bf
 ms.openlocfilehash: 24c81d1ba703f9e7fd5c7969ba9dfc36a1f7bfc2
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313747"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490959"
 ---
 # <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Uso de un buzón compartido en un dispositivo móvil
 

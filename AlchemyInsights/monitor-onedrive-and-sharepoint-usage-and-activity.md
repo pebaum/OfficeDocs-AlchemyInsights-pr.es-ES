@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2987a5c9-063a-4fa1-af03-951f7f1750a8
 ms.openlocfilehash: 1a6f52fa70e4f1b7e7adbc18d120fcac720d48e2
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314473"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490644"
 ---
 # <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>Ver informes sobre el uso y la actividad de OneDrive y SharePoint
 

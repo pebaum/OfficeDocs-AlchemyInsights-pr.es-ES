@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2e0be4a5-ece8-461d-a80c-202c5ede5ecf
 ms.openlocfilehash: 2565edeebd7da97d6b4c30128f88eba1927e5f03
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314486"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491326"
 ---
 # <a name="removing-the-last-on-premises-exchange-server"></a>Quitar el último servidor de Exchange local
 

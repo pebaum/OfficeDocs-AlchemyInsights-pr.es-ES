@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 11f7503b-c802-437f-bc1d-ce13bb4d9bb2
 ms.openlocfilehash: da39d4358ad97f385edc9413cad03a5c80a07132
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313293"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490760"
 ---
 # <a name="how-to-verify-your-domain-with-office-365"></a>Cómo comprobar el dominio con Office 365
 

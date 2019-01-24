@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 190898bc-9644-480e-b535-25284aa09729
 ms.openlocfilehash: e2a675004b0ff8d35cfa679cda3720c30be0adfa
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313342"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491210"
 ---
 # <a name="sending-email-as-the-shared-mailbox"></a>Envío de correo electrónico como el buzón compartido
 

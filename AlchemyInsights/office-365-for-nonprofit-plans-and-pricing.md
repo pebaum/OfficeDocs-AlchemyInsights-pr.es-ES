@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
 ms.openlocfilehash: c497b63381c32e8707c4d1565bdd4ae8fa253cd1
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314465"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490656"
 ---
 # <a name="office-365-for-nonprofit-plans-and-pricing"></a>Office 365 para planes de lucro y precios
 

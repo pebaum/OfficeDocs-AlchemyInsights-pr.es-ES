@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 5d32afde-47ab-4b1e-a669-662e5dbdc213
 ms.openlocfilehash: 6f52183b7f0096b52a9967743551613c1b4e29d3
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313568"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491105"
 ---
 # <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a>Solución de problemas con la inscripción de la característica DEP en Intune de Microsoft
 

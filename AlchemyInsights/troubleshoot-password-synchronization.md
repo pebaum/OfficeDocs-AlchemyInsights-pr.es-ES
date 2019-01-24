@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
 ms.openlocfilehash: c71fce8621057093d23891c26f7b0285fdc8b9ed
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314121"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491126"
 ---
 # <a name="troubleshoot-password-synchronization"></a>Solucionar problemas de sincronización de contraseña
 

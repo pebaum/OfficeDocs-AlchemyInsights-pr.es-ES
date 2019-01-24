@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
 ms.openlocfilehash: 05b2165477de270d4062773582b530abb63336a9
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314001"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490727"
 ---
 [Licencias necesarias para Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   

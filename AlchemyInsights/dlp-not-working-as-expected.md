@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
 ms.openlocfilehash: eab000e0a850c522ede5f51ae46ba11b87ba4732
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313633"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490779"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP no funciona como se esperaba
 
@@ -36,7 +36,7 @@ Cuando se usan los **tipos de información confidencial integrados** en el centr
     
     Si está intentando crear tipos de información confidencial personalizado, use el siguiente artículo para obtener información acerca de cómo crear un tipo personalizado confidencial: [crear un tipo de información confidencial personalizada](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type).
     
- **Informes:**
+ **Informes**
   
 - Obtenga conocimientos de los datos confidenciales con [informes de DLP.](https://docs.microsoft.com/en-us/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
     

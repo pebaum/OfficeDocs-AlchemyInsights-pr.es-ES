@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: f01362e1-17da-4528-b116-9b3240dd3f15
 ms.openlocfilehash: c8037f4ab43b37f7340b3d7fa315ba1296adf5d2
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313592"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490910"
 ---
 # <a name="focused-inbox-in-outlook"></a>Bandeja de entrada centrado en Outlook
 

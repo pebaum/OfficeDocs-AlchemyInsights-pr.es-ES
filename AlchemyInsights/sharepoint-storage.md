@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
 ms.openlocfilehash: 73fa6a6afa271c173a008845b45ff5fa31c6d9a7
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314395"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491701"
 ---
 # <a name="manage-your-sharepoint-online-storage"></a>Administrar el almacenamiento de SharePoint Online
 

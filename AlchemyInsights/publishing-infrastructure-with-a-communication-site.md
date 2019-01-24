@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
 ms.openlocfilehash: 9cdb6226d61ec8258c96d422e14762523064bb53
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314350"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490695"
 ---
 # <a name="publishing-infrastructure-with-a-communication-site"></a>Infraestructura de publicación con un sitio de comunicación
 

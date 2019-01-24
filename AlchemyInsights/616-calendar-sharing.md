@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
 ms.openlocfilehash: d8cefa95ccccb4a3b7c3560bb939e268c60ed9de
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313323"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490949"
 ---
 # <a name="calendar-sharing"></a>Uso compartido de calendarios
 

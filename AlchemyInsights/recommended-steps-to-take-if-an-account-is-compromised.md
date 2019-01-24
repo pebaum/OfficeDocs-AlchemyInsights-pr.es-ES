@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 32da2272-cfdd-4d47-91da-9258167b67d8
 ms.openlocfilehash: 36574f7c63308ff75f850cf3dcc1b018c86fcd97
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314096"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491619"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Pasos recomendados que se realizarán si una cuenta se ve comprometida
 

@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ddc083c7-d01f-4f97-a232-5eafe8abddce
 ms.openlocfilehash: 2033fdd2b3cfbb9dd3da0ac5666366ee28a9d6f9
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313285"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490665"
 ---
 # <a name="disable-access-to-yammer"></a>Deshabilitar el acceso a Yammer
 

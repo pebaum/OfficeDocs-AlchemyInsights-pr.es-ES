@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
 ms.openlocfilehash: 75f10db95224f6f29cbeb186fd082410ff562d43
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314282"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491000"
 ---
 # <a name="assign-or-remove-users-licenses"></a>Asignar o quitar las licencias de los usuarios
 

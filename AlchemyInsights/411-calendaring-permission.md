@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 9cf95572-4741-47d4-8770-544648ecb905
 ms.openlocfilehash: cd2a25375b80a7effa3860814ab4383e4b367bc3
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313621"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491507"
 ---
 # <a name="calendar-permissions"></a>Permisos del calendario
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 916ccbdb-439b-4cf8-a0d2-258c8c8b1130
 ms.openlocfilehash: aac45ef26514becc1f0897ea649bcf6f44d05b3c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313760"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490894"
 ---
 # <a name="importing-and-exporting-calendars"></a>Importar y exportar calendarios
 

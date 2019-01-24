@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
 ms.openlocfilehash: 65c128f35df820e139370bf58c6a1c96e476353f
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313825"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490676"
 ---
 # <a name="change-payment-method"></a>Cambiar el método de pago
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
 ms.openlocfilehash: 153c063fc9deb037de704d4936057d7bb00182e7
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314524"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491514"
 ---
 # <a name="canceling-your-office-365-subscription"></a>¿Cancelar la suscripción de Office 365?
 

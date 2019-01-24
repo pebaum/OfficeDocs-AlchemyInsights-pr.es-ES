@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 361f5405-ac43-46f6-b1b9-5d91f61617ec
 ms.openlocfilehash: d7832903ee1aae07871efc4f55eb1d8b58c0d780
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313368"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491579"
 ---
 # <a name="different-types-of-shared-calendars-and-how-to-set-them-up"></a>Diferentes tipos de calendarios compartidos y cómo configurarlas
 

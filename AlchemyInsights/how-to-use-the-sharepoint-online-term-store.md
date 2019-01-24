@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
 ms.openlocfilehash: 1c83529e5be6cc6055c528b6723f7d09d19a269f
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314102"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491221"
 ---
 # <a name="how-to-use-the-sharepoint-online-term-store"></a>Cómo usar el almacén de términos de SharePoint Online
 

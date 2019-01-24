@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 1fb88cca-5dd4-4167-8783-13646082cfa0
 ms.openlocfilehash: c339b2a46b866a709c8d5570347e9eb0c7d698e5
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313450"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490754"
 ---
 # <a name="repeated-login-to-open-vtirpc"></a>Inicio de sesión repetida para abrir _vti_rpc
 

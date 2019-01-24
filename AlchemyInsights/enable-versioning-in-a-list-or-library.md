@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.openlocfilehash: 6128e22ec01a9f202922a1108e767b25f1a636b4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313726"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491618"
 ---
 # <a name="enable-versioning-for-a-list-or-library"></a>Habilitar el control de versiones para una lista o biblioteca
 

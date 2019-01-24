@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685
 ms.openlocfilehash: 8c7b8f416e5a263ea5adbb0241169a9ee501ccfa
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313519"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491201"
 ---
 # <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Me gustaría agradecer a Regístrese para equipos gratuitos, pero no.
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 17ae8882b5a9d84d16dbe64c245d64ea7738cbd4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313762"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491576"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Agregar puestos a una suscripción de prepago
 

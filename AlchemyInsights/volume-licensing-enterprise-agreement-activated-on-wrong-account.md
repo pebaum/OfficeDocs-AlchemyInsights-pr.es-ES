@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
 ms.openlocfilehash: 024ee853d7752420ccd9d12d7762d9a578f28b60
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313505"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490813"
 ---
 # <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a>Un contrato enterprise activado en la cuenta errónea de licencias por volumen
 

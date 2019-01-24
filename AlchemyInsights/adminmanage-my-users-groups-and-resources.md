@@ -11,11 +11,11 @@ localization_priority: Priority
 ms.assetid: 21dfcf5e-223c-4379-b832-ea35afe81cd7
 description: Inicie el artículo con una introducción muy breve (1 frase). ¿Colocar usted mismo en lugar del lector - por qué son aquí? ¿Qué debe hacer?
 ms.openlocfilehash: 8271e53144341ad68665588b2ec53f0763669aef
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314391"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491053"
 ---
 Inicie el artículo con una introducción muy breve (1 frase). ¿Colocar usted mismo en lugar del lector - por qué son aquí? ¿Qué debe hacer? 
   

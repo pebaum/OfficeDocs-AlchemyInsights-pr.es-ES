@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2c03462c-8a6a-4042-a6fd-cd9e009b8a3f
 ms.openlocfilehash: b5571a734e267d69173e81b8f79863d656842853
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313668"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491233"
 ---
 # <a name="solutions-for-error-30088-4"></a>Soluciones para el error 30088-4
 

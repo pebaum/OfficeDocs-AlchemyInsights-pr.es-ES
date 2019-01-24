@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: cbf9ca67-56ff-4455-aa2d-30b39f883ddb
 ms.openlocfilehash: 6ccbb205dfe3ac0ecf175ac77973f04f09f3f5e4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313970"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490648"
 ---
 # <a name="delete-a-communication-site"></a>Eliminar un sitio de comunicación
 

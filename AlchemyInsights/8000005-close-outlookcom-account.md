@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ef3475a8-e898-44d8-ae1d-82cdbf4454e8
 ms.openlocfilehash: e36e35c39f10e88b022ab26ed88dfa26ba6c43dc
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313962"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490688"
 ---
 # <a name="close-your-outlookcom-email-account"></a>Cerrar la cuenta de correo electrónico Outlook.com
 

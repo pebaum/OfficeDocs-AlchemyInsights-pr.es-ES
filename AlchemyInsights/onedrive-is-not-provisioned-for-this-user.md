@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ad61fdc7-f3b8-46f9-817a-49c6ae2425e2
 ms.openlocfilehash: 31cf8d3c230e1118b40d6a832ad60acf6487812f
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313857"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491600"
 ---
 # <a name="onedrive-is-not-provisioned-for-this-user"></a>OneDrive no está configurado para este usuario
 

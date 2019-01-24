@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
 ms.openlocfilehash: ab4b71da7d36496987ebea21c596b418dd81c3a5
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314520"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491167"
 ---
 errores de"
 

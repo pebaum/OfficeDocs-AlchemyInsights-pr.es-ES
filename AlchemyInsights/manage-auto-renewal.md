@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
 ms.openlocfilehash: 34776ceece7800fdd22e3ed69e6f37207481224e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314225"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491560"
 ---
 # <a name="manage-recurring-billing"></a>Administrar la facturación periódica
 

@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
 ms.openlocfilehash: 63f76b963f6a9a2664de20a08e06b5f5765bd241
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313314"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490642"
 ---
 # <a name="sharepoint-online-throttling"></a>SharePoint Online limitación
 

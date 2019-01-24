@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
 ms.openlocfilehash: f26d72af2eb985b2781209f38de37c24e30bfa7e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313652"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491026"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Cómo buscar y recuperar los mensajes que faltan, contactos o elementos de calendario en Outlook
 

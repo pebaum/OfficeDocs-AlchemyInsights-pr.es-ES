@@ -10,11 +10,11 @@ localization_priority: Priority
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
 description: No más de 500 palabras para un artículo de destino.
 ms.openlocfilehash: 39063a124aa2d4297f9be404253496eafaf1529d
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313840"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491024"
 ---
 No más de 500 palabras para un artículo de destino.
   

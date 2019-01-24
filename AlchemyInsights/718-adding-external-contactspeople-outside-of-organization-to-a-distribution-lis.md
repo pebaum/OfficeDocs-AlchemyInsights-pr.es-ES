@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
 ms.openlocfilehash: 3aaafac16f39c61d074a488f373329893e0485a8
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313466"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490796"
 ---
 # <a name="add-external-email-addresses-to-a-distribution-group"></a>Agregar direcciones de correo electrónico externa a un grupo de distribución
 

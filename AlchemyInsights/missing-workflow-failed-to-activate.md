@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
 ms.openlocfilehash: 33b92c2cae1f641b0cd88c82fd4ae5e8632d76c2
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314407"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490655"
 ---
 # <a name="missing-workflow-failed-to-activate"></a>Falta el flujo de trabajo no se pudo activar
 

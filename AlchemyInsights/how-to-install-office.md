@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.openlocfilehash: 35479ea33d6a235faf1e28fbc6568a6990f4e676
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313963"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490680"
 ---
 # <a name="how-to-install-office"></a>Cómo instalar Office
 
