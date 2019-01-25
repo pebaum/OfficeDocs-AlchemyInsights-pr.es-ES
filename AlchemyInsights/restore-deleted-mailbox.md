@@ -15,11 +15,11 @@ search.appverid:
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
 ms.openlocfilehash: 62c85c6207b618a4be267ed3b4b65b56c48b3646
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314365"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490911"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Restaurar un buzón de correo eliminado
 

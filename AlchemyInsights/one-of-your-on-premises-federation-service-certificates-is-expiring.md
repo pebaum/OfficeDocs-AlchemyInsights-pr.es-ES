@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 172084b7-68a1-42a5-944d-2e871eaa2972
 ms.openlocfilehash: 89a4dd910d43d70e849be19d5f88e281f6d19834
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313471"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490932"
 ---
 # <a name="one-of-your-on-premises-federation-service-certificates-is-expiring"></a>Uno de los certificados de servicio de federación local va a expirar
 

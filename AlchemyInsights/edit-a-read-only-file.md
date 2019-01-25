@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
 ms.openlocfilehash: 7d53412e880f2ed7b4bf45ac3525597f3522c791
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314390"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491629"
 ---
 # <a name="edit-a-read-only-file"></a>Editar un archivo de solo lectura
 

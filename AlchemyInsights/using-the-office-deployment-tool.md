@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
 ms.openlocfilehash: b4ade0f21794a8986aa7a37d783da5fa289488fc
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314143"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490923"
 ---
 # <a name="using-the-office-deployment-tool-odt"></a>Using the Office Deployment Tool (ODT)
 

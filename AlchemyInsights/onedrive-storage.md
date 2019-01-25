@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
 ms.openlocfilehash: 403504f9ae7079f93811234bf00c54b3f2369fd0
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314521"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491630"
 ---
 # <a name="manage-your-onedrive-storage"></a>Administrar el almacenamiento de OneDrive
 

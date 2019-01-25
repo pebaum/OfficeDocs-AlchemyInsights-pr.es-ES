@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
 ms.openlocfilehash: 78da2850c73c11a5b83dd2c696c8d46f1b2f236a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313961"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29497851"
 ---
 # <a name="price-doesnt-look-correct"></a>¿Precio no tiene el aspecto correcto?
 

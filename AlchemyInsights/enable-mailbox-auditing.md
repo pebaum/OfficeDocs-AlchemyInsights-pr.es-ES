@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
 ms.openlocfilehash: bd94ec10f9df2e72ec6e3d8552d2eb80212a9d78
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313291"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29500299"
 ---
 # <a name="enable-mailbox-auditing"></a>Habilitar la auditoría de buzones de correo
 
