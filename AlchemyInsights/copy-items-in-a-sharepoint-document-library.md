@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
 ms.openlocfilehash: cd0647aabfd8e3783b1320ced1c2244098eb0257
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314403"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491655"
 ---
 # <a name="copy-items-in-a-sharepoint-document-library"></a>Copiar elementos en una biblioteca de documentos de SharePoint
 
@@ -35,6 +35,6 @@ ms.locfileid: "28314403"
 3. Haga clic en **Copiar aquí**.
     
 > [!NOTE]
->  Puede copiar hasta 500 MB de archivos y carpetas a la vez. > Cuando use **Copiar a** con documentos que tienen el historial de versiones, se copia sólo la versión más reciente. 
+>  Puede copiar hasta 500 MB de archivos y carpetas a la vez. se copia > cuando usa **copia a** con documentos que tienen el historial de versiones, sólo la versión más reciente. 
   
 

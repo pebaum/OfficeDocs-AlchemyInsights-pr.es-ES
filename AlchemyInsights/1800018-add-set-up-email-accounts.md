@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
 ms.openlocfilehash: 4c42c2b3a51fc656d949fd7468b63b4c66bdfa13
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314305"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490939"
 ---
 # <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a>Problemas de configuración de una cuenta de correo electrónico de Exchange en Outlook
 

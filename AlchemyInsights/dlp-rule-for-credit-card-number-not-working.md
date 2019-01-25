@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
 ms.openlocfilehash: a56f32b54e6cb32fa044d26d08868bac8c368de5
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313587"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491633"
 ---
 ¿Tiene problemas con la **Prevención de pérdida de datos (DLP)** no funciona para el contenido que contiene un **Número de tarjeta de crédito** cuando se utiliza un tipo de información confidencial de DLP en Office 365? Si es así, asegúrese de que el contenido contiene la información necesaria para desencadenar la cuando se evalúa la directiva de DLP. Por ejemplo, para una **tarjeta de crédito directiva** configurada con un nivel de confianza de 85%, el siguiente se evalúa y debe detectarse para que desencadenan la regla: 
   
@@ -32,11 +32,11 @@ ms.locfileid: "28313587"
     
   - Se encuentra una palabra clave de Keyword_cc_verification.
     
-  - Se encuentra una palabra clave de Keyword_cc_name
+  - Se encuentra una palabra clave de Keyword_cc_name.
     
   - La función Func_expiration_date encuentra una fecha en el formato de fecha correcto.
     
-  - Pasa de la suma de comprobación
+  - Se supera la suma de comprobación.
     
     Por ejemplo, en el ejemplo siguiente sería desencadenar para una directiva de número de tarjeta de crédito de DLP:
     
