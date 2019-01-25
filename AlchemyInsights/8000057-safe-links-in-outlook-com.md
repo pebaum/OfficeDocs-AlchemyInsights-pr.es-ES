@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2334f60b-c26a-47e3-b084-351648959343
 ms.openlocfilehash: eb9ca1ca9340f80a36b87ea99f2f988f8707bd28
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314006"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29500263"
 ---
 # <a name="disabling-advanced-outlookcom-security"></a>Al deshabilitar la seguridad avanzada de Outlook.com
 

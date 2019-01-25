@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
 ms.openlocfilehash: 1b74656713f4521b083490b585941aeba3abc89c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313670"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29498463"
 ---
 # <a name="check-aad-identity-sync-status"></a>Comprobar el estado de la sincronización de identidad AAD
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
 ms.openlocfilehash: 0959b2ce44fc80fdaf558566a0e7b77598a25db8
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313934"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29498751"
 ---
 # <a name="fix-a-flow-that-failed"></a>Corregir un flujo con errores
 

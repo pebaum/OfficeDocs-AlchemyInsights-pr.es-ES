@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 712afc25-b9db-4f55-bf79-9f4e5861ab9f
 ms.openlocfilehash: 9b1d02df877c9a8e794b4ed4b67a8f2f7e09306a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314476"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29499579"
 ---
 # <a name="the-open-with-explorer-button-is-missing"></a>Falta el abrir con el botón del explorador
 

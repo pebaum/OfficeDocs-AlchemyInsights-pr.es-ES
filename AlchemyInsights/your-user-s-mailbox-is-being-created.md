@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.openlocfilehash: 17755e7a1045225738d8896721e52209c7b2ce5d
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313916"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29499327"
 ---
 # <a name="your-users-mailbox-is-being-created"></a>Se está creando su buzón de correo de los usuarios
 

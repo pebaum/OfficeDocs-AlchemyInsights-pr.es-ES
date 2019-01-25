@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
 ms.openlocfilehash: 595daea6039693b0378579366026ca3b8aa7a393
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313870"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491638"
 ---
 # <a name="managed-metadata-service-error-message"></a>Mensaje de error de Metadata Service administrado
 

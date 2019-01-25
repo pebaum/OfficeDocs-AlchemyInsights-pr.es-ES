@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 69705825-723a-4c1e-ae85-d16b5051d2fe
 ms.openlocfilehash: 45078e83f86f34386a7a2a2c0409f225122a598d
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313543"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490880"
 ---
 # <a name="file-open-read-only"></a>Abre el archivo como de solo lectura
 
