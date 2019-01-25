@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 20d69377-5244-4775-a489-acb0f838f095
 ms.openlocfilehash: 885ede6b17f7562b1694897e7b5e39ead0da8bff
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313827"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29500695"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>¿Obtención de un error de TenantAccessBlockedException al obtener acceso a correo electrónico?
 

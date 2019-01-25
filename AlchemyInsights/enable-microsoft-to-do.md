@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
 ms.openlocfilehash: 598b91346a417f1cff2057342f212c7a4f2993ac
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314134"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29499147"
 ---
 # <a name="how-to-enable-microsoft-to-do"></a>Cómo habilitar Microsoft To-Do
 

@@ -13,11 +13,11 @@ ms.custom: Adm_O365
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
 description: No más de 500 palabras para un artículo de destino.
 ms.openlocfilehash: 001833aeec5e8f6783aaa68c45406d43aba752fb
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314126"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29498175"
 ---
 No más de 500 palabras para un artículo de destino.
   

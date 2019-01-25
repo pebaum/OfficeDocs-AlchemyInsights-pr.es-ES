@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
 ms.openlocfilehash: 5a1cdeefa4474e8ce0e6a7a37be016cc87b9791d
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313776"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29498031"
 ---
 # <a name="give-users-access-to-sharepoint-and-onedrive"></a>Conceder a los usuarios acceso a SharePoint y OneDrive
 

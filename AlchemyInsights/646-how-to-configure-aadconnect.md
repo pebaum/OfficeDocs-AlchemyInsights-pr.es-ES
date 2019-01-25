@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
 ms.openlocfilehash: e4ba295cd0661c3454180dd6a15895123840389e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313514"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29499687"
 ---
 # <a name="configure-sync-features"></a>Configurar las características de sincronización
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
 ms.openlocfilehash: 0668c269841f6f6237023d11bc70186e4d2fab50
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313575"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29498643"
 ---
 # <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Diagnosticar y resolver problemas de conectividad de Outlook
 

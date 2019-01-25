@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
 ms.openlocfilehash: 43a12ea8c5007d77cc82b0a4f8678a1533f74a55
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313270"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491616"
 ---
 # <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Solucionar problemas de inscripción de dispositivos de Mac OS en Intune de Microsoft
 

@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 52347c04-c0fd-4d54-9251-1d1ce79f8405
 ms.openlocfilehash: 29aecd5146b4d15695fd0ed721bf84a4f2a5c6ee
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313517"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491645"
 ---
 # <a name="how-to-activate-office"></a>Procedimiento para activar Office
 

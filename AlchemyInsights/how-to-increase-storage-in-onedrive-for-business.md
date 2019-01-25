@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
 ms.openlocfilehash: b15b365d243d5a632c9bb32f6cee5bc391d6c1b3
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314191"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29499831"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>Cómo aumentar la capacidad de almacenamiento en OneDrive para la empresa
 

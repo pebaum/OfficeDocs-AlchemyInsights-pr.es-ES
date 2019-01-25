@@ -11,11 +11,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 9b23cfd7-bff8-4f86-bd94-e5fa07f6939f
 ms.openlocfilehash: 2b59ee8bfdc73899cd695b9fad0f05750e74af62
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313797"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29500335"
 ---
 # <a name="issues-with-microsoft-bookings"></a>Problemas con las reservas de Microsoft
 

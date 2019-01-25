@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
 ms.openlocfilehash: 931f8a4cd52f6fd18332fdb6a8de6a4c9c399461
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313936"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29498859"
 ---
 # <a name="create-distribution-groups"></a>Crear grupos de distribución
 

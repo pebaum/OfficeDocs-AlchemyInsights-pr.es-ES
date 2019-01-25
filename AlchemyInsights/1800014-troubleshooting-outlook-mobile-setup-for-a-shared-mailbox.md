@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 598e6a5b-daca-45b8-a1e4-99ce018aa64c
 ms.openlocfilehash: 01da13dc49720740223cc00d8c426d6a898f42dc
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314307"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29500119"
 ---
 # <a name="troubleshooting-outlook-mobile-setup-for-a-shared-mailbox"></a>Solución de problemas de configuración de Outlook mobile para un buzón compartido
 
