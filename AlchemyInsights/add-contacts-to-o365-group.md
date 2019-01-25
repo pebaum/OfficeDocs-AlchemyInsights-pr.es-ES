@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: da91c64f-dce0-4a06-baf2-f19dcfe8716b
 ms.openlocfilehash: ec1ff2d87dffec8bc4408aef18212d91a94c05d2
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28314017"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490882"
 ---
 # <a name="add-contacts-to-an-office-365-group"></a>Agregar contactos a un grupo de Office 365
 
