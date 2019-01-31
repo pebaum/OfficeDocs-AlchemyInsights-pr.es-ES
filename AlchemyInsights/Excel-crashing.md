@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba48253-6088-4c95-94d8-815753c46c4c
-ms.openlocfilehash: bf14d397b3d678e2ee17c85372dde64dd3273f9a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f1e83d9a3f4927bc711dadd0bd32d6d847140f30
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491580"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661443"
 ---
 Bloqueos frecuentes en Excel pueden deberse a un complemento con errores. Puede deshabilitar un complemento de Excel, siga estas instrucciones:
   
@@ -31,7 +31,7 @@ Si sigue teniendo problemas, consulte los siguientes artículos:
   
 - [Recibo un error "trabajar detenido" al iniciar Office 2016 o aplicaciones de 2013 en Mi PC](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
     
-- [Cómo solucionar problemas de bloqueos y no responde con Excel](https://support.microsoft.com/en-us/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
+- [Cómo solucionar problemas de bloqueos y no responde con Excel](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
     
 - [Excel no responde, se bloquea, se bloquea o deja de funcionar](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
     

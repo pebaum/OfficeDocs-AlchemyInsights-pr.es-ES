@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
-ms.openlocfilehash: 13e840e5ed413359ba32498fd6e7a2f6312c1e85
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 03c8a26d66eef67009ab0230ab4ede25fa0a3817
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491113"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29659896"
 ---
 # <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Solucionar problemas relacionados con opciones de inscripción de Microsoft Intune
 
 Revise los recursos enumerados a continuación para resolver el problema ahora. 
   
-- [Revisión Intune TechNet para buscar respuestas y soluciones para problemas comunes](https://social.technet.microsoft.com/Forums/en-US/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
+- [Revisión Intune TechNet para buscar respuestas y soluciones para problemas comunes](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
     
-- Usar [Intune Portal de solución de problemas](https://aka.ms/intunetroubleshooting) para diagnosticar y resolver los errores comunes de inscripción. Revise [este documento](https://docs.microsoft.com/en-us/intune/help-desk-operators) para obtener más detalles. 
+- Usar [Intune Portal de solución de problemas](https://aka.ms/intunetroubleshooting) para diagnosticar y resolver los errores comunes de inscripción. Revise [este documento](https://docs.microsoft.com/intune/help-desk-operators) para obtener más detalles. 
     
-- Revise [este documento](https://docs.microsoft.com/en-us/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) para obtener una lista de errores comunes que impiden la inscripción y resoluciones a cada uno. 
+- Revise [este documento](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) para obtener una lista de errores comunes que impiden la inscripción y resoluciones a cada uno. 
     
-- [Obtenga información sobre las opciones de inscripción de Microsoft Intune](https://docs.microsoft.com/en-us/intune/enrollment-options).
+- [Obtenga información sobre las opciones de inscripción de Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
     
 

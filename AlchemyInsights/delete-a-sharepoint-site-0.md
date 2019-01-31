@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 1aebfdf0e330fa12b481dad9cfaea9cbac39604a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: baf55ea91d12e274140f2e56160d6c73336ac707
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491392"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646400"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Eliminación de sitios que pertenecen a un grupo de Office 365:
 
@@ -30,7 +30,7 @@ Cuando los usuarios crear un nuevo sitio de grupo desde la página principal de 
     
 Nota: Cuando se elimina un grupo, puede haber un retraso antes de quita el sitio de SharePoint.
   
-## <a name="delete-communication-sites-or-classic-sites"></a>Eliminar sitios de comunicación o clásico:
+**Eliminar sitios de comunicación o clásico:**
 
 1. Vaya al sitio.
   
@@ -38,7 +38,7 @@ Nota: Cuando se elimina un grupo, puede haber un retraso antes de quita el sitio
   
 3. Haga clic en **Configuración del sitio**. Bajo **Información de sitio** o **Acciones del sitio**, haga clic en **Eliminar este sitio**y, a continuación, haga clic en **Eliminar**.
   
-## <a name="delete-a-sharepoint-site-collection"></a>Eliminar una colección de sitios de SharePoint:
+**Eliminar una colección de sitios de SharePoint:**
 
 Para eliminar una colección de sitios clásico:
   
@@ -46,7 +46,7 @@ Para eliminar una colección de sitios clásico:
     
 2. En la ficha de colecciones de sitios, seleccione **Eliminar.**
     
-## <a name="deleted-a-site-by-accident"></a>¿Eliminar un sitio por accidente?
+**¿Eliminar un sitio por accidente?**
 
 Vea [restaurar una colección de sitios eliminada](https://go.microsoft.com/fwlink/?linkid=867660).
   

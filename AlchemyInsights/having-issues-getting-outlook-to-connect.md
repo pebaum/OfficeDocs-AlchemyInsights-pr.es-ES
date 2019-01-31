@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: b812e53a-d519-4f3e-8438-4115a8e8e906
-ms.openlocfilehash: 869d0bd017753daad6a113b6911d2dcb8cb3cb05
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: db50898f1485a5fb3bc5b19e7e2fcbe20fdfd17d
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491056"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660292"
 ---
 # <a name="having-issues-getting-outlook-to-connect"></a>¿Problemas de obtención de Outlook para conectarse?
 
@@ -21,7 +21,7 @@ Hemos detectado que Outlook no está configurado para que funcione correctamente
   
 {HealthCheckString}
   
-Los registros NS o CNAME de la configuración de dominio (DNS) no correctamente el programa de instalación. Puede hacer referencia a los [registros de actualización de DNS en Office 365](https://support.office.com/article/https://support.office.com/en-us/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) para obtener instrucciones detalladas. 
+Los registros NS o CNAME de la configuración de dominio (DNS) no correctamente el programa de instalación. Puede hacer referencia a los [registros de actualización de DNS en Office 365](https://support.office.com/article/https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) para obtener instrucciones detalladas. 
   
 Para corregir esto, vaya a la página de [dominios](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/Domains) en el centro de administración de Office 365 y le ayudaremos a con él. 
   

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 0b375c3054d6ebd8638b167770fb73f12c7e95ef
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d85a9e37e30bf83b8990247c4a7d529b4d9ff305
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490804"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29656476"
 ---
 # <a name="user-profile-and-photo-synchronization"></a>Sincronización de perfiles de usuario y la foto
 
@@ -25,6 +25,6 @@ Para obtener más información sobre el proceso de sincronización de fotos, vea
   
 Para obtener más información sobre el proceso de sincronización de perfiles, vea [información sobre la sincronización de perfiles de usuario en SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022639)
     
-- **Actualizar perfil en Office profundizar** - Delve a los usuarios pueden administrar su perfil de Office 365. Para obtener más información, vea [Ver y actualizar su perfil en Office profundizar](https://support.office.com/en-us/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
+- **Actualizar perfil en Office profundizar** - Delve a los usuarios pueden administrar su perfil de Office 365. Para obtener más información, vea [Ver y actualizar su perfil en Office profundizar](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
     
 

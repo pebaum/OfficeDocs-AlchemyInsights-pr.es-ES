@@ -8,27 +8,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: d1834674b7f36c94dda5629c0a3263c0eec721cf
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3871e2eed2e321e0df72fe3578a14ddd45ed8565
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490810"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660544"
 ---
 # <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Contenido no aparece en los resultados de búsqueda de SharePoint
 
 Siga estos pasos para solucionar problemas cuando el contenido esperado no aparece en los resultados de búsqueda:
   
-1. Comprobar que se ha establecido el **sitio** que contiene el contenido esperado para permitir que el contenido aparezca en los resultados de búsqueda. Siga los pasos de [Mostrar el contenido en un sitio en los resultados de búsqueda](https://docs.microsoft.com/en-us/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results).
+1. Comprobar que se ha establecido el **sitio** que contiene el contenido esperado para permitir que el contenido aparezca en los resultados de búsqueda. Siga los pasos de [Mostrar el contenido en un sitio en los resultados de búsqueda](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results).
     
-2. Compruebe que la **lista** o **biblioteca** que contiene el contenido esperado está establecido en permitir que el contenido aparezca en los resultados de búsqueda. Siga los pasos de [Mostrar el contenido de listas o bibliotecas en los resultados de búsqueda](https://docs.microsoft.com/en-us/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results). 
+2. Compruebe que la **lista** o **biblioteca** que contiene el contenido esperado está establecido en permitir que el contenido aparezca en los resultados de búsqueda. Siga los pasos de [Mostrar el contenido de listas o bibliotecas en los resultados de búsqueda](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results). 
     
 3. Compruebe que la página, un documento o un diseño de página personalizado se publica como un **versión principal.** Siga el paso 3 en [la búsqueda no devuelve todos los resultados en SharePoint Online](https://go.microsoft.com/fwlink/?linkid=874525).
     
 4. Compruebe que el usuario tiene **permisos** para ver el contenido. Siga los pasos descritos en [los niveles de permisos de descripción en SharePoint](https://go.microsoft.com/fwlink/?linkid=867071).
     
-5. **Volver a indizar** el contenido siguiendo los pasos descritos en [solicitar manualmente el rastreo y volver a indizar un sitio, una biblioteca o una lista](https://docs.microsoft.com/en-us/sharepoint/crawl-site-content). Esto podría tardar unos momentos, espere 24 horas antes de comprobar los resultados de nuevo.
+5. **Volver a indizar** el contenido siguiendo los pasos descritos en [solicitar manualmente el rastreo y volver a indizar un sitio, una biblioteca o una lista](https://docs.microsoft.com/sharepoint/crawl-site-content). Esto podría tardar unos momentos, espere 24 horas antes de comprobar los resultados de nuevo.
     
-Para obtener más información, vea [Habilitar el contenido en un sitio para que pueda buscarse](https://docs.microsoft.com/en-us/sharepoint/make-site-content-searchable). 
+Para obtener más información, vea [Habilitar el contenido en un sitio para que pueda buscarse](https://docs.microsoft.com/sharepoint/make-site-content-searchable). 
   
 
