@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 69705825-723a-4c1e-ae85-d16b5051d2fe
-ms.openlocfilehash: 45078e83f86f34386a7a2a2c0409f225122a598d
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4621e4541c5453c76dbbe968b492b9bd19316d94
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490880"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660868"
 ---
 # <a name="file-open-read-only"></a>Abre el archivo como de solo lectura
 
@@ -30,7 +30,7 @@ Puede comprobar las propiedades de archivo, el botón secundario en el archivo y
   
  **El contenido está en Vista protegida**
   
-Archivos de Internet y de otras ubicaciones potencialmente no seguras pueden contener virus, gusanos u otros tipos de malware que pueden dañar el equipo. Esto también es normalmente el caso de los datos adjuntos de correo electrónico o los archivos que ha descargado. Para ayudar a proteger el equipo, los archivos de estas ubicaciones potencialmente no seguras se abren en Vista protegida. Mediante el uso de la vista protegida, puede leer un archivo y ver su contenido al tiempo que reduce los riesgos. Para obtener más información sobre la vista protegidos y cómo cambiar la configuración, vea este artículo: [¿Qué es la vista protegida?](https://support.office.com/en-us/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Archivos de Internet y de otras ubicaciones potencialmente no seguras pueden contener virus, gusanos u otros tipos de malware que pueden dañar el equipo. Esto también es normalmente el caso de los datos adjuntos de correo electrónico o los archivos que ha descargado. Para ayudar a proteger el equipo, los archivos de estas ubicaciones potencialmente no seguras se abren en Vista protegida. Mediante el uso de la vista protegida, puede leer un archivo y ver su contenido al tiempo que reduce los riesgos. Para obtener más información sobre la vista protegidos y cómo cambiar la configuración, vea este artículo: [¿Qué es la vista protegida?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **¿Está lleno OneDrive?**
   
@@ -38,7 +38,7 @@ Si el archivo se almacena en OneDrive y su espacio de almacenamiento de OneDrive
   
  **¿Se activa Office?**
   
-Si Office no está activada, o si su suscripción ha caducado, podría ser de solo lectura el modo de funcionalidad reducida. Para obtener información acerca de cómo activar Office, consulte: [errores de activación de Office y productos sin licencia](https://support.office.com/en-us/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Si Office no está activada, o si su suscripción ha caducado, podría ser de solo lectura el modo de funcionalidad reducida. Para obtener información acerca de cómo activar Office, consulte: [errores de activación de Office y productos sin licencia](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **Si se produce un error en todo lo demás...**
   

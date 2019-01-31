@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 9e2a369f4b1bf87da8b12224b5f6e8b1138db9dd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
+ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454231"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662947"
 ---
 # <a name="required-customer-facing-h1-h2-doesnt-work"></a>Requiere cliente conexión a H1, H2 no funciona
 Ejemplo de texto de bloquear: siga estas instrucciones:
 
-1. Los archivos en la carpeta **AlchemyInsights** deben tener el identificador de regla y el nombre de la regla desde el [portal de socios de Alchemy](https://alchemyportal.azurewebsites.net) en el Adnistrar.
+1. Los archivos en la carpeta **AlchemyInsights** deben tener el identificador de la regla y el nombre de la regla desde el [portal de socios de Alchemy](https://alchemyportal.azurewebsites.net) en el nombre de archivo.
     1. ***976-How-to-enable-litigation-hold*** ex.
 1. Usar los metadatos en la parte superior de este archivo como plantilla. Se necesita nada más.
 1. En el [portal de socios de Alchemy](https://alchemyportal.azurewebsites.net), desplácese hacia abajo hasta la sección **cliente Insight título:** y el uso que, como un inicio, elija su título H1 para la perspectiva. 
@@ -34,3 +34,8 @@ Ejemplo de texto de bloquear: siga estas instrucciones:
     1. Vínculos siempre deben ser una **"vínculos al sitio web" / externo** OR **profundo-vínculos a elementos de la interfaz de usuario**, los vínculos no internos.
 
 Y esto realmente ya es un poco demasiado largo. Procedimiento recomendado es de aproximadamente 400 caracteres---
+
+Una vez que el contenido esté listo, extraer a la rama live. A continuación, vaya al [portal de socios de Alchemy](https://alchemyportal.azurewebsites.net) y escriba el nombre de archivo en el campo de dirección url. Asegúrese de que sus conocimientos revisan y se publican dice "Sí" y, a continuación, haga clic en regla de actualización. (El aspecto será mejor aspecto en la nueva versión del portal - lanzará pronto.)
+
+![campo de dirección URL](media/for-content-team.PNG)
+

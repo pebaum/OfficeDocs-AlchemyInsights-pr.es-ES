@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 4f05d1e94e7b44ccf2034c2d01e4e4c9216e94bd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 99ce258f5d3b18db1df3cad492f24ca75a23e93a
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491646"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660904"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Cambiar de planes para aumentar el tamaño del buzón.
 
-Si el tamaño del buzón es de 50 GB, puede aumentar el tamaño del buzón a 100 GB al cambiar a [Office 365 Enterprise E3](https://products.office.com/en-us/business/office-365-enterprise-e3-business-software) o [E5 Enterprise de Office 365](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software). Estos son los pasos para cambiar a un plan de Office 365 diferente:
+Si el tamaño del buzón es de 50 GB, puede aumentar el tamaño del buzón a 100 GB al cambiar a [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) o [E5 Enterprise de Office 365](https://products.office.com/business/office-365-enterprise-e5-business-software). Estos son los pasos para cambiar a un plan de Office 365 diferente:
   
 1. En el Centro de administración de Office 365, vaya a la página [Suscripciones](https://go.microsoft.com/fwlink/p/?linkid=842054) o elija **Facturación** \> **Suscripciones**.
     

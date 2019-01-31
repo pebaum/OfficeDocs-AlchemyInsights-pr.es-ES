@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: bf1843d007da336520c47d3a6782fb43d280bcb3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 62876e70201a5df147d1720303d53c951b205058
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490835"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661948"
 ---
 # <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Qué hacer si el tamaño del buzón de correo ya es 100GB
 
@@ -32,6 +32,6 @@ Para habilitar el archivado de correo electrónico:
     
 4. Después de unos minutos, aparecerá una nueva carpeta en Outlook del usuario en el web llamado *Archivado local* , o en aplicación de Outlook llama *el archivo en línea - \<nombre\> * . El usuario puede arrastrar y colocar de correo electrónico al archivo. 
     
-Puede tener acceso a una cantidad ilimitada de almacenamiento para el archivado. Para obtener más información, vea [Habilitar el archivado ilimitado](https://support.office.com/en-us/article/enable-unlimited-archiving-in-office-365-admin-help-e2a789f2-9962-4960-9fd4-a00aa063559e).
+Puede tener acceso a una cantidad ilimitada de almacenamiento para el archivado. Para obtener más información, vea [Habilitar el archivado ilimitado](https://support.office.com/article/enable-unlimited-archiving-in-office-365-admin-help-e2a789f2-9962-4960-9fd4-a00aa063559e).
   
 

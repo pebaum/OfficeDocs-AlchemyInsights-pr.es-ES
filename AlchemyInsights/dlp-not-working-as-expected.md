@@ -6,23 +6,25 @@ manager: mnirkhe
 ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: eab000e0a850c522ede5f51ae46ba11b87ba4732
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 0d50ac1aed1bd8168daa45e33b6e0bc37e95d1b7
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490779"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661990"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP no funciona como se esperaba
+
 
 ¿Tiene problemas con la **Prevención de pérdida de datos (DLP)** en Office 365 no funciona como se esperaba? Si es así, asegúrese de que la **Directiva de DLP** está configurado correctamente y que los datos contienen qué la **Directiva DLP** está buscando cuando se está evaluando. 
   
  **Configuración de DLP:**
   
-Las directivas de DLP permite identificar y proteger información confidencial en su organización. Para la configuración de directivas de DLP, use la información [aquí](https://docs.microsoft.com/en-us/office365/securitycompliance/prevent-data-loss#set-up-dlp).
+Las directivas de DLP permite identificar y proteger información confidencial en su organización. Para la configuración de directivas de DLP, use la información [aquí](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
   
  **¿Qué aspecto de las directivas DLP para:**
   
@@ -30,16 +32,16 @@ Cuando se usan los **tipos de información confidencial integrados** en el centr
   
 - **Tipos de información confidencial integradas:**
     
-    Para obtener información acerca de los tipos integrados confidenciales y lo que busca una directiva de DLP cuando se detecte el tipo confidencial, vea: [Buscar qué los tipos de información confidencial](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+    Para obtener información acerca de los tipos integrados confidenciales y lo que busca una directiva de DLP cuando se detecte el tipo confidencial, vea: [Buscar qué los tipos de información confidencial](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
     
 - **Tipos de información confidencial personalizado:**
     
-    Si está intentando crear tipos de información confidencial personalizado, use el siguiente artículo para obtener información acerca de cómo crear un tipo personalizado confidencial: [crear un tipo de información confidencial personalizada](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type).
+    Si está intentando crear tipos de información confidencial personalizado, use el siguiente artículo para obtener información acerca de cómo crear un tipo personalizado confidencial: [crear un tipo de información confidencial personalizada](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
     
- **Informes**
+ **Informes:**
   
-- Obtenga conocimientos de los datos confidenciales con [informes de DLP.](https://docs.microsoft.com/en-us/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
+- Obtenga conocimientos de los datos confidenciales con [informes de DLP.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
     
-- Ver los detalles específicos del evento con el [Informe de incidente](https://docs.microsoft.com/en-us/office365/securitycompliance/data-loss-prevention-policies#incident-reports).
+- Ver los detalles específicos del evento con el [Informe de incidente](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).
     
 
