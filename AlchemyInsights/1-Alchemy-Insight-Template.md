@@ -11,16 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
-ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
+ms.openlocfilehash: 278a26f4b986a85e33442baef690d3bb44462ace
+ms.sourcegitcommit: 32355b76d45b730a069575efeec708149d4aeaa3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662947"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29697147"
 ---
-# <a name="required-customer-facing-h1-h2-doesnt-work"></a>Requiere cliente conexión a H1, H2 no funciona
-Ejemplo de texto de bloquear: siga estas instrucciones:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Requiere Alchemy encabezado H1, H2 no funcionan.
+Procedimientos recomendados e instrucciones para la creación de Alchemy:
 
+1. **No anidar Alchemy conocimientos en las carpetas**- esto, interrumpirá la estructura de la dirección url. Buscamos en corregir esto.
 1. Los archivos en la carpeta **AlchemyInsights** deben tener el identificador de la regla y el nombre de la regla desde el [portal de socios de Alchemy](https://alchemyportal.azurewebsites.net) en el nombre de archivo.
     1. ***976-How-to-enable-litigation-hold*** ex.
 1. Usar los metadatos en la parte superior de este archivo como plantilla. Se necesita nada más.
@@ -35,7 +36,6 @@ Ejemplo de texto de bloquear: siga estas instrucciones:
 
 Y esto realmente ya es un poco demasiado largo. Procedimiento recomendado es de aproximadamente 400 caracteres---
 
-Una vez que el contenido esté listo, extraer a la rama live. A continuación, vaya al [portal de socios de Alchemy](https://alchemyportal.azurewebsites.net) y escriba el nombre de archivo en el campo de dirección url. Asegúrese de que sus conocimientos revisan y se publican dice "Sí" y, a continuación, haga clic en regla de actualización. (El aspecto será mejor aspecto en la nueva versión del portal - lanzará pronto.)
-
-![campo de dirección URL](media/for-content-team.PNG)
+Una vez que el contenido esté listo, extraer a la rama live. A continuación, vaya al [portal de socios de Alchemy](https://alchemyportal.azurewebsites.net) y escriba el nombre de archivo en el campo de dirección url. Asegúrese de que sus conocimientos revisan y se publican dice "Sí" y, a continuación, haga clic en regla de actualización. **(El aspecto será mejor aspecto en la nueva versión del portal - lanzará pronto.)** 
+ ![campo de dirección url](media/for-content-team.PNG)
 
