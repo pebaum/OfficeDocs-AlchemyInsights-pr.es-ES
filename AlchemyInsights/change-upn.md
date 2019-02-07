@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 6c9750f6b2fb61c09dff2bc86e0a51d2d8c80270
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 0c4ccf9b3b1e1666430013b8f827b212688a73af
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29656116"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759153"
 ---
 # <a name="change-a-users-email-address"></a>Cambiar la dirección de correo electrónico de un usuario
 
@@ -38,6 +38,6 @@ Cambio de dirección de correo electrónico de una persona es fácil! Sólo tien
     
 6. Elija **Guardar**, a continuación, **Cerrar**, y que hayan acabado!
     
-¿No era fácil? Para obtener más detalles y pasos con capturas de pantalla, consulte este artículo: [cambiar un nombre de usuario y dirección en Office 365 de correo electrónico](https://support.office.com/article/https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)
+¿No era fácil? Para obtener más detalles y pasos con capturas de pantalla, consulte este artículo: [cambiar un nombre de usuario y dirección en Office 365 de correo electrónico](https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)
   
 

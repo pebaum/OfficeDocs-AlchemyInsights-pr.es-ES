@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 2623ac8a06b0fd277c04dd0ed7a800a56d30e2bb
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: d0d07ddb07ae8f8268dbf50fd7c376ec45ac9ce4
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29659788"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758685"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Crear o agregar un alias de correo electrónico para un usuario
 
@@ -34,6 +34,6 @@ ms.locfileid: "29659788"
     
     Normalmente, se tarda aproximadamente 30 minutos para el nuevo alias surta efecto.
     
-    **Para obtener más información, vea este artículo:** [Agregar alias de correo electrónico adicionales a un usuario](https://support.office.com/article/https://support.office.com/article/Add-additional-email-aliases-to-a-user-0b0bd900-68b1-4bf5-808b-5d240a7739f4.aspx)
+    **Para obtener más información, vea este artículo:** [Agregar alias de correo electrónico adicionales a un usuario](https://support.office.com/article/Add-additional-email-aliases-to-a-user-0b0bd900-68b1-4bf5-808b-5d240a7739f4.aspx)
     
 

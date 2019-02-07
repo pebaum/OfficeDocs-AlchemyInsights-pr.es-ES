@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 3215eadb8555a194680326768adf58e021f0bd55
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 4cb1a0455bc9cbdd5b838e97e0e2e8b90f06ff93
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657848"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759477"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Comprobar el reenvío de configuración para un buzón de correo electrónico
 
@@ -30,6 +30,6 @@ Para obtener más información, vea [Configure email desvío en Office 365](http
   
 Para enviar instrucciones a los usuarios, por lo que pueden configurar el reenvío de correo electrónico en sus propios buzones de correo, elija para [Reenviar correo electrónico desde Office 365 a otra cuenta de correo electrónico ](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Tenga en cuenta que puede reenviar a dirección de correo electrónico de un solo. Si necesita configurar el reenvío a un grupo de personas, crear una lista de distribución (bajo grupos), agregue los usuarios a ella y, a continuación, configurar el reenvío a ese grupo.
   
-¿Dispone de un empleado y dejar? Para los pasos recomendados que debe seguir, vea [quitar a un antiguo empleado de Office 365](https://support.office.com/article/https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx) . 
+¿Dispone de un empleado y dejar? Para los pasos recomendados que debe seguir, vea [quitar a un antiguo empleado de Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx) . 
   
 
