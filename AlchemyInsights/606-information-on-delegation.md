@@ -11,19 +11,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 853f9dd9fd84c90b0f184f7b348d8eb931933ac8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d9f5719bfc7b6a7d35f114cd21f39cbc2b628824
+ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491531"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29770670"
 ---
-# <a name="about-delegates-in-outlook-and-outlook-on-the-web"></a>Acerca de los delegados en Outlook y Outlook en la web
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Solución de problemas de delegación en Outlook y Outlook en la web
 
-Para obtener más información, vea estos temas:
-  
-- **Outlook**: [Permitir que otra persona administre su correo y calendario](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)
-    
-- **Outlook en la web**: [delegación de calendario en Outlook en el web para la empresa](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)
-    
+**Solución de problemas con la herramienta de SaRA:**
 
+1. Descargue e instale la herramienta de SaRA desde aquí
+1. Seleccione Outlook, a continuación, "Estoy teniendo problemas con mi calendario"
+1. Diga Sí para equipo afectado
+1. Agregar la dirección de correo electrónico del usuario afectado
+1. Seleccione "Estoy teniendo problemas con los permisos de delegado"
+1. En el siguiente símbolo del sistema, si es la persona que proporciona permisos, escriba la dirección de correo electrónico de su delegado. Si ha recibido permisos y es el delegado, escriba la dirección de correo electrónico de la persona que le proporcionó los permisos.
+1. En el menú siguiente, seleccione la opción que se ajuste a su situación. 
+1. En el menú siguiente, seleccione el nivel de permisos.
+1. En esta etapa, herramienta de SaRA llevará a cabo comprobaciones automatizadas y proporcionará con una resolución de posible o como alternativa, se proporcionará un registro de diagnóstico que se puede usar para solucionar problemas.
+1. Puede encontrar los registros en la carpeta de resultados de SaRA que se encuentra en C:\Users\Username\AppData\Local\SaraResults
