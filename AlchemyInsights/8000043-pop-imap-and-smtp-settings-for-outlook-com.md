@@ -7,14 +7,14 @@ ms.date: 5/30/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 16b5fbc6-6f45-4707-97bb-49a9b610ac56
-ms.openlocfilehash: b5b7609d6daee9afe43e9cb6bfe5f2766d1e7c39
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 69e43a695eacbc1744f124dbcb863584c53636c0
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491209"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29925289"
 ---
 # <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>Configuración de POP, IMAP y SMTP para Outlook.com
 

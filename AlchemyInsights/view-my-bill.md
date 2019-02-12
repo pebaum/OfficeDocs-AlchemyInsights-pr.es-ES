@@ -7,16 +7,16 @@ ms.date: 8/7/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: acc6bc0afed1a1e0fa6e3665b1d266b8f26af577
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 343cd0c7bc3cadb274d82d70144eda119a9d61aa
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657664"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29923447"
 ---
 # <a name="view-my-bill"></a>Ver mi factura
 

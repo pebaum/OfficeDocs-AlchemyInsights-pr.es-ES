@@ -6,14 +6,14 @@ ms.date: 11/27/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 1fce7ae1e127f5318dcdf7edd245cab88f89c0ff
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1490255d19a6eb62403f9c923438579b6a29480b
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491523"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29922810"
 ---
 # <a name="manage-search-dictionaries"></a>Administrar diccionarios de búsqueda
 

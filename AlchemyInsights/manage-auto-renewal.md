@@ -7,16 +7,16 @@ ms.date: 6/6/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: 34776ceece7800fdd22e3ed69e6f37207481224e
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b23d82ead351e8ccdaaffe87d9393683791530b2
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491560"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29913290"
 ---
 # <a name="manage-recurring-billing"></a>Administrar la facturación periódica
 

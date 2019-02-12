@@ -6,14 +6,14 @@ ms.date: 12/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 73d5128b55cae7712c48be9e2d05e558c3ba2e5c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 971edd9c064b448446ba16361e99df4a2291c14f
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491197"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29918999"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Instalar Office en un servidor de Terminal Server
 

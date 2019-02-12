@@ -6,14 +6,14 @@ ms.date: 11/4/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
-ms.openlocfilehash: 9b57b68c3ab7c3093642c8d21e1b538e1c6f98c2
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: dea96a28ed27b0077f56ab0c917d0667c424a028
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491244"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29922841"
 ---
 # <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Error cuando un usuario de prueba de Office 365 envía correo electrónico: host de cliente bloqueado mediante Spamhaus
 

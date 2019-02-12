@@ -7,14 +7,14 @@ ms.date: 9/28/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: a97b7845-4884-4d99-bab6-52539603cab2
-ms.openlocfilehash: ac54320a5b0b42743d98e493c1637d4d31f77011
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 8571e09dc3d3eb03b328fdcb3b841024cd290fbf
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454375"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29915389"
 ---
 # <a name="47500-server-busy-please-try-again-later"></a>4.7.500 servidor está ocupado, inténtelo de nuevo más tarde
 

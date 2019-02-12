@@ -6,14 +6,14 @@ ms.date: 8/8/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
-ms.openlocfilehash: 6846f8b2c3980801e54876da2e8fea527b26a804
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: 52d30b2058f3d070ab38ca57aca83eb3f8febfb4
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29759945"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29915353"
 ---
 "{AimKIObject}" no se muestra en la lista grupos después de {AimKITimeElapsed} minutos
 

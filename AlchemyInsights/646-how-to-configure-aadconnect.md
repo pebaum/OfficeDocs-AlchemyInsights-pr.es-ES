@@ -7,14 +7,14 @@ ms.date: 6/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: e4ba295cd0661c3454180dd6a15895123840389e
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: dd6d6986b23c8adcc98fe713bacf32fb5bf8b4b6
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29499687"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29915605"
 ---
 # <a name="configure-sync-features"></a>Configurar las características de sincronización
 

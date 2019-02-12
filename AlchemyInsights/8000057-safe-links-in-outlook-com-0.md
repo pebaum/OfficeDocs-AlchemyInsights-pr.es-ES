@@ -7,14 +7,14 @@ ms.date: 7/16/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: f0e4afcc-b0a1-4b1b-b1e8-743504b54d37
-ms.openlocfilehash: a6e02a354ee08c5cdbba34756b13c231052268ef
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ed03a5d4b005e4d6f7117e66f170427161363486
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491391"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29925829"
 ---
 # <a name="advanced-outlookcom-security-for-office-365-subscribers"></a>Seguridad avanzada de Outlook.com para suscriptores de Office 365
 

@@ -7,16 +7,16 @@ ms.date: 6/8/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: 6170265dac1eebe8fa1acf766d2eb8d6b0a5908b
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 55529265d2356a911624026107fb639f93e29abd
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662380"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29925397"
 ---
 # <a name="adfs-federation-certificate-expiring"></a>Federación de ADFS certificado a expirar
 

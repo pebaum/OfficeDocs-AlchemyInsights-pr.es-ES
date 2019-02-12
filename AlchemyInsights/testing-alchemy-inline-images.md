@@ -6,14 +6,14 @@ ms.date: 11/16/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 28d8036f-9df2-4dff-835b-9424bfe988a2
-ms.openlocfilehash: 9de1656e3e1fc3d64daf745eaa56e107bad82253
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c21f9693b20fb435f6e46014e09e1c6c97e2744a
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490994"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29923058"
 ---
 # <a name="access-the-domains-page"></a>Obtener acceso a la página de dominios
 

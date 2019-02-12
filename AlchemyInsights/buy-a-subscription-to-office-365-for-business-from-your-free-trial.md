@@ -7,16 +7,16 @@ ms.date: 5/8/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 122c1faf54cdd72ca6d67088e113f23b9f1396b8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: e596a8216b3674290ee577abc59a81b964f33c0a
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491133"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29919637"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Comprar una suscripción a Office 365 desde su versión de prueba gratuita
 

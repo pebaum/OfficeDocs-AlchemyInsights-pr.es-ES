@@ -6,14 +6,14 @@ ms.date: 5/3/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 0fa0168722c6c75aa68bbad7fefdde7ca924be85
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 4d375f6357539db79c870c5c32e7201bc93081b8
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662416"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29915317"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Configuración de la suscripción de Office 365 para el negocio
 

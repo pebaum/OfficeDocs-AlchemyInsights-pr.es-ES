@@ -7,14 +7,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 05d36350-3b1e-4a5b-bbb1-0791ae727b8a
-ms.openlocfilehash: bb73aa46465157e00e95c4c9917214adc26a1ef8
-ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
+ms.openlocfilehash: 1d18fce78fab1182f1f2c1555d81c858cd0ccc12
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29649783"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29922013"
 ---
 # <a name="steps-to-resolve-office-activation-error-0xc004b100"></a>Pasos para resolver el error de activación de Office 0xc004b100
 

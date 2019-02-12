@@ -7,16 +7,16 @@ ms.date: 4/5/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: c0c4748daa24fdf98cf89a02bea6933fbe620832
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: aa64c5a62e0d58703676e7bcfb0f956b994ff447
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491492"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29924893"
 ---
 # <a name="open-a-sharepoint-library-in-file-explorer"></a>Abrir una biblioteca de SharePoint en el Explorador de archivos
 

@@ -7,16 +7,16 @@ ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: 5d8d4f71c38d3a5346fc7a6fa90224d8c00012cb
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 506f8931be6ddcc80137703a47e78c41fbeb45c1
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491261"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29921761"
 ---
 # <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>¿Obtención de un error de permiso al abrir un buzón compartido en Outlook en el web?
 

@@ -7,14 +7,14 @@ ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: f3e333c752e00e0e8c37d76a3aede09ea47f36e9
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: a2c428b45672c3d895b88a653b541a1ab37326c8
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29660796"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29924749"
 ---
 # <a name="migrate-public-folder-data-to-office-365"></a>Migrar datos de carpetas públicas a Office 365
 

@@ -7,16 +7,16 @@ ms.date: 12/19/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 1f16f2c7-9593-4ef3-a4d4-e22b59814497
-ms.openlocfilehash: 5a88d316c04e1b8c5c2bee6ceb5ffac6fcff9604
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: e49ab58be7084f4703bf1617d8954c9b3c01c97b
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491021"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29923020"
 ---
 # <a name="solutions-for-error-30015-25"></a>Soluciones para el error 30015 25
 

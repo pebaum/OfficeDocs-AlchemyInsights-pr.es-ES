@@ -7,14 +7,14 @@ ms.date: 2/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 9cf95572-4741-47d4-8770-544648ecb905
-ms.openlocfilehash: cd2a25375b80a7effa3860814ab4383e4b367bc3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b736faee9ab5bee48b920946823f57aedcb2ba26
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491507"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29934289"
 ---
 # <a name="calendar-permissions"></a>Permisos del calendario
 

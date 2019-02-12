@@ -7,14 +7,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: d291c13a-723e-4425-8e49-baa465ec2505
-ms.openlocfilehash: 4504035840fc6cb2985664b3121a782df44d4980
-ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
+ms.openlocfilehash: 7dcb04d0e1613ed75e664345ecc35cae86dadc1f
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29649776"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29921509"
 ---
 # <a name="steps-to-resolve-office-activation-error-0x80070005"></a>Pasos para resolver el error de activación de office 0 x 80070005
 

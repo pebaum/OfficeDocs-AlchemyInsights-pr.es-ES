@@ -6,14 +6,14 @@ ms.date: 8/8/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 805eb5f6-1cb0-4b19-82ad-fde38a42808d
-ms.openlocfilehash: 846361111e3f19c121ac0a23860022058a15a1f8
-ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
+ms.openlocfilehash: ab51b12a1005bfe304114065d05af2bbf5390567
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "29770598"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29914489"
 ---
 # <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>El grupo "{AimKIObject}" no se muestra en la lista de grupos
 

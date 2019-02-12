@@ -7,16 +7,16 @@ ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 172084b7-68a1-42a5-944d-2e871eaa2972
-ms.openlocfilehash: 9e2e1a1dd2993b2a02b4405db8a707b23ff4af16
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: bed33ba4d09fe4598c5e73eb21f0af1b7670f4c1
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29658924"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29914417"
 ---
 # <a name="one-of-your-on-premises-federation-service-certificates-is-expiring"></a>Uno de los certificados de servicio de federación local va a expirar
 

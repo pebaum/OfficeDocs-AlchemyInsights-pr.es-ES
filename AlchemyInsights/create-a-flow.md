@@ -7,16 +7,16 @@ ms.date: 4/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4924fef5-d4ba-471b-84ec-1f9c4c0b59b3
-ms.openlocfilehash: 616cdb961eb38a5c3bba21453a9c07a17245ffd3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 738bc92c77eaab094e79d76b35f48cca6d23057a
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490783"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29923623"
 ---
 # <a name="microsoft-flow"></a>Microsoft Flow
 

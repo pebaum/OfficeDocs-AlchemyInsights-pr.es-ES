@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 9b3a36d7-9d59-424f-91f4-5cd58a878ef8
-ms.openlocfilehash: ac9ad20db3a55e9c9b3795c7d95bf84fa7b43389
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: c318b78db5023fe8c41b4c0bb2e705764b93036e
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29661372"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29914093"
 ---
 # <a name="how-to-install-mac-office-from-the-portal"></a>Cómo instalar Office Mac desde el portal
 

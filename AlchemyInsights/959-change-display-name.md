@@ -6,15 +6,15 @@ ms.date: 7/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
 description: ''
-ms.openlocfilehash: cd67d82d9b4a7c59ac167a7cf1b80f805d0afffc
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: c45c9498e5f1cb888696646e1a96c62184c655b5
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29758481"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29925145"
 ---
 # <a name="change-your-display-name"></a>Cambiar el nombre para mostrar
   

@@ -7,14 +7,14 @@ ms.date: 9/14/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: d9da6c0c52165f9c04710ab3f975bbc162710db2
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: e01363b5da0443ae62cb5d2a27f9ff8508721c9e
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491494"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29921365"
 ---
 # <a name="find-missing-folders-in-outlookcom"></a>Buscar carpetas que faltan en Outlook.com
 

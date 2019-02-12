@@ -7,16 +7,16 @@ ms.date: 8/3/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: a273b6dd665e1998c874203248bc31bbb40f20b0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ba64b23e5f179b3b0cfd2226e565d8f72d097b45
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490636"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29921077"
 ---
 # <a name="manage-access-requests"></a>Administrar las solicitudes de acceso
 

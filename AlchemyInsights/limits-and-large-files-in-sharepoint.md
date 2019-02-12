@@ -7,16 +7,16 @@ ms.date: 3/1/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: 29ad4d52d8879014cc9a06bc933d5dda136e6421
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d78074e8719a4be6c0ddc5927c519bdf273f0bb5
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491007"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29933965"
 ---
 # <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Archivos que no se puede cargar en SharePoint Online
 

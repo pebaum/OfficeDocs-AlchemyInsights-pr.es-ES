@@ -7,16 +7,16 @@ ms.date: 5/1/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 811f0aa9-d413-4d17-b631-7a788e1d1916
-ms.openlocfilehash: f44aa6ccc8ceccde5527552f7a76b7e19eb43af0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: e7635cdf39fd97ed0e6499860a2f8632cb754ab8
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491008"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29914021"
 ---
 # <a name="how-to-sign-out-of-outlookcom"></a>Procedimiento para desconectarse de Outlook.com
 

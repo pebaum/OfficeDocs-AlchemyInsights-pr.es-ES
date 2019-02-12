@@ -7,14 +7,14 @@ ms.date: 7/16/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: a4a4c974-7a8b-46c7-92d9-f17084d89677
-ms.openlocfilehash: 414a7b88859c1215393f761b795aa9c171d1d59f
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 8de3e2db319977b49676fb7906d36ffd9d31597f
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490999"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29913157"
 ---
 # <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>Cómo iniciar sesión en o fuera de Outlook.com
 

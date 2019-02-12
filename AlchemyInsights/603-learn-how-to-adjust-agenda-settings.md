@@ -7,16 +7,16 @@ ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d9d92a75-2ddc-41eb-b705-b2767d733f22
-ms.openlocfilehash: 06d348c5fdce8de56a25364b1a928bf8cb083861
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ef308167393a28043523fa065b4de7c2fda35489
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29499075"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29922998"
 ---
 # <a name="learn-how-to-configure-agenda-settings"></a>Obtenga información sobre cómo configurar las opciones de la agenda
 

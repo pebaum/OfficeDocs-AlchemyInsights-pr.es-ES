@@ -7,14 +7,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 75d912b3-f154-4219-9b8c-4e1d41aaa442
-ms.openlocfilehash: dc65d3d027f11fd6ccf328141d0f1d080c53a482
-ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
+ms.openlocfilehash: e5e611fd9f59ca33f05a31201fa5fa38b131056f
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29646616"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29924857"
 ---
 # <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>¿Está recibiendo demasiado spam o phishing en su buzón de correo?
 

@@ -7,16 +7,16 @@ ms.date: 4/5/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 98b3d4fa-9210-43e8-9faf-7af3dd9d8557
-ms.openlocfilehash: 0c2c14813df6b50426a9985166014a757f0228d3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 44c7209f651427017aac6c146cccb698c0a71d67
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491739"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29918953"
 ---
 # <a name="configure-sharepoint-audit-settings"></a>Configurar las opciones de auditoría de SharePoint
 

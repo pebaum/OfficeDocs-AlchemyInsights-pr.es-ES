@@ -7,14 +7,14 @@ ms.date: 6/6/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: 301d00a07d7ce55a923d883ca6b705a4cc845a2a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: cda8dd5ca081bcea6dd6c4b3b4307e4996afc472
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29499111"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29914813"
 ---
 # <a name="inbox-rules"></a>Reglas de la bandeja de entrada
 

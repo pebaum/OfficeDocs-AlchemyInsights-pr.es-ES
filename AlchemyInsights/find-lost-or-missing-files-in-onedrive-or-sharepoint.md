@@ -7,16 +7,16 @@ ms.date: 4/25/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: e3d146005252fc5a774745daee7aae923b4d712a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ddebeae9dc8d621189314e393a233bddcec0e002
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491661"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29919241"
 ---
 # <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Buscar archivos perdidos o que faltan en OneDrive o SharePoint
 

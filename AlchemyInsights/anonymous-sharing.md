@@ -6,14 +6,14 @@ ms.date: 9/18/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: a4699122942b6c9f32063709426b4b6e8a61aa82
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ee558542fe692e5dd637a2943b8b8b436b329ef5
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490718"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29914345"
 ---
 # <a name="anonymous-sharing"></a>Uso compartido de anónimos
 

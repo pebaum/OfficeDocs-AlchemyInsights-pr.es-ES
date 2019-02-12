@@ -6,14 +6,14 @@ ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
-ms.openlocfilehash: 0f231edc6154cb3d6fd987cc6ebd425c7e1ba0d7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c869609fa4527f46121eda563e0735378bcb0d3d
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490825"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29913481"
 ---
 # <a name="change-intune-mdm-authority"></a>Modificar la autoridad Intune MDM
 

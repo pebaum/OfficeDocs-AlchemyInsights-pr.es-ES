@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: f8cf946c-89c7-4770-8f1f-d111e654e6cb
-ms.openlocfilehash: dfe06ad27b9936f6a00eff41af97fa6a267d3f6d
-ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
+ms.openlocfilehash: 87044ccbbf9d2ca4ddab200a890811ff7a7ad483
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29646760"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29914597"
 ---
 # <a name="solutions-for-unsupported-operating-system"></a>Soluciones para el "Sistema operativo no compatible"
 

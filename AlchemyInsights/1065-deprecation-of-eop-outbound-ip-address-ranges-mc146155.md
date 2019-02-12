@@ -7,14 +7,14 @@ ms.date: 9/28/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: bd41784e-8002-428d-bc19-25671cfd34e8
-ms.openlocfilehash: ec87141ffaa2fa3484620a9b52851e3e92f20b6b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 2b4b2e2341f45e2d37713d72a2e0d34fa1a9a7cc
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491422"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29934901"
 ---
 # <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>Tipo de proyectos de intervalos de direcciones IP salientes de elevación de privilegios
 

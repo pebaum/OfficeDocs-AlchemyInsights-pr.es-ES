@@ -7,16 +7,16 @@ ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 3f439b79-7eda-4dd7-857e-ce0a10130c88
-ms.openlocfilehash: 0ee0b188882659742ca50f9188a584f64a767e03
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 5232152f1840e45ad9ce4a63bba3e5197ab7cfea
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491108"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29912869"
 ---
 # <a name="how-to-create-and-manage-room-mailboxes"></a>Cómo crear y administrar buzones de sala
 

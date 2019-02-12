@@ -7,14 +7,14 @@ ms.date: 4/26/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: c16b7ac7d79794307fa33ed1039305ed5b842cf6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: e91d40f872dd401ee210ac05eb39d64b6fb88027
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491315"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29925361"
 ---
 # <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Preguntas acerca de cómo usar la herramienta de implementación de Office (ODT)
 

@@ -7,16 +7,16 @@ ms.date: 2/24/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: d0d07ddb07ae8f8268dbf50fd7c376ec45ac9ce4
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: 831d5a97b9d6006b63ae5540b8d4505bc5a98fee
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29758685"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29918593"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Crear o agregar un alias de correo electrónico para un usuario
 
