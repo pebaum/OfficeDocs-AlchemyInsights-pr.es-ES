@@ -7,14 +7,14 @@ ms.date: 6/5/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
-ms.openlocfilehash: 3a236072479b58b729f7a3cd752cae32e6b9728b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: e5fee8eab905f1345439f993fc29499b6dee10e0
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491125"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29927269"
 ---
 # <a name="focused-inbox-for-outlook-mobile"></a>Dirigidos a la Bandeja de entrada de Outlook mobile
 

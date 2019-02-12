@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: b0d8a5a8fc32f794be3cebea33f5ced352d62b40
-ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
+ms.openlocfilehash: 78db89b87f1ad50ca8a32383c4682a3f92701a3c
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29645464"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29938465"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Sugerencias para solucionar ' producto sin licencia "errores
 

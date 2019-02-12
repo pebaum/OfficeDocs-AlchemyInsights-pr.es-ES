@@ -7,14 +7,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: e8b46cc3-4dde-4386-8bc0-c21b0ef708b3
-ms.openlocfilehash: 3843dd3b7e6a065c50e5c23d4e8f55abf0be2329
-ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
+ms.openlocfilehash: 56f78580480dd35671c88f0203db29c646de9d25
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29646472"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29903833"
 ---
 # <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>Código de error 30125-4 o 30125-1011 cuando se instala Office
 

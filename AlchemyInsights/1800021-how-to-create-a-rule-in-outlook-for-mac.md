@@ -6,20 +6,20 @@ ms.date: 7/16/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: e3b275ac-09b6-47de-94d2-cf3e29cef446
-ms.openlocfilehash: f843ad8683eb763bd3a75daccb8fdb18985688d1
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 04b0c956efcfa5016f073b451e50706067309fa0
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29499471"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29926657"
 ---
 # <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Procedimiento para crear una regla en Outlook para Mac
 
 1. Para crear una carpeta para almacenar los mensajes de correo electrónico enviados por la regla, seleccione el buzón de raíz, en la ficha **Organizar** , haga clic en **Nueva carpeta**y, a continuación, escriba el nombre de la carpeta y presione ENTRAR.
     
-    Si quiere... 
+    Si se 
     
 2. En la lista de mensajes, haga clic en un mensaje de correo electrónico para la que desea o crear una regla.
     

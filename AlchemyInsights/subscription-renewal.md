@@ -7,16 +7,16 @@ ms.date: 6/6/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 4a7c938c828226dfec5de49d01d0398d7ac7ebb7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 661d0d0497683fee61d39d98d8f30fdd1be9b5c4
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490641"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29927413"
 ---
 # <a name="subscription-recurring-billing"></a>Facturación periódica de suscripción
 

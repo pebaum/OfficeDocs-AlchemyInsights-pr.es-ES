@@ -7,14 +7,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 69ed12bf-c47a-4e08-bd52-2a90bec1ee91
-ms.openlocfilehash: 656909202b6995be8bf3f4120f46dab62a3cf99c
-ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
+ms.openlocfilehash: ed1677f535f40e71811eb140874772adcccf3bd4
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29649778"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29938285"
 ---
 # <a name="use-the-office-offline-installer"></a>Usar al instalador de Office sin conexión
 

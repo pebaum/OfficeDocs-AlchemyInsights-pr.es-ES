@@ -6,14 +6,14 @@ ms.date: 5/21/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: dc0eb9d1-aec4-4c37-8e4a-b67089f3246b
-ms.openlocfilehash: f8f763b78134d1288f2fdad93b234f54df5e8d4b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3735499b4548f91455f787a60492267d68f2b47d
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490866"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29926837"
 ---
 # <a name="file-upload-limits-in-sharepoint-online"></a>Límites de carga de archivo en SharePoint Online
 

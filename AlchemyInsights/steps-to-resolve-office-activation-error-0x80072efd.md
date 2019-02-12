@@ -7,14 +7,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: d071ce0c-c29e-4917-8860-950e5efd26af
-ms.openlocfilehash: c0b6b201048dcf865b02fcd93a357870283b8bda
-ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
+ms.openlocfilehash: 2a1b3be28e2069562c1253ccd30123b1e871a71a
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29649775"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29938501"
 ---
 # <a name="steps-to-resolve-office-activation-error-0x80072efd"></a>Pasos para resolver el error de activación de Office 0x80072EFD
 

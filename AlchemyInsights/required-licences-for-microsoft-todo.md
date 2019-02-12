@@ -7,16 +7,16 @@ ms.date: 6/25/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: e5b168d4fbbdaf1dea5128cac00f5eafadd2d4e4
-ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
+ms.openlocfilehash: 7fc665d0af708f0dbcb9241de8102a976459436a
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/08/2019
-ms.locfileid: "29786643"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29926981"
 ---
 # <a name="required-licenses-for-microsoft-todo"></a>Licencias necesarias para Microsoft ToDo
 

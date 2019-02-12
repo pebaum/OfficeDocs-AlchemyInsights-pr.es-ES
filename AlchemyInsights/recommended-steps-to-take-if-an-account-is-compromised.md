@@ -6,14 +6,14 @@ ms.date: 10/2/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 32da2272-cfdd-4d47-91da-9258167b67d8
-ms.openlocfilehash: 36574f7c63308ff75f850cf3dcc1b018c86fcd97
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 40368816ac3a8aa5652bbe502ba0293fbc24ceef
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491619"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29927449"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Pasos recomendados que se realizarán si una cuenta se ve comprometida
 

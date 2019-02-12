@@ -1,5 +1,5 @@
 ---
-title: Cambiar a otro plan de Office 365 para empresas
+title: Cambiar a un diferentes de Office 365 para el Plan de negocio
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -7,18 +7,18 @@ ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 06ece0f33bc817aa9759cbc3487544ed5b48b946
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 7c49d3b06eac4fb03a6303dcad701ec0a3203224
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490635"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29927935"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Cambiar a otro plan de Office 365 para empresas
+# <a name="switch-to-a-different-office-365-for-business-plan"></a>Cambiar a un diferentes de Office 365 para el Plan de negocio
 
 []Si se producen cambios en su empresa o si necesita más características de Office 365, puede cambiar de plan.
   
@@ -26,7 +26,7 @@ ms.locfileid: "29490635"
     
 2. Elija **Cambiar de plan** para ver una lista con los nuevos planes disponibles. 
     
-3. Elija un plan para ver el nuevo coste total por mes. Asegúrese de leer la **información clave** y, a continuación, elija Siguiente para pagar. 
+3. Elija un plan para ver el nuevo costo total por mes. Asegúrese de leer la información de clave, a continuación, elija **siguiente** para desproteger. 
     
 El botón de los planes de modificador no se admite en todas las situaciones. En algunos casos, es posible que pueda cambiar los planes de forma manual.
   

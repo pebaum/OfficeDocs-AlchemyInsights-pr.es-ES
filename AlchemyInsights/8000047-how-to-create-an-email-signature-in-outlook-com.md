@@ -7,14 +7,14 @@ ms.date: 5/30/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 0ebfc3b9-de3c-487c-b01b-7b027e4c562f
-ms.openlocfilehash: 876f186fd5c9c3ce9a4caaa44e0e60785c7eb596
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: a66b7961a81ab7a0ec76edf7fa0c1e2e85b9eed7
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491601"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29938429"
 ---
 # <a name="how-to-create-an-email-signature"></a>Cómo crear una firma de correo electrónico
 
