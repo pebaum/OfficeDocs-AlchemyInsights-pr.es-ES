@@ -7,33 +7,33 @@ ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e0d62ef3-cba0-4df8-a234-ce75a4f6cd84
-ms.openlocfilehash: 2d1707a2b1b7d47150585cf331707231bbf9a738
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c883dda38f959624668e202b188ff6e2ddd4ed47
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490849"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29938249"
 ---
-# <a name="app-passwords"></a><span data-ttu-id="b40bb-102">Contraseñas de aplicación</span><span class="sxs-lookup"><span data-stu-id="b40bb-102">App passwords</span></span>
+# <a name="app-passwords"></a><span data-ttu-id="85c0b-102">Contraseñas de aplicación</span><span class="sxs-lookup"><span data-stu-id="85c0b-102">App passwords</span></span>
 
-<span data-ttu-id="b40bb-p101">Una contraseña de la aplicación es un código que le da un permiso de aplicación o dispositivo para tener acceso a su cuenta de Office 365. Si el administrador ha activado la autenticación multifactor para su organización, y está usando aplicaciones que se conectan a su cuenta de Office 365, debe generar una contraseña de la aplicación para que la aplicación puede conectarse a Office 365. Por ejemplo, si está utilizando Outlook 2016 o versiones anteriores con Office 365, debe crear una contraseña de la aplicación.</span><span class="sxs-lookup"><span data-stu-id="b40bb-p101">An app password is a code that gives an app or device permission to access your Office 365 account. If your admin has turned on multi-factor authentication for your organization, and you're using apps that connect to your Office 365 account, you'll need to generate an app password so the app can connect to Office 365. For example, if you're using Outlook 2016 or earlier with Office 365, you'll need to create an app password.</span></span>
+<span data-ttu-id="85c0b-p101">Una contraseña de la aplicación es un código que le da un permiso de aplicación o dispositivo para tener acceso a su cuenta de Office 365. Si el administrador ha activado la autenticación multifactor para su organización, y está usando aplicaciones que se conectan a su cuenta de Office 365, debe generar una contraseña de la aplicación para que la aplicación puede conectarse a Office 365. Por ejemplo, si está utilizando Outlook 2016 o versiones anteriores con Office 365, debe crear una contraseña de la aplicación.</span><span class="sxs-lookup"><span data-stu-id="85c0b-p101">An app password is a code that gives an app or device permission to access your Office 365 account. If your admin has turned on multi-factor authentication for your organization, and you're using apps that connect to your Office 365 account, you'll need to generate an app password so the app can connect to Office 365. For example, if you're using Outlook 2016 or earlier with Office 365, you'll need to create an app password.</span></span>
   
-1. <span data-ttu-id="b40bb-p102">Compruebe si el Administrador de Office 365 ha activado la autenticación multifactor para su cuenta. Si no lo ha hecho, al intentar realizar estos pasos no verá las opciones en Office 365.</span><span class="sxs-lookup"><span data-stu-id="b40bb-p102">Check whether your Office 365 admin has turned on multi-factor authentication for your account. If they haven't, when you try to do these steps you won't see the options in Office 365.</span></span>
+1. <span data-ttu-id="85c0b-p102">Compruebe si el Administrador de Office 365 ha activado la autenticación multifactor para su cuenta. Si no lo ha hecho, al intentar realizar estos pasos no verá las opciones en Office 365.</span><span class="sxs-lookup"><span data-stu-id="85c0b-p102">Check whether your Office 365 admin has turned on multi-factor authentication for your account. If they haven't, when you try to do these steps you won't see the options in Office 365.</span></span>
     
-2. <span data-ttu-id="b40bb-p103">Inicie sesión en Office 365 con su cuenta de trabajo o escuela con su contraseña como lo haría normalmente. Después de elegir **iniciar sesión**, verá una página con su nombre de usuario y unas cuantas opciones</span><span class="sxs-lookup"><span data-stu-id="b40bb-p103">Sign in to Office 365 with your work or school account with your password like you normally do. After you choose **Sign in**, you'll see a page with your user name and a few options</span></span> 
+2. <span data-ttu-id="85c0b-p103">Inicie sesión en Office 365 con su cuenta de trabajo o escuela con su contraseña como lo haría normalmente. Después de elegir **iniciar sesión**, verá una página con su nombre de usuario y unas cuantas opciones</span><span class="sxs-lookup"><span data-stu-id="85c0b-p103">Sign in to Office 365 with your work or school account with your password like you normally do. After you choose **Sign in**, you'll see a page with your user name and a few options</span></span> 
     
-3. <span data-ttu-id="b40bb-110">Elija **Configurar ahora**.</span><span class="sxs-lookup"><span data-stu-id="b40bb-110">Choose **Set it up now**.</span></span> 
+3. <span data-ttu-id="85c0b-110">Elija **Configurar ahora**.</span><span class="sxs-lookup"><span data-stu-id="85c0b-110">Choose **Set it up now**.</span></span> 
     
-4. <span data-ttu-id="b40bb-111">Seleccione el método de autenticación y, a continuación, siga las indicaciones en la página.</span><span class="sxs-lookup"><span data-stu-id="b40bb-111">Select your authentication method and then follow the prompts on the page.</span></span>
+4. <span data-ttu-id="85c0b-111">Seleccione el método de autenticación y, a continuación, siga las indicaciones en la página.</span><span class="sxs-lookup"><span data-stu-id="85c0b-111">Select your authentication method and then follow the prompts on the page.</span></span>
     
-5. <span data-ttu-id="b40bb-112">Después de comprobar su contacto como método alternativo, elija **siguiente**.</span><span class="sxs-lookup"><span data-stu-id="b40bb-112">After you verify your alternate contact method, choose **Next**.</span></span> 
+5. <span data-ttu-id="85c0b-112">Después de comprobar su contacto como método alternativo, elija **siguiente**.</span><span class="sxs-lookup"><span data-stu-id="85c0b-112">After you verify your alternate contact method, choose **Next**.</span></span> 
     
-6. <span data-ttu-id="b40bb-p104">Obtendrá una contraseña de la aplicación que puede utilizar con Outlook, Apple Mail, etcetera. Elija el icono de copia para copiar la contraseña en el Portapapeles. No necesitará que memorizar esta contraseña.</span><span class="sxs-lookup"><span data-stu-id="b40bb-p104">You'll get an app password that you can use with Outlook, Apple Mail, etc. Choose the copy icon to copy the password to your clipboard. You won't need to memorize this password.</span></span> 
+6. <span data-ttu-id="85c0b-p104">Obtendrá una contraseña de la aplicación que puede utilizar con Outlook, Apple Mail, etcetera. Elija el icono de copia para copiar la contraseña en el Portapapeles. No necesitará que memorizar esta contraseña.</span><span class="sxs-lookup"><span data-stu-id="85c0b-p104">You'll get an app password that you can use with Outlook, Apple Mail, etc. Choose the copy icon to copy the password to your clipboard. You won't need to memorize this password.</span></span> 
     
-7. <span data-ttu-id="b40bb-115">Cuando agregue su cuenta de correo electrónico de Office 365 a Outlook (u otra aplicación) y se le pide una contraseña, más allá de esta contraseña de la aplicación en el cuadro contraseña, en lugar de escribir la contraseña de la cuenta.</span><span class="sxs-lookup"><span data-stu-id="b40bb-115">When you add your Office 365 email account to Outlook (or another app), and you're prompted for a password, past this app password into the Password box, instead of typing your account password.</span></span> 
+7. <span data-ttu-id="85c0b-115">Cuando agregue su cuenta de correo electrónico de Office 365 a Outlook (u otra aplicación) y se le pide una contraseña, más allá de esta contraseña de la aplicación en el cuadro contraseña, en lugar de escribir la contraseña de la cuenta.</span><span class="sxs-lookup"><span data-stu-id="85c0b-115">When you add your Office 365 email account to Outlook (or another app), and you're prompted for a password, past this app password into the Password box, instead of typing your account password.</span></span> 
     
 
