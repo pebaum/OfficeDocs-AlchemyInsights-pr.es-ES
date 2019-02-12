@@ -7,14 +7,14 @@ ms.date: 5/31/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: d497edc0-f945-4c45-9fe0-f7060c259848
-ms.openlocfilehash: b9a0ca93b15a32d041f3dc7cd1c4c72c979fbf38
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: fe890051cf1a7f064190e50b4a9b15e289a7dca2
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490686"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29941309"
 ---
 # <a name="how-to-access-outlookcom-while-traveling"></a>Cómo obtener acceso a Outlook.com mientras está de viaje
 

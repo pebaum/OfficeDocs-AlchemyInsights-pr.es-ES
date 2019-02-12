@@ -6,14 +6,14 @@ ms.date: 5/21/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: 7348294736b72f6a197cd981ecd19e15750f91ca
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f1ecdafdf21fa3cd026108738432c942d2c1ad45
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490928"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29941129"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Permisos de usuario en SharePoint y OneDrive
 

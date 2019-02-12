@@ -7,14 +7,14 @@ ms.date: 5/31/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: e6c75434-efea-46ba-b8c6-383f7cddbc28
-ms.openlocfilehash: 7b2d0d6a976bd306f2aa121ff964cb3b6b0fa155
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 469c2b47265c1a9c2ec3301375ac20eddf48bd64
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491557"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29909474"
 ---
 # <a name="links-in-outlookcom-dont-work-in-firefox"></a>Los vínculos en Outlook.com no funcionan en Firefox
 

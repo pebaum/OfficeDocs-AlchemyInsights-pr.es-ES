@@ -6,14 +6,14 @@ ms.date: 5/21/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
-ms.openlocfilehash: 7637f90b0358eb6435884faa860473622d3d72c7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 67af08e2e18ca7469bd1c220f062e87919e409a8
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490669"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29928025"
 ---
 # <a name="create-apps-with-powerapps"></a>Crear aplicaciones con PowerApps
 

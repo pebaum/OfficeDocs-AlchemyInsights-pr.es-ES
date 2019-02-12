@@ -7,14 +7,14 @@ ms.date: 11/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 2147c70f64087bf95fc4e39c193caeac3b2c5361
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: a631af20e28a531a40f078e290239a372c38ab74
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29660400"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29941731"
 ---
 Problemas de los elementos en el buzón de archivo de archivado. Asegúrese de que haber realizado los pasos siguientes:
   

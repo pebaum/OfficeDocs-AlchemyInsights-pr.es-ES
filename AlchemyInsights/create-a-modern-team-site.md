@@ -6,14 +6,14 @@ ms.date: 11/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
-ms.openlocfilehash: 34d4392c241ce66f9a7d0465d4172c59ba6ac3b4
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f88df38bc286625c0b2bc20e360e4ce6391e0942
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491648"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29917549"
 ---
 # <a name="create-an-office-365-group-connected-team-site"></a>Crear un sitio de equipo conectado de grupo de Office 365
 

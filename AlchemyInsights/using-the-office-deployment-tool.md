@@ -6,14 +6,14 @@ ms.date: 12/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: b4ade0f21794a8986aa7a37d783da5fa289488fc
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c7e0e96f225030590fdd516eaf3115c93a6335b6
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490923"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29898666"
 ---
 # <a name="using-the-office-deployment-tool-odt"></a>Using the Office Deployment Tool (ODT)
 

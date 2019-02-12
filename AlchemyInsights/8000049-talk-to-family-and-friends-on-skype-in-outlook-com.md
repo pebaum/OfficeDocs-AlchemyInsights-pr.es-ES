@@ -7,14 +7,14 @@ ms.date: 5/31/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: b6878497-5885-4241-b2d0-e951817c48d2
-ms.openlocfilehash: 2f8384ee6b4acaef89077bd9e657aeac669e5d7c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 957bfdd189ff0c553327e105b3ad8efed5655c4f
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491106"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29899680"
 ---
 # <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Comunicarse con amigos y familiares de Skype en Outlook.com
 

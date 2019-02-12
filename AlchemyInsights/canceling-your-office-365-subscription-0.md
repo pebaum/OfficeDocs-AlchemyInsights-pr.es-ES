@@ -7,16 +7,16 @@ ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 034ef73502816d491a8bd77b633a3b8eb3da0ea9
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: cf96af3b2e70279f38651ed09c4189ff7369cb7e
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29655720"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29928457"
 ---
 # <a name="canceling-your-office-365-subscription"></a>¿Cancelar la suscripción de Office 365?
 

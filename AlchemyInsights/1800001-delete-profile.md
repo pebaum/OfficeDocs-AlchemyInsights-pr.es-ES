@@ -7,16 +7,16 @@ ms.date: 8/29/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: c6c491a2aeea707d32f6cccdf7d13287181b6bf9
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3c8aa996cc96152c67e0551373aeb429d1710baa
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490916"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29908944"
 ---
 Para eliminar un perfil, siga estos pasos.
   

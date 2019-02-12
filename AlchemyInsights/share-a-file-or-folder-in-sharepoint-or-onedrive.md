@@ -6,14 +6,14 @@ ms.date: 5/24/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
-ms.openlocfilehash: a7bcfa9ea64d11032fdd738484a16810c965c96e
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 29e4e5c105fa5c68a286c277c4039f15a77d5c5d
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490925"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29941777"
 ---
 # <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>Compartir un archivo o carpeta de SharePoint o OneDrive
 

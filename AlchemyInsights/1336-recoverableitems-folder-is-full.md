@@ -7,14 +7,14 @@ ms.date: 11/5/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: b8b3e5389778b3aff0fbe2f6506ba2b2fc3abc7e
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: dbf4930c34e4175a14b77fab4eafc953bb37cc02
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29655684"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29909305"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>La carpeta elementos recuperables está llena
 

@@ -6,14 +6,14 @@ ms.date: 8/22/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: 5911d57786dfc512eade1c74831d4260e85b8a1c
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: ce67797a1838630ab3a42e1eeeefc401a0e3f753
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29758109"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29906893"
 ---
 # <a name="adding-external-users-to-a-distribution-group"></a>¿Adición de usuarios externos a un grupo de distribución?
 

@@ -7,14 +7,14 @@ ms.date: 12/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 383d1c77-5e4b-4a69-92d6-c404d890b6b7
-ms.openlocfilehash: f090d0a9d84bc6a4d1a1f4c0af55102d4b0ddfbe
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 0d3b7ce3d6b32d94a012eb3767c0747eed80f6e5
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491561"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29915821"
 ---
 # <a name="an-inbox-rule-doesnt-work-as-expected"></a>Una regla de bandeja de entrada no funciona como se esperaba
 

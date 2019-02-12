@@ -7,16 +7,16 @@ ms.date: 2/24/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: ef79cb324393bae05b53d207748da960162015b1
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: bd40d169429f314d78e4894b7fddf86cdf0698dc
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29759765"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29899333"
 ---
 # <a name="subscription-notice-in-your-office-client"></a>¿Aviso de suscripción en el cliente de Office?
 

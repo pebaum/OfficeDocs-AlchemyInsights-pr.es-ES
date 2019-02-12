@@ -7,16 +7,16 @@ ms.date: 3/1/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
-ms.openlocfilehash: 598b91346a417f1cff2057342f212c7a4f2993ac
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: aa852f37c365ce1df8527438938e0dbcd95cbd19
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29499147"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29928061"
 ---
 # <a name="how-to-enable-microsoft-to-do"></a>Cómo habilitar Microsoft To-Do
 

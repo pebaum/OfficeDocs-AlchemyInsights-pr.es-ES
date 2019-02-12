@@ -6,14 +6,14 @@ ms.date: 6/21/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 36c890c4-cafc-4409-8887-4a5c039692e3
-ms.openlocfilehash: 60c9b30b321c2042cf42311eaa8e743c70a3bca6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 5f47dbb2b4cc8ce2959318011174eddabefacbd5
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491013"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29917261"
 ---
 # <a name="what-can-i-do-with-versioning"></a>¿Qué puedo hacer con el control de versiones?
 

@@ -7,14 +7,14 @@ ms.date: 5/3/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 86685ad6-5988-415d-817a-57a75ff17119
-ms.openlocfilehash: 6ef57b0e5dafb6894b77183788e9d238810905d3
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 120b9e70203e1b3e277f07e2eb351db39c38a699
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29655252"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29899585"
 ---
 # <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a>Permisos de delegado de buzón de correo en un entorno híbrido
 

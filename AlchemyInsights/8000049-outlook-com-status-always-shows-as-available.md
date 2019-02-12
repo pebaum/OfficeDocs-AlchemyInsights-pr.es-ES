@@ -7,14 +7,14 @@ ms.date: 5/31/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: f06c6af06be38489489e41585da3e2e3d29dfacc
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3c361f2d43e3286405e408b63554720e89a6239c
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29497779"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29928241"
 ---
 # <a name="my-outlookcom-status-always-shows-as-available"></a>Mi estado de Outlook.com siempre se muestra como disponible
 

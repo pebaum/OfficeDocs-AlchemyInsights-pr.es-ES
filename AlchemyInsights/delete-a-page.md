@@ -7,16 +7,16 @@ ms.date: 5/18/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c0fde770-ba1d-4aeb-8c9a-83b646fc80ce
-ms.openlocfilehash: 56fd5589979ae5cec510db077b719d096e70e26b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 443bc10ce0e8d9d6aa78a043357e0f5ed1a6f065
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490883"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29900320"
 ---
 # <a name="delete-a-sharepoint-page"></a>Eliminar una página de SharePoint
 

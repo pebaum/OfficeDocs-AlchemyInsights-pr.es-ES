@@ -7,14 +7,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: c4fdbe9e117d66af5e2099a422985112880f8f1e
-ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
+ms.openlocfilehash: e722f6c73cc6da093498ee81dbb8ff0a898524d0
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29646004"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29916505"
 ---
 # <a name="installation-hangs-or-gets-stuck"></a>Instalación deja de responder o se bloquea
 

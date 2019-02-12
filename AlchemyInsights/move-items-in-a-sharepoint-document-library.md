@@ -7,16 +7,16 @@ ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: 6d3674a57ccbe10f274ee8f12493bcf5c6b08702
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: fc166470e0f40c9dea5f21bf2d89912459fc8142
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490634"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29900269"
 ---
 # <a name="move-items-in-a-sharepoint-document-library"></a>Mover los elementos de una biblioteca de documentos de SharePoint
 

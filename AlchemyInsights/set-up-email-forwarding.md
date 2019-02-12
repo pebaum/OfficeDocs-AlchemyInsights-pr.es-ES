@@ -7,16 +7,16 @@ ms.date: 3/21/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 4cb1a0455bc9cbdd5b838e97e0e2e8b90f06ff93
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: 30d3b9d2399565f3e0cc82ed79c9f205bf68d1a0
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29759477"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29941813"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Comprobar el reenvío de configuración para un buzón de correo electrónico
 

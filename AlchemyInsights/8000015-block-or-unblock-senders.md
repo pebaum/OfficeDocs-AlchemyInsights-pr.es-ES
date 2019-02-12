@@ -7,16 +7,16 @@ ms.date: 5/1/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: 462fb5bec76c0d21404f153499a15ea071e9431a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 49750888b92a62058efe8f09ccb03930afae43f5
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491250"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29941525"
 ---
 # <a name="block-or-unblock-senders"></a>Bloqueo o desbloqueo de remitentes
 

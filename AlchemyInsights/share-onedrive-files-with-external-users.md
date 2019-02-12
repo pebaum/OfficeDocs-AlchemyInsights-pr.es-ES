@@ -7,16 +7,16 @@ ms.date: 4/10/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 2de3ea135b137253e025ff417235b81afbb109cf
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3bc62deb513c809a25277295642394c5cab9436c
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491435"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29917873"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Compartir archivos en OneDrive con personas fuera de la organización
 

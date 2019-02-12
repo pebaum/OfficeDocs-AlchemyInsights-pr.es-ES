@@ -6,14 +6,14 @@ ms.date: 8/22/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 77223f73-5de2-45fd-b1d9-b66460148314
-ms.openlocfilehash: 2bd4836a7c155b29891cd764dbe33d9947c5c4a8
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: cbd3893c439c2e1f24ac959374db51919e753f0c
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29759801"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29918413"
 ---
 # <a name="having-issues-getting-outlook-to-connect"></a>¿Problemas de obtención de Outlook para conectarse?
 

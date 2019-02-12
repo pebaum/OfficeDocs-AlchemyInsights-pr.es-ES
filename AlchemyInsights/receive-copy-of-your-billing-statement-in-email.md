@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: c9ccae554ac802966dd7efe27548c9d39cf573dc
-ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
+ms.openlocfilehash: fa366278bf6d41f08eea1a77817c902a945c5a3b
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29646508"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29918017"
 ---
 # <a name="receive-copy-of-your-billing-statement-in-email"></a>Recibir copia de su extracto de facturación en correo electrónico
 Puede elegir recibir una copia del extracto de facturación como datos adjuntos de correo electrónico. Si elige esta opción, tenga en cuenta lo siguiente:

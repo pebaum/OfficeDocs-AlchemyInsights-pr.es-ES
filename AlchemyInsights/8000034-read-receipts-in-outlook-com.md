@@ -7,14 +7,14 @@ ms.date: 5/16/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 8cae0e22-0dfc-4575-9f62-041aacbd9da9
-ms.openlocfilehash: b3585a94e2408d6184fbe312e92a957288a27de6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 9f3a47f27099c5e53e251ed9d80a18dd643069f2
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491033"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29898541"
 ---
 # <a name="read-receipts-in-outlookcom"></a>Confirmaciones de lectura en Outlook.com
 

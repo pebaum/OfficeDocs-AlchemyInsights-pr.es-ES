@@ -7,16 +7,16 @@ ms.date: 4/19/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: b65125f0-7d6a-42c8-a5d8-a1ce733dddf7
-ms.openlocfilehash: a5f5a31e946e4f916dc926ede32dbdafae2d0196
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 7b66cfc49df40b326506a089fc29d58e35fb1f5e
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498823"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29929204"
 ---
 # <a name="delete-a-contact"></a>Eliminar un contacto
 

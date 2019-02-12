@@ -7,16 +7,16 @@ ms.date: 5/1/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 824035f6-90d3-4ea2-a92b-6b73b4ec0076
-ms.openlocfilehash: 71470120a669073244bf34b809658586cb36db2d
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 059944c6d5b95314a6eba48800458c926225d4ef
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498715"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29910205"
 ---
 # <a name="change-font-or-font-size-in-outlookcom"></a>Cambiar la fuente o el tamaño de fuente en Outlook.com
 

@@ -7,16 +7,16 @@ ms.date: 8/27/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
-ms.openlocfilehash: 8e6a51bcc47eac7e76f55700091ecd86bc1634d7
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: e4e98ba3e7dff2bd86be4667d7262c9544f9c9cb
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29759837"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29899225"
 ---
 # <a name="permissions-and-public-folders"></a>Los permisos y las carpetas públicas
 

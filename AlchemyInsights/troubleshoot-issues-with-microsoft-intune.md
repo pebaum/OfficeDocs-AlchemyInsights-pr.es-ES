@@ -6,14 +6,14 @@ ms.date: 10/23/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: d0674ec4b1cbee2ce66010d39e7c98e9ef0db580
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 743055b1d11cdbe5dd2d3447082931ece01cce22
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657232"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29899189"
 ---
 # <a name="troubleshoot-issues-with-microsoft-intune"></a>Solución de problemas con Microsoft Intune
 

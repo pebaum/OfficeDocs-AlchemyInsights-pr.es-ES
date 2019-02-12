@@ -7,16 +7,16 @@ ms.date: 2/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 11941c07ea7185b8fe3f23b0d64d8634890fc60b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c5163e1a4fa13a4aeccc9506c798d6df1654ad53
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491417"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29940661"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Activación de una suscripción de licencia por volumen de Microsoft Office 365
 

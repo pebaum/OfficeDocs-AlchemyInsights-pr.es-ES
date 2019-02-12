@@ -7,16 +7,16 @@ ms.date: 12/10/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: c95f07b9fb7251442577c014e4005dbe3f92ceb4
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 9b2abe01a47d39812988d62b6f010a8933fad33e
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29661768"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29929229"
 ---
 # <a name="fix-problems-with-open-with-explorer"></a>Solucionar problemas con abrir con el explorador
 

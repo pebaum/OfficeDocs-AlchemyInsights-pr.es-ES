@@ -7,14 +7,14 @@ ms.date: 4/26/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: a47ef0c1-5f44-4c5f-aa91-b681c0c17ebf
-ms.openlocfilehash: 32c9bb857a38a9171c32fe67b566001d73aaae90
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: aecf147b8b56c810d75165812f6855943cc6babe
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490773"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29899369"
 ---
 # <a name="create-mailboxes-that-dont-require-licenses"></a>Crear buzones de correo que no requieren licencias
 

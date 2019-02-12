@@ -6,14 +6,14 @@ ms.date: 11/27/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: cbf9ca67-56ff-4455-aa2d-30b39f883ddb
-ms.openlocfilehash: 6ccbb205dfe3ac0ecf175ac77973f04f09f3f5e4
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d9e92b484e36e3fcc6a84dd655385b6e8d21434b
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490648"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29916253"
 ---
 # <a name="delete-a-communication-site"></a>Eliminar un sitio de comunicación
 

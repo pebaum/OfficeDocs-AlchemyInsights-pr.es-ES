@@ -7,14 +7,14 @@ ms.date: 5/31/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: d9816744-fb49-4b77-a1ad-3ee648508997
-ms.openlocfilehash: adc49bae07551f90224df7762323d28add21fa6f
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3b957a4cc056bd92e2586469b8b9fc9fdb8e6967
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490713"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29941993"
 ---
 # <a name="cant-read-email-in-google-chrome-with-adblock"></a>No se puede leer el correo electrónico en Google Chrome con AdBlock
 

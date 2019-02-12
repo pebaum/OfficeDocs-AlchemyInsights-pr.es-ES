@@ -7,14 +7,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 26f1e0e6-7fbb-4c6d-aa31-eb60a2a77655
-ms.openlocfilehash: bd698704cca91a64e8044514b57ab397cb2d3377
-ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
+ms.openlocfilehash: 7a7148a1c2d0e812ab92a5132b8b4034031f8fc8
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29646040"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29942389"
 ---
 # <a name="solutions-for-issues-while-installing-office"></a>Soluciones para problemas durante la instalación de Office
 

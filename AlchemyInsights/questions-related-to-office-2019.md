@@ -7,14 +7,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: 8d4322163aed95ae77b935aa1dd2bbdbe2c50978
-ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
+ms.openlocfilehash: d4d116a1d6ad43922c892b93ec9fbf316f8796ce
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29646208"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29929180"
 ---
 # <a name="about-office-2019"></a>Acerca de Office 2019
 

@@ -7,16 +7,16 @@ ms.date: 4/27/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 9468585d-e98e-4774-9176-44be073c54d0
-ms.openlocfilehash: 57449c6fcb7d038012cb65e261aa5e6d0b347f05
-ms.sourcegitcommit: 91cd01f9cb692a02dd3534f6ce58315f38cf13e9
+ms.openlocfilehash: 141bf3464cb8fb8ffa6bf2a11f08db584a5bab9c
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29663909"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29899405"
 ---
 # <a name="need-to-create-an-email-signature"></a>¿Necesita crear una firma de correo electrónico?
 

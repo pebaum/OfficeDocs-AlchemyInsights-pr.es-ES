@@ -6,14 +6,14 @@ ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 88652b7d27ac13cacd9e07aaec5a4a1c38243c7f
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: fd0b0a6630d1ba71b54d85e919421a8312f45d0a
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491251"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29908930"
 ---
 # <a name="sync-a-users-profile-picture"></a>Sincronizar la imagen del perfil de un usuario
 

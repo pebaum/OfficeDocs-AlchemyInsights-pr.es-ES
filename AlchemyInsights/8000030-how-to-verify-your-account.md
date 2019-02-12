@@ -7,16 +7,16 @@ ms.date: 4/16/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: 7a23ece38e78662ce5cb43760de24adf7f7618fd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 23e4b0607247200ca257dc329e964b0468c1c3e9
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491002"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29941741"
 ---
 # <a name="how-to-verify-your-account"></a>Procedimiento para comprobar su cuenta
 

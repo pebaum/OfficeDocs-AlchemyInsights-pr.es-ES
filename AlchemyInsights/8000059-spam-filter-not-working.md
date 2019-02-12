@@ -7,14 +7,14 @@ ms.date: 9/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 29dedb91-06e2-42e5-8281-3785d2a10305
-ms.openlocfilehash: 257cefce17262a45c689d63a513aa1157be537d6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d02a715a96b3120ca33a347fb84e63ce6848372d
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491649"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29941489"
 ---
 # <a name="spam-filter-not-working"></a>No funciona el filtro de correo no deseado
 

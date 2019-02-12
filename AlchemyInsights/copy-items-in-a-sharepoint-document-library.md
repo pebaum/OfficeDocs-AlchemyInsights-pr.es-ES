@@ -7,16 +7,16 @@ ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: cd0647aabfd8e3783b1320ced1c2244098eb0257
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 2bea9fea9ddaca686a5c4fb1cf629cb1a0ebea63
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491655"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29917945"
 ---
 # <a name="copy-items-in-a-sharepoint-document-library"></a>Copiar elementos en una biblioteca de documentos de SharePoint
 

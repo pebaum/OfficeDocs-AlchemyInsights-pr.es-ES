@@ -6,14 +6,14 @@ ms.date: 6/27/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: c15fed9f-65c6-422e-9d32-87e889a44b51
-ms.openlocfilehash: fbb2ea4f0c6e582dae71371d958667162a138346
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: e578149e37c86178b98cf6073f6ed6325f42c455
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491148"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29941093"
 ---
 # <a name="troubleshoot-flow-authentication-errors"></a>Solucionar errores de flujo de autenticación
 

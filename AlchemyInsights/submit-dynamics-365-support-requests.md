@@ -7,16 +7,16 @@ ms.date: 12/11/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 81f4dca4-7ae7-4dc9-929e-7b91b1711118
-ms.openlocfilehash: bff8a8867cc73a54afcec43580868712b427e9c8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: bfae9ce987c670d1159ed7df6823e201e49710e5
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491198"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29899873"
 ---
 # <a name="submit-dynamics-365-support-requests"></a>Enviar solicitudes de soporte técnico de Dynamics 365
 
