@@ -7,14 +7,14 @@ ms.date: 4/26/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: cfd69bab102ac58343ce98db3fb02b594673ea63
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6e877493f44b4636e1293582b5baf6bf98d1d251
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491538"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29905669"
 ---
 # <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Soluciones para problemas de la instalación de office en un servidor de Terminal Server
 
@@ -24,13 +24,13 @@ Para utilizar la activación del equipo compartido, debe tener un plan de Office
     
 - Compruebe que la activación de Office 365 ProPlus se realizó correctamente
     
-- Revise los mensajes de error de la activación en equipos compartidos
+- Revise los mensajes de error para la activación del equipo compartido:
     
-  - Los productos que hemos encontrado en su cuenta no se pueden usar para activar Office en escenarios de equipos compartidos.
+  - "Los productos que se encuentra en su cuenta no se puede usar para activar Office en escenarios de equipo compartido"
   
 Este error significa que no tienen un plan de Office 365 que incluye Office 365 ProPlus.
     
-  - Producto sin licencia
+  - "Producto sin licencia"
     
   - Compruebe que el usuario se le asigna una licencia para Office 365 ProPlus.
     

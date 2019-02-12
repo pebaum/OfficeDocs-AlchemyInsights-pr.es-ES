@@ -7,14 +7,14 @@ ms.date: 5/31/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: fe180c8c-d9e5-4a8c-af54-3fe8fa4a4331
-ms.openlocfilehash: 1db4613d963e128c1742d8adc1bb7f2c2c246ce4
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 04d989697f18b6cfbe66497c11242bfe9bcac57b
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491038"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29905993"
 ---
 "en el nombre" de mi dirección de correo electrónico
 

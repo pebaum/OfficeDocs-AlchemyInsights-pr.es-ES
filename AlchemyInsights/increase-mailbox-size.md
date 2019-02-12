@@ -7,16 +7,16 @@ ms.date: 3/27/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 4029a07e1108a515b9dac2def814243ae3c76c22
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 892eff30359f71984cae2f4ae2448dad49e4d6bd
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29661660"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29906785"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Cambiar de planes para aumentar el tamaño del buzón.
 

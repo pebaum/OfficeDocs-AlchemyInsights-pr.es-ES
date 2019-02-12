@@ -6,14 +6,14 @@ ms.date: 8/21/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
-ms.openlocfilehash: d4bce5438e469d98722f3028b6a473fa40325f64
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: 0dcb3505c38b550fac2d22ce027f16179922012a
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29759513"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29905921"
 ---
 # <a name="trying-to-remove-your-domain"></a>¿Intenta quitar su dominio?
 

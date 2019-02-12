@@ -7,16 +7,16 @@ ms.date: 2/24/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 4d4e1bb38936da136f90cd68ec8acad85a0c2b8c
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: e59beb176248514a4aeab213b930990b3d7bbe5e
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29758541"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29898073"
 ---
 # <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>¿Qué son los roles de administrador y cómo asignar ellos?
 

@@ -6,14 +6,14 @@ ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 0162885a-13d5-4400-9972-935c9186c608
-ms.openlocfilehash: 872b496ddbfb2d5ec19c70a2f9998c88e4807735
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: 58fcd20751861add0269a1f71cb896c79b48a92d
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29758901"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29906569"
 ---
 # <a name="setting-up-visio"></a>Configuración de Visio
 

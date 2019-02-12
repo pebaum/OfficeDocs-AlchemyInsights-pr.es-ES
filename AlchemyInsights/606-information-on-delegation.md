@@ -7,16 +7,16 @@ ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: d9f5719bfc7b6a7d35f114cd21f39cbc2b628824
-ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
+ms.openlocfilehash: 8c11adeacd422fdc82dd21cec44d6e8fdfe00307
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "29770670"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29906641"
 ---
 # <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Solución de problemas de delegación en Outlook y Outlook en la web
 

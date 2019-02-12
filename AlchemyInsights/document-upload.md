@@ -7,16 +7,16 @@ ms.date: 2/28/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
-ms.openlocfilehash: a041d21bcbc77b8069178dc74e92d07df312af7a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 58339542cd1530c912c9c7e37bbc18960aa32691
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490701"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29905741"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>Cargar archivos a OneDrive o SharePoint
 

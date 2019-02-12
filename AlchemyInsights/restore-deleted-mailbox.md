@@ -6,7 +6,7 @@ ms.date: 9/12/2017
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 search.appverid:
@@ -14,12 +14,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 62c85c6207b618a4be267ed3b4b65b56c48b3646
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f9529dc92637e6b6174ff3cb8d1587ab2dffd0e2
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490911"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29927521"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Restaurar un buzón de correo eliminado
 

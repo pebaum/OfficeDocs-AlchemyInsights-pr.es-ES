@@ -7,16 +7,16 @@ ms.date: 2/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: c7f0b2c14c32ceb24b64bdb06bef4d48cc2ad39c
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: a5f4658454631674c9e7f5a289e0308ce6064a5f
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29661228"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29906605"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>¿Cómo cambia de los pagos de tarjeta de crédito a la factura?
 
