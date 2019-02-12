@@ -7,16 +7,16 @@ ms.date: 9/17/2018
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 1de3b2f04162388939809048259552277c4074fc
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 5fb66ba7d27ab34cbefdf084cc24f98ee2223a00
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657447"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29925757"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Pasos para solucionar problemas de bloqueo de Outlook
 

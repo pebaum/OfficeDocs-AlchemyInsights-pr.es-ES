@@ -7,14 +7,14 @@ ms.date: 5/31/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 3241ac3e-57be-4888-9e95-c48c0cca8b13
-ms.openlocfilehash: 26dcf946c12738e0ca47a6751162f5cb7a365067
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: e568b20246d97b6d0e0d18b890ffddcbf97f277f
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490805"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29900485"
 ---
 # <a name="storage-limits-in-outlookcom"></a>Límites de almacenamiento en Outlook.com
 

@@ -7,16 +7,16 @@ ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: 3ef08c1cc31125795ff6a86da863b26dbc0efb8a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: fde0fd14432a44891106f152dbc8c91faf4d7b36
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491004"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29900629"
 ---
 # <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Activar externo de uso compartido de activado o desactivado para un sitio de SharePoint
 

@@ -7,16 +7,16 @@ ms.date: 3/1/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: c3c078f8fb058a409e0fe4aa427f86e328ae4ce7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: eb4e20f4d88e6246195426b02f4f63555a8ba0f9
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491634"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29917477"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>¿Está buscando para comprar una nueva suscripción a?
 
@@ -32,11 +32,11 @@ Si ya tiene un Office 365 para suscripción empresarial y desea comprar otra sus
     
 5. Una vez finalizada la compra, es posible que necesite reasignar licencias o cancelar una suscripción. Para obtener ayuda con esto, consulte la sección recursos adicionales más adelante.
     
- Otros recursos
+ **Recursos adicionales:**
   
 - [Asignar licencias a usuarios en Office 365 para empresas](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
     
-- [Cancelar Office 365 para empresas](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Cancelar Office 365 para profesionales](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
     
 - Si está interesado en las suscripciones de conmutación, vea [cambiar a un diferentes de Office 365 para el plan de negocio.](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)
     

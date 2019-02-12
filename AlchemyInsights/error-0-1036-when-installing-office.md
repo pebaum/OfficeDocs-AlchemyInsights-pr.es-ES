@@ -7,14 +7,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
-ms.openlocfilehash: 723d3b86dc6ce74ed6134437ee51c5811dae4606
-ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
+ms.openlocfilehash: 6fe26f87c6108d25a28a5c55b31710d332b1ac79
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29646256"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29900521"
 ---
 # <a name="error-0-1036-when-installing-office"></a>Error al instalar office 0-1036
 

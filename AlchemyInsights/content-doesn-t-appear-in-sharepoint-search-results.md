@@ -6,14 +6,14 @@ ms.date: 1/8/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: 3871e2eed2e321e0df72fe3578a14ddd45ed8565
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: de607b75f973322359888c300ba1849e117d0092
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29660544"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29900449"
 ---
 # <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Contenido no aparece en los resultados de búsqueda de SharePoint
 
