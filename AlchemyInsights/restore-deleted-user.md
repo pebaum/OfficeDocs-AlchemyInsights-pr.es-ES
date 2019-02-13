@@ -7,16 +7,16 @@ ms.date: 2/25/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: fdd7df1bfebf0bf109bc40129d76dc1e8575aa16
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: c2d6117c0cbb84a2812179ce4af35a5382359b82
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29759297"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29936197"
 ---
 # <a name="restore-a-user-in-office-365"></a>Restaurar un usuario en Office 365
 

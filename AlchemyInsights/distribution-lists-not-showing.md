@@ -7,16 +7,16 @@ ms.date: 2/25/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ccb3e76a-557e-42fa-a9fc-95e396a1a74d
-ms.openlocfilehash: fd8f498f867247b4e33c3b553afbff17808d1077
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: d570be06ae9966d595a5437aa9fd0d9d96550fa0
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29759081"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29936241"
 ---
 # <a name="distribution-group-not-showing-in-groups-list"></a>Grupo de distribución no se muestra en la lista de grupos
 

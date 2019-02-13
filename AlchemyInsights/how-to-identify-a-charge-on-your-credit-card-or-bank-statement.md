@@ -7,16 +7,16 @@ ms.date: 2/28/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: 5bb5632fb0578613cc9d96663c776de93c752016
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d349d107642ed042c8878d3703a1def89e2906d5
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491520"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29936989"
 ---
 # <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Cómo identificar un cargo en su tarjeta de crédito o extracto bancario
 

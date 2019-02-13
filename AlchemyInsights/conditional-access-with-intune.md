@@ -6,14 +6,14 @@ ms.date: 10/11/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 3b50bc96a879017b62e42e1849f72e68408a0d9d
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 2e778bf4fbdb766700fb24b3405b4ddce89253f7
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662344"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29935971"
 ---
 # <a name="conditional-access-with-intune"></a>Acceso condicional con Intune
 

@@ -6,14 +6,14 @@ ms.date: 5/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
-ms.openlocfilehash: e59d45b1c6720187f0bc2274d54f48a49e54b33f
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 57d9093381217736869c48cf9f83ec6831e916a6
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29497887"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29936917"
 ---
 # <a name="migrating-email-from-imap-email-system-to-office-365"></a>Migración de correo electrónico desde el sistema de correo electrónico IMAP a Office 365
 

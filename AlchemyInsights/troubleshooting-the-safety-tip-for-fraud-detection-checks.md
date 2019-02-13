@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
-ms.openlocfilehash: 06a0b5b8d29052e6033de5938b8ea67ceabc9848
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 98627edcd2b685673dda8a8a18821eddf9b64bc1
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29658132"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29936377"
 ---
 # <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Solución de problemas de la sugerencia de seguridad para la detección de loterías comprueba
 

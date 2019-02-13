@@ -7,14 +7,14 @@ ms.date: 11/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 73e8db432afccb73b872ec7a3ce84c25f1ba7f25
-ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
+ms.openlocfilehash: c9061fa728edaab6575a7b1027783e56739a6d14
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/08/2019
-ms.locfileid: "29786787"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29935009"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Directivas de retención en el centro de administración de Exchange
 

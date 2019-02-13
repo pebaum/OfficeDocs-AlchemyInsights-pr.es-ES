@@ -7,16 +7,16 @@ ms.date: 2/22/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 8be9f1bd7d5638df0a8a19b7be054182ab40d465
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: a00ca76dc8253a6e9f82753919bf27ed171c7dbc
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491325"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29933893"
 ---
 # <a name="how-to-purchase-office-365-for-non-profits"></a>Cómo comprar Office 365 para que no son de beneficios
 
