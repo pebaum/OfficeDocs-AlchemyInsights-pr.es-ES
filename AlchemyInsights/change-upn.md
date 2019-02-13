@@ -7,16 +7,16 @@ ms.date: 2/25/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 0c4ccf9b3b1e1666430013b8f827b212688a73af
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: 7788acd13218b6e15a7accb7e87ca14e9c90b691
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29759153"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29901061"
 ---
 # <a name="change-a-users-email-address"></a>Cambiar la dirección de correo electrónico de un usuario
 

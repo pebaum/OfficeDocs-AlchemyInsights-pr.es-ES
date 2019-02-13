@@ -7,14 +7,14 @@ ms.date: 11/5/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: 7242bf2b101b45fec0fe00ab33fa6db150004ee5
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: d2d21fb5546d36990d69b76e3ceb72ce2edf3d80
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657376"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29933497"
 ---
 ¿Tiene problemas con la **Prevención de pérdida de datos (DLP)** no funciona para el contenido que contiene un **Número de seguridad Social (SSN)** cuando se utiliza un tipo de información confidencial en Office 365? Si es así, asegúrese de que el contenido contiene la información necesaria para lo que está buscando la directiva de DLP. 
   

@@ -7,14 +7,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
-ms.openlocfilehash: 21b33d36886bdc8db56550afb3879fc4e69d51f1
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: cbc193a15ecb0f916764512f484a679f6f7015b8
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29655792"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29933641"
 ---
 # <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>¿Dispone de mensajes legítimos se marquen como correo no deseado?
 

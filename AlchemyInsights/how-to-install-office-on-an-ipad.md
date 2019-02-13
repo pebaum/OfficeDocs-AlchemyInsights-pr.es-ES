@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: f4c24caf-cdbc-42ff-a18f-3c5cd37302e3
-ms.openlocfilehash: 96606cdfffd2ca548f36ea1233f8770b338bbf9c
-ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
+ms.openlocfilehash: 62ceeefefeac5e7cc01eb732350b0786050ad903
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29645896"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29933713"
 ---
 # <a name="how-to-install-office-on-an-ipad"></a>Cómo instalar Office en un iPad
 
