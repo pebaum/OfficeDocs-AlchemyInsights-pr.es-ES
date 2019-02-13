@@ -6,14 +6,14 @@ ms.date: 12/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: 1c83529e5be6cc6055c528b6723f7d09d19a269f
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: a1eb23c097e8540856df9d350798a0cdfeb73f15
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491221"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29932489"
 ---
 # <a name="how-to-use-the-sharepoint-online-term-store"></a>Cómo usar el almacén de términos de SharePoint Online
 

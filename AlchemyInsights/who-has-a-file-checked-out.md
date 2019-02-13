@@ -6,14 +6,14 @@ ms.date: 9/10/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
-ms.openlocfilehash: 432c8a2a18fe903f3ef3000346ce74eaa0e71196
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 994d71ca6f140008336d7edb8387f6e044c22d2d
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490989"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29940409"
 ---
 # <a name="who-has-a-file-checked-out"></a>¿Quién tiene un archivo desprotegido?
 

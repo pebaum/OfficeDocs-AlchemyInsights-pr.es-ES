@@ -7,16 +7,16 @@ ms.date: 4/18/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f5383fc3-d7fc-4efb-93b7-a520b374099a
-ms.openlocfilehash: ab06154f65190ba04ee61cfcb2a1636e07535d01
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: b29a049e3fd0c99e2640e6f434f02566bae6d44b
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662107"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29932741"
 ---
 # <a name="set-passwords-to-never-expire"></a>Conjunto de contraseñas para que no expire nunca
 

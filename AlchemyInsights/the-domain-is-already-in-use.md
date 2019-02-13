@@ -6,14 +6,14 @@ ms.date: 8/8/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 3b01008b-f57d-4a82-837c-d22a0ac6a294
-ms.openlocfilehash: 8b6bb50164bb48b955d6cc4873c547232efe1527
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: 18b1c7b76bd0c86ca48d7eb526990944c1ece80e
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29758757"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29940445"
 ---
 # <a name="the-domain-is-already-in-use"></a>El dominio ya está en uso
 

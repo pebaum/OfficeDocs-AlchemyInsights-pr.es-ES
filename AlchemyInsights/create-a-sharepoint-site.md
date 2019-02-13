@@ -7,14 +7,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 92bb7b5f0a684936db52f6be9e00c8dff3378bb5
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: a4c6029c632178136396a91ba9754752dc8f7180
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657520"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29932849"
 ---
 # <a name="create-a-sharepoint-site"></a>Creación de un sitio de SharePoint
 

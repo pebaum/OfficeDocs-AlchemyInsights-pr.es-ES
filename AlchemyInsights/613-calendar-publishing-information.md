@@ -7,16 +7,16 @@ ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: 3b6242e683149064ae1a40e7c8b02355e4098e3b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: dbab73ca3b6c4be3a79e8703267b2366f417fb6a
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491231"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29933246"
 ---
 # <a name="calendar-publishing-information"></a>Publicación de información del calendario
 
