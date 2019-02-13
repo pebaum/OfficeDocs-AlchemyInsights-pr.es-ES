@@ -7,14 +7,14 @@ ms.date: 1/12/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 563c1541-b4d3-4f7a-aaec-8b3b1477e517
-ms.openlocfilehash: 1356f1df81a639f55736e1b2558e3bda8a9fb801
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 9a5654ec2ed890c1b899d779dd48578341f703fb
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29497815"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29921005"
 ---
 # <a name="create-email-signatures"></a>Crear firmas de correo electrónico
 

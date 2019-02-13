@@ -7,16 +7,16 @@ ms.date: 4/12/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 294eb2c9e0688424fdb79dc3191fc7c06e56945f
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 8f9ddaf5d572a563555962ec79e7c35cc4ae4b23
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657592"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29905273"
 ---
 # <a name="get-office-365-free-for-your-entire-school"></a>Obtener Office 365 gratuita para su escuela todo
 

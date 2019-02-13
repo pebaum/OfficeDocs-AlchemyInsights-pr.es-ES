@@ -7,14 +7,14 @@ ms.date: 10/24/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
-ms.openlocfilehash: 6b26b2d77bceb063090986ff4e20bc4a56bb1242
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 0e727bd47a7d549a439e4666fa9dbb8a02e39778
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29655900"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29939365"
 ---
 # <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Solución de problemas con dispositivos Android en Microsoft Intune se inscriben
 

@@ -7,16 +7,16 @@ ms.date: 3/22/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 190898bc-9644-480e-b535-25284aa09729
-ms.openlocfilehash: 4bf11047e703aaaccbf709f1da003bec829c3722
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: f0d0e9e857589ff91d163dcc4877633d18abdaab
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29656224"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29919709"
 ---
 # <a name="sending-email-as-the-shared-mailbox"></a>Envío de correo electrónico como el buzón compartido
 

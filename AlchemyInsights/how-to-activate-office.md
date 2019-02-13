@@ -7,14 +7,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 52347c04-c0fd-4d54-9251-1d1ce79f8405
-ms.openlocfilehash: 20bbd904f13e908fe9b5e4dd9a7292510947f1e0
-ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
+ms.openlocfilehash: 5ba3718d0cd1b8b2539f28e263d0fefb5c8f54ee
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29645536"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29901745"
 ---
 # <a name="how-to-activate-office"></a>Procedimiento para activar Office
 

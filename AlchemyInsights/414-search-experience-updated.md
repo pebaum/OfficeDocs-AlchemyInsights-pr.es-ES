@@ -6,16 +6,16 @@ ms.date: 2/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
-ms.openlocfilehash: 0c165dab0c9d1555f90fb2637ad1eeba6aab22a2
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 749fbb134af73906a92b37ade5e58d0b7f78e90c
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491427"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29900989"
 ---
 # <a name="search-experience-updated"></a>Se actualizó la experiencia de búsqueda
 

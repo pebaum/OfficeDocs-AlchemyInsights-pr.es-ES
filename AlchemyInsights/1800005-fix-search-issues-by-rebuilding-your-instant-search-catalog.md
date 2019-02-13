@@ -7,16 +7,16 @@ ms.date: 6/7/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: ed9a5e6a1d86902fd13d63ebd4d05b1dab430ecc
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b126a921828a87ce3705f8cf6cf1779c3b8ec13e
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490922"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29901205"
 ---
 # <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a>Solucionar problemas de búsqueda volviendo a generar el catálogo de búsqueda instantánea
 

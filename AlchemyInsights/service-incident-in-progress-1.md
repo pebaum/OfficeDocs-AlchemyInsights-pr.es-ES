@@ -6,14 +6,14 @@ ms.date: 9/19/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 2ed85d10-162f-4e4a-a843-7ad20e00a077
-ms.openlocfilehash: 434bd76952899866290283733ac60a6fbb3203d3
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: 453a6e771f8e6bef4202c1f0bd7ff03035a157e5
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29759981"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29904373"
 ---
 # <a name="service-incident-in-progress"></a>Servicio de incidente en curso
 

@@ -7,14 +7,14 @@ ms.date: 11/5/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: ec7f11676982b56a46c83bf276c2212ce765ba6f
-ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
+ms.openlocfilehash: bb80ef07364a575f6032bb105cff83cd8f95bd63
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/08/2019
-ms.locfileid: "29786715"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29912129"
 ---
 # <a name="problems-with-dlp---usuk-passport-numbers"></a>Problemas con DLP - US / números de Passport del Reino Unido
 

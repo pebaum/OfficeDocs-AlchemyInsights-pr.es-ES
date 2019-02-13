@@ -7,14 +7,14 @@ ms.date: 5/3/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 08b866c0-aaff-4d6d-821f-97dc238dbd21
-ms.openlocfilehash: 95807efbf035c360b6029e4d05475f96cb7d3db5
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 281c7bcbcffde8760ac67e2a296a7d37cda0ab2a
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491005"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29900737"
 ---
 # <a name="setting-up-a-hybrid-environment"></a>Configurar un entorno híbrido
 

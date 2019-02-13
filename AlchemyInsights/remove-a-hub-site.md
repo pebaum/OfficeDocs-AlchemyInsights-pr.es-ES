@@ -6,14 +6,14 @@ ms.date: 12/28/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: cebdac7f-fa90-4431-9a71-feb4104e479a
-ms.openlocfilehash: 466116301ea38a2838dfe13ad8ceea93fd967a01
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 082b549f76360f6af0921f7b608030e068232935
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662026"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29905237"
 ---
 # <a name="remove-a-hub-site"></a>Quitar un sitio concentrador
 

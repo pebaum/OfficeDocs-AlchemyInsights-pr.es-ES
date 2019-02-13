@@ -7,14 +7,14 @@ ms.date: 2/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 7b5b4e06-6943-4b2f-b8e4-cdaf13e65c77
-ms.openlocfilehash: fc27604014531cc056f853030cf446743a95b36d
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 9d6a232821884644db08160f18e1dfae2349c349
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490890"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29911537"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Restaurar un buzón de correo eliminado
 

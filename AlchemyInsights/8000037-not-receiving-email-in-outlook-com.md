@@ -7,14 +7,14 @@ ms.date: 5/16/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
-ms.openlocfilehash: 828a51e2c0cc9ba45921916504b5086d565b995c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b0a7e90253fb2125aaf58966263fc040dee29f0b
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491703"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29900953"
 ---
 # <a name="not-receiving-mail-in-outlookcom"></a>No recibe correo en Outlook.com
 

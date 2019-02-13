@@ -7,16 +7,16 @@ ms.date: 4/12/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 76748918-479b-4cdd-8666-dfbd6b483b74
-ms.openlocfilehash: 3dbbaaabf46ae9163ec8bccc9c4bd87f948577f8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d8946eff5b105146dc4d1c91f40d6cb2b066e4bb
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490717"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29911645"
 ---
 # <a name="fix-onedrive-sync-problems"></a>Solucionar problemas de sincronización de OneDrive
 

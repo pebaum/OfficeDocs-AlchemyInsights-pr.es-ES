@@ -7,16 +7,16 @@ ms.date: 12/18/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 712afc25-b9db-4f55-bf79-9f4e5861ab9f
-ms.openlocfilehash: 9b1d02df877c9a8e794b4ed4b67a8f2f7e09306a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 321bc01462306f85d21b028a321875eb6e64fbe4
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29499579"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29912149"
 ---
 # <a name="the-open-with-explorer-button-is-missing"></a>Falta el abrir con el botón del explorador
 

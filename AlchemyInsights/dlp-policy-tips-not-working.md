@@ -7,14 +7,14 @@ ms.date: 11/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: f7dfc010c3624b2192da01d9e50e58dd6bb653df
-ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
+ms.openlocfilehash: ffed863e8d44d2513fbcf53edd9bfa14b859b913
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/08/2019
-ms.locfileid: "29786751"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29900809"
 ---
 # <a name="dlp-policy-tip-issues"></a>Problemas de sugerencia de directiva de DLP
 

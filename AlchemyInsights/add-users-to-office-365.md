@@ -7,16 +7,16 @@ ms.date: 2/24/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cfacdcac-8b59-4d81-a8b1-0d16b712df25
-ms.openlocfilehash: d80072c3cdbeb97d7b73520267c64ca8447bee4b
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: 600eda051f47a57dcc6da4c4b48f95f5b8021f12
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29758577"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29904554"
 ---
 # <a name="add-a-user-to-office-365"></a>Agregar un usuario a Office 365
 

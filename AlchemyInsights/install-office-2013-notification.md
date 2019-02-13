@@ -7,16 +7,16 @@ ms.date: 2/27/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d7fb12ba-895f-45bf-9f4a-12620231d31e
-ms.openlocfilehash: a91af65fddaee455936fc11414ed37dc22f5d5b9
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: eada2cf07a83431da9eda0676a1b974daa000824
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29757029"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29920357"
 ---
 # <a name="upgrade-to-office-2016"></a>Actualizar a Office 2016
 

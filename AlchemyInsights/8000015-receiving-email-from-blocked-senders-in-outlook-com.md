@@ -7,14 +7,14 @@ ms.date: 6/5/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 46a04853-e422-41cc-9bb7-a46d6b6f8aa0
-ms.openlocfilehash: c9a56fe4a957ce3d0b60aa919ca89df683657066
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f58b61fc6bef7cf759cac7a5ea13a455f80301f3
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490857"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29920431"
 ---
 # <a name="receiving-email-from-blocked-senders"></a>Recibir correo electrónico de remitentes bloqueados
 

@@ -7,16 +7,16 @@ ms.date: 4/19/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ff0f9110-10be-4c27-acaa-1615f81a53f2
-ms.openlocfilehash: 40729cba9d6e603cde52b362037ccf8d9e0355ec
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 656d8787edb6ca00f6753d096c2c475a5b27c39d
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491578"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29927989"
 ---
 # <a name="the-open-with-explorer-button-is-disabled"></a>Se deshabilita el abrir con el botón del explorador
 

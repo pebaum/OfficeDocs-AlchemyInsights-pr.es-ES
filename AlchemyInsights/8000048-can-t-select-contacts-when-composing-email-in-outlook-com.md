@@ -7,14 +7,14 @@ ms.date: 5/31/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
-ms.openlocfilehash: 6aa5b1995010447a1d256bf1e8a2c080b29f4f33
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f6fd5b5c246d25c2f68bd9094af88e80819d5ed6
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498679"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29920069"
 ---
 # <a name="cant-select-contacts-when-composing-email"></a>No se pueden seleccionar los contactos al redactar correo electrónico
 

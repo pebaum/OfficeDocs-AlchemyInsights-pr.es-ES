@@ -7,16 +7,16 @@ ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 6ef8a706ac14d6b1c11c467800e0c41df2450ea1
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 808b36c247458123da6ee43500c1380f6407e7cd
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491681"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29904661"
 ---
 # <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>¿Obtención de un buzón de correo no se ha encontrado el error en Outlook en el web?
 

@@ -7,14 +7,14 @@ ms.date: 4/26/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
-ms.openlocfilehash: 79106ca5562fa2d204da9dc7b470f07758f8da82
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4abb2f5b1644b651c8a137feb01aace69257d2bb
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491551"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29920033"
 ---
 # <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a>Cómo comprar licencias para la suscripción de negocio de Office 365
 

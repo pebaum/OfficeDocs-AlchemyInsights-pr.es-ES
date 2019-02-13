@@ -6,14 +6,14 @@ ms.date: 8/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: b6be074ed5f7e83f8196ca3fe90252673896569f
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: e0fbec6eb269a173664e2b9a1efe6eefb527b96f
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491041"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29905165"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>Restringir el acceso de SharePoint o OneDrive
 

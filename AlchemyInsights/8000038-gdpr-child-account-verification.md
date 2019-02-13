@@ -7,14 +7,14 @@ ms.date: 5/16/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 9039e40c-62d4-4658-ab5b-2649ba738c40
-ms.openlocfilehash: 0e38f360e56d750c917e61a56bb8a7e8587c00fc
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 993797d951dddea20d7df24ad40b5834a537852a
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491379"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29919961"
 ---
 # <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a>Fecha de nacimiento que se muestra en su cuenta de Microsoft es incorrecto
 

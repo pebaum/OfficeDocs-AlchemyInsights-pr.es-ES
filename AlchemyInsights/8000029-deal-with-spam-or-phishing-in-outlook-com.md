@@ -7,16 +7,16 @@ ms.date: 5/1/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e03a7476-f02d-4c2c-bc55-42cad0ab8622
-ms.openlocfilehash: adb11e5bba4dc31c228b9a68919283fa370db768
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 0b9022698567a572156201a40271ee46ec01e5fc
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491339"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29920141"
 ---
 # <a name="deal-with-spam-or-phishing-scams-in-your-inbox"></a>Abordar los problemas con las estafas de correo no deseado o suplantación de identidad en la Bandeja de entrada
 

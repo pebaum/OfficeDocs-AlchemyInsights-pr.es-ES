@@ -7,16 +7,16 @@ ms.date: 5/24/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: 5d4773e68d9e140ff762d4aaf6150a88acb4b120
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 063c9139dc519d45e1160dd8c72df10f63d4fadf
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491493"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29911393"
 ---
 # <a name="how-to-share-in-sharepoint-online"></a>Procedimiento para compartir en SharePoint Online
 

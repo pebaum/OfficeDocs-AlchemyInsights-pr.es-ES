@@ -7,16 +7,16 @@ ms.date: 2/25/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ab08e594-ded6-4ad8-a0e1-b365960a4293
-ms.openlocfilehash: e9f691379742f51d0085133e8832aea5d2652b32
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d327f3e1c4ac11e27d7d33245ae01e0ad8f807a3
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490769"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29905597"
 ---
 # <a name="convert-a-user-mailbox-to-a-room-or-equipment-mailbox"></a>Convertir un buzón de usuario a un buzón de sala o equipo
 

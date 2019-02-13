@@ -7,16 +7,16 @@ ms.date: 3/27/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: 62876e70201a5df147d1720303d53c951b205058
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: bb2dc43b2035510c86a51d605325957c945be2f2
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29661948"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29916829"
 ---
 # <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Qué hacer si el tamaño del buzón de correo ya es 100GB
 

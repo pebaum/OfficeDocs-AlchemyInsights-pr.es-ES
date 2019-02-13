@@ -7,14 +7,14 @@ ms.date: 5/3/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: f974fc09-ae6e-4b3d-94cb-1b1021d2ee31
-ms.openlocfilehash: f368e2fcb5a235c4ecc483b78b34ce024b206529
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: fe0972213218c09e3cf8b247a7b44b951a2a6521
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491020"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29912424"
 ---
 # <a name="using-minimal-hybrid-to-move-to-office-365"></a>Uso mínimo híbrido para mover a Office 365
 
