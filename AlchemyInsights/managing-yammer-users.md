@@ -6,14 +6,14 @@ ms.date: 5/1/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 61503e589df11b380c8a2857bcb2c2cd191b4499
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 124cebf935444632517851ef37436f3f931f1b42
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491241"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29901883"
 ---
 # <a name="managing-yammer-users"></a>Administración de usuarios de Yammer
 

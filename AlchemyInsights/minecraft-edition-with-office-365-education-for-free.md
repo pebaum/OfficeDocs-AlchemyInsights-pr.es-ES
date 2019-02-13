@@ -7,14 +7,14 @@ ms.date: 11/6/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: 4fa4b424ee698f5cdb56ed4e41da22b037ae2362
-ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
+ms.openlocfilehash: 889c50a5f350a51cd042bbcd231ad8d201288dae
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "29770634"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29902141"
 ---
 # <a name="minecraft-edition-with-office-365-education-for-free"></a>Libre de educación para Minecraft Edition con Office 365
 

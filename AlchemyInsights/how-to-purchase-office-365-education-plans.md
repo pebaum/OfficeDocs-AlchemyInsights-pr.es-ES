@@ -7,16 +7,16 @@ ms.date: 2/22/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 1e8c744cb06db32c6af424e7d9d00385060e32c6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: a16c41eda0d289c9d574a1e754aa16dbf3dc2031
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491383"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29902285"
 ---
 # <a name="how-to-purchase-office-365-education-plans"></a>Cómo comprar planes de formación de Office 365
 

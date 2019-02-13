@@ -7,16 +7,16 @@ ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: b6417cc9-c779-4856-b0e1-a2882af39397
-ms.openlocfilehash: 0b3e87bcac328a85f906482e9769222ba8c55a83
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 099d5cad54f8342ba36aee5fe1cc6f5e2b493073
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490784"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29901781"
 ---
 # <a name="email-aliases-on-mobile-devices"></a>Alias de correo electrónico en dispositivos móviles
 

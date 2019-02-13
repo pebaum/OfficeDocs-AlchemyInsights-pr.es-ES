@@ -7,14 +7,14 @@ ms.date: 12/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: 96a9cfd11941158ddf13655c74974e3eb800e570
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 9331a6c2b6e92a66fb97daf7dc5655ec320cba0f
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491245"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29903130"
 ---
 # <a name="winsock-error-10061"></a>Error de Winsock 10061
 

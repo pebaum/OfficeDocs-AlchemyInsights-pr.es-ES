@@ -7,14 +7,14 @@ ms.date: 9/13/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 90219a36-2d1c-4917-af91-0fcf693f659b
-ms.openlocfilehash: d8be6f4c2f4d25e4b6323a90403b4a22cb2600b9
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 0b1fc087d5c086469598e07cc0addd6a90ea6956
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490690"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29902213"
 ---
 # <a name="how-to-change-your-theme"></a>Procedimiento para cambiar el tema
 

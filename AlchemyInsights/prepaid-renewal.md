@@ -7,16 +7,16 @@ ms.date: 4/16/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 3b8b2e0d14a6e7ab794e53c399139d9aace8373f
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 909e5e5ed28db9c40dba4499876af506cf004b7d
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490668"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29902177"
 ---
 # <a name="prepaid-renewal"></a>Renovación de prepago
 

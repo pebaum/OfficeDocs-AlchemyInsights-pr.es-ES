@@ -6,14 +6,14 @@ ms.date: 8/1/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: f4153f8a87a138d548c133142b0d48a319bd4b71
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 756c5e98ed3e9cedd0152b5747ea6bf1ed31778e
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29656584"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29902380"
 ---
 # <a name="monitoring-conditional-access"></a>Supervisión de acceso condicional
 
