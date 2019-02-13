@@ -6,23 +6,23 @@ ms.date: 6/10/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: c4a461538c02fd9a5e2d5a3c2637856fb325d79c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ec6b1a1678096ca132e70693fda6f80ce7d5e6cd
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491491"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29939221"
 ---
-# <a name="install-and-configure-onedrive"></a><span data-ttu-id="091f1-102">Instalar y configurar OneDrive</span><span class="sxs-lookup"><span data-stu-id="091f1-102">Install and configure OneDrive</span></span>
+# <a name="install-and-configure-onedrive"></a><span data-ttu-id="870b0-102">Instalar y configurar OneDrive</span><span class="sxs-lookup"><span data-stu-id="870b0-102">Install and configure OneDrive</span></span>
 
-<span data-ttu-id="091f1-p101">El cliente de sincronización de OneDrive está preinstalado con Windows 10. Para instalar OneDrive para Windows 7 o Mac, o para obtener la aplicación móvil de su teléfono o Tablet PC, vaya a [http://onedrive.com/download](http://onedrive.com/download).</span><span class="sxs-lookup"><span data-stu-id="091f1-p101">The OneDrive sync client is preinstalled with Windows 10. To install OneDrive for Windows 7 or Mac, or to get the mobile app for your phone or tablet, go to [http://onedrive.com/download](http://onedrive.com/download).</span></span>
+<span data-ttu-id="870b0-p101">El cliente de sincronización de OneDrive está preinstalado con Windows 10. Para instalar OneDrive para Windows 7 o Mac, o para obtener la aplicación móvil de su teléfono o Tablet PC, vaya a [http://onedrive.com/download](http://onedrive.com/download).</span><span class="sxs-lookup"><span data-stu-id="870b0-p101">The OneDrive sync client is preinstalled with Windows 10. To install OneDrive for Windows 7 or Mac, or to get the mobile app for your phone or tablet, go to [http://onedrive.com/download](http://onedrive.com/download).</span></span>
   
-<span data-ttu-id="091f1-105">Para configurar el cliente de sincronización de OneDrive en Windows, consulte:</span><span class="sxs-lookup"><span data-stu-id="091f1-105">To set up the OneDrive sync client in Windows, see:</span></span>
+<span data-ttu-id="870b0-105">Para configurar el cliente de sincronización de OneDrive en Windows, consulte:</span><span class="sxs-lookup"><span data-stu-id="870b0-105">To set up the OneDrive sync client in Windows, see:</span></span>
   
-- [<span data-ttu-id="091f1-106">Configurar el equipo para sincronizar su para archivos de OneDrive empresarial en Office 365</span><span class="sxs-lookup"><span data-stu-id="091f1-106">Set up your computer to sync your OneDrive for Business files in Office 365</span></span>](https://go.microsoft.com/fwlink/?linkid=533375)
+- [<span data-ttu-id="870b0-106">Configurar el equipo para sincronizar su para archivos de OneDrive empresarial en Office 365</span><span class="sxs-lookup"><span data-stu-id="870b0-106">Set up your computer to sync your OneDrive for Business files in Office 365</span></span>](https://go.microsoft.com/fwlink/?linkid=533375)
     
-- [<span data-ttu-id="091f1-107">Sincronizar archivos de SharePoint con el nuevo cliente de sincronización de OneDrive</span><span class="sxs-lookup"><span data-stu-id="091f1-107">Sync SharePoint files with the new OneDrive sync client</span></span>](https://go.microsoft.com/fwlink/?linkid=871666)
+- [<span data-ttu-id="870b0-107">Sincronizar archivos de SharePoint con el nuevo cliente de sincronización de OneDrive</span><span class="sxs-lookup"><span data-stu-id="870b0-107">Sync SharePoint files with the new OneDrive sync client</span></span>](https://go.microsoft.com/fwlink/?linkid=871666)
     
 
