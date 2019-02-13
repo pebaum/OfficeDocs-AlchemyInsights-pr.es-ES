@@ -7,14 +7,14 @@ ms.date: 5/16/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 81ce6c8b-6f73-4489-9539-f14680168a8e
-ms.openlocfilehash: 5e61290f4e9014cf53fc2f6af20c197d23ac9289
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 20bfefdd83d5acacf75d55d1fafa5324e28759ef
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490667"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29939321"
 ---
 # <a name="change-your-account-picture"></a>Cambiar la imagen de la cuenta
 

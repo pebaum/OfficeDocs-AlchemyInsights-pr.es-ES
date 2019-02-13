@@ -7,15 +7,15 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
 description: Los pasos siguientes describen cómo desinstalar Office desde un PC.
-ms.openlocfilehash: 9eecacd13793dbf1c788daed5a90ae6e44f84397
-ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
+ms.openlocfilehash: 5702f41f3c43183381608f2a2cfc8218887ba21a
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29646688"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29940211"
 ---
 # <a name="uninstall-office"></a>Desinstalación de Office
 

@@ -7,16 +7,16 @@ ms.date: 6/6/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: de9ab3b22eb2416f47c99f0588bc73d1ad57ab2d
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 07b6656147409f0e85f731a8201d7bb7551f68da
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491247"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29935765"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Cómo volver a activar y administrar la facturación periódica
 

@@ -7,16 +7,16 @@ ms.date: 5/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
-ms.openlocfilehash: d5ffe2695c7a81380126e6ee58eae8fcbcb72832
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 57437156030b7f66bd5cc1b01cc708e742a6e33f
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491012"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29937169"
 ---
 # <a name="unable-to-send-group-emails"></a>No se puede enviar mensajes de correo electrónico de grupo
 

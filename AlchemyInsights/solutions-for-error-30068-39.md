@@ -7,16 +7,16 @@ ms.date: 12/19/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 6792651dcccead6416ff882ca9b628ff10d09e63
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 2eb29cda625bcae50e843e1dce87f13e4dae8ef3
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490674"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29937889"
 ---
 # <a name="solutions-for-error-30068-39"></a>Soluciones para el error 30068-39
 

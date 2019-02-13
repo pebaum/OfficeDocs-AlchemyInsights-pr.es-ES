@@ -6,14 +6,14 @@ ms.date: 8/21/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: ebf00eb2-1205-4d5d-aae0-4581766234f5
-ms.openlocfilehash: e7450acabe97525c4b29edb41d3251076c76c635
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: 2f5323e6179bcce3dd25833d263dfe095f6c6d12
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29759909"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29935153"
 ---
 # <a name="trying-to-verify-your-domain"></a>¿Intenta comprobar el dominio?
 

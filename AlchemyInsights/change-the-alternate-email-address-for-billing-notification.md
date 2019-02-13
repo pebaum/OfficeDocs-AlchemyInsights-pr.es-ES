@@ -7,16 +7,16 @@ ms.date: 2/25/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
-ms.openlocfilehash: 31f346334d1c27dd5c0431e7a1d588bce41978b7
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: e42842d92b259e5c22979e93031a6cbe9c5381ec
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29658420"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29938130"
 ---
 # <a name="change-the-alternate-email-address-for-billing-notification"></a>Cambiar la dirección de correo electrónico alternativa de las notificaciones de facturación
 

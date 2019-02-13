@@ -7,14 +7,14 @@ ms.date: 9/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: b8fbcf77-c6ab-43e8-8fb9-ae65530d73bf
-ms.openlocfilehash: 541ad96be587c37061849401c03efc015dd82ec7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3a7cdcaf3668ecce874ba4f744b7a79fd30c5460
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490892"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29938573"
 ---
 # <a name="create-a-new-folder"></a>Crear una nueva carpeta
 

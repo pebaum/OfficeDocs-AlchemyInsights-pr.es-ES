@@ -6,14 +6,14 @@ ms.date: 8/3/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 254b58a6-a85d-4c1c-b19f-de61b8f9a227
-ms.openlocfilehash: 221c31c9b0ffd1b4e7330dca50b423a51bd75e15
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 8623fec5c171497a9844bbdbeaa21b966b14737c
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662272"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29935837"
 ---
 # <a name="manage-groups-in-yammer"></a>Administración de grupos de Yammer
 

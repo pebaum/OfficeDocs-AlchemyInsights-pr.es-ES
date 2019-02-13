@@ -7,16 +7,16 @@ ms.date: 5/1/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ef3475a8-e898-44d8-ae1d-82cdbf4454e8
-ms.openlocfilehash: e36e35c39f10e88b022ab26ed88dfa26ba6c43dc
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1f625470b8ed9b1e1cacd177f12a9fff8c82e741
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490688"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29939077"
 ---
 # <a name="close-your-outlookcom-email-account"></a>Cerrar la cuenta de correo electrónico Outlook.com
 

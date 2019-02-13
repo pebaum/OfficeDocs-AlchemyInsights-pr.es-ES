@@ -7,14 +7,14 @@ ms.date: 4/26/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 6a828f8d-ff31-40a7-b701-b2339e771817
-ms.openlocfilehash: ed1db79b7c0aef53c7ded1a8d2119fd326a84832
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: be232b682b7bb3d24f59ad10501edbd796e6bcaf
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29661264"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29935891"
 ---
 # <a name="file-open-read-only"></a>Abre el archivo como de solo lectura
 

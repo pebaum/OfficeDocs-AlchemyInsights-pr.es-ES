@@ -6,14 +6,14 @@ ms.date: 6/10/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: c4a461538c02fd9a5e2d5a3c2637856fb325d79c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ec6b1a1678096ca132e70693fda6f80ce7d5e6cd
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491491"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29939221"
 ---
 # <a name="install-and-configure-onedrive"></a>Instalar y configurar OneDrive
 

@@ -1,5 +1,5 @@
 ---
-title: Ampliar el periodo de prueba de Office 365 para la empresa
+title: Ampliar la versión de evaluación para Office 365 para profesionales
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -7,18 +7,18 @@ ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: c325ca115037831d220d9dd5a7b092ab74aee593
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 051f302d1180154179675bcd75c4098b76124faa
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490822"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29937853"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>Ampliar el periodo de prueba de Office 365 para la empresa
+# <a name="extend-your-trial-for-office-365-for-business"></a>Ampliar la versión de evaluación para Office 365 para profesionales
 
 Si su suscripción de prueba está dentro de 15 días de caducar y todavía no se han extendido la versión de prueba antes de, puede ampliar la versión de prueba de otro período de 30 días. Sólo puede hacerlo una vez.
   

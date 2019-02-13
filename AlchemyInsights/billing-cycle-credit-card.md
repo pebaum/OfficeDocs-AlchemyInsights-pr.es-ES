@@ -7,16 +7,16 @@ ms.date: 12/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: 4a331294bffb04ab54684ad256d172d45e27cf22
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 11492c6c9430dc4c67a1492fc22a4a98e5d38767
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498247"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29938769"
 ---
 # <a name="billing-cycle-credit-card"></a>Tarjeta de crédito del ciclo de facturación
 

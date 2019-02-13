@@ -7,16 +7,16 @@ ms.date: 4/26/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
-ms.openlocfilehash: 1bfaec871ddbb4c56500127c1c4ac610faa37a31
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 66462dff344d0b6ad5ae6eabf78bede2e3335356
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490929"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29940157"
 ---
 # <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Cargar archivos o una carpeta en una biblioteca de documentos de SharePoint
 
