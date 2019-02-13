@@ -7,16 +7,16 @@ ms.date: 2/26/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 6144aadb7df39bff7471d4ee3aca920355d961f4
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 56d0c2579b10c5e81296fc84b92f15c76afd6f6b
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490771"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29930486"
 ---
 # <a name="rename-your-onmicrosoftcom-domain"></a>Cambiar el nombre de su dominio onmicrosoft.com
 
