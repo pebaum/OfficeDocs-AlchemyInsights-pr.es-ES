@@ -8,13 +8,13 @@ ms.topic: article
 ms.prod: office-online-server
 ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.openlocfilehash: 96e964635a23c2007ab6590beae5c625c615a3f4
-ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
+localization_priority: Normal
+ms.openlocfilehash: 86226363eb2f8804ce7fc23459a2b380f3853675
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29646976"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29925793"
 ---
 # <a name="activation-troubleshooting"></a>Solución de problemas de activación
 

@@ -7,16 +7,16 @@ ms.date: 8/21/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: e0e6c7589c0bb711cea87612500797f6b69ad4a0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 30b7c67e4568634c5ec70b366ddd43774b661b7b
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491076"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29925673"
 ---
 # <a name="creating-email-signatures"></a>Creación de firmas de correo electrónico
 
