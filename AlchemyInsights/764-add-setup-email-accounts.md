@@ -1,19 +1,19 @@
 ---
 title: Cuentas de correo electrónico de 764 agregar o el programa de instalación
 ms.author: pdigia
-author: pdigia
+author: pebaum
 ms.date: 6/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: 5c27c9b645d732aea84c066b57650a53c73d6100
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 8a77ae635bf9fbe73a1f9f4c5675f50206ff58d1
+ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925487"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29968542"
 ---
 # <a name="setup-email-accounts"></a>Configurar las cuentas de correo electrónico
 

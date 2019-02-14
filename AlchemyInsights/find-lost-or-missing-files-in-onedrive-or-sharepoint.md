@@ -1,7 +1,7 @@
 ---
 title: Buscar archivos perdidos o que faltan en OneDrive o SharePoint
 ms.author: matteva
-author: matteva
+author: pebaum
 manager: scotv
 ms.date: 4/25/2018
 ms.audience: Admin
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: ddebeae9dc8d621189314e393a233bddcec0e002
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 7327d570ab76c8dc0581c004b8701b1f4270d425
+ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919241"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29968182"
 ---
 # <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Buscar archivos perdidos o que faltan en OneDrive o SharePoint
 
