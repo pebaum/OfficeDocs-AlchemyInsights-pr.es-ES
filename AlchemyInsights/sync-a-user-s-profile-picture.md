@@ -1,19 +1,19 @@
 ---
 title: Sincronizar la imagen del perfil de un usuario
 ms.author: ponincev
-author: ponincev
+author: pebaum
 ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: fd0b0a6630d1ba71b54d85e919421a8312f45d0a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0ee818002cf89ab0b2e5c94f8718b3df602d529d
+ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29908930"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29969514"
 ---
 # <a name="sync-a-users-profile-picture"></a>Sincronizar la imagen del perfil de un usuario
 

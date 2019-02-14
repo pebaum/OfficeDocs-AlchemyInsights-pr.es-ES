@@ -1,7 +1,7 @@
 ---
 title: Alchemy - pasos para solucionar problemas de bloqueo de Outlook
 ms.author: pdigia
-author: pdigia
+author: pebaum
 manager: jackiesm
 ms.date: 9/17/2018
 ms.audience: ITPro
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 5fb66ba7d27ab34cbefdf084cc24f98ee2223a00
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 5e54975a9783490c406a15e6572f3858c7123bb7
+ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925757"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29968434"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Pasos para solucionar problemas de bloqueo de Outlook
 

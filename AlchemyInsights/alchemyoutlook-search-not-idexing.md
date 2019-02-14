@@ -1,7 +1,7 @@
 ---
 title: Alchemy - búsqueda de Outlook no idexing
 ms.author: pdigia
-author: pdigia
+author: pebaum
 manager: jackiesm
 ms.date: 3/1/2018
 ms.audience: Admin
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: 3d7e24ab481f3cd8ed387af972fc0154fc51cd48
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 645f2caade2e48225f972d67c2d8fb7a770523f7
+ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905561"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29969370"
 ---
 # <a name="outlook-search-not-indexing"></a>No indización de búsqueda de Outlook
 

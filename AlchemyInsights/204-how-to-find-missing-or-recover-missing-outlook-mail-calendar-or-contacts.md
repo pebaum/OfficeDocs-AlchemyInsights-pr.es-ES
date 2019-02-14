@@ -1,7 +1,7 @@
 ---
 title: 204 cómo encontrar falta o recuperar falta el correo de Outlook, calendario o contactos
 ms.author: pdigia
-author: pdigia
+author: pebaum
 manager: jackiesm
 ms.date: 9/17/2018
 ms.audience: Admin
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: 545c3d17b1cc2f415685e59d49a1fd743746bf08
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 4caddd2ad354738de6340e127f594cb0ff44be62
+ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29915684"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29969586"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Cómo buscar y recuperar los mensajes que faltan, contactos o elementos de calendario en Outlook
 

@@ -1,7 +1,7 @@
 ---
 title: 606 información acerca de la delegación
 ms.author: pdigia
-author: pdigia
+author: pebaum
 manager: jackiesm
 ms.date: 4/9/2018
 ms.audience: Admin
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 8c11adeacd422fdc82dd21cec44d6e8fdfe00307
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 971838c2b6fcb2849d79aa8e84ab3bf2e1d6e383
+ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906641"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29969550"
 ---
 # <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Solución de problemas de delegación en Outlook y Outlook en la web
 

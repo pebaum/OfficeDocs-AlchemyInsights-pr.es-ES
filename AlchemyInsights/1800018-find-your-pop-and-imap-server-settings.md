@@ -1,19 +1,19 @@
 ---
 title: 1800018 encontrar la configuración del servidor POP e IMAP
 ms.author: pdigia
-author: pdigia
+author: pebaum
 ms.date: 6/18/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 244fb17f-f0e3-474a-b287-023f4fb74830
-ms.openlocfilehash: b0a0d48a6aad1fff3f98ff55ba74217e460552d1
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 73389f5b1807a34acfe502c898bb1dabbae523a1
+ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29922301"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29969946"
 ---
 # <a name="find-your-pop-or-imap-server-settings"></a>Busque la configuración del servidor POP o IMAP
 

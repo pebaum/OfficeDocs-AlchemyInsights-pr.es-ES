@@ -1,7 +1,7 @@
 ---
 title: Uso compartido de calendarios 611
 ms.author: pdigia
-author: pdigia
+author: pebaum
 manager: jackiesm
 ms.date: 3/23/2018
 ms.audience: Admin
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7a46ee5e-700e-455f-b13a-a063b5907a55
-ms.openlocfilehash: 71cc6ce7995cec618f2c6ae0f00f5dde0e0a37a0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 8973d71fcd388518a823936db8f6ff038cf2e952
+ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926225"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29969766"
 ---
 # <a name="calendar-sharing"></a>Uso compartido de calendarios
 
