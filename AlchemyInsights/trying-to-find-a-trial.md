@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: a932770042274ed721c2394c2edf2db1e9dae4b5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: bf7ba2f9f90d6c7220973b13ade4f154a0ca3655
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901241"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208209"
 ---
 # <a name="trying-to-find-a-trial"></a>¿Intenta encontrar una versión de prueba?
 
-Si desea probar un nuevo servicio que puede encontrar una lista de suscripciones disponibles para la versión de prueba en el centro de administración de Office 365.
+Si desea probar un nuevo servicio, puede encontrar una lista de las suscripciones disponibles para la versión de prueba en el centro de administración de Microsoft 365.
   
-1. Vaya a la página [Servicios de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) , o bien elija **facturación** \> **Servicios de compra**.
+1. Vaya a la página de [servicios de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) o elija **servicios de compra**de **facturación** \> .
     
-2. Busque la suscripción que satisfaga sus necesidades, mouse (ratón) sobre él, y elija **iniciar la versión de prueba gratuita**.
+2. Busque la suscripción que mejor se adapte a sus necesidades, pase el mouse por encima de ella y elija **iniciar prueba gratuita**.
     
     > [!NOTE]
-    > No todas las suscripciones están disponibles como una versión de prueba. Si no ve el botón **Inicio de la versión de prueba gratuita** cuando el mouse (ratón) a través de una suscripción, significa que no está disponible una versión de prueba. 
+    > No todas las suscripciones están disponibles como versión de prueba. Si no ve el botón **iniciar prueba gratuita** cuando pasa el mouse por una suscripción, significa que no hay ninguna prueba disponible. 
   
-3. Le pedirá que escriba una tarjeta de crédito u otro método de pago para proporcionar una comprobación adicional como medida de seguridad. No se realizará ningún cargo para esta versión de prueba gratuita. Se mantendrá su información de pago en el archivo y no la use para cualquier compra sin su aprobación.
+3. Es posible que se le pida que escriba una tarjeta de crédito u otra forma de pago para proporcionar una comprobación adicional como medida de seguridad. No se le cobrará por esta prueba gratuita. Se mantendrá la información de pago en el archivo y no se usará para ninguna compra sin su aprobación.
     
 4. Elija **realizar pedido**.
     

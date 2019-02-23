@@ -11,43 +11,43 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: da8aef3d9709cd42bec3246c689ad842569400e2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d758ccc963a317fdd7523d67739953fe3db34c7d
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926297"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210042"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Eliminación de sitios que pertenecen a un grupo de Office 365:
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Eliminar los sitios que pertenecen a un grupo de Office 365:
 
-Cuando los usuarios crear un nuevo sitio de grupo desde la página principal de SharePoint (o crear un nuevo sitio de grupo de la nueva vista previa de centro de administración de SharePoint), se crea automáticamente un grupo de Office 365 correspondiente. Sitios de Office 365 equipo conectado de grupo también se crean cuando se crea un grupo de Office 365 o en un equipo en Microsoft Teams. Para eliminar un sitio de SharePoint que pertenece a un grupo de Office 365, debe eliminar el propio grupo de Office 365. 
+Cuando los usuarios crean un nuevo sitio de grupo desde la Página principal de SharePoint (o crea un nuevo sitio de grupo desde la nueva vista previa del centro de administración de SharePoint), se crea automáticamente un grupo de Office 365 correspondiente. Los sitios de grupo conectados a Office 365 también se crean al crear un grupo de Office 365 o un equipo en Microsoft Teams. Para eliminar un sitio de SharePoint que pertenece a un grupo de Office 365, debe eliminar el propio grupo Office 365. 
   
-1. Vaya a la [página grupos del centro de administración de Office 365](https://portal.office.com/adminportal/home#/groups).
+1. Vaya a la [Página grupos del centro de administración de Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
-2. Seleccione la casilla de verificación situada junto al grupo.
+2. Active la casilla de verificación situada junto al grupo.
     
-3. Seleccione **Eliminar**.
+3. Seleccione **eliminar**.
     
-Nota: Cuando se elimina un grupo, puede haber un retraso antes de quita el sitio de SharePoint.
+Nota: cuando se elimina un grupo, puede haber un retraso antes de que se quite el sitio de SharePoint.
   
-**Eliminar sitios de comunicación o clásico:**
+**Eliminar sitios de comunicación o sitios clásicos:**
 
 1. Vaya al sitio.
   
-2. Haga clic en el ** configuración ** icono en la esquina superior derecha. 
+2. Haga clic en el icono * * Settings * * en la esquina superior derecha. 
   
-3. Haga clic en **Configuración del sitio**. Bajo **Información de sitio** o **Acciones del sitio**, haga clic en **Eliminar este sitio**y, a continuación, haga clic en **Eliminar**.
+3. Haga clic en **configuración del sitio**. En **información del sitio** o **acciones del sitio**, haga clic en **eliminar este sitio**y, a continuación, haga clic en **eliminar**.
   
-**Eliminar una colección de sitios de SharePoint:**
+**Elimine una colección de sitios de SharePoint:**
 
-Para eliminar una colección de sitios clásico:
+Para eliminar una colección de sitios clásica:
   
-1. En el centro de administración de SharePoint clásico, en la página de colecciones de sitios, active la **casilla de verificación** situada junto a la colección de sitios. 
+1. En el centro de administración clásico de SharePoint, en la página colecciones de sitios, active la **casilla de verificación** situada junto a la colección de sitios. 
     
-2. En la ficha de colecciones de sitios, seleccione **Eliminar.**
+2. En la pestaña colecciones de sitios, seleccione **eliminar.**
     
-**¿Eliminar un sitio por accidente?**
+**¿Ha eliminado un sitio por accidente?**
 
-Vea [restaurar una colección de sitios eliminada](https://go.microsoft.com/fwlink/?linkid=867660).
+Consulte [restaurar una colección de sitios eliminada](https://go.microsoft.com/fwlink/?linkid=867660).
   
 

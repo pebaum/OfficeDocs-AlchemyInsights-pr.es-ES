@@ -1,5 +1,5 @@
 ---
-title: Cómo comprobar el dominio con Office 365
+title: Cómo comprobar su dominio con Office 365
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 1/14/2019
@@ -9,17 +9,17 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 11f7503b-c802-437f-bc1d-ce13bb4d9bb2
-ms.openlocfilehash: 4259ab5ee7a76193b435aa518c28fe3c64a8178f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0978e89aee912dbc4166008b87866f6ad1dfffec
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29903473"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208927"
 ---
-# <a name="how-to-verify-your-domain-with-office-365"></a>Cómo comprobar el dominio con Office 365
+# <a name="how-to-verify-your-domain-with-office-365"></a>Cómo comprobar su dominio con Office 365
 
-Debe agregar un registro TXT a su registrador de dominios para comprobar que es propietario del dominio. En primer lugar, siga el [Asistente para agregar un dominio](https://portal.office.com/adminportal/home#/Domains) haciendo clic en **configuración de** \> **dominio**y, a continuación, en **Agregar dominio**.
+Tendrá que agregar un registro TXT a su registrador de dominios para comprobar que es el propietario del dominio. En primer lugar, siga el [Asistente para agregar dominio](https://portal.office.com/adminportal/home#/Domains) haciendo clic en **configuración** \> **dominio**y, a continuación, **Agregar dominio**.
   
-Siga las instrucciones que aparecen en [crear registros DNS en cualquier proveedor de hospedaje de DNS para Office 365] (https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider para agregar un registro TXT para comprobar su dominio. 
+Siga las instrucciones que se indican en [crear registros DNS en cualquier proveedor de hospedaje DNS para Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) para agregar un registro TXT para comprobar el dominio. 
   
 
