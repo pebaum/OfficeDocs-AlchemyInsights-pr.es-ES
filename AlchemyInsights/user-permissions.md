@@ -8,34 +8,34 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: f1ecdafdf21fa3cd026108738432c942d2c1ad45
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 6fc7e4211691e0f29b9a65db2d33540804ea7b4a
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941129"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209862"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Permisos de usuario en SharePoint y OneDrive
 
-Si un usuario de la organización no puede tener acceso a SharePoint o OneDrive, asegúrese de que cuentan con una licencia que incluye SharePoint y OneDrive. 
+Si un usuario de la organización no puede obtener acceso a SharePoint o OneDrive, asegúrese de que tienen una licencia que incluye SharePoint y OneDrive. 
   
-1. Vaya a la [página de usuarios activos en el centro de administración de Office 365](https://portal.office.com/adminportal/home#/users) y seleccione el usuario. 
+1. Vaya a la [Página usuarios activos en el centro de administración de Microsoft 365](https://portal.office.com/adminportal/home#/users) y seleccione el usuario. 
     
-2. Asegúrese de que en **las licencias de producto**, se asigna una licencia y **SharePoint Online** está seleccionada. 
+2. Asegúrese de que en **licencias de productos**se haya asignado una licencia y de que se haya seleccionado **SharePoint Online** . 
     
- Para dar a un usuario permiso para tener acceso a un sitio de SharePoint: 
+ Para conceder a un usuario permiso para obtener acceso a un sitio de SharePoint: 
   
-1. Abra el sitio en un explorador web.
+1. Abra el sitio en un explorador Web.
     
-2. Si el sitio pertenece a un grupo de Office 365, haga clic en el icono de configuración en la parte superior derecha y, a continuación, haga clic en **permisos del sitio**. Haga clic en **Invitar a personas**y, a continuación, elija Agregar a miembros al grupo de Office 365 o compartir sólo el sitio. 
+2. Si el sitio pertenece a un grupo de Office 365, haga clic en el icono de configuración en la esquina superior derecha y, a continuación, haga clic en **permisos del sitio**. Haga clic en **invitar personas**y, a continuación, elija Agregar miembros al grupo de Office 365 o compartir solo el sitio. 
     
-    Para un sitio de comunicación, haga clic en el **sitio del recurso compartido** en la superior derecha, escriba el nombre de la persona y, a continuación, seleccione el nivel de permisos (lectura, editar o Control total). 
+    Para un sitio de comunicación, haga clic en **compartir sitio** en la esquina superior derecha, escriba el nombre de la persona y, a continuación, seleccione el nivel de permisos (lectura, edición o control total). 
     
-    Para un sitio de grupo clásico, haga clic en **Compartir** en la superior derecha. Escriba el nombre de la persona que desea invitar o escriba todos para compartir con todos los usuarios de la organización. Haga clic en **Compartir**.
+    Para un sitio de grupo clásico, haga clic en **compartir** en la esquina superior derecha. Escriba el nombre de la persona a la que desea invitar o escriba todos para compartir con todos los usuarios de la organización. Haga clic en **compartir**.
     
 > [!NOTE]
-> Si usted es un miembro de un sitio pero no un propietario, puede invitar a personas al sitio, pero su invitación generará una solicitud de acceso que se puede aprobada o rechazada por un propietario del sitio. 
+> Si es miembro de un sitio, pero no de un propietario, puede invitar a personas al sitio, pero la invitación generará una solicitud de acceso que el propietario del sitio puede aprobar o rechazar. 
   
-[Obtenga información sobre cómo compartir un archivo o una carpeta con un usuario](https://go.microsoft.com/fwlink/?linkid=533408)
+[Obtener información sobre cómo compartir un archivo o una carpeta con un usuario](https://go.microsoft.com/fwlink/?linkid=533408)
   
 
