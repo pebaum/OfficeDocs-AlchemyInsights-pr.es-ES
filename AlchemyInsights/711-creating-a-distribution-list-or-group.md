@@ -1,5 +1,5 @@
 ---
-title: Creación de una lista de distribución o grupo de 711
+title: 711 crear una lista o un grupo de distribución
 ms.author: chrisda
 author: chrisda
 manager: serdars
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: 21f7657b2aa9fd0b068729e856c727651576bf45
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 2efe0b69ecfb808d293fe01026b95784ed3f6515
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925217"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209682"
 ---
-# <a name="create-distribution-groups"></a><span data-ttu-id="3fede-102">Crear grupos de distribución</span><span class="sxs-lookup"><span data-stu-id="3fede-102">Create distribution groups</span></span>
+# <a name="create-distribution-groups"></a><span data-ttu-id="94ebb-102">Crear grupos de distribución</span><span class="sxs-lookup"><span data-stu-id="94ebb-102">Create distribution groups</span></span>
 
-<span data-ttu-id="3fede-p101">Usar grupos de distribución (también conocidos como listas de distribución) para entregar mensajes de correo electrónico a grupos de personas dentro y fuera de su organización. Creación de ellos es fácil! Para obtener instrucciones, vea [crear listas de distribución en el centro de administración de Office 365](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).</span><span class="sxs-lookup"><span data-stu-id="3fede-p101">You use distribution groups (also known as distribution lists) to deliver email messages to groups of people inside and outside your organization. Creating them is easy! For instructions, see [Create distribution lists in the Office 365 admin center](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).</span></span>
+<span data-ttu-id="94ebb-p101">Los grupos de distribución (también conocidos como listas de distribución) se usan para entregar mensajes de correo electrónico a grupos de personas de dentro y fuera de la organización. Crearlos es fácil. Para obtener instrucciones, vea [Create Distribution lists en el centro de administración de Microsoft 365](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).</span><span class="sxs-lookup"><span data-stu-id="94ebb-p101">You use distribution groups (also known as distribution lists) to deliver email messages to groups of people inside and outside your organization. Creating them is easy! For instructions, see [Create distribution lists in the Microsoft 365 admin center](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).</span></span>
   
- <span data-ttu-id="3fede-p102">**Nota**: un administrador necesita para administrar la pertenencia de un grupo de distribución. Si desea que los usuarios para administrar su propios pertenencia a grupos de listas, es posible que desee en su lugar, considere la posibilidad de [Grupos de Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) .</span><span class="sxs-lookup"><span data-stu-id="3fede-p102">**Note**: An admin needs to manage the membership of a distribution group. If you want users to manage their own group membership lists, you might want to consider [Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) instead.</span></span> 
+ <span data-ttu-id="94ebb-p102">**Nota**: un administrador debe administrar la pertenencia de un grupo de distribución. Si desea que los usuarios administren sus propias listas de pertenencia a grupos, es posible que desee considerar los [grupos de Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) en su lugar.</span><span class="sxs-lookup"><span data-stu-id="94ebb-p102">**Note**: An admin needs to manage the membership of a distribution group. If you want users to manage their own group membership lists, you might want to consider [Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) instead.</span></span> 
   
 

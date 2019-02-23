@@ -1,5 +1,5 @@
 ---
-title: Conceder a los usuarios acceso a SharePoint y OneDrive
+title: Dar acceso a los usuarios a SharePoint y OneDrive
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 8984d8dfdd8f1ff540b418dfbfe382cffac978e5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d29764266f44aee5f8f8e2c93ad67b2a33c6f417
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933857"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209754"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a><span data-ttu-id="8759a-102">Conceder a los usuarios acceso a SharePoint y OneDrive</span><span class="sxs-lookup"><span data-stu-id="8759a-102">Give users access to SharePoint and OneDrive</span></span>
+# <a name="give-users-access-to-sharepoint-and-onedrive"></a><span data-ttu-id="b3731-102">Dar acceso a los usuarios a SharePoint y OneDrive</span><span class="sxs-lookup"><span data-stu-id="b3731-102">Give users access to SharePoint and OneDrive</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="8759a-p101">Si un sitio de OneDrive o SharePoint no está disponible para varios usuarios que tenían acceso anteriormente, puede haber un problema de servicio temporal. [Compruebe el panel de estado de servicio](https://portal.office.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="8759a-p101">If a OneDrive or SharePoint site is not available to multiple users who previously had access, there may be a temporary service issue. [Check the service health dashboard](https://portal.office.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="b3731-p101">Si un sitio de OneDrive o SharePoint no está disponible para varios usuarios que anteriormente tenían acceso, es posible que haya un problema de servicio temporal. [Comprobar el panel de estado del servicio](https://portal.office.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="b3731-p101">If a OneDrive or SharePoint site is not available to multiple users who previously had access, there may be a temporary service issue. [Check the service health dashboard](https://portal.office.com/adminportal/home#/servicehealth)</span></span>
   
-<span data-ttu-id="8759a-p102">Si desea que las personas de la organización para poder iniciar sesión y usar SharePoint y OneDrive, debe agregar las cuentas para ellos y asegúrese de que cuentan con una licencia que les proporciona acceso a SharePoint y OneDrive. Es la forma más sencilla de agregar los usuarios en el centro de administración de Office 365.</span><span class="sxs-lookup"><span data-stu-id="8759a-p102">If you want people in your organization to be able to sign in and use SharePoint and OneDrive, you need to add accounts for them and make sure they have a license that gives them access to SharePoint and OneDrive. The easiest way to add users is in the Office 365 admin center.</span></span>
+<span data-ttu-id="b3731-p102">Si quiere que los usuarios de su organización puedan iniciar sesión y usar SharePoint y OneDrive, necesita agregar cuentas para ellos y asegurarse de que tienen una licencia que les da acceso a SharePoint y OneDrive. La forma más sencilla de agregar usuarios es en el centro de administración de Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="b3731-p102">If you want people in your organization to be able to sign in and use SharePoint and OneDrive, you need to add accounts for them and make sure they have a license that gives them access to SharePoint and OneDrive. The easiest way to add users is in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="8759a-107">Vaya a la [página de usuarios activos en el centro de administración de Office 365](https://portal.office.com/adminportal/home#/users)y, a continuación, haga clic en **Agregar un usuario**.</span><span class="sxs-lookup"><span data-stu-id="8759a-107">Go to the [Active users page in the Office 365 admin center](https://portal.office.com/adminportal/home#/users), and then click **Add a user**.</span></span>
+1. <span data-ttu-id="b3731-107">Vaya a la [Página usuarios activos en el centro de administración de Microsoft 365](https://portal.office.com/adminportal/home#/users)y, a continuación, haga clic en **Agregar un usuario**.</span><span class="sxs-lookup"><span data-stu-id="b3731-107">Go to the [Active users page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/users), and then click **Add a user**.</span></span>
     
-2. <span data-ttu-id="8759a-108">Rellene la información para el usuario y asegúrese de que en **las licencias de producto**, se asigna una licencia y **SharePoint Online** está seleccionada.</span><span class="sxs-lookup"><span data-stu-id="8759a-108">Fill in the information for the user, and make sure that under **Product licenses**, a license is assigned and **SharePoint Online** is selected.</span></span> 
+2. <span data-ttu-id="b3731-108">ReLlene la información del usuario y asegúrese de que en licencias de **productos**, se ha asignado una licencia y se ha seleccionado **SharePoint Online** .</span><span class="sxs-lookup"><span data-stu-id="b3731-108">Fill in the information for the user, and make sure that under **Product licenses**, a license is assigned and **SharePoint Online** is selected.</span></span> 
     
-<span data-ttu-id="8759a-p103">Tenga en cuenta que si permite externo de uso compartido de la organización, los usuarios pueden compartir contenido de SharePoint y OneDrive con personas fuera de la organización. No es necesario proporcionar estas licencias a los usuarios externos. También no es necesario agregar cuentas para ellos, a menos que el uso compartido está establecido en "Solo existente los usuarios externos." En ese caso, si las personas que no están en Active directory de su organización, debe agregarlas como los usuarios invitados en el centro de administración de Azure AD.</span><span class="sxs-lookup"><span data-stu-id="8759a-p103">Note that if you allow external sharing in your organization, users can share SharePoint and OneDrive content with people outside the organization. You don't need to give these external users licenses. You also don't need to add accounts for them, unless sharing is set to "Only existing external users." In that case, if the people aren't in your organization's directory, you need to add them as guest users in the Azure AD admin center.</span></span>
+<span data-ttu-id="b3731-p103">Tenga en cuenta que, si permite el uso compartido externo en su organización, los usuarios pueden compartir contenido de SharePoint y OneDrive con personas de fuera de la organización. No es necesario conceder estas licencias a los usuarios externos. Tampoco necesita agregar cuentas para ellos, a menos que el uso compartido esté establecido en "solo usuarios externos existentes". En ese caso, si los usuarios no están en el directorio de su organización, debe agregarlos como usuarios invitados en el centro de administración de Azure AD.</span><span class="sxs-lookup"><span data-stu-id="b3731-p103">Note that if you allow external sharing in your organization, users can share SharePoint and OneDrive content with people outside the organization. You don't need to give these external users licenses. You also don't need to add accounts for them, unless sharing is set to "Only existing external users." In that case, if the people aren't in your organization's directory, you need to add them as guest users in the Azure AD admin center.</span></span>
   
 
