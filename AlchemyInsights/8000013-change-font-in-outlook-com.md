@@ -1,5 +1,5 @@
 ---
-title: Cambiar la fuente 8000013 en Outlook.com
+title: 8000013 cambiar la fuente en Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 824035f6-90d3-4ea2-a92b-6b73b4ec0076
-ms.openlocfilehash: 059944c6d5b95314a6eba48800458c926225d4ef
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 05dee3deb71542cd2bbc7f3fe7be574a85c522d1
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29910205"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244022"
 ---
-# <a name="change-font-or-font-size-in-outlookcom"></a>Cambiar la fuente o el tamaño de fuente en Outlook.com
+# <a name="change-font-or-font-size-in-outlookcom"></a>Cambiar fuente o tamaño de fuente en Outlook.com
 
-Cuando se lee correo electrónico, puede usar la función de zoom de su explorador para que el texto de la pantalla sea mayor o menor.
+Al leer el correo electrónico, puede usar la función de zoom del explorador para aumentar o reducir el texto de la pantalla.
   
-Para cambiar la fuente o el tamaño de fuente mientras se redacta un mensaje:
+Para cambiar la fuente o el tamaño de fuente al redactar un mensaje:
   
-1. En la parte inferior del panel de redacción, seleccione **fuente**![fuente](media/6d9372e0-cde5-49fc-a457-aafb62255163.png) o **el tamaño de fuente**![icono de tamaño de la fuente](media/9334f617-9593-4bd0-afb1-c53308ad7591.png).
+1. En la parte inferior del panel de redacción, seleccione **fuente** o **tamaño de fuente**.
     
-2. Elija la fuente o el tamaño de fuente que desee utilizar.
+2. Elija la fuente o el tamaño de fuente que desea usar.
     
-Si no ve el menú de opciones de formato en la parte inferior del panel de redacción, seleccione **las opciones de formato**![el formato de icono de opciones de](media/13103798-e3ea-4069-a7a0-63f8903c8c3a.png).
+Si no ve el menú opciones de formato en la parte inferior del panel de redacción, seleccione **Opciones de formato**.
   
-Para obtener más información, vea [cambiar el tamaño de fuente y la apariencia de correo electrónico en Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873130).
+Para obtener más información, vea [cambiar el tamaño de fuente y el aspecto del correo electrónico en Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873130).
   
 
