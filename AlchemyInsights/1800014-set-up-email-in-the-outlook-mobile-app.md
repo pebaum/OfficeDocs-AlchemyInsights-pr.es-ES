@@ -1,5 +1,5 @@
 ---
-title: Configurar 1800014 de correo electrónico en la aplicación móvil de Outlook
+title: 1800014 configurar el correo electrónico en la aplicación móvil de Outlook
 ms.author: anahitab
 author: anahitab
 manager: serdars
@@ -11,33 +11,33 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: 7345e635de059adc10a07be8edf854431b133e72
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 8b47c1963523c9be8eb5e1fb2cdfd283f82c321c
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925541"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244382"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Configurar el correo electrónico en la aplicación móvil de Outlook
 
-1. Seleccione **Empezar a** si es la primera vez, configurar correo electrónico en la aplicación móvil de lo contrario, puntee en **menú**![el menú botón de](media/265b9089-9630-42dd-a244-d9a412d8fe47.png) y, a continuación, puntee en **configuración** \> **Agregar cuenta** \> **Agregar una cuenta de correo electrónico**. 
+1. Seleccione **** introducción si es la primera vez que configura el correo electrónico en la aplicación móvil. de lo contrario, puntee en **menú** y luego en **configuración** \> **Agregar cuenta** \> **Agregar cuenta de correo electrónico**. 
     
-2. Escriba su dirección de correo electrónico completa y puntee en **continuar** o **Agregar cuenta**.
+2. Escriba su dirección de correo electrónico completa y pulse **continuar** o **Agregar cuenta**.
     
-3. Escriba la contraseña de su cuenta de correo electrónico y puntee en **Iniciar sesión** o **siguiente**. 
+3. Escriba la contraseña de su cuenta de correo electrónico y pulse **iniciar sesión** o **siguiente**. 
     
-4. Si está habilitada la [autenticación multifactor](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) , compruebe con el método que configura (código de 6 dígitos, llamada de teléfono o aplicación Microsoft Authenticator). 
+4. Si está habilitada la [autenticación multifactor](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) , compruebe usando el método que configuró (código de 6 dígitos, llamada telefónica o aplicación Microsoft Authenticator). 
     
-5. Si las directivas de administración de TI adicionales están en su lugar, puntee en **Activar** para activarlas. 
+5. Si hay directivas de administración de ti adicionales, puntee en **Activar** para habilitarlas. 
     
-6. Outlook puede solicitar permiso para tener acceso a su calendario, contactos y otra información. Seleccione **Sí** o **Permitir**. 
+6. Outlook puede solicitar permiso para obtener acceso al calendario, los contactos y otra información. Seleccione **sí** o **permitir**. 
     
-Obtener detallada configurar instrucciones para [Outlook para Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) o [Outlook para iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) aquí. 
+Obtenga instrucciones detalladas sobre la configuración de [Outlook para Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) o [Outlook para iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) aquí. 
   
  **¿Necesita ayuda?**
   
-- [Solución de problemas de configuración de correo electrónico en el móvil](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [Solucionar problemas de configuración de correo electrónico en dispositivos móviles](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
     
-- [Obtener ayuda acerca de la aplicación de Outlook para iOS y Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [Obtener ayuda en la aplicación de Outlook para iOS y Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
     
 

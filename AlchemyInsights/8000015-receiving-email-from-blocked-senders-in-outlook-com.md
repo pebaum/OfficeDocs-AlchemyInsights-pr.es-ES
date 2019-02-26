@@ -1,5 +1,5 @@
 ---
-title: 8000015 recibir correo electrónico desde bloqueados remitentes en Outlook.com
+title: 8000015 recibir correo electrónico de remitentes bloqueados en Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 46a04853-e422-41cc-9bb7-a46d6b6f8aa0
-ms.openlocfilehash: f58b61fc6bef7cf759cac7a5ea13a455f80301f3
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9fd6dfc057ff592bdb9609096ba3115be6264aa7
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920431"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244094"
 ---
 # <a name="receiving-email-from-blocked-senders"></a>Recibir correo electrónico de remitentes bloqueados
 
-Si el correo electrónico de un remitente bloqueado sigue apareciendo en la Bandeja de entrada, es posible que el remitente puede ocultar su dirección de correo electrónico real.
+Si el correo electrónico de un remitente bloqueado sigue apareciendo en la bandeja de entrada, es posible que el remitente esté ocultando su dirección de correo electrónico real.
   
-Para comprobar la dirección de correo electrónico real de un remitente:
+Para comprobar la dirección de correo electrónico real del remitente:
   
-1. Seleccione ![más acciones](media/11884972-7ebb-4afe-8b50-63efefb7cca8.png) en la parte superior de la ventana de mensaje y seleccione **Ver código fuente del mensaje**.
+1. Seleccione el icono sobre en la parte superior de la ventana del mensaje y seleccione **Ver origen del mensaje**.
     
-2. Desplácese hacia abajo el **origen del mensaje** hasta que encuentre el campo **desde** . 
+2. Desplácese hacia abajo por el **origen del mensaje** hasta que encuentre el campo **de** . 
     
-3. Resalte la dirección de correo electrónico incluida en \< \> y haga clic en **Copiar**
+3. Resalte la dirección de correo \< \> electrónico entre y haga clic con el botón secundario para **copiar**
     
-4. Use esta dirección de correo electrónico real para bloquear el remitente. Lea cómo a [los remitentes de bloquear o desbloquear remitentes en Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e.aspx).
+4. Use esta dirección de correo electrónico real para bloquear al remitente. Leer cómo bloquear a los [remitentes o desbloquear remitentes en Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e.aspx).
     
-Para obtener más información, lea qué hacer si va a [recibir correo electrónico de remitentes bloqueados](https://go.microsoft.com/fwlink/p/?linkid=2002011&amp;clcid=0x409).
+Para obtener más información, lea qué hacer si [recibe correo electrónico de remitentes bloqueados](https://go.microsoft.com/fwlink/p/?linkid=2002011&amp;clcid=0x409).
   
 

@@ -3,21 +3,10 @@
 
 
 
-## <a name="week-of-january-14-2019"></a>Semana del 14 de enero de 2019
-
-
-| Publicado en |Título del tema | Cambio |
-|------|------------|--------|
-| 1/14/2019 | Marcador de posición Alchemy | eliminación |
-| 1/14/2019 | Agregar dominio Alchemy | eliminación |
-| 1/14/2019 | [Página principal de información de Alchemy](/AlchemyInsights/index) | modificado  |
-| 1/17/2019 | [igual que FILENAME es mejor [RULE #-deScription]](/AlchemyInsights/1-alchemy-insight-template) | agregado |
-
-
 ## <a name="week-of-january-21-2019"></a>Semana del 21 de enero de 2019
 
 
-| Publicado en |Título del tema | Cambio |
+| Fecha de publicación |Título del tema | Cambio |
 |------|------------|--------|
 | 1/22/2019 | [1047 AntiSpam 550 5.7.708 servicio no disponible. Acceso denegado, no se aceptó el tráfico desde esta IP](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | modificado  |
 | 1/22/2019 | [1049 AntiSpam 4.5.3 demasiados destinatarios (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | modificado  |
@@ -274,7 +263,7 @@
 ## <a name="week-of-february-11-2019"></a>Semana del 11 de febrero de 2019
 
 
-| Publicado en |Título del tema | Cambio |
+| Fecha de publicación |Título del tema | Cambio |
 |------|------------|--------|
 | 2/11/2019 | [Uso del kit de herramientas de preparación de Office](/AlchemyInsights/9000176-using-the-office-readiness-toolkit) | agregado |
 | 2/11/2019 | [Nuevas características de SharePoint anunciadas](/AlchemyInsights/sharepoint-new-features-announced) | modificado  |
@@ -686,4 +675,62 @@
 | 2/14/2019 | [1221-Import-Export-Outlook-email-Contacts-Calendar](/AlchemyInsights/1221-import-export-outlook-email-contacts-calendar) | agregado |
 | 2/14/2019 | [1245-Import-PST-Services](/AlchemyInsights/1245-import-pst-services) | agregado |
 | 2/14/2019 | [1385-Office-365-Alert-Policies](/AlchemyInsights/1385-office-365-alert-policies) | agregado |
-| 2/15/2019 | [Cómo instalar Office](/AlchemyInsights/how-to-install-office) | Fecha de modificación |
+| 2/15/2019 | [Cómo instalar Office](/AlchemyInsights/how-to-install-office) | modificado  |
+
+
+## <a name="week-of-february-18-2019"></a>Semana del 18 de febrero de 2019
+
+
+| Fecha de publicación |Título del tema | Cambio |
+|------|------------|--------|
+| 2/19/2019 | [¿Se ha encontrado un error "no se encuentra el parámetro"?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | modificado  |
+| 2/19/2019 | [Mover correo electrónico a Office 365](/AlchemyInsights/move-email-to-office-365) | modificado  |
+| 2/19/2019 | [Restaurar buzón eliminado](/AlchemyInsights/restore-deleted-mailbox) | modificado  |
+| 2/21/2019 | [Cómo instalar Mac Office desde el portal](/AlchemyInsights/647-how-to-install-mac-office-from-the-portal) | su |
+| 2/22/2019 | [1048 5.7.750 servicio no disponible. El cliente bloqueó el envío de dominios no registrados](/AlchemyInsights/1048-5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | modificado  |
+| 2/22/2019 | [125 ¿cómo obtener un error de licencia no válida en Outlook en la web?](/AlchemyInsights/125-getting-an-invalid-license-error-in-outlook-on-the-web) | modificado  |
+| 2/22/2019 | [126 se ha encontrado un error al obtener un buzón en OWA?](/AlchemyInsights/126-getting-a-mailbox-cannot-be-found-error-in-owa) | modificado  |
+| 2/22/2019 | [127 obtener un error de TenantAccessBlockedException al obtener acceso al correo electrónico](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | modificado  |
+| 2/22/2019 | [128 obtener un error de TenantAccessBlockedException al obtener acceso al correo electrónico](/AlchemyInsights/128-getting-a-tenantaccessblockedexception-error-when-accessing-email) | modificado  |
+| 2/22/2019 | [711 crear una lista o un grupo de distribución](/AlchemyInsights/711-creating-a-distribution-list-or-group) | modificado  |
+| 2/22/2019 | [912 configurar la bandeja de entrada prioritarios para todos los usuarios de la organización](/AlchemyInsights/912-configure-focused-inbox-for-everyone-in-your-organization) | modificado  |
+| 2/22/2019 | [Quitar dominio](/AlchemyInsights/remove-domain) | modificado  |
+| 2/22/2019 | [Agregar un grupo a un sitio de SharePoint](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | modificado  |
+| 2/22/2019 | [Agregar otro alias de correo electrónico](/AlchemyInsights/add-another-email-alias) | modificado  |
+| 2/22/2019 | [Agregar contactos al grupo de O365](/AlchemyInsights/add-contacts-to-o365-group) | modificado  |
+| 2/22/2019 | [Cambiar UPN](/AlchemyInsights/change-upn) | modificado  |
+| 2/22/2019 | [Cambio de permisos de carpetas públicas](/AlchemyInsights/changing-public-folder-permissions) | modificado  |
+| 2/22/2019 | [Cambiar el comportamiento de envío de buzón compartido como](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | modificado  |
+| 2/22/2019 | [Comprobar el estado de la sincronización de identidad de AAD](/AlchemyInsights/check-aad-identity-sync-status) | modificado  |
+| 2/22/2019 | [Comparar planes de Office 365](/AlchemyInsights/compare-office-365-plans) | modificado  |
+| 2/22/2019 | [Crear un sitio clásico](/AlchemyInsights/create-a-classic-site) | modificado  |
+| 2/22/2019 | [Crear un sitio en SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | modificado  |
+| 2/22/2019 | [Creación de carpetas públicas](/AlchemyInsights/creating-public-folders) | modificado  |
+| 2/22/2019 | [Eliminar un sitio de SharePoint](/AlchemyInsights/delete-a-sharepoint-site-0) | modificado  |
+| 2/22/2019 | [Dar acceso a los usuarios a SharePoint y OneDrive](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | modificado  |
+| 2/22/2019 | [¿Se ha encontrado un error "no se encuentra el parámetro"?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | modificado  |
+| 2/22/2019 | [¿Tiene problemas con la entrega de correo electrónico?](/AlchemyInsights/having-email-delivery-issues-0) | modificado  |
+| 2/22/2019 | [¿Tiene problemas con la entrega de correo electrónico?](/AlchemyInsights/having-email-delivery-issues) | modificado  |
+| 2/22/2019 | [¿Tiene problemas para que Outlook se conecte?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | modificado  |
+| 2/22/2019 | [¿Tiene problemas para que Outlook se conecte?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | modificado  |
+| 2/22/2019 | [Cómo asignar licencias de Office a usuarios de Mac](/AlchemyInsights/how-to-assign-office-licenses-to-mac-users) | modificado  |
+| 2/22/2019 | [Cómo comprar licencias para su suscripción de Office 365 empresa](/AlchemyInsights/how-to-buy-licenses-for-your-office-365-business-subscription) | modificado  |
+| 2/22/2019 | [Cómo aumentar el almacenamiento en OneDrive para la empresa](/AlchemyInsights/how-to-increase-storage-in-onedrive-for-business) | modificado  |
+| 2/22/2019 | [Cómo reactivar una suscripción](/AlchemyInsights/how-to-reactivate-a-subscription) | modificado  |
+| 2/22/2019 | [Aumentar el tamaño del buzón de correo de Enterprise SKU](/AlchemyInsights/increase-mailbox-size-for-enterprise-skus) | modificado  |
+| 2/22/2019 | [Aumentar el tamaño del buzón para las SKU SMB](/AlchemyInsights/increase-mailbox-size-for-smb-skus) | modificado  |
+| 2/22/2019 | [Aumentar el tamaño del buzón](/AlchemyInsights/increase-mailbox-size) | modificado  |
+| 2/22/2019 | [¿Tiene problemas con Skype empresarial?](/AlchemyInsights/issue-with-skype-for-business) | modificado  |
+| 2/22/2019 | [Administrar cuentas de usuario sincronizadas](/AlchemyInsights/manage-synchronized-user-accounts) | modificado  |
+| 2/22/2019 | [Supervisar el uso y la actividad de OneDrive y SharePoint](/AlchemyInsights/monitor-onedrive-and-sharepoint-usage-and-activity) | modificado  |
+| 2/22/2019 | [Reactivar una suscripción](/AlchemyInsights/reactivate-a-subscription) | modificado  |
+| 2/22/2019 | [Restaurar un OneDrive eliminado](/AlchemyInsights/restore-a-deleted-onedrive) | modificado  |
+| 2/22/2019 | [Restaurar un grupo de Office 365 con el Centro de administración de Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | modificado  |
+| 2/22/2019 | [Configuración de la suscripción a O365 Business Essentials](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | modificado  |
+| 2/22/2019 | [No funciona el uso compartido con usuarios externos](/AlchemyInsights/sharing-with-external-users-isn-t-working) | modificado  |
+| 2/22/2019 | [¿Intenta encontrar una versión de prueba?](/AlchemyInsights/trying-to-find-a-trial) | modificado  |
+| 2/22/2019 | [Activar o desactivar el uso compartido externo para SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | modificado  |
+| 2/22/2019 | [Activar o desactivar el uso compartido externo para SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | modificado  |
+| 2/22/2019 | [Permisos de usuario](/AlchemyInsights/user-permissions) | modificado  |
+| 2/22/2019 | [¿Cuándo se genera la declaración de facturación?](/AlchemyInsights/when-is-the-billing-statement-generated) | modificado  |
+| 2/22/2019 | [Cómo comprobar su dominio con Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | Fecha de modificación |
