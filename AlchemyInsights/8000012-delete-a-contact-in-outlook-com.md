@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: b65125f0-7d6a-42c8-a5d8-a1ce733dddf7
-ms.openlocfilehash: 7b66cfc49df40b326506a089fc29d58e35fb1f5e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 88906b68e22bc21549e92c074ebb053be9b8660b
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929204"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244490"
 ---
-# <a name="delete-a-contact"></a><span data-ttu-id="e8b66-102">Eliminar un contacto</span><span class="sxs-lookup"><span data-stu-id="e8b66-102">Delete a contact</span></span>
+# <a name="delete-a-contact"></a><span data-ttu-id="b34ab-102">Eliminar un contacto</span><span class="sxs-lookup"><span data-stu-id="b34ab-102">Delete a contact</span></span>
 
-1. <span data-ttu-id="e8b66-p101">En la parte superior de la página, seleccione el iniciador de la aplicación ![botón Selector de la aplicación. ](media/9634bec0-78d1-4282-8aea-7c5e81f162d2.png) y, a continuación, seleccione **las personas**.</span><span class="sxs-lookup"><span data-stu-id="e8b66-p101">At the top of the page, select the app launcher ![The App Launcher button.](media/9634bec0-78d1-4282-8aea-7c5e81f162d2.png) and then select **People**.</span></span> 
+1. <span data-ttu-id="b34ab-103">En la parte superior de la página, seleccione el iniciador de aplicaciones y, a continuación, seleccione **contactos**.</span><span class="sxs-lookup"><span data-stu-id="b34ab-103">At the top of the page, select the app launcher  and then select **People**.</span></span> 
     
-2. <span data-ttu-id="e8b66-105">Seleccione el contacto que desea eliminar y seleccione **Eliminar**![eliminar](media/deb47846-8483-4f9d-813a-fc8fe288b583.png).</span><span class="sxs-lookup"><span data-stu-id="e8b66-105">Select the contact you want to delete and select **Delete**![Delete](media/deb47846-8483-4f9d-813a-fc8fe288b583.png).</span></span>
+2. <span data-ttu-id="b34ab-104">Seleccione el contacto que desea eliminar y seleccione **eliminar**.</span><span class="sxs-lookup"><span data-stu-id="b34ab-104">Select the contact you want to delete and select **Delete**.</span></span>
     
-    <span data-ttu-id="e8b66-p102">Si no puede seleccionar **Eliminar**, podría ser el contacto de Skype o una cuenta de redes sociales conectadas. Para eliminar el contacto, vaya a Skype o la cuenta donde se encuentra el contacto.</span><span class="sxs-lookup"><span data-stu-id="e8b66-p102">If you can't select **Delete**, the contact might be from Skype or a connected social network account. To delete the contact, go to Skype or the account where the contact is located.</span></span>
+    <span data-ttu-id="b34ab-p101">Si no puede seleccionar **eliminar**, el contacto podría ser de Skype o una cuenta de red social conectada. Para eliminar el contacto, vaya a Skype o la cuenta donde se encuentra el contacto.</span><span class="sxs-lookup"><span data-stu-id="b34ab-p101">If you can't select **Delete**, the contact might be from Skype or a connected social network account. To delete the contact, go to Skype or the account where the contact is located.</span></span>
     
-3. <span data-ttu-id="e8b66-108">Seleccione **Eliminar** para confirmar.</span><span class="sxs-lookup"><span data-stu-id="e8b66-108">Select **Delete** to confirm.</span></span> 
+3. <span data-ttu-id="b34ab-107">Seleccione **eliminar** para confirmar.</span><span class="sxs-lookup"><span data-stu-id="b34ab-107">Select **Delete** to confirm.</span></span> 
     
 
