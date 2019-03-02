@@ -1,5 +1,5 @@
 ---
-title: 1800009Outlook de soporte de aplicación de Mac
+title: soporte de 1800009Outlook para Mac en la aplicación
 ms.author: supravee
 author: supravee
 manager: scotv
@@ -11,15 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
-ms.openlocfilehash: 6b7d48292f7dfd68bb4995b22abbeb9d627f5336
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0e35172668353737d860f7a212101539b1e4e6f1
+ms.sourcegitcommit: 47bdacaa8fcfce06f159a7ddbc114f2d1a70bc2c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926585"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "30361690"
 ---
 # <a name="in-app-support-in-outlook-for-mac"></a>Compatibilidad con la aplicación en Outlook para Mac
 
-Para recibir soporte técnico en la aplicación para Outlook para problemas de Mac, abra Outlook y haga clic en Ayuda \> contactar con el servicio. Escriba la pregunta y obtendrá un miembro de Outlook en el equipo de soporte técnico de Mac en contacto con usted. [Póngase en contacto con el soporte técnico en Outlook para Mac](https://go.microsoft.com/fwlink/?linkid=2002400&amp;clcid=0x409)
-  
-
+Para recibir problemas con soporte en la aplicación para Outlook para Mac, Abra Outlook y haga \> clic en ayuda de soporte técnico. Escriba su pregunta y un miembro del equipo de soporte técnico de Outlook para Mac se pondrá en contacto con usted. [Póngase en contacto con el soporte técnico de Outlook para Mac](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_outlook-mso_mac/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
