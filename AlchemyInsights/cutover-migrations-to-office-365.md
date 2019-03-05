@@ -1,5 +1,5 @@
 ---
-title: Migración total a Office 365
+title: Migraciones de traslado a Office 365
 ms.author: dstrome
 author: dstrome
 manager: serdars
@@ -7,17 +7,17 @@ ms.date: 5/3/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.assetid: 11929899-2837-4b45-ba79-873bb5485810
-ms.openlocfilehash: 16fdbc93500758e61cedc4eea869be7f3d522e09
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a48304c7f654af5b040c0b8ce8b78c7f25a35f7d
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29922646"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30405268"
 ---
-# <a name="cutover-migrations-to-office-365"></a>Migración total a Office 365
+# <a name="cutover-migrations-to-office-365"></a>Migraciones de traslado a Office 365
 
-Al registrarse para Office 365, puede migrar el contenido de los buzones de usuario desde una organización de Exchange local a Office 365. Cuando lo hace todo esto al mismo tiempo, se denomina una migración de traslado. Migración de transferencia podría ser adecuada para usted si se está ejecutando una versión compatible de Exchange y tienen menos de 2.000 buzones de correo. Para obtener más información acerca de las migraciones por transferencia, eche un vistazo: [migración de traslado a Office 365](https://support.office.com/article/9496e93c-1e59-41a8-9bb3-6e8df0cd81b4.aspx).
+Al registrarse en Office 365, puede migrar el contenido de los buzones de correo de los usuarios de una organización de Exchange local a Office 365. Cuando lo hace todo a la vez, se denomina migración total. Una migración total puede ser adecuada para usted si está ejecutando una versión admitida de Exchange y tiene menos de 2.000 buzones de correo. Para obtener más información sobre las migraciones de traslado, eche un vistazo a: [migración total a Office 365](https://support.office.com/article/9496e93c-1e59-41a8-9bb3-6e8df0cd81b4.aspx).
   
 

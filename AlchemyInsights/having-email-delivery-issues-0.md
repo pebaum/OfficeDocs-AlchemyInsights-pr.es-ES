@@ -6,14 +6,14 @@ ms.date: 8/21/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.assetid: 51fea2ad-81d4-4b65-9d24-e2f953aa814a
-ms.openlocfilehash: 53535a7d35accb2a8b542c9b928b31d8ef2c5410
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: aee07143064fbc29055a2f7999fc1dc7265d8cce
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30209142"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30404656"
 ---
 # <a name="having-email-delivery-issues"></a>¿Tiene problemas con la entrega de correo electrónico?
 

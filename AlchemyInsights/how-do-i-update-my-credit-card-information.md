@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo se puede actualizar la información de mi tarjeta de crédito?
+title: ¿Cómo actualizo la información de mi tarjeta de crédito?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -7,22 +7,22 @@ ms.date: 2/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: ae1634d9ff33c8c50574842b9bc689582db496dd
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 81bb27d7e09a528e07162298ff4f98b75c2dd41a
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917693"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30405196"
 ---
-# <a name="how-do-i-update-my-credit-card-information"></a>¿Cómo se puede actualizar la información de mi tarjeta de crédito?
+# <a name="how-do-i-update-my-credit-card-information"></a>¿Cómo actualizo la información de mi tarjeta de crédito?
 
 1. En el Centro de administración, vaya a la página [Suscripciones](https://go.microsoft.com/fwlink/p/?linkid=842054) o elija **Facturación** \> **Suscripciones**.
     
-2. Seleccionar la suscripción que se compraron con la tarjeta de crédito o una cuenta bancaria que desea actualizar, a continuación, elija **actualizar los detalles de pago**.
+2. Seleccione la suscripción que compró con la tarjeta de crédito o la cuenta bancaria que quiera actualizar y, después, elija **actualizar detalles de pago**.
     
 3. Elija la flecha desplegable de **Add or select a payment method** (Agregar o seleccionar un método de pago), seleccione la tarjeta de crédito o la cuenta bancaria que quiera actualizar y, después, elija **Editar detalles**.
     
@@ -30,6 +30,6 @@ ms.locfileid: "29917693"
     
 5. Debería aparecer un mensaje de confirmación.
     
-Para obtener más información, vea [las tarjetas de crédito de solución de problemas y cuentas bancarias](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Para obtener más información, consulte [solución de problemas de tarjetas de crédito y cuentas bancarias](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
   
 

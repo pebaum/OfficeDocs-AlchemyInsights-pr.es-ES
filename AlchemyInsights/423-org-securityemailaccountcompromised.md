@@ -1,31 +1,31 @@
 ---
-title: Seguridad de Org 423 - EmailAccountCompromised
+title: 423 org Security-EmailAccountCompromised
 ms.author: chrisda
 author: chrisda
 ms.date: 2/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f93a7a44-0cdf-4387-b428-53e1a48f63ce
-ms.openlocfilehash: 250e87afabe08ab69fe373bcf923d6193a4573ee
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 8a0e99ab260266e5c66ded4c05541c592efd4ed4
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901884"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30405047"
 ---
 # <a name="compromised-email-accounts"></a>Cuentas de correo electrónico en peligro
 
-Hay varios pasos que puede seguir para ayudar a aumentar la seguridad de la organización de Office 365:
+Hay varios pasos que puede realizar para ayudar a aumentar la seguridad en su organización de Office 365:
   
-- **Habilitar la autenticación multifactor (MFA)**: si se ha puesto en peligro una cuenta, restablecer la contraseña seguida de habilitación de MFA es una buena forma de ayudar a garantizar que no volverá a ocurrir. Si la cuenta en peligro se usó para envíen correo no deseado, probablemente se bloquea de envío de correo electrónico (incluso después de que se lleve a cabo los pasos para protegerlo). Para quitar el usuario de la lista de bloqueados, vea [en este tema](https://technet.microsoft.com/library/ms.exch.eac.actioncenter.aspx).
+- **Habilitar la autenticación multifactor (MFA)**: Si una cuenta se ha puesto en peligro, el restablecimiento de la contraseña seguida de la habilitaCIÓN de MFA es una buena forma de garantizar que no se vuelva a producir. Si la cuenta comprometida se usó para enviar correo no deseado, es probable que no pueda enviar correo electrónico (incluso después de seguir los pasos para protegerlo). Para quitar al usuario de la lista de bloqueados, vea [este tema](https://technet.microsoft.com/library/ms.exch.eac.actioncenter.aspx).
     
-- **Ejecute Office 365 seguro puntuación**: puntuación segura hace un análisis detallado de la configuración de seguridad de la organización y proporciona recomendaciones para mejorar la seguridad.
+- **Ejecutar la puntuación segura de Office 365**: la puntuación segura realiza un análisis detallado de la configuración de seguridad de la organización y proporciona recomendaciones para hacerla más segura.
     
-- **Buzón de correo de habilitar el registro de auditoría**: buzón de registro de auditoría que sea más fácil realizar un seguimiento de ¿qué sucedió con cuando una cuenta de usuario está en riesgo.
+- **Habilitar el registro de auditoría**de buzones de correo: el registro de auditoría de buzones de correo facilitará el seguimiento de qué ocurrió cuando una cuenta de usuario está en peligro.
     
 Para obtener más información, vea [procedimientos recomendados de seguridad para Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx).
   

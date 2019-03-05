@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
-ms.openlocfilehash: 0445bd53f19d014669d0721d28fb6b6a71874ba8
-ms.sourcegitcommit: 0ae348786564bc37b3f5e42731af184122ee2166
+ms.openlocfilehash: 05e1f1e27d77ebf621fda557346692a75befd284
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/15/2019
-ms.locfileid: "30059830"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30405124"
 ---
 # <a name="how-to-install-office"></a>Cómo instalar Office
 

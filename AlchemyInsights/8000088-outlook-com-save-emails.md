@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
-ms.openlocfilehash: 800fde849db0f1d3673a7144bc83b83e0ee7ace8
-ms.sourcegitcommit: e3df67530bd5205410acf5beba4a07acab9692f0
+ms.openlocfilehash: 27f7c36576c7be4fab824df1a22bf0bde7047341
+ms.sourcegitcommit: b1fef941ee5c1392a6b05f6f1ba92080b99d8589
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30347424"
+ms.lasthandoff: 03/04/2019
+ms.locfileid: "30376089"
 ---
 # <a name="saving-messages-in-outlookcom"></a>Guardar mensajes en Outlook.com
 
@@ -29,4 +29,4 @@ La utilidad imprimir a PDF de Microsoft incluida en Windows 10 permite imprimir 
 4. Seleccione **Imprimir**.
 5. Escriba un nombre de archivo y, a continuación, seleccione **Guardar**.
 
-Nota: esto no se recomienda en equipos compartidos o públicos, ya que otros usuarios podrían tener acceso a cualquier PDF que guarde en el PC y no lo elimine.
+**Nota:** Esto no se recomienda en equipos compartidos o públicos, ya que otros usuarios podrían tener acceso a cualquier PDF que guarde en el PC y no lo elimine.

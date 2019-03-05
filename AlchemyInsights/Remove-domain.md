@@ -6,16 +6,16 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - 0ae81203-7cbf-48a1-bd1a-2711e1c92e7b
-ms.openlocfilehash: 49ce5333ee6742d30ddda77509b55a5d8e1335c8
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: afd27d7f844d3dcde9037242de55794dff23615f
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210078"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30404836"
 ---
 # <a name="trying-to-remove-your-domain"></a>¿Está intentando quitar el dominio?
 

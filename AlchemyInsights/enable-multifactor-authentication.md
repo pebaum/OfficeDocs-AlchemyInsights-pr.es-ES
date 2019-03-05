@@ -1,5 +1,5 @@
 ---
-title: Habilitar la autenticación Multifactor
+title: Habilitar la autenticación multifactor
 ms.author: pebaum
 author: pebaum
 ms.date: 12/5/2017
@@ -7,6 +7,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
+ROBOTS: NOINDEX, NOFOLLOW
 search.appverid:
 - MET150
 - MOE150
@@ -15,25 +16,25 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 4927bbbcc940ee5236b6228b403363526201e2a9
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
+ms.sourcegitcommit: c2070de81172fe627f489adf391f3c4bed222c4d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29942101"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30379442"
 ---
-# <a name="enable-multi-factor-authentication"></a>Habilitar la autenticación multifactor
+# <a name="enable-multi-factor-authentication"></a>Habilitar multi-factor Authentication
 
-1. Navegue a **los usuarios** \> **usuarios activos**
+1. Desplazarse a **** \> usuarios **activos**
     
-2. Haga clic en **más** \> **autenticación multifactor de Azure el programa de instalación**. 
+2. Haga clic en **más** \> **configuración de Azure multi-factor auth**. 
     
-3. Busque el usuario o usuarios que desea habilitar para MFA. Para ver todos los usuarios, es posible que necesita cambiar la vista de estado de la autenticación multifactor en la parte superior.
+3. Busque el usuario o los usuarios que desea habilitar para MFA. Para poder ver a todos los usuarios, es posible que deba cambiar la vista de estado de autenticación multiFactor en la parte superior.
     
 4. Active la casilla de verificación situada junto a los usuarios que desea habilitar.
     
-5.  En el panel de información del usuario derecho, bajo **pasos rápidos** verá habilitar y administrar la configuración de usuario. Elija **Habilitar**. 
+5.  En el panel información del usuario derecho, en **pasos rápidos** verá habilitar y administrar la configuración de usuario. Elija **Habilitar**. 
     
-6. En el cuadro de diálogo que se abre, **haga clic en Habilitar autenticación multifactor**. 
+6. En el cuadro de diálogo que se abre, **haga clic en habilitar multi-factor auth**. 
     
 

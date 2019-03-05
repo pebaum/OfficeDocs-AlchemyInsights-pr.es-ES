@@ -7,16 +7,16 @@ ms.date: 5/1/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e03a7476-f02d-4c2c-bc55-42cad0ab8622
-ms.openlocfilehash: 26e7ecf0d6c2fe5eb94fa2fc10015e45850f955e
-ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
+ms.openlocfilehash: 0c7eedc0a00031a69873ed6c00170508adf99acf
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "30244742"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30405232"
 ---
 # <a name="deal-with-spam-or-phishing-scams-in-your-inbox"></a>Tratar las estafas de suplantación de identidad (phishing) en la bandeja de entrada
 
