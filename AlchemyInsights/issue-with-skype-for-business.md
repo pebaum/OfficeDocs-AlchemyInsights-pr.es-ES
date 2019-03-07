@@ -6,14 +6,14 @@ ms.date: 8/21/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
-ms.openlocfilehash: 236e8d75567601f315b907e3fab21278448c9aae
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: d19659f203692e4aed2c947c4f8d3348d2286e77
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30209214"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468464"
 ---
 # <a name="issue-with-skype-for-business"></a>¿Tiene problemas con Skype empresarial?
 

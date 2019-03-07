@@ -7,16 +7,16 @@ ms.date: 2/21/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: c04ed7dd2383edb8c82dba7d2547591ba2cff325
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 614bdcc4fa2bf6904e054417541f487d04cb6e0c
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208170"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468896"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Cómo reactivar una suscripción
 
