@@ -40,7 +40,8 @@
     "globalMetadata": {
       "breadcrumb_path": "/AlchemyInsights/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "GitHub",
+      "feedback_system": "None",
+      "hide_comments": true,
       "feedback_github_repo": "MicrosoftDocs/OfficeDocs-AlchemyInsights",
       "feedback_product_url": "https://github.com/MicrosoftDocs/OfficeDocs-AlchemyInsights/issues" ,
       "searchScope": ["Alchemy Insights"]
