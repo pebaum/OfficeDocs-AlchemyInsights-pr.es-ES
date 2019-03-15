@@ -1,5 +1,5 @@
 ---
-title: 'lo mismo que el nombre de archivo es mejor [regla #-descripción]'
+title: 'igual que FILENAME es mejor [RULE #-deScription]'
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -11,31 +11,31 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 01d8b03209e734f1218de61d964524b1b9e1d044
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e248c2ee3cbb9a86f21c1f36be10c893df76ff52
+ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939326"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30634521"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Requiere Alchemy encabezado H1, H2 no funcionan.
-Procedimientos recomendados e instrucciones para la creación de Alchemy:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Falta el encabezado de Alchemy H1, H2's no funciona.
+Procedimientos recomendados y directrices para la creación de Alchemy:
 
-1. **No anidar Alchemy conocimientos en las carpetas**- esto, interrumpirá la estructura de la dirección url. Buscamos en corregir esto.
-1. Los archivos en la carpeta **AlchemyInsights** deben tener el identificador de la regla y el nombre de la regla desde el [portal de socios de Alchemy](https://alchemyportal.azurewebsites.net) en el nombre de archivo.
-    1. ***976-How-to-enable-litigation-hold*** ex.
-1. Usar los metadatos en la parte superior de este archivo como plantilla. Se necesita nada más.
-1. En el [portal de socios de Alchemy](https://alchemyportal.azurewebsites.net), desplácese hacia abajo hasta la sección **cliente Insight título:** y el uso que, como un inicio, elija su título H1 para la perspectiva. 
+1. **No anide información de Alchemy en las carpetas**: esto interrumpirá la estructura de la dirección URL. Estamos intentando solucionar esto.
+1. Los archivos de la carpeta **AlchemyInsights** deben tener el identificador de la regla y el nombre de la regla del [portal de socios de Alchemy](https://alchemyportal.azurewebsites.net) en el nombre del archivo.
+    1. precio. ***976-procedimiento-habilitado: retención en litigios***
+1. Use los metadatos en la parte superior de este archivo como plantilla. No se requiere ninguna otra cosa.
+1. En el [portal de socios de Alchemy](https://alchemyportal.azurewebsites.net), desplácese hacia abajo hasta la sección título de la **visión del cliente** y úsela como punto de partida para su título H1 para la visión. 
     > [!NOTE]
-    > Alchemy perspectivas debe tener solo un único H1 en la parte superior o dividirá en producción. H2s no representar uso de es así **negrita** u otras convenciones para indicar las secciones independientes.
-1. A continuación, rellene el texto del cuerpo con el material de borrador en la sección de la perspectiva del cliente de la página Alchemy regla
-    1. Las listas con viñetas son no pasa nada
-    1. Listas numeradas demasiado
-    1. **Negrita** y *cursiva* son a-ok
-    1. Vínculos siempre deben ser una **"vínculos al sitio web" / externo** OR **profundo-vínculos a elementos de la interfaz de usuario**, los vínculos no internos.
+    > La información de Alchemy solo debe tener un solo H1 en la parte superior o se interrumpirá en producción. H2s no representarlas, use **negrita** u otras convenciones para indicar secciones independientes.
+1. A continuación, rellene el texto del cuerpo con el borrador de material en la sección información del cliente de la página de la regla de Alchemy.
+    1. Las listas con viñetas están bien
+    1. También las listas numeradas
+    1. **Negrita** y *cursiva* son a-OK
+    1. Los vínculos siempre deben ser **"vínculos a Web"/external** o **vínculos profundos a elementos**de la interfaz de usuario, no a vínculos internos.
 
-Y esto realmente ya es un poco demasiado largo. Procedimiento recomendado es de aproximadamente 400 caracteres---
+Y esto ya es un poco demasiado largo. El procedimiento recomendado es de unos 400 caracteres---------------------------------
 
-Una vez que el contenido esté listo, extraer a la rama live. A continuación, vaya al [portal de socios de Alchemy](https://alchemyportal.azurewebsites.net) y escriba el nombre de archivo en el campo de dirección url. Asegúrese de que sus conocimientos revisan y se publican dice "Sí" y, a continuación, haga clic en regla de actualización. **(El aspecto será mejor aspecto en la nueva versión del portal - lanzará pronto.)** 
- ![campo de dirección url](media/for-content-team.PNG)
+Una vez que el contenido esté listo, extráigalo a la rama activa. A continuación, vaya al [portal de socios de Alchemy](https://alchemyportal.azurewebsites.net) y escriba el nombre de archivo en el campo URL. Asegúrese de que la información de revisión revisada y publicada dice "sí" y, a continuación, haga clic en actualizar regla. **(El aspecto será Prettier en la nueva versión del portal de lanzamiento de próximamente).** 
+ ![](media/for-content-team.PNG)
 
