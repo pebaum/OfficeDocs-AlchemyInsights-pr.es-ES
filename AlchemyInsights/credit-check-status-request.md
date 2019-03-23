@@ -1,5 +1,5 @@
 ---
-title: Solicitud de estado de verificación de crédito
+title: Solicitud de estado de comprobación de crédito
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1ff0c139-3ce0-46e7-873c-35d4f60f9f7c
-ms.openlocfilehash: eeaa09ca00b68881a6ec007c745aafff3a3558f1
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 04beb86b98947b142c0483c02147ab9145130b99
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29898824"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754415"
 ---
-# <a name="credit-check-status-request"></a>Solicitud de estado de verificación de crédito
+# <a name="credit-check-status-request"></a>Solicitud de estado de comprobación de crédito
 
-El pedido es la comprobación de crédito pendientes. Normalmente se complete en menos de 24 horas, pero puede tardar hasta 48 horas. Cuando haya terminado, el estado de suscripción cambiará de pendiente a activo y servicios van a estar disponibles para su uso.
+El pedido está pendiente de comprobación de crédito. Normalmente, esto se realiza en menos de 24 horas, pero puede tardar hasta 48 horas. Cuando haya finalizado, el estado de la suscripción cambiará de pendiente a activo y los servicios estarán disponibles para su uso.
   
 

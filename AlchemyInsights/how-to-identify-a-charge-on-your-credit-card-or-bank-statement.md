@@ -1,5 +1,5 @@
 ---
-title: Cómo identificar un cargo en su tarjeta de crédito o extracto bancario
+title: Cómo identificar un cargo en su tarjeta de crédito o en su extracto bancario
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: d349d107642ed042c8878d3703a1def89e2906d5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c698c085fc7d1d62eb5c615061198cd5395fbbab
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936989"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758555"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Cómo identificar un cargo en su tarjeta de crédito o extracto bancario
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Cómo identificar un cargo en su tarjeta de crédito o en su extracto bancario
 
-La descripción de cargo para una suscripción a Office 365 tiene este aspecto:
+La descripción del cargo para una suscripción de Office 365 tiene el siguiente aspecto:
   
-MSFT \* E012345ABC 0000 - MSBILL.INFO, WA
+MSFT \* E012345ABC 0000-MSBILL.info, WA
   
-La cadena de alfanumérico de 10 caracteres siguientes MSFT \* es el número de factura relacionado el cargo. Para buscar la factura, vaya a la página de [las listas](https://go.microsoft.com/fwlink/p/?linkid=848039) o elija **facturación** \> de **facturas** para ver las facturas recientes. El número de factura es cerca de la esquina derecha del documento de factura. 
+La cadena alfanumérica de 10 caracteres que sigue a \* msft es el número de factura con el que se relaciona el cargo. Para buscar la factura, vaya a la [Página facturas](https://go.microsoft.com/fwlink/p/?linkid=848039) o seleccione **facturas** de **facturación** \> para ver sus facturas recientes. El número de factura está cerca de la esquina derecha del documento de factura. 
   
 

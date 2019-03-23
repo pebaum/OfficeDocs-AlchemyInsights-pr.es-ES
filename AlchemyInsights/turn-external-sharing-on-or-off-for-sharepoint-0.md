@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 1e1e80839b167fc7c99ad94daca10c9affa427a1
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: e966b80c8709ae24b9600b63e089d8ca06c1e131
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30209790"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758663"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>Activar o desactivar el uso compartido externo para SharePoint
 

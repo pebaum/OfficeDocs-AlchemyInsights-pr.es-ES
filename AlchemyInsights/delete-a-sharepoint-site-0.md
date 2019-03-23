@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: d758ccc963a317fdd7523d67739953fe3db34c7d
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 25bc059326d1c91fcdd331811dfc402ecd16f688
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210042"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754667"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Eliminar los sitios que pertenecen a un grupo de Office 365:
 

@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo se puede quitar la información de mi tarjeta de crédito?
+title: ¿Cómo quito la información de la tarjeta de crédito?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: 90ece9d717fff90f9ed20494553d8eb76f9a61d0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0acd5345bb1b352af21b17e353591b8772d718aa
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925073"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755352"
 ---
-# <a name="how-do-i-remove-my-credit-card-information"></a>¿Cómo se puede quitar la información de mi tarjeta de crédito?
+# <a name="how-do-i-remove-my-credit-card-information"></a>¿Cómo quito la información de la tarjeta de crédito?
 
 1. En el Centro de administración, vaya a la página [Suscripciones](https://go.microsoft.com/fwlink/p/?linkid=842054) o elija **Facturación** \> **Suscripciones**.
     

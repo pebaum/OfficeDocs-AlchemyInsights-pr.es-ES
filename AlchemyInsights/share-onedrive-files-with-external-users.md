@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 3bc62deb513c809a25277295642394c5cab9436c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9b920dff8facdec51f005489e7433db738447e5e
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917873"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754451"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Compartir archivos en OneDrive con personas fuera de la organización
 
-1. Utilice el iniciador de aplicación para ir a OneDrive en el explorador web. 
+1. Use el iniciador de aplicaciones para ir a OneDrive en el explorador Web. 
     
-2. Seleccione el archivo o carpeta que desea compartir y, a continuación, seleccione **Compartir**. 
+2. Seleccione el archivo o la carpeta que quiera compartir y, después, seleccione **compartir**. 
     
-3. Si el tipo de vínculo se establece en "de personas en \<su organización\>," haga clic en la flecha hacia abajo y seleccione uno de los siguientes: 
+3. Si el tipo de vínculo se establece en "personas \<de su\>organización", haga clic en la flecha hacia abajo y seleccione una de las siguientes opciones: 
     
-  - **Cualquier persona** le proporciona acceso a cualquier persona que recibe este vínculo, si éstas reciben directamente a usted o se reenviarán de otra persona. Esto puede incluir personas fuera de la organización. 
+  - **Cualquiera** da acceso a cualquier persona que reciba este vínculo, tanto si lo recibe directamente de usted o lo reenvía desde otra persona. Esto puede incluir personas fuera de la organización. 
     
-  - **Personas específicas** proporciona acceso sólo a las personas especifique, aunque es podrán que otras personas ya tenga acceso. Si las personas reenvían la invitación para compartir, solo las personas que ya tienen acceso al elemento podrán usar el vínculo. 
+  - Los **usuarios específicos** solo proporcionan acceso a las personas que usted especifique, aunque es posible que otras personas ya dispongan de acceso. Si las personas reenvían la invitación para uso compartido, solo podrán usar el vínculo los usuarios que ya tengan acceso al elemento. 
     
     > [!NOTE]
-    > Si una de estas opciones no está disponible, o si desea que un tipo de vínculo diferentes que aparezca de forma predeterminada, puede modificar la configuración de toda la organización va al centro de administración de OneDrive y haciendo clic en **Compartir** en el panel izquierdo. [Más información](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Si una de estas opciones no está disponible o si desea que aparezca un tipo de vínculo diferente de forma predeterminada, puede cambiar la configuración de toda la organización en el centro de administración de OneDrive y haciendo clic en **uso compartido** en el panel izquierdo. [Más información](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. De forma predeterminada, la **Edición de permitir** está activado. Si desea que las personas para ver sólo los archivos, desactive la casilla de verificación. 
+4. De forma predeterminada, la **opción permitir edición** está activada. Si desea que los usuarios solo vean los archivos, desactive la casilla de verificación. 
     
-5. Escriba los nombres de las personas a las que desea compartir con y un mensaje, si lo desea.
+5. Escriba los nombres de las personas con las que quiere compartir y un mensaje, si lo desea.
     
 6. Cuando esté listo para enviar el vínculo, haga clic en **Enviar**. 
     

@@ -1,5 +1,5 @@
 ---
-title: Ayudar a comprender el valor agregado RFC
+title: Ayuda sobre el impuesto sobre el valor añadido (IVA)
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: 122ffe07011a549d213c0c7acc5177ab6e3e952c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: fa174850f1e2810a2d38833f5dca4360ee53d4be
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29907664"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753371"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a>Ayudar a comprender el valor agregado RFC
+# <a name="help-understanding-value-added-tax-vat"></a>Ayuda sobre el impuesto sobre el valor añadido (IVA)
 
-Si se encuentra en un país que usa valores se ha agregado un RFC, como el Reino Unido, Microsoft Invoicing calcula la RFC para usted y se aplica la cantidad a las facturas.
+Si está en un país que usa el impuesto sobre el valor añadido (IVA), como el Reino Unido, Microsoft Invoicing calcula el IVA y aplica el importe a sus facturas.
   
-Por motivos de impuestos, también debe especificar el número de registro de RFC en la configuración de facturación.
+Por motivos fiscales, también debe especificar su número de registro de IVA en la configuración de facturación.
   
-No se puede agregar o quitar tipos de RFC, pero puede cambiar la tasa de RFC de forma predeterminada en la configuración. De forma predeterminada, facturación usa un servicio para validar los números de registro de RFC, pero se recomienda que lea [declinación de responsabilidades VIES](https://go.microsoft.com/fwlink/?LinkID=841741) publicado por la Comisión Europea. Si decide deshabilitar el servicio, debe comprobar todos los números de registro de RFC. 
+No puede agregar ni quitar tasas de IVA, pero puede cambiar el tipo de IVA predeterminado en configuración. De forma predeterminada, la facturación usa un servicio para validar los números de registro de IVA, pero le recomendamos que lea el aviso de declinación de [responsabilidades](https://go.microsoft.com/fwlink/?LinkID=841741) publicado por la Comisión Europea. Si decide deshabilitar el servicio, debe comprobar todos los números de registro de IVA. 
   
 

@@ -1,5 +1,5 @@
 ---
-title: Soluciones para el error 30015 25
+title: Soluciones para el error 30015-25
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -9,29 +9,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1f16f2c7-9593-4ef3-a4d4-e22b59814497
-ms.openlocfilehash: e49ab58be7084f4703bf1617d8954c9b3c01c97b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 2b4a84495ae874e6c41f4ab3b0a0fcf036fb03d4
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29923020"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758879"
 ---
-# <a name="solutions-for-error-30015-25"></a>Soluciones para el error 30015 25
+# <a name="solutions-for-error-30015-25"></a>Soluciones para el error 30015-25
 
-Pruebe estas soluciones para corregir el error [30015 25](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):
+Pruebe estas soluciones para corregir el error [30015-25](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):
   
-- Reinicie el equipo e intente [instalar Office](https://portal.office.com/OLS/MySoftware.aspx).
+- ReInicie el equipo y pruebe a [instalar Office](https://portal.office.com/OLS/MySoftware.aspx).
     
-- Descargue e instale el [Ayudante para la recuperación y soporte técnico](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Descargue e instale el [Asistente para soporte y recuperación](https://aka.ms/SARA-OfficeUninstall-Alchemy).
     
-1. Cuando se abre, en **productos de desinstalación de Office** , seleccione la versión que desea desinstalar y seleccione **siguiente**. 
+1. Cuando se abre, desde **desinstalar productos de Office** seleccione la versión que quiere desinstalar y seleccione **siguiente**. 
     
-2. Continuar con el proceso a través de pantallas y reinicie el equipo cuando se le solicite.
+2. Continúe pasando por las pantallas y reinicie el equipo cuando se le pida.
     
-    Después de reiniciar, el soporte técnico y el Asistente de recuperación para volver a se abre automáticamente para completar el proceso de desinstalación.
+    Después de reiniciar, el Asistente para soporte y recuperación se vuelve a abrir automáticamente para completar el proceso de desinstalación.
     
-3. Siga los restantes mensajes de voz y [vuelva a instalar Office](https://portal.office.com/OLS/MySoftware.aspx) o cierre al asistente. 
+3. Siga los mensajes restantes y [vuelva a instalar Office](https://portal.office.com/OLS/MySoftware.aspx) o cierre el asistente. 
     
 
