@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: 7327d570ab76c8dc0581c004b8701b1f4270d425
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.openlocfilehash: 3da4aab8de8ac36d87a51f101d6da304e1b383f5
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29968182"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757619"
 ---
 # <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Buscar archivos perdidos o que faltan en OneDrive o SharePoint
 
-- Compruebe la Papelera de reciclaje de exploración para su OneDrive o el sitio de SharePoint en la web y haciendo clic en Papelera de reciclaje en el panel izquierdo. (Si no ve Recycle bin en el panel izquierdo, haga clic en el icono de configuración y, a continuación, seleccione el **contenido del sitio**. **Papelera de reciclaje** está en el extremo derecho de la barra de comandos en la parte superior.) 
+- Para comprobar la papelera de reciclaje, busque en su sitio de OneDrive o de SharePoint en la web y haga clic en papelera de reciclaje en el panel izquierdo. (Si no ve papelera de reciclaje en el panel izquierdo, haga clic en el icono configuración y, a continuación, seleccione **contenido del sitio**. La **papelera de reciclaje** se encuentra en el extremo derecho de la barra de comandos en la parte superior.) 
     
-- Si está sincronizando los archivos en su equipo, compruebe la Papelera de reciclaje en su equipo. 
+- Si está sincronizando los archivos en el equipo, Compruebe la papelera de reciclaje del equipo. 
     
-- Si no ve el elemento que está buscando y se eliminó recientemente, un administrador de colección de sitios es posible que pueda restaurar desde la Papelera de reciclaje de la colección de sitios. Si es el Administrador de colección de sitios, vea [Restaurar elementos eliminados de la Papelera de reciclaje de la colección de sitios](https://go.microsoft.com/fwlink/?linkid=866439).
+- Si no ve el elemento que está buscando y se eliminó recientemente, es posible que un administrador de la colección de sitios pueda restaurarlo desde la papelera de reciclaje de la colección de sitios. Si es el administrador de la colección de sitios, vea [Restaurar elementos eliminados de la papelera de reciclaje de la colección de sitios](https://go.microsoft.com/fwlink/?linkid=866439).
     
-[Más ayuda restauración elimina archivos y carpetas en OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
+[Más ayuda para restaurar archivos y carpetas eliminados en OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
   
 

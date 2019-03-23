@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: da91c64f-dce0-4a06-baf2-f19dcfe8716b
-ms.openlocfilehash: 6fce5b405f746f900faedaeac333c7041f16f449
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 26c843cedce90a87a74fc3d364ee62fb7daec0ab
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208386"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762225"
 ---
 # <a name="add-contacts-to-an-office-365-group"></a>Agregar contactos a un grupo de Office 365
 

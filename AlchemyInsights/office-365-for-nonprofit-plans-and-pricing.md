@@ -1,5 +1,5 @@
 ---
-title: Office 365 para planes de lucro y precios
+title: Office 365 para planes y precios sin ánimo de lucro
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 84a51e2bb3da804ac1bcc3c7cb8f0efb1fbf58fe
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cfe62608a50d634616fc9f57461eda1b401110f1
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920573"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757475"
 ---
-# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Office 365 para planes de lucro y precios
+# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Office 365 para planes y precios sin ánimo de lucro
 
-Organizaciones de benéficas completa pueden recibir Office 365 lucro como un donaciones o actualizar a características avanzadas de con un descuento considerable. Para disfrutar de un plan de Office 365 lucro, debe mantener [reconocido estado benéfica](https://go.microsoft.com/fwlink/p/?LinkID=330253) en la directiva de su país e inicio de sesión integrado de Microsoft no discriminación. Microsoft reserva el derecho para comprobar la idoneidad en cualquier momento y para suspender el servicio para las organizaciones inadmisible. 
+Las ONG calificadas pueden recibir Office 365 sin ánimo de lucro como donación o actualizar a características avanzadas con un descuento significativo. Para disfrutar de un plan sin ánimo de Office 365, debe mantener el [Estado de beneficencia reconocido](https://go.microsoft.com/fwlink/p/?LinkID=330253) en su país y firmar la Directiva de Microsoft no discriminación. Microsoft se reserva el derecho a comprobar la idoneidad en cualquier momento y suspender el servicio para las organizaciones no aptas. 
   
-Consulte las [preguntas más frecuentes](https://products.office.com/nonprofit/office-365-nonprofit) para preguntas adicionales acerca de esta oferta. 
+Consulte las preguntas [más frecuentes](https://products.office.com/nonprofit/office-365-nonprofit) para obtener más información sobre esta oferta. 
   
-- [Revisar los planes de lucro](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
+- [Revisión de los planes sin ánimo de lucro](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
     
 - [Comparar todos los planes de Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
     

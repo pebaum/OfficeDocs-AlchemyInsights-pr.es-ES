@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: c17b01595d05fe8aaafb36b5a990d1848268711d
-ms.sourcegitcommit: 3a0cb1ff821de410a22caa978333eb9e4adc3f29
+ms.openlocfilehash: 50a9a1c7ef24f6b15e3cdb8c9ae31e77a159ba70
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/26/2019
-ms.locfileid: "30274718"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760859"
 ---
 # <a name="restore-a-deleted-office-365-group"></a>Restaurar un grupo de Office 365 eliminado
 

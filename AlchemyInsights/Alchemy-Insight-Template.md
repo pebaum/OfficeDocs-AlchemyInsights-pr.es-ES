@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 5555
+ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 68f743ee9c448565470815f8410cc6ce4b384bed
-ms.sourcegitcommit: 0b6e9470c6b73616ba8bacef7010f739b7fac332
+ms.openlocfilehash: 37398436435fb72cb5c8dca2d0798b86a0c8ccc9
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "30742466"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762081"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Falta el encabezado de Alchemy H1, H2's no funciona.
 Procedimientos recomendados y directrices para la creación de Alchemy:

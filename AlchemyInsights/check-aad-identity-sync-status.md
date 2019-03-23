@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: b2788e98cf7c94d8dd4c1543145f30a442072f1e
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 3fda1ef20dd080c6d99bf242168256c04eff24b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30209718"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761686"
 ---
 # <a name="check-aad-identity-sync-status"></a>Comprobar el estado de la sincronización de identidad de AAD
 
