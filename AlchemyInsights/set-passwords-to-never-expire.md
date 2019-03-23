@@ -1,5 +1,5 @@
 ---
-title: Conjunto de contraseñas para que no expire nunca
+title: Establecer contraseñas nunca para expirar
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f5383fc3-d7fc-4efb-93b7-a520b374099a
-ms.openlocfilehash: b29a049e3fd0c99e2640e6f434f02566bae6d44b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0a44dd8fad248086046f995b7e4f223249d1644c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932741"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30765537"
 ---
-# <a name="set-passwords-to-never-expire"></a>Conjunto de contraseñas para que no expire nunca
+# <a name="set-passwords-to-never-expire"></a>Establecer contraseñas nunca para expirar
 
-Establecer las contraseñas nunca caduquen de [seguridad &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security). Haga clic en "Editar" junto a la directiva de contraseña y activar el control deslizante en "on".
+Establezca contraseñas para que no expiren nunca desde [privacidad de seguridad &amp; ](https://portal.office.com/adminportal/home#/settings/security). Haga clic en "Editar" junto a Directiva de contraseñas y active el control deslizante.
   
-Para obtener información más detallada, vea: [establecer la directiva de expiración de contraseña para la organización](https://support.office.com/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f).
+Para obtener información más detallada, consulte: [establecer la Directiva de expiración de contraseñas de su organización](https://support.office.com/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f).
   
 

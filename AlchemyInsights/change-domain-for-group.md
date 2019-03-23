@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: a5229f1a321b93c4fe6d78f48d6b6c93cf77f188
-ms.sourcegitcommit: c2070de81172fe627f489adf391f3c4bed222c4d
+ms.openlocfilehash: f993938c4c5b58409bbc48261051a7d5af74574b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30403254"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30765645"
 ---
 # <a name="change-the-domain-for-office-365-group"></a>Cambiar el dominio del grupo de Office 365
 

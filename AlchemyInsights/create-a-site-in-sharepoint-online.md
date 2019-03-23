@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 41af5e51743623f108cb614911ff88308809c4b5
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 925384f501da14aa19acc9e147123dbeb19a67fa
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30207918"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764601"
 ---
-# <a name="create-a-site"></a>Creación de un sitio
+# <a name="create-a-site"></a>Crear un sitio
 
 Puede crear diferentes tipos de sitios en SharePoint Online. Para crear uno de los nuevos tipos de sitio, consulte estos temas.
   

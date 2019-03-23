@@ -1,5 +1,5 @@
 ---
-title: Cambiar a un diferentes de Office 365 para el Plan de negocio
+title: Cambiar a otro plan de Office 365 para empresas
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 7c49d3b06eac4fb03a6303dcad701ec0a3203224
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: eda1feb55a22a21849b6d017600b7c47e49b5174
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927935"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753659"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Cambiar a un diferentes de Office 365 para el Plan de negocio
+# <a name="switch-to-a-different-office-365-for-business-plan"></a>Cambiar a otro plan de Office 365 para empresas
 
 []Si se producen cambios en su empresa o si necesita más características de Office 365, puede cambiar de plan.
   
@@ -26,12 +26,12 @@ ms.locfileid: "29927935"
     
 2. Elija **Cambiar de plan** para ver una lista con los nuevos planes disponibles. 
     
-3. Elija un plan para ver el nuevo costo total por mes. Asegúrese de leer la información de clave, a continuación, elija **siguiente** para desproteger. 
+3. Elija un plan para ver el nuevo coste total por mes. Asegúrese de leer la información de la clave y, a continuación, elija **siguiente** para desproteger. 
     
-El botón de los planes de modificador no se admite en todas las situaciones. En algunos casos, es posible que pueda cambiar los planes de forma manual.
+El botón cambiar de plan no se admite en todas las situaciones. En algunos casos, es posible que pueda cambiar de plan manualmente.
   
-Si el botón **cambiar planes** no está disponible, puede intentar [cambiar manualmente los planes de](https://support.office.com/article/eb0d0680-5677-41a0-8c46-4b9d47f1c209) o utilizar la opción "háganos le llame" para hablar con un ingeniero de soporte técnico. 
+Si el botón **cambiar de plan** no está disponible, puede intentar [cambiar de plan manualmente](https://support.office.com/article/eb0d0680-5677-41a0-8c46-4b9d47f1c209) o usar la opción "Permítanos llamar" para hablar con un ingeniero de soporte técnico. 
   
-Para todas las variaciones de los planes de conmutación, vea [cambiar a un 3635 de Office diferentes para el Plan de negocio](https://support.office.com/article/49d77463-d3da-4106-abcf-2d5209106ea2).
+Para todas las variaciones de planes de conmutación, consulte [cambiar a otro plan de Office 3635 para empresas](https://support.office.com/article/49d77463-d3da-4106-abcf-2d5209106ea2).
   
 

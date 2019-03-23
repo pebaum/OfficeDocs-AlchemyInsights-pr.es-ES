@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: 0e7c0ff51ef231aeba0a3f7778f8a787a9bc0b5a
-ms.sourcegitcommit: c3ed7525f24f80cc6372aa3f496463500bb0c3ca
+ms.openlocfilehash: 940a42679f482a77e2f4ac93b1cd127fdd0c443f
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30088058"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764457"
 ---
 # <a name="move-email-to-office-365"></a>Mover correo electrónico a Office 365
 

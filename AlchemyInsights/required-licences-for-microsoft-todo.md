@@ -1,5 +1,5 @@
 ---
-title: Certificados necesarios para Microsoft ToDo
+title: Licencias reQueridas para Microsoft ToDo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 7fc665d0af708f0dbcb9241de8102a976459436a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c492b46fa507c75a166eb4a8cfa48019a3ec7d4c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926981"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757871"
 ---
 # <a name="required-licenses-for-microsoft-todo"></a>Licencias necesarias para Microsoft ToDo
 
@@ -32,29 +32,29 @@ Un usuario debe tener una de las siguientes licencias para usar Microsoft ToDo:
     
 - Cualquier plan de Office 365 Enterprise
     
-- Seguro de la productividad de su negocio
+- Protección del negocio productiva
     
 - Secure Productive Enterprise E3
     
 - Secure Productive Enterprise E5
     
-- Cualquier plan de formación de Office 365
+- Cualquier plan de Office 365 educación
     
 - Microsoft 365 A3
     
 - Microsoft 365 A5
     
-Además de una licencia de producto válida, una de las siguientes versiones de Exchange Online es necesario para que ToDo para poder a los datos de usuario de sincronización: 
+Además de una licencia de producto válida, se necesita una de las siguientes versiones de Exchange Online para que ToDo pueda sincronizar los datos de usuario: 
   
 - Plan 1 de Exchange Online
     
 - Plan 2 de Exchange Online
     
-- Fundamentos de Exchange
+- Aspectos básicos de Exchange
     
 - Quiosco de Exchange Online
     
-- Exchange Online POP
+- POP de Exchange Online
     
 [Asignar licencias a cuentas de usuario con PowerShell de Office 365](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   

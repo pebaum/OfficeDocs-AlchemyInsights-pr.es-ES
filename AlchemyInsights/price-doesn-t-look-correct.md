@@ -1,5 +1,5 @@
 ---
-title: ¿Precio no tiene el aspecto correcto?
+title: ¿El precio no parece correcto?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: e4e9b39718a09f8ad9baa50a4ff4ac1ed43147f0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1bb010cac9727561554bf955f76ca0c3d3f15da1
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905093"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752274"
 ---
-# <a name="price-doesnt-look-correct"></a>¿Precio no tiene el aspecto correcto?
+# <a name="price-doesnt-look-correct"></a>¿El precio no parece correcto?
 
-Si el precio de la factura no tiene el aspecto correcto, esto podría ser debido a un cambio de precios en renovación. Si no cree que esto explica el problema, utilice la opción "háganos le llame" para hablar con un ingeniero de soporte técnico.
+Si el precio de la factura no parece correcto, puede deberse a un cambio de precio en la renovación. Si no cree esto explica el problema, use la opción "llámenos" para hablar con un ingeniero de soporte técnico.
   
 

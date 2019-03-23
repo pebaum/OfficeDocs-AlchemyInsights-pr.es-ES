@@ -1,5 +1,5 @@
 ---
-title: ¿Qué es un sitio de concentradores?
+title: ¿Qué es un sitio concentrador?
 ms.author: clake
 author: spowriter
 manager: scotv
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c74df953-2ddc-4375-aea0-9f410881bb2e
-ms.openlocfilehash: 7be7928baa630021f590b435a3d4710056ff6dca
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cd414235a38d24b0889ccb400e011c387919691c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911501"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30765753"
 ---
-# <a name="whats-a-hub-site"></a>¿Qué es un sitio de concentradores?
+# <a name="whats-a-hub-site"></a>¿Qué es un sitio concentrador?
 
-Un sitio concentrador le ayuda a organizar sitios y darles una navegación común y personalización de marca. Los administradores globales o SharePoint podrán crear sitios de concentradores y especificar qué usuarios pueden asociar sus sitios con el sitio concentrador. Para obtener más información, vea [sitios de concentradores de SharePoint nuevo en Office 365](https://go.microsoft.com/fwlink/?linkid=869388).
+Un sitio concentrador le ayudará a organizar los sitios y les proporcionará una navegación y personalización de marca comunes. Los administradores globales o de SharePoint podrán crear sitios de concentradores y especificar qué usuarios pueden asociar sus sitios con el sitio concentrador. Para obtener más información, vea [sitios de concentradores de SharePoint nuevos en Office 365](https://go.microsoft.com/fwlink/?linkid=869388).
   
 

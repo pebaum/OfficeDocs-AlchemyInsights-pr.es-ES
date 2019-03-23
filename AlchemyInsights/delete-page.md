@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c46c757e-d2e6-46e9-95b2-5b47bb4bd572
-ms.openlocfilehash: 43624ba1dfd46905502129de9e093efd56046ce4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 2bb3d677cc35040363f6806d95cbe0c41b25f6cc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911969"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30765501"
 ---
-# <a name="delete-a-sharepoint-page"></a>Eliminar una página de SharePoint
+# <a name="delete-a-sharepoint-page"></a>Eliminación de una página de SharePoint
 
-1. Vaya al sitio de donde se la página.
+1. Vaya al sitio donde se encuentra la página.
     
-2. En el lado izquierdo, haga clic en **Contenido del sitio**.
+2. En el lado izquierdo, haga clic en **contenido del sitio**.
     
-3. En el lado izquierdo de la página de contenido del sitio, haga clic en **páginas**.
+3. En el lado izquierdo de la página contenidos del sitio, haga clic en **páginas**.
     
 4. Seleccione la página y, a continuación, haga clic en los puntos suspensivos (...) a la derecha de la página.
     

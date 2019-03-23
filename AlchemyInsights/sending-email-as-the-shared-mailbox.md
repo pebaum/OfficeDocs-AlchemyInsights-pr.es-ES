@@ -1,5 +1,5 @@
 ---
-title: Envío de correo electrónico como el buzón compartido
+title: Enviar correo electrónico como el buzón compartido
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 190898bc-9644-480e-b535-25284aa09729
-ms.openlocfilehash: f0d0e9e857589ff91d163dcc4877633d18abdaab
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b8c6a5ba5ab28912ef09a4b17468a917534a54f0
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919709"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752327"
 ---
-# <a name="sending-email-as-the-shared-mailbox"></a>Envío de correo electrónico como el buzón compartido
+# <a name="sending-email-as-the-shared-mailbox"></a>Enviar correo electrónico como el buzón compartido
 
-Una vez haya creado un buzón compartido, los usuarios que son miembros del buzón son capaces de enviar correo electrónico como la identidad del buzón compartido (por ejemplo, *info@contoso.com* ). Para obtener instrucciones, vea: 
+Una vez que haya creado un buzón compartido, los usuarios que sean miembros del buzón podrán enviar correo como la identidad del buzón compartido (por ejemplo, *info@contoso.com* ). Para obtener instrucciones, vea: 
   
 [Abrir y usar un buzón compartido en Outlook 2016 y Outlook 2013](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
   

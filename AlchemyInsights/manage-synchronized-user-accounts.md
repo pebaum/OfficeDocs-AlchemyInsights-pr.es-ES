@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 92f8b774-a580-4704-b583-7401041fc436
-ms.openlocfilehash: c052fac9434738c987fcbc2566943f5f117aef2d
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 3e463e8b0998f20481af41a1ade71aa3b4baae4a
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30209322"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757151"
 ---
 # <a name="manage-synchronized-user-accounts"></a>Administrar cuentas de usuario sincronizadas
 

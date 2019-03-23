@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 767805b8de07e22ca14447adeea6a0cbd078750c
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 5bab5dae1b98fd2de57f07d5321b01dbec974b60
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30209394"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758087"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>Agregar un grupo a un sitio de SharePoint
 

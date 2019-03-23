@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: edcbab6f-09f6-44d7-9426-a2fcdda265db
-ms.openlocfilehash: a46af76b0063536b83a94ec96ea73185c5f77f29
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 574f1161fb73c5b52ba37d3a5f3ba945df0c5ba8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30207846"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30763017"
 ---
 # <a name="changing-public-folder-permissions"></a>Cambio de permisos de carpetas públicas
 

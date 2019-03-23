@@ -9,24 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 5b98e72644e1fd0fd71095a9a664bb93af110537
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 51e010dd19419f21c67d589b9833821b1e5075c0
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29902537"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764421"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>¿No puede instalar ni ejecutar la herramienta de exportación de exhibición de documentos electrónicos?
 
-Si no se puede instalar ni ejecutar la herramienta de exportación para descargar los resultados de búsqueda de exhibición de documentos de Office 365, compruebe lo siguiente:
+Si no puede instalar ni ejecutar la herramienta de exportación de Office 365 eDiscovery para descargar los resultados de la búsqueda, compruebe lo siguiente:
   
-- El equipo cumple estos requisitos previos:
+- El equipo que está usando cumple estos requisitos previos:
     
   - Versiones de 32 o 64 bits de Windows 7 y versiones posteriores
     
-  - Microsoft .NET Framework 4.7
+  - Microsoft .NET Framework 4,7
     
   - Un explorador compatible:
     
@@ -38,10 +38,10 @@ Si no se puede instalar ni ejecutar la herramienta de exportación para descarga
     
     No se admiten otros exploradores, como Google Chrome y Mozilla Firefox.
     
-- La organización puede conectarse al extremo en Azure, que es ** \*. blob.core.windows.net** (el carácter comodín representa un identificador único para el trabajo de exportación). 
+- su organización puede conectarse al extremo en Azure, que es ** \*. blob.core.windows.net** (el carácter comodín representa un identificador único para su trabajo de exportación). 
     
-- Está asignada la función de exportación en la seguridad de Office 365 &amp; centro de cumplimiento. De forma predeterminada, este rol se asigna sólo para el grupo de roles de administrador de exhibición de documentos electrónicos. Vea [asignar permisos de exhibición de documentos electrónicos](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo).
+- Tiene asignada la función exportar en el centro de seguridad &amp; y cumplimiento de Office 365. De forma predeterminada, este rol solo se asigna al grupo de roles eDiscovery Manager. Consulte [asignar permisos de exhibición](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo)de documentos electrónicos.
     
-Para obtener más información, vea [los resultados de la búsqueda de contenido de exportación](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278).
+Para obtener más información, vea [exportar resultados](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278)de la búsqueda de contenido.
   
 

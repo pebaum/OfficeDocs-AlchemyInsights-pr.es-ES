@@ -9,35 +9,35 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d7738bb8-3473-40fe-9a47-7f4b93e68ab8
-ms.openlocfilehash: ac5dd3476c49a930763cc29478b61072d79616a3
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: f61266c59662e8ce1ccd6063753eeaaf3638dbb8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913517"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764637"
 ---
-# <a name="how-to-share-in-onedrive"></a>Procedimiento para compartir en OneDrive
+# <a name="how-to-share-in-onedrive"></a>Cómo compartir en OneDrive
 
-1. Utilice el iniciador de aplicación para ir a OneDrive en el explorador web. 
+1. Use el iniciador de aplicaciones para ir a OneDrive en el explorador Web. 
     
-2. Seleccione el archivo o carpeta que desea compartir y, a continuación, seleccione **Compartir**.
+2. Seleccione el archivo o la carpeta que quiera compartir y, después, seleccione **compartir**.
     
-3. (Opcional) Si el tipo de vínculo no es aquel que desee, haga clic en la flecha abajo para seleccionar un tipo diferente:
+3. Opcional Si el tipo de vínculo no es el que desea, haga clic en la flecha hacia abajo para seleccionar un tipo diferente:
     
-  - **Cualquier persona** le proporciona acceso a cualquier persona que recibe este vínculo, si éstas reciben directamente a usted o se reenviarán de otra persona. Esto puede incluir personas fuera de la organización. 
+  - **Cualquiera** da acceso a cualquier persona que reciba este vínculo, tanto si lo recibe directamente de usted o lo reenvía desde otra persona. Esto puede incluir personas fuera de la organización. 
     
-  - **De personas en \<Your Organization\> ** proporciona a todos los usuarios en su organización acceso al vínculo, si reciben directamente desde ni reenviar de otra persona. 
+  - Las **personas \<de su\> organización** conceden acceso al vínculo a todos los usuarios de la organización, tanto si los reciben directamente de usted como si lo reenvían a otra persona. 
     
-  - **Personas específicas** proporciona acceso sólo a las personas especifique, aunque es podrán que otras personas ya tenga acceso. Si las personas reenvían la invitación para compartir, solo las personas que ya tienen acceso al elemento podrán usar el vínculo. 
+  - Los **usuarios específicos** solo proporcionan acceso a las personas que usted especifique, aunque es posible que otras personas ya dispongan de acceso. Si las personas reenvían la invitación para uso compartido, solo podrán usar el vínculo los usuarios que ya tengan acceso al elemento. 
     
     > [!NOTE]
-    > Si una de estas opciones no está disponible, o si desea que un tipo de vínculo diferentes que aparezca de forma predeterminada, puede modificar la configuración de toda la organización va al centro de administración de OneDrive y haciendo clic en **Compartir** en el panel izquierdo. [Más información](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Si una de estas opciones no está disponible o si desea que aparezca un tipo de vínculo diferente de forma predeterminada, puede cambiar la configuración de toda la organización en el centro de administración de OneDrive y haciendo clic en **uso compartido** en el panel izquierdo. [Más información](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. De forma predeterminada, la **Edición de permitir** está activado. Si desea que las personas para ver sólo los archivos, desactive la casilla de verificación. 
+4. De forma predeterminada, la **opción permitir edición** está activada. Si desea que los usuarios solo vean los archivos, desactive la casilla de verificación. 
     
-5. Escriba los nombres de las personas que desea compartir con y, a continuación, haga clic en **Enviar**.
+5. Escriba los nombres de las personas con las que desea compartir y, a continuación, haga clic en **Enviar**.
     
 [Más información](https://go.microsoft.com/fwlink/?linkid=871861)
   

@@ -9,34 +9,34 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: 7a9a4d454f82788598059feb8c5b3f1234a3ef6c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: f7cc1369bd179bf410871054b2d4184a55a2b342
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29897965"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762513"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Copiar o mover elementos en una biblioteca de documentos de SharePoint
 
-Puede copiar y mover archivos, carpetas y vínculos a distintas ubicaciones dentro de una biblioteca de documentos. También puede copiar elementos entre sitios. Si ha [configurado la opción de la versión de destino](https://go.microsoft.com/fwlink/?linkid=622980), se pueden mover elementos entre sitios.
+Puede copiar y mover archivos, carpetas y vínculos a diferentes ubicaciones dentro de una biblioteca de documentos. También puede copiar elementos entre sitios. Si ha [configurado la opción versión dirigida](https://go.microsoft.com/fwlink/?linkid=622980), también puede mover elementos entre sitios.
   
-1. En un explorador, vaya a los archivos, carpetas o vínculos que desee mover y, a continuación, haga clic en **Copiar en** o **mover a**.
+1. En un explorador, vaya a los archivos, carpetas o vínculos que desee mover y, a continuación, haga clic en **copiar a** o en **mover a**.
     
     > [!NOTE]
-    > **Copiar a** y **mover a** no están disponibles si está usando la experiencia clásica de SharePoint Online. 
+    > **Copiar a** y **mover a** no están disponibles si usa la experiencia clásica de SharePoint Online. 
   
-2. En **Elegir un destino**, seleccione la ubicación a la que desea copiar o mover los elementos o haga clic en **explorar sitios** para ver la lista completa de sitios. 
+2. En **elegir un destino**, seleccione la ubicación en la que desea copiar o mover los elementos o haga clic en **examinar sitios** para ver la lista completa de sitios. 
     
     > [!NOTE]
-    > Si no ve otros sitios que se indican al copiar elementos, no se ha configurado copiar entre sitios. Para habilitarlo, vaya a la página Configuración del centro de administración de SharePoint y haga clic en **Aceptar**. 
+    > Si no ve otros sitios enumerados al copiar elementos, no se ha configurado la copia entre sitios. Para habilitarlo, vaya a la página de configuración del centro de administración de SharePoint y haga clic en **Aceptar**. 
   
-    Para crear una nueva carpeta, seleccione una ubicación en la jerarquía de carpetas, haga clic en **nueva carpeta**y, a continuación, escriba un nombre para la carpeta y haga clic en la marca de verificación para guardar el nombre.
+    Para crear una carpeta nueva, seleccione una ubicación en la jerarquía de carpetas, haga clic en **nueva carpeta**, escriba un nombre para la carpeta y haga clic en la marca de verificación para guardar el nombre.
     
-3. Haga clic en **Copiar aquí** o **Mover aquí**.
+3. Haga clic en **copiar aquí** o **mover aquí**.
     
 > [!NOTE]
->  Puede copiar hasta 500 MB de archivos y carpetas a la vez. se copia > al copiar documentos que tienen el historial de versiones, sólo la versión más reciente. Al mover documentos, también se migran su historial. 
+>  Puede copiar hasta 500 MB de archivos y carpetas al mismo tiempo. > al copiar documentos que tienen el historial de versiones, solo se copia la versión más reciente. Al mover documentos, también se mueve su historial. 
   
 

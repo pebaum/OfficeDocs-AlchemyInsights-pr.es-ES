@@ -1,5 +1,5 @@
 ---
-title: Compartir un archivo o carpeta de OneDrive o de SharePoint
+title: Compartir un archivo o una carpeta en OneDrive o SharePoint
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -9,26 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b6d51993-c6dd-4721-a41f-5c4edcf7c3c7
-ms.openlocfilehash: cf1c78bcb47c416d83da9fb8344e1a01b68dd90d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 7a4c54e158f0bdd08e6f0b216b298133ec05ebdb
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905129"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764775"
 ---
-# <a name="share-a-file-or-folder-in-onedrive-or-sharepoint"></a>Compartir un archivo o carpeta de OneDrive o de SharePoint
+# <a name="share-a-file-or-folder-in-onedrive-or-sharepoint"></a>Compartir un archivo o una carpeta en OneDrive o SharePoint
 
-1. Busque el archivo o carpeta que desea compartir, selecciónelo y, a continuación, haga clic en **Compartir**.
+1. Busque el archivo o la carpeta que desea compartir, selecciónelo y, a continuación, haga clic en **compartir**.
     
-2. (Opcional) En el cuadro de diálogo Enviar vínculo, haga clic en la flecha hacia abajo para cambiar el tipo de vínculo. En la **que desea que este vínculo funcione para**, cambiar quién puede tener acceso al vínculo. Si desea que las personas que puedan ver pero no editar los archivos, desactive la casilla **Permitir la edición** . 
+2. Opcional En el cuadro de diálogo Enviar vínculo, haga clic en la flecha hacia abajo para cambiar el tipo de vínculo. En **¿en quién desea que trabaje este vínculo**?, cambie quién puede tener acceso al vínculo. Si desea que los usuarios puedan ver los archivos pero no editarlos, desactive la casilla **permitir edición** . 
     
     Haga clic en **Aplicar**.
     
     > [!NOTE]
-    > Si desea que la opción de uso compartido no está disponible, debe asegurarse de que está permitido para su organización y para la colección de sitios. Para hacer esto, vea [Activar externo de uso compartido de activado o desactivado para SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866426). 
+    > Si la opción de uso compartido que desea no está disponible, debe asegurarse de que está permitida para su organización y para la colección de sitios. Para ello, vea [activar o desactivar el uso compartido externo para SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866426). 
   
-3. Escriba los nombres de las personas que desea compartir con y, a continuación, haga clic en **Enviar**.
+3. Escriba los nombres de las personas con las que desea compartir y, a continuación, haga clic en **Enviar**.
     
 
