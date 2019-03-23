@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: dd4152d2942e93b1fa4d291fcead2266b9e31e91
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 911d4a61ebdfc8b7c1ff084cba268b0509b59955
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208350"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755819"
 ---
-# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="68a6c-102">Cuándo se genera el extracto de facturación</span><span class="sxs-lookup"><span data-stu-id="68a6c-102">When is the billing statement generated</span></span>
+# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="53b67-102">Cuándo se genera el extracto de facturación</span><span class="sxs-lookup"><span data-stu-id="53b67-102">When is the billing statement generated</span></span>
 
-<span data-ttu-id="68a6c-p101">Cada mes recibirá un correo electrónico que le indicará que el nuevo extracto de facturación está disponible en el centro de administración de Microsoft 365. La factura contiene dos páginas. La Página 1 es el Resumen de factura y contiene información general acerca de la factura, el pedido, el importe debido, cómo realizar un pago y cómo ponerse en contacto con el soporte técnico. La página 2 contiene detalles sobre la actividad de facturación para cada suscripción.</span><span class="sxs-lookup"><span data-stu-id="68a6c-p101">Each month you'll receive an email that tells you that your new billing statement is available in the Microsoft 365 admin center. Your invoice contains two pages. Page 1 is the invoice summary, and contains general information about the invoice, order, amount due, how to make a payment, and how to contact support. Page 2 contains details about the billing activity for each subscription.</span></span>
+<span data-ttu-id="53b67-103">Cada mes recibirá un correo electrónico que le indicará que el nuevo extracto de facturación está disponible en el centro de administración de Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="53b67-103">Each month you'll receive an email that tells you that your new billing statement is available in the Microsoft 365 admin center.</span></span> <span data-ttu-id="53b67-104">Su factura contiene dos páginas.</span><span class="sxs-lookup"><span data-stu-id="53b67-104">Your invoice contains two pages.</span></span> <span data-ttu-id="53b67-105">La página 1 es el resumen de la factura, y contiene la información general acerca de esta, del pedido, del importe debido, de cómo realizar el pago y de cómo ponerse en contacto con el soporte técnico.</span><span class="sxs-lookup"><span data-stu-id="53b67-105">Page 1 is the invoice summary, and contains general information about the invoice, order, amount due, how to make a payment, and how to contact support.</span></span> <span data-ttu-id="53b67-106">La página 2 contiene los detalles acerca de la actividad de facturación para cada suscripción.</span><span class="sxs-lookup"><span data-stu-id="53b67-106">Page 2 contains details about the billing activity for each subscription.</span></span>
   
-<span data-ttu-id="68a6c-107">Para obtener más información acerca de los conceptos de facturación, consulte [comprender la factura](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507).</span><span class="sxs-lookup"><span data-stu-id="68a6c-107">To learn more about billing concepts, see [Understand your invoice](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507).</span></span>
+<span data-ttu-id="53b67-107">Para obtener más información acerca de los conceptos de facturación, consulte [comprender la factura](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507).</span><span class="sxs-lookup"><span data-stu-id="53b67-107">To learn more about billing concepts, see [Understand your invoice](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507).</span></span>
   
 

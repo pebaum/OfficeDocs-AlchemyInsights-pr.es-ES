@@ -1,5 +1,5 @@
 ---
-title: Alchemy - crear y Agregar firma a los mensajes en Outlook
+title: 'Alchemy: crear y agregar firma a los mensajes en Outlook'
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: 30b7c67e4568634c5ec70b366ddd43774b661b7b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: da21e1a463c4d1fdf0160519f79ff99b7be3ca74
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925673"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753587"
 ---
-# <a name="creating-email-signatures"></a><span data-ttu-id="4d8a7-102">Creación de firmas de correo electrónico</span><span class="sxs-lookup"><span data-stu-id="4d8a7-102">Creating email signatures</span></span>
+# <a name="creating-email-signatures"></a><span data-ttu-id="1a3f2-102">Crear firmas de correo electrónico</span><span class="sxs-lookup"><span data-stu-id="1a3f2-102">Creating email signatures</span></span>
 
-<span data-ttu-id="4d8a7-103">Estos artículos le ayudarán a crear las firmas de correo electrónico que está buscando.</span><span class="sxs-lookup"><span data-stu-id="4d8a7-103">These articles should help you create the email signatures you're looking for.</span></span>
+<span data-ttu-id="1a3f2-103">Estos artículos le ayudarán a crear las firmas de correo electrónico que está buscando.</span><span class="sxs-lookup"><span data-stu-id="1a3f2-103">These articles should help you create the email signatures you're looking for.</span></span>
   
-- <span data-ttu-id="4d8a7-104">Deseo crear una firma de correo electrónico con Outlook en Windows: [crear y agregar una firma a los mensajes](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)</span><span class="sxs-lookup"><span data-stu-id="4d8a7-104">I want to create an email signature using Outlook on Windows: [Create and add a signature to messages](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)</span></span>
+- <span data-ttu-id="1a3f2-104">Deseo crear una firma de correo electrónico con Outlook en Windows: [crear y agregar una firma a los mensajes](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)</span><span class="sxs-lookup"><span data-stu-id="1a3f2-104">I want to create an email signature using Outlook on Windows: [Create and add a signature to messages](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)</span></span>
     
-- <span data-ttu-id="4d8a7-105">Deseo crear una firma de correo electrónico con Outlook en la web: [crear y agregar una firma de correo electrónico en Outlook en el web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)</span><span class="sxs-lookup"><span data-stu-id="4d8a7-105">I want to create an email signature using Outlook on the web: [Create and add an email signature in Outlook on the web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)</span></span>
+- <span data-ttu-id="1a3f2-105">Deseo crear una firma de correo electrónico con Outlook en la web: [crear y agregar una firma de correo electrónico en Outlook en la web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)</span><span class="sxs-lookup"><span data-stu-id="1a3f2-105">I want to create an email signature using Outlook on the web: [Create and add an email signature in Outlook on the web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)</span></span>
     
-- <span data-ttu-id="4d8a7-106">Deseo crear una firma de correo electrónico con Outlook.com: [crear y agregar una firma de correo electrónico en Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)</span><span class="sxs-lookup"><span data-stu-id="4d8a7-106">I want to create an email signature using Outlook.com: [Create and add an email signature in Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)</span></span>
+- <span data-ttu-id="1a3f2-106">Deseo crear una firma de correo electrónico mediante Outlook.com: [crear y agregar una firma de correo electrónico en Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)</span><span class="sxs-lookup"><span data-stu-id="1a3f2-106">I want to create an email signature using Outlook.com: [Create and add an email signature in Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)</span></span>
     
-- <span data-ttu-id="4d8a7-107">Deseo crear una firma de correo electrónico global para todos los mensajes de correo electrónico enviado desde mi compañía: [crear firmas de toda la organización y la declinación de responsabilidades en Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)</span><span class="sxs-lookup"><span data-stu-id="4d8a7-107">I want to create a global email signature for all emails sent from my company: [Create organization-wide signatures and disclaimers in Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)</span></span>
+- <span data-ttu-id="1a3f2-107">Deseo crear una firma de correo electrónico global para todos los correos electrónicos enviados desde mi compañía: [crear firmas y avisos de declinación de responsabilidad en toda la organización en Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)</span><span class="sxs-lookup"><span data-stu-id="1a3f2-107">I want to create a global email signature for all emails sent from my company: [Create organization-wide signatures and disclaimers in Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)</span></span>
     
- <span data-ttu-id="4d8a7-108">**Sugerencia:** Las firmas de toda la organización se conocen como "declinación de responsabilidades".</span><span class="sxs-lookup"><span data-stu-id="4d8a7-108">**Tip:** Organization-wide signatures are referred to as "disclaimers."</span></span> 
+ <span data-ttu-id="1a3f2-108">**Sugerencia:** Las firmas de toda la organización se denominan "renuncias".</span><span class="sxs-lookup"><span data-stu-id="1a3f2-108">**Tip:** Organization-wide signatures are referred to as "disclaimers."</span></span> 
   
 
