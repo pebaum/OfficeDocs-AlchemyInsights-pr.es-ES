@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
-ms.openlocfilehash: 6c9a90b8b0cf30df3d2a45b394275ccd8d0b19a8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0a398d2d6792e9e6af33dfe0678e40f71f6928ac
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916865"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756647"
 ---
-# <a name="ctrlh-shows-find-not-replace-in-excel"></a><span data-ttu-id="f5b9a-102">CTRL + H muestra buscar, no reemplazar en Excel</span><span class="sxs-lookup"><span data-stu-id="f5b9a-102">CTRL+H shows Find, not Replace in Excel</span></span>
+# <a name="ctrlh-shows-find-not-replace-in-excel"></a><span data-ttu-id="59343-102">CTRL + H muestra buscar, no reemplazar en Excel</span><span class="sxs-lookup"><span data-stu-id="59343-102">CTRL+H shows Find, not Replace in Excel</span></span>
 
-<span data-ttu-id="f5b9a-p101">En Excel 2016, presionando CTRL + H se abre el cuadro de diálogo Buscar y reemplazar y muestra la ficha Buscar, en lugar de la ficha Reemplazar haciendo clic en reemplazar en la ficha Inicio hace lo mismo. Este problema se corrigió en la versión 1708 (8431.2094). Para solucionar este problema, actualice a la versión más reciente de Office. Seleccione **archivo** \> **cuenta** \> **Opciones de actualización** \> **Actualizar ahora**.</span><span class="sxs-lookup"><span data-stu-id="f5b9a-p101">In Excel 2016, pressing CTRL+H opens the Find and Replace dialog and shows the Find tab, instead of the Replace tab. Clicking Replace on the Home tab does the same thing. This issue was fixed in version 1708 (8431.2094). To fix this, update to the latest version of Office. Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="59343-103">En Excel 2016, al presionar CTRL + H se abre el cuadro de diálogo Buscar y reemplazar y se muestra la pestaña buscar en lugar de la pestaña reemplazar. al hacer clic en reemplazar en la ficha Inicio, ocurre lo mismo.</span><span class="sxs-lookup"><span data-stu-id="59343-103">In Excel 2016, pressing CTRL+H opens the Find and Replace dialog and shows the Find tab, instead of the Replace tab. Clicking Replace on the Home tab does the same thing.</span></span> <span data-ttu-id="59343-104">Este problema se corrigió en la versión 1708 (8431,2094).</span><span class="sxs-lookup"><span data-stu-id="59343-104">This issue was fixed in version 1708 (8431.2094).</span></span> <span data-ttu-id="59343-105">Para solucionar esto, actualice a la versión más reciente de Office.</span><span class="sxs-lookup"><span data-stu-id="59343-105">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="59343-106">Seleccione **File** \> **account** \> **Update Options** \> **Actualizar ahora**.</span><span class="sxs-lookup"><span data-stu-id="59343-106">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   
 
