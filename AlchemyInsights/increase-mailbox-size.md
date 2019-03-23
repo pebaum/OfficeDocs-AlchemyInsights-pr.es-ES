@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 3ecff82230295ca161dc83efcede3d989bb7cb5a
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208314"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752147"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Cambiar de planes para aumentar el tamaño del buzón.
 
 Si el tamaño del buzón ya es de 100 GB, no hay forma de aumentarlo. En ese caso, siga [este Consejo](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71). 
   
-Si el tamaño del buzón es de 50 GB, puede aumentarlo a 100 GB cambiando a [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) u [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Estos son los pasos para cambiar a otro plan de Office 365:
+Si el tamaño del buzón es de 50 GB, puede aumentarlo a 100 GB cambiando a [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) u [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Estos son los pasos para cambiar a otro plan de Office 365
   
 1. en el centro de administración de Microsoft 365, vaya [](https://go.microsoft.com/fwlink/p/?linkid=842054) a la página suscripciones o elija suscripciones de **facturación** \> ****.
     
@@ -34,4 +34,4 @@ Si el tamaño del buzón es de 50 GB, puede aumentarlo a 100 GB cambiando a [off
     
 Para obtener más información, consulte [Cambiar a otro plan de Office 365](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
   
-
+Si tiene un [plan de O365 que admita un archivo local](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), también puede obtener almacenamiento de correo electrónico adicional Si habilita un buzón de archivo.  Un buzón de archivo proporciona almacenamiento adicional y permite mover, copiar y buscar mensajes tanto en el buzón de correo principal como en el buzón de archivo. Para conocer los pasos para habilitar un buzón de archivo, consulte [habilitar un buzón de archivo](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes).
