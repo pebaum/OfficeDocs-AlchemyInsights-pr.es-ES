@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: ea852e315eaf7611d2d405dcfc9e85ab1ccca196
-ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
+ms.openlocfilehash: db8523c19ed7f4ebdb475c1425fae4f6ea0b8219
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30574640"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752831"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>Configurar una aplicación o dispositivo multifunción para enviar correos electrónicos mediante Office 365
 
