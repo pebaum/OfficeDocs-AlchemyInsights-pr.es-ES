@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: bf7ba2f9f90d6c7220973b13ade4f154a0ca3655
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 17c8cb304a8f2009279cf9646d8e0026f1f967e8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208209"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766473"
 ---
-# <a name="trying-to-find-a-trial"></a><span data-ttu-id="dd8c0-102">¿Intenta encontrar una versión de prueba?</span><span class="sxs-lookup"><span data-stu-id="dd8c0-102">Trying to find a trial?</span></span>
+# <a name="trying-to-find-a-trial"></a><span data-ttu-id="a8585-102">¿Intenta encontrar una versión de prueba?</span><span class="sxs-lookup"><span data-stu-id="a8585-102">Trying to find a trial?</span></span>
 
-<span data-ttu-id="dd8c0-103">Si desea probar un nuevo servicio, puede encontrar una lista de las suscripciones disponibles para la versión de prueba en el centro de administración de Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="dd8c0-103">If you would like to try a new service you can find a list of subscriptions available for trial in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="a8585-103">Si desea probar un nuevo servicio, puede encontrar una lista de las suscripciones disponibles para la versión de prueba en el centro de administración de Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="a8585-103">If you would like to try a new service you can find a list of subscriptions available for trial in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="dd8c0-104">Vaya a la página de [servicios de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) o elija **servicios de compra**de **facturación** \> .</span><span class="sxs-lookup"><span data-stu-id="dd8c0-104">Go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase services**.</span></span>
+1. <span data-ttu-id="a8585-104">Vaya a la página de [servicios de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) o elija **servicios de compra**de **facturación** \> .</span><span class="sxs-lookup"><span data-stu-id="a8585-104">Go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase services**.</span></span>
     
-2. <span data-ttu-id="dd8c0-105">Busque la suscripción que mejor se adapte a sus necesidades, pase el mouse por encima de ella y elija **iniciar prueba gratuita**.</span><span class="sxs-lookup"><span data-stu-id="dd8c0-105">Find the subscription that meets your needs, mouse over it, and choose **Start free trial**.</span></span>
+2. <span data-ttu-id="a8585-105">Busque la suscripción que mejor se adapte a sus necesidades, pase el mouse por encima de ella y elija **iniciar prueba gratuita**.</span><span class="sxs-lookup"><span data-stu-id="a8585-105">Find the subscription that meets your needs, mouse over it, and choose **Start free trial**.</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="dd8c0-p101">No todas las suscripciones están disponibles como versión de prueba. Si no ve el botón **iniciar prueba gratuita** cuando pasa el mouse por una suscripción, significa que no hay ninguna prueba disponible.</span><span class="sxs-lookup"><span data-stu-id="dd8c0-p101">Not all subscriptions are available as a trial. If you don't see the **Start free trial** button when you mouse over a subscription, that means a trial is not available.</span></span> 
+    > <span data-ttu-id="a8585-106">No todas las suscripciones están disponibles como versión de prueba.</span><span class="sxs-lookup"><span data-stu-id="a8585-106">Not all subscriptions are available as a trial.</span></span> <span data-ttu-id="a8585-107">Si no ve el botón **iniciar prueba gratuita** cuando pasa el mouse por una suscripción, significa que no hay ninguna prueba disponible.</span><span class="sxs-lookup"><span data-stu-id="a8585-107">If you don't see the **Start free trial** button when you mouse over a subscription, that means a trial is not available.</span></span> 
   
-3. <span data-ttu-id="dd8c0-p102">Es posible que se le pida que escriba una tarjeta de crédito u otra forma de pago para proporcionar una comprobación adicional como medida de seguridad. No se le cobrará por esta prueba gratuita. Se mantendrá la información de pago en el archivo y no se usará para ninguna compra sin su aprobación.</span><span class="sxs-lookup"><span data-stu-id="dd8c0-p102">You may be asked to enter a credit card or other payment method to provide additional verification as a security measure. You won't be charged for this free trial. We will keep your payment information on file, and won't use it for any purchase without your approval.</span></span>
+3. <span data-ttu-id="a8585-108">Es posible que se le pida que escriba una tarjeta de crédito u otra forma de pago para proporcionar una comprobación adicional como medida de seguridad.</span><span class="sxs-lookup"><span data-stu-id="a8585-108">You may be asked to enter a credit card or other payment method to provide additional verification as a security measure.</span></span> <span data-ttu-id="a8585-109">No se le cobrará por esta prueba gratuita.</span><span class="sxs-lookup"><span data-stu-id="a8585-109">You won't be charged for this free trial.</span></span> <span data-ttu-id="a8585-110">Se mantendrá la información de pago en el archivo y no se usará para ninguna compra sin su aprobación.</span><span class="sxs-lookup"><span data-stu-id="a8585-110">We will keep your payment information on file, and won't use it for any purchase without your approval.</span></span>
     
-4. <span data-ttu-id="dd8c0-111">Elija **realizar pedido**.</span><span class="sxs-lookup"><span data-stu-id="dd8c0-111">Choose **Place order**.</span></span>
+4. <span data-ttu-id="a8585-111">Elija **realizar pedido**.</span><span class="sxs-lookup"><span data-stu-id="a8585-111">Choose **Place order**.</span></span>
     
 
