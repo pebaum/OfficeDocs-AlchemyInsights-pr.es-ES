@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: a1d2a7ac79f5d7f4ef691b3ba7e110945a106fdf
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 3242e2db85d20364b1678a1ec9c1ed9a93156bd5
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905777"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766293"
 ---
 # <a name="how-to-make-an-office-365-purchase"></a>Cómo realizar una compra de Office 365
 
-Compras en Office 365 pueden realizarse en el centro de administración. Vaya a la página de [suscripciones](https://go.microsoft.com/fwlink/p/?linkid=842054) o elija **facturación** \> **suscripciones**.
+Las compras en Office 365 se pueden realizar en el centro de administración. Vaya a la [](https://go.microsoft.com/fwlink/p/?linkid=842054) página suscripciones o elija suscripciones de **facturación** \> ****.
   
-- Para comprar una suscripción a ir a la página de [Servicios de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) de Office 365, o bien **de facturación** \> **Servicios de compra**.
+- para comprar una suscripción de Office 365 vaya a la página de [servicios de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) o elija **servicios de compra**de **facturación** \> .
     
-- Para comprar adicionales licencias vaya a la página de [suscripciones](https://go.microsoft.com/fwlink/p/?linkid=842054) o elija **facturación** \> **suscripciones**. En la página de **suscripciones** , elija la suscripción que desea agregar licencias a y, a continuación, elija **Agregar o quitar licencias**.
+- Para comprar licencias adicionales, vaya a [](https://go.microsoft.com/fwlink/p/?linkid=842054) la página suscripciones o elija suscripciones de **facturación** \> ****. En la **** página suscripciones, elija la suscripción a la que desea agregar licencias y, a continuación, elija **Agregar o quitar licencias**.
     
 - Para cambiar a un plan diferente:
     
-  - Elija ** Cambiar planes ** para ver la lista de planes de nuevo que están disponibles. 
+  - Elija * * cambiar de plan * * para ver la lista de nuevos planes disponibles. 
     
-  - Elija un plan para ver el nuevo costo total por mes. Asegúrese de leer la información de clave, a continuación, elija **siguiente** para desproteger. 
+  - Elija un plan para ver el nuevo coste total por mes. Asegúrese de leer la información de la clave y, a continuación, elija **siguiente** para desproteger. 
     
- **Otros recursos**
+ **Recursos adicionales**
   
 - [Asignar licencias a usuarios en Office 365 para empresas](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
     
-- [Cancelar Office 365 para profesionales](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Cancelar Office 365 para empresas](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
     
 

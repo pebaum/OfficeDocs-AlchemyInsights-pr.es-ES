@@ -1,5 +1,5 @@
 ---
-title: Cómo agregar o reducir las licencias
+title: Cómo agregar o reducir licencias
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,35 +9,35 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 244cf804ea0f270bf56ba3247beb91463ffb66b4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 38d706c035613bf4f3ff87ffbfa19621aa386763
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29922913"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767445"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>Cómo agregar o reducir las licencias
+# <a name="how-to-add-or-reduce-licenses"></a>Cómo agregar o reducir licencias
 
-Aquí es cómo quitar o adquirir más licencias.
+Esta es la manera de quitar o comprar más licencias.
   
 1. En el Centro de administración, vaya a la página [Suscripciones](https://go.microsoft.com/fwlink/p/?linkid=842054) o elija **Facturación** \> **Suscripciones**.
     
-2. En la izquierda, elija la suscripción desde la que desea agregar o quitar licencias
+2. En la parte izquierda, elija la suscripción de la que desea agregar o quitar licencias.
     
 3. Elija **Agregar o quitar licencias**.
     
-4. Escriba el número total de usuarios que sea necesitado.
+4. Escriba el número total de usuarios necesarios.
     
     Por ejemplo, si actualmente tiene 25 licencias y desea quitar 5, escriba 20 en este campo.
     
-5. Elija **Enviar**.
+5. Choose **Submit**.
     
 > [!NOTE]
-> Cualquier cargo nuevo (aumento de las licencias) o crédito (disminución de licencia) se mostrará en la lista siguiente. 
+> Cualquier nueva carga (aumento de licencia) o crédito (disminución de la licencia) se mostrará en la próxima factura. 
   
- **Recursos**
+ **Resources**
   
 - [Quitar licencias de la suscripción de Office 365 para empresas](https://support.office.com/article/9c64d127-e2dd-4ecc-81f5-2f87e5a74803)
     

@@ -1,5 +1,5 @@
 ---
-title: Empleado y dejar
+title: Salida de empleado
 ms.author: dianef
 author: dianef77
 manager: scotv
@@ -9,26 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
 description: ''
-ms.openlocfilehash: d66d92afb22f65fe937316d6f799696dc481657a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 3d7a1399cb1378cd6960d308d2df440310408b9d
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940589"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767481"
 ---
-# <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>Tiene un empleado y dejar y necesita bloquear el acceso a datos y correo electrónico?
+# <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>¿Se ha dejado un empleado y es necesario bloquear el acceso a los datos y el correo electrónico?
   
-1. Vaya a [los usuarios activos](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+1. Vaya a [usuarios activos](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
     
 2. Seleccione el usuario que desea bloquear. 
     
 3. Junto a estado de inicio de sesión, elija **Editar**. 
     
-4. Elija **bloquear el usuario de inicio de sesión** \> **Guardar**. 
+4. Elija **impedir que el usuario inicie sesión en** \> **Guardar**. 
     
- **Nota**: cierre de sesión por algunas aplicaciones pueden no ser inmediatas. Realizar el seguimiento de las acciones más en este artículo: [quitar un antiguo empleado de Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)
+ **Nota**: es posible que el cierre de sesión de algunas aplicaciones no sea inmediato. Realice un seguimiento con más acciones en este artículo: [quitar un antiguo empleado de Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)
   
 

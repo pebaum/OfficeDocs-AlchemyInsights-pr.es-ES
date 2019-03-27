@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 7332650d1763e2bbd13be48f406fb04b8849a6c1
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d215f3af0cf4b46b12c8cb51a9572adb00f354e4
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911249"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766365"
 ---
 # <a name="verify-your-domain"></a>Verify your domain
 
- **El registro probablemente no ha actualizado a través de Internet.**
+ **Es probable que el registro no se haya actualizado a través de Internet.**
   
-Normalmente sólo tarda unos minutos para que podamos podrá ver el nuevo registro, pero ocasionalmente puede tardar hasta unas cuantas horas. 
+Normalmente, solo se tarda unos minutos para poder ver el nuevo registro, pero en ocasiones puede tardar varias horas en realizarse. 
   
-- Si has esperado durante cuánto tiempo ya, compruebe que ha copiado y pegado el valor exacto en el registro de comprobación de TXT en el host de DNS. Una cuestión común no se incluye el "MS =" parte del registro. ¡Necesitamos demasiado!
+- Si ya ha esperado ese tiempo, compruebe que ha copiado y pegado el valor exacto en el registro de verificación TXT en el host DNS. Uno de los problemas habituales es no incluir la parte de "MS=" del registro. ¡También la necesitamos!
     
-- En algunos equipos de host DNS, tiene que realizar un paso adicional para guardar el archivo de zona (donde se almacena el registro de DNS) para que va a actualizar a través de Internet. Asegúrese de que ha guardado los cambios para que pueda ver y compruebe el registro de Office 365.
+- En algunos hosts DNS, tiene que llevar a cabo un paso adicional para guardar el archivo de zona (donde se almacena el registro DNS), de modo que se actualice a través de Internet. Asegúrese de que haya guardado los cambios de manera que Office 365 pueda ver y comprobar el registro.
     
 

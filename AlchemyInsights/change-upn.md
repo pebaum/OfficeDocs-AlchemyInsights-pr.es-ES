@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 999008cd1b8f5d4b07660351605e60b87d557883
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: f8c412bda739179b295d62a1d6a6e31a88cf59c2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208458"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767049"
 ---
 # <a name="change-a-users-email-address"></a>Cambiar la dirección de correo electrónico de un usuario
 
-Cambiar la dirección de correo electrónico de una persona es fácil. Solo tiene que seguir estos pasos:
+Cambiar la dirección de correo electrónico de una persona es fácil. Siga estos pasos:
   
 1. en el centro de administración de Microsoft 365, vaya a la página [usuarios](https://go.microsoft.com/fwlink/p/?linkid=834822) o **** \> elija usuarios **activos**.
     
@@ -30,11 +30,11 @@ Cambiar la dirección de correo electrónico de una persona es fácil. Solo tien
     
 4. En el cuadro **alias** , escriba un nuevo correo electrónico y, a continuación, elija **Agregar**.
     
-    **Importante**: Si recibe el mensaje de error " **no se encuentra un parámetro que coincida con el nombre de parámetro" EmailAddresses**", significa que tarda un poco más para que Office 365 finalice la configuración de su espacio empresarial o su dominio personalizado si agregó recientemente uno . El proceso de instalación puede tardar hasta 4 horas en completarse. Espere un rato, el proceso de instalación tiene tiempo para finalizar y, a continuación, vuelva a intentarlo. Si el problema continúa, llame al soporte técnico y realizará una sincronización completa para usted.
+    **IMPORTANTE**: Si recibe el mensaje de error " **No se encuentra ningún parámetro que coincida con el nombre de parámetro 'EmailAddresses'"**, significa que Office 365 está tardando un poco más en finalizar la configuración de su espacio empresarial o de su dominio personalizado si ha agregado alguno recientemente. El proceso de configuración puede tardar hasta 4 horas en completarse. Espere un poco para que el proceso de configuración tenga el tiempo suficiente para finalizarse y después inténtelo de nuevo. Si el problema continúa, llame al soporte técnico, que realizará una sincronización completa.
     
     Si recibe el mensaje de error "lo **sentimos, el usuario no se puede editar. Revise la información de usuario y vuelva a intentarlo**"significa que no es un administrador global de Office 365 y no tiene permisos para cambiar el nombre del usuario.
     
-5. Elija **establecer como principal** para la dirección de correo electrónico que desea establecer como la dirección de correo electrónico principal de esa persona. Si compró la suscripción a GoDaddy, debe iniciar sesión en su consola de administración para establecer la dirección de correo electrónico principal. 
+5. Elija **Establecer como principal** para la dirección de correo electrónico que desea establecer como la dirección de correo electrónico principal de esa persona. Si compró la suscripción a GoDaddy, debe iniciar sesión en su consola de administración para establecer la dirección de correo electrónico principal. 
     
 6. Elija **Guardar**y, **** después, haga clic en finalizar.
     
