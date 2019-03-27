@@ -1,5 +1,5 @@
 ---
-title: El remitente está bloqueado para enviar demasiado correo no deseado
+title: Se ha bloqueado el remitente por enviar demasiado spam
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 10e6a94a58acd1db8a36ca99a34809c8e99ddebc
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: c2226a00de806049e92cf0e1e25c75fb57adef53
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405304"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767517"
 ---
-# <a name="account-is-blocked-for-sending-too-much-spam"></a>La cuenta está bloqueada para el envío de mucho correo no deseado
+# <a name="account-is-blocked-for-sending-too-much-spam"></a>Se ha bloqueado la cuenta por enviar demasiado spam
 
-Es posible que la cuenta de envío esté en peligro. Tendrá que:
+Es posible que la cuenta remitente esté en peligro. Tendrá que hacer lo siguiente:
   
-1. [Determine si la cuenta está](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised)comprometida. Si se viera en peligro, siga los pasos para [responder a una cuenta de correo electrónico en peligro en Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
+1. [Determinar si la cuenta está en peligro](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Si está en peligro, siga los pasos para [Responder a una cuenta de correo electrónico en peligro en Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
     
-2. Vaya a usuarios restringidos para **[desbloquear la cuenta](https://protection.office.com/?hash=/restrictedusers)** en el &amp; centro de seguridad y cumplimiento. Una vez hecho, debería poder reanudar el envío *de mensajes en 1 hora* . 
+2. Ir a Usuarios restringidos para **[desbloquear la cuenta](https://protection.office.com/?hash=/restrictedusers)** en el centro de seguridad &amp; cumplimiento. Cuando termine, debería poder volver a enviar mensajes *dentro de 1 hora*. 
     
-3. Para ayudar a evitar los futuros peligros de las cuentas, siga las recomendaciones de [Security Best Practices for Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx).
+3. Para evitar que la cuenta vuelva a estar en peligro, siga las recomendaciones de los [Procedimientos de seguridad recomendados para Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx).
   
 
