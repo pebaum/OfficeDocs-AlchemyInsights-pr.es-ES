@@ -1,5 +1,5 @@
 ---
-title: Código de error 550 5.7.705 acceso denegado, inquilino ha superado el umbral
+title: Código de error 550 5.7.705 acceso denegado, el inquilino ha superado el umbral
 ms.author: chrisda
 author: chrisda
 ms.date: 4/9/2018
@@ -8,15 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9e6df5ee-ede8-421d-ba25-a3a3d0ca0a5d
-ms.openlocfilehash: 1eecc9a699a950760fd00cb96c11d167e40344f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 06c8c3e3686dbb1567551c8a727af669593285c6
+ms.sourcegitcommit: 26774fd0e24a02cc6ee2433eccbbfc27ebc9f850
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29907757"
+ms.lasthandoff: 04/03/2019
+ms.locfileid: "31397023"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>Acceso denegado a 550 5.7.705, inquilino ha superado el umbral
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 acceso denegado, el inquilino ha superado el umbral
 
-Este mensaje se produce cuando se ha enviado demasiado correo de correo no deseado o masiva por la organización de Office 365. Para quitar este bloque, es preciso comprender y explicar la causa a un agente de asistencia, así como para corregir el problema subyacente.
-  
+Este mensaje se produce cuando su organización ha enviado demasiado correo no deseado o correo masivo y se colocamos un bloque en el correo saliente.
+Las causas comunes son los servidores locales comprometidos o las cuentas de administrador comprometidas que se han usado para crear conectores. Cualquiera de las condiciones puede permitir que el correo no deseado pase a través de la organización.
+
+Para quitar este bloque, debe comprender y explicar la causa a un agente de soporte técnico, así como corregir el problema subyacente.
+Haga clic en **póngase en contacto con nosotros** cuando esté listo.
 
