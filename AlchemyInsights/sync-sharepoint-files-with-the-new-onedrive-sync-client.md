@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: f410e09f2ef7acee9b24686193a7ce6fb6ab706b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 3e4219143a9418d886b1f5cf85f8bef9c412bbaf
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30755063"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747363"
 ---
 # <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Sincronizar los archivos de SharePoint con el nuevo cliente de sincronización de OneDrive
 
-1. En el Centro de administración clásico de SharePoint, seleccione **Configuración**.
+1. En el nuevo Centro de administración de SharePoint, seleccione **Configuración**.
     
 2. Asegúrese de que el "Botón de sincronización de OneDrive" esté establecido en "Mostrar el botón de sincronización".
     
