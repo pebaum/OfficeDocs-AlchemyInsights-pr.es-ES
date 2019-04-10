@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 700e6d24e49cf11bf91780895f5a796cc1d8349d
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 69e290e5a13f40ad045086791189a7d0af88240b
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30753443"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747615"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Solucionar problemas de uso compartido de contenido de SharePoint con usuarios externos
 
@@ -28,13 +28,13 @@ Asegúrese de que el uso compartido externo está activado para su organización
     
 Asegúrese de que el uso compartido externo esté activado para el sitio. Para una colección de sitios clásica:
   
-1. En el centro de administración clásico de SharePoint, en el panel izquierdo, haga clic en **colecciones de sitios**.
+1. En el panel izquierdo del nuevo centro de administración de SharePoint, haga clic en **sitios**.
     
 2. Seleccione el sitio o los sitios y, en la cinta de opciones, haga clic en **compartir**.
     
 Para un sitio de grupo que pertenece a un grupo de Office 365 o a un sitio de comunicación:
   
-- Estos nuevos tipos de sitio tienen la misma configuración de uso compartido que la configuración de toda la organización, a menos que la configuración de toda la organización permita compartir archivos mediante vínculos que no requieran el inicio de sesión. En este caso, los sitios permiten el uso compartido con usuarios externos nuevos y existentes que inician sesión. Para cambiar la configuración de sitios específicos, use el nuevo centro de administración de SharePoint (versión preliminar) o PowerShell. Obtener [más información](https://go.microsoft.com/fwlink/?linkid=871863).
+- Estos nuevos tipos de sitio tienen la misma configuración de uso compartido que la configuración de toda la organización, a menos que la configuración de toda la organización permita compartir archivos mediante vínculos que no requieran el inicio de sesión. En este caso, los sitios permiten el uso compartido con usuarios externos nuevos y existentes que inician sesión. Para cambiar la configuración de sitios específicos, use el nuevo centro de administración de SharePoint o PowerShell. Obtener [más información](https://go.microsoft.com/fwlink/?linkid=871863).
     
 > [!NOTE]
 > La configuración de uso compartido externo de cualquier sitio puede ser más restrictiva que la configuración de toda la organización, pero no más permisiva que la configuración de toda la organización. 

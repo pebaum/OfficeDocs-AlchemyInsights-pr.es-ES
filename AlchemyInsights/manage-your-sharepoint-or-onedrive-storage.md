@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: a6e6d95f79b058326255f480b1f72ceb8d94bfd9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 450b416b5e0635bb8868f7eaf8296930af68f1a5
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761218"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747327"
 ---
 # <a name="manage-your-sharepoint-or-onedrive-storage"></a>Administrar el almacenamiento de SharePoint o OneDrive
 
@@ -24,7 +24,7 @@ ms.locfileid: "30761218"
   
 Para la mayoría de las organizaciones, el almacenamiento de SharePoint se administra automáticamente, por lo que no es necesario establecer límites por colección de sitios. Para comprobar cuánto almacenamiento de SharePoint tiene:
   
-- En el centro de administración clásico de SharePoint, en la parte superior derecha de la página colecciones de sitios, busque el almacenamiento disponible y el total.
+- En el nuevo centro de administración de SharePoint, en la parte superior derecha de la página sitios, busque el almacenamiento disponible y el total.
     
 Para obtener información sobre cómo se calcula el límite, vea [límites de SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkID=856113). Para comprar almacenamiento adicional, vea [cambiar el espacio de almacenamiento de la suscripción](https://go.microsoft.com/fwlink/?linkid=866428).
   

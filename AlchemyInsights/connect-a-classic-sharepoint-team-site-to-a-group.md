@@ -1,5 +1,5 @@
 ---
-title: Conectar un sitio de SharePoint team clásico a un grupo
+title: Conectar un sitio de grupo clásico de SharePoint a un grupo
 ms.author: kaarins
 author: kaarins
 ms.date: 6/29/2018
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1f6b170-bead-4e1c-b119-f6affd2b2264
-ms.openlocfilehash: 73fce3adccc039e7c6acdf4a9fc6f69b359c9d51
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a04d56256bfa55e2b4c912c5294891f109059c3c
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932453"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747831"
 ---
-# <a name="connect-classic-sharepoint-team-sites-to-new-office-365-groups"></a>Conectar sitios de grupo de SharePoint clásicos a los nuevos grupos de Office 365
+# <a name="connect-classic-sharepoint-team-sites-to-new-office-365-groups"></a>Conectar sitios clásicos de grupo de SharePoint a nuevos grupos de Office 365
 
-Para evaluar si están listos para conectarse a Office 365 grupos las colecciones de sitios de SharePoint, use la [herramienta del Examinador de modernización de SharePoint](https://go.microsoft.com/fwlink/?linkid=873066). Esta herramienta puede ayudar a planear su estrategia de modernización de sitio y se creará un informe detallado, incluidas las áreas que requieren atención.
+Para evaluar si las colecciones de sitios de SharePoint están listas para conectarse a grupos de Office 365, use la [herramienta de análisis](https://go.microsoft.com/fwlink/?linkid=873066)de modernizaCión de SharePoint. Esta herramienta puede ayudarle a planear la estrategia de modernización del sitio y crear un informe exhaustivo, incluidas las áreas que necesitan atención.
   
-Si desea permitir que los administradores de colección de sitios conectar los sitios de grupo clásico a los nuevos grupos desde un comando de menú nuevo que vamos a agregar, no es necesario hacer nada. Si desea deshabilitar esta opción, debe cambiar la configuración predeterminada. [Obtenga información sobre cómo](https://go.microsoft.com/fwlink/?linkid=2004316). Tenga en cuenta que global y los administradores de SharePoint en Office 365 siempre podrán conectar los sitios a los nuevos grupos mediante el cmdlet de PowerShell o la API.
+Si desea permitir que los administradores de colecciones de sitios conecten sitios de grupo clásicos a nuevos grupos desde un nuevo comando de menú que estamos agregando, no es necesario realizar ninguna acción. Sin embargo, si desea deshabilitar esta opción, tendrá que cambiar la configuración predeterminada. [Obtenga más información](https://go.microsoft.com/fwlink/?linkid=2004316). Tenga en cuenta que los administradores globales y de SharePoint en Office 365 siempre podrán conectar sitios a nuevos grupos mediante el cmdlet o la API de PowerShell.
   
 

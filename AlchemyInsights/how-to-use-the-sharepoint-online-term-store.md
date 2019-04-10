@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: a1eb23c097e8540856df9d350798a0cdfeb73f15
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ac2e27eac4110def1ab91e5124b21b216ddbc178
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932489"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747687"
 ---
 # <a name="how-to-use-the-sharepoint-online-term-store"></a>Cómo usar el almacén de términos de SharePoint Online
 
-El almacén de términos está disponible para un administrador Global de Office 365, administración de SharePoint y los administradores de almacén de términos y puede encontrarse en el centro de administración de SharePoint Online clásico. 
+El almacén de términos está disponible para los administradores globales de Office 365, administradores de SharePoint y almacén de términos, y se puede encontrar en el nuevo centro de administración de SharePoint Online. 
   
-Para obtener más información sobre cómo usar el almacén de términos de SharePoint Online y taxonomía dentro de SharePoint Online, vea [Introducción a los metadatos administrados](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
+Para obtener más información sobre cómo usar el almacén de términos y la taxonomía de SharePoint Online en SharePoint Online, vea [Introducción a](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409)los metadatos administrados.
   
-Si tiene un problema con los términos no aparezcan o que aparece de forma intermitente, que se recomienda esperar 24 horas y, a continuación, inicie sesión una solicitud de soporte técnico si el problema persiste. Aunque 24 horas puede ser mucho tiempo, podría haber un problema de almacenamiento en caché o ya nos podemos trabajar en una solución a este problema.
+Si tiene un problema con los términos que no aparecen o que aparecen intermitentemente, le recomendamos que espere 24 horas y, a continuación, registre una solicitud de soporte técnico si el problema persiste. Aunque 24 horas puede ser un período de tiempo prolongado, podría haber un problema de almacenamiento en caché o ya podemos estar trabajando en una solución para este problema.
   
 

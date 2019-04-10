@@ -1,5 +1,5 @@
 ---
-title: Administrar los diccionarios de búsqueda en SharePoint Online
+title: Administrar diccionarios de búsqueda en SharePoint Online
 ms.author: kirks
 author: Techwriter40
 ms.date: 11/27/2018
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 1490255d19a6eb62403f9c923438579b6a29480b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 22da75a32e3ac0415e1196f8a6b2fd62b41f875d
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29922810"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747903"
 ---
 # <a name="manage-search-dictionaries"></a>Administrar diccionarios de búsqueda
 
-Diccionarios de búsqueda en SharePoint online se administran en el almacén de términos de SharePoint Online que se encuentra en el centro de administración de SharePoint Online clásico. Para obtener más información acerca de cómo agregar o Editar diccionarios de búsqueda, vea [Administrar búsqueda diccionarios](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
+Los diccionarios de búsqueda en SharePoint Online se administran en el almacén de términos de SharePoint Online, que se encuentra en el nuevo centro de administración de SharePoint. Para obtener más información sobre cómo agregar o editar diccionarios de búsqueda, consulte [Manage Search dictionaries](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
   
-Si no ve establecer un término de diccionario de búsqueda aparecen en el almacén de términos, espere 24 horas. Si el diccionario que aún no se muestre después de 24 horas, inicie una sesión un vale de soporte técnico.
+Si no ve un conjunto de términos de Diccionario de búsqueda aparece en el almacén de términos, espere 24 horas. Si el diccionario todavía no aparece después de 24 horas, registre un vale de soporte técnico.
   
 

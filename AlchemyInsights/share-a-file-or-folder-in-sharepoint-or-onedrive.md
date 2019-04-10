@@ -1,5 +1,5 @@
 ---
-title: Compartir un archivo o carpeta de SharePoint o OneDrive
+title: Compartir un archivo o una carpeta en SharePoint o en OneDrive
 ms.author: mikeplum
 author: MikePlumleyMSFT
 ms.date: 5/24/2018
@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
-ms.openlocfilehash: 29e4e5c105fa5c68a286c277c4039f15a77d5c5d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 428646635f0a9112c49a676ee297d514a86354ae
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941777"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747867"
 ---
-# <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>Compartir un archivo o carpeta de SharePoint o OneDrive
+# <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>Compartir un archivo o una carpeta en SharePoint o en OneDrive
 
-1. Abra un explorador y vaya al archivo o carpeta que desea compartir, selecciónelo y, a continuación, seleccione **Compartir**. 
+1. Abra un explorador y vaya al archivo o la carpeta que desea compartir, selecciónelo y, a continuación, seleccione **compartir**. 
     
-2. (Opcional) Si el tipo de vínculo no es aquel que desee, haga clic en la flecha abajo para seleccionar un tipo diferente:
+2. Opcional Si el tipo de vínculo no es el que desea, haga clic en la flecha hacia abajo para seleccionar un tipo diferente:
     
-  - **Cualquier persona** le proporciona acceso a cualquier persona que recibe este vínculo, si éstas reciben directamente a usted o se reenviarán de otra persona. Esto puede incluir personas fuera de la organización. 
+  - **Cualquiera** da acceso a cualquier persona que reciba este vínculo, tanto si lo recibe directamente de usted o lo reenvía desde otra persona. Esto puede incluir personas fuera de la organización. 
     
-  - **De personas en \<Your Organization\> ** proporciona a todos los usuarios en su organización acceso al vínculo, si reciben directamente desde ni reenviar de otra persona. 
+  - Las **personas \<de su\> organización** conceden acceso al vínculo a todos los usuarios de la organización, tanto si los reciben directamente de usted como si lo reenvían a otra persona. 
     
-  - **Personas específicas** proporciona acceso sólo a las personas especifique, aunque es podrán que otras personas ya tenga acceso. Si las personas reenvían la invitación para compartir, solo las personas que ya tienen acceso al elemento podrán usar el vínculo. 
+  - Los **usuarios específicos** solo proporcionan acceso a las personas que usted especifique, aunque es posible que otras personas ya dispongan de acceso. Si las personas reenvían la invitación para uso compartido, solo podrán usar el vínculo los usuarios que ya tengan acceso al elemento. 
     
     > [!NOTE]
-    > Si una de estas opciones no está disponible, o si desea que un tipo de vínculo diferentes que aparezca de forma predeterminada, puede modificar la configuración de toda la organización va al centro de administración de SharePoint clásico y haciendo clic en **uso compartido** en el panel izquierdo. [Más información](https://go.microsoft.com/fwlink/?linkid=866426)
+    > Si una de estas opciones no está disponible o si desea que aparezca un tipo de vínculo diferente de forma predeterminada, puede cambiar la configuración de toda la organización si va al nuevo centro de administración de SharePoint y hace clic en **uso compartido** en el panel izquierdo. [Más información](https://go.microsoft.com/fwlink/?linkid=866426)
   
-3. De forma predeterminada, la **Edición de permitir** está activado. Si desea que las personas para ver sólo los archivos, desactive la casilla de verificación. 
+3. De forma predeterminada, la **opción permitir edición** está activada. Si desea que los usuarios solo vean los archivos, desactive la casilla. 
     
-4. Escriba los nombres de las personas a las que desea compartir con y un mensaje, si lo desea.
+4. Escriba los nombres de las personas con las que quiere compartir y un mensaje, si lo desea.
     
 5. Haga clic en **Enviar**. 
     
