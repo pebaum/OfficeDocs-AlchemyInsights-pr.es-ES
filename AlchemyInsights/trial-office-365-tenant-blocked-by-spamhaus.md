@@ -1,5 +1,5 @@
 ---
-title: Bloqueado por Spamhaus prueba inquilino de Office 365
+title: Office 365 de prueba inquilino bloqueado por Spamhaus
 ms.author: chrisda
 author: chrisda
 ms.date: 11/4/2017
@@ -8,15 +8,13 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
-ms.openlocfilehash: dea96a28ed27b0077f56ab0c917d0667c424a028
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 7162b8b89c09834332eefc17f6e0f9a6e214f955
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29922841"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859085"
 ---
-# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Error cuando un usuario de prueba de Office 365 envía correo electrónico: host de cliente bloqueado mediante Spamhaus
+# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Error cuando un usuario de prueba de Office 365 envía un correo electrónico: el host de cliente se ha bloqueado mediante Spamhaus
 
-Parece que va a enviar correo electrónico desde una nueva organización de prueba de Office 365. Para ayudar a evitar abusos, nos bloquear las direcciones IP que se sabe que se han comprometido anteriormente. Ya no se exige esta comprobación específica después de empezar a usar las licencias de pago. Es posible que pueda obtener un alivio temporal solicitando una nueva dirección IP de su proveedor de servicios internet (ISP), o quitando el bloque desde el sitio Web de [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) . 
-  
-
+Parece que está enviando correo electrónico desde una nueva organización de prueba de Office 365. Para ayudar a evitar el abuso, bloqueamos direcciones IP que se sabe que se han comprometido previamente. Esta comprobación específica ya no se aplica después de empezar a usar las licencias de pago. Es posible que pueda obtener una solución temporal solicitando una dirección IP nueva a su proveedor de servicios de Internet (ISP) o quitando el bloqueo del sitio Web [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) .

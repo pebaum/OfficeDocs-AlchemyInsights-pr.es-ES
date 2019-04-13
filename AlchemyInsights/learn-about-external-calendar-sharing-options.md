@@ -10,15 +10,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 898
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 1e51802da9fadf84f8a6a711c1de896717ae96dd
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 5342cc5463840a404239e7a225324dce8f78c90e
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30783028"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858293"
 ---
 # <a name="learn-about-external-calendar-sharing-options"></a>Obtener información sobre las opciones de uso compartido de calendario externo
 
 Consulte [compartir calendarios con usuarios externos](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).
-  
-
