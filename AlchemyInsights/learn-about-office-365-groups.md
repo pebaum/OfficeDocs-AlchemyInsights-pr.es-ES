@@ -11,15 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 610
 ms.assetid: 6db67087-c251-49db-ad9e-d9c41da25c56
-ms.openlocfilehash: 3e054959355739686a348f36158c29f88e339b98
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 3e643745ec178217714fb111d2f822880879baec
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773683"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859661"
 ---
 # <a name="learn-about-office-365-groups"></a>Obtenga información sobre los grupos de Office 365
 
 Para obtener más información, vea [información sobre los grupos de Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
-  
-
