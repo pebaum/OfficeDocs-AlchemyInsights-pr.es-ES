@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000011
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: 28266eff5fc77c855370f7fc75a7b7332d1e72e2
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 7f18d2a5196234e450f7e639b6d63d1ddfcf411a
+ms.sourcegitcommit: 32ee065560611cd527754f482b9ad244878975a0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773753"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31980647"
 ---
 # <a name="recover-deleted-email"></a>Recuperar correo electrónico eliminado
 
 1. En el panel izquierdo, seleccione **elementos eliminados**. 
     
-2. Seleccione el elemento que quiera recuperar y seleccione **recuperar**. 
+2. Seleccione el elemento que quiera recuperar y seleccione **restaurar**. 
   
  **Nota**: solo puede seleccionar todo si todos los mensajes están visibles. Esto es para evitar acciones accidentales en los mensajes que no puede ver. **Ctrl + clic** selecciona mensajes individuales, **Mayús + clic** selecciona todo lo que hay entre dos clics. 
     
-3. Si el mensaje no está en elementos eliminados, seleccione **recuperar elementos eliminados** en la parte superior de la ventana. 
+3. Si el mensaje no está en elementos eliminados, seleccione **recuperar elementos eliminados de esta carpeta** , en la parte superior de la ventana. 
     
  **Información importante acerca de los elementos eliminados:**
   
