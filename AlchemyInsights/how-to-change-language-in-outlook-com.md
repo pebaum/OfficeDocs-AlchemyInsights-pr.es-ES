@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000014
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 77e9a6f21702189aa7ec4b56323b92eb0766bd08
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: ca05449dcda6dd857c7f81be17bb6fd6335af693
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30775503"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903681"
 ---
 # <a name="change-your-language"></a>Cambiar el idioma
 
-1. En la esquina superior derecha, seleccione **Opciones**de **configuración** \> .
+1. En la esquina superior derecha, seleccione **configuración** \> **ver todas las opciones de configuración de Outlook**.
     
-2. En **Opciones**, seleccione región **General** \> **y zona horaria**.
+2. En **General**, seleccione [**idioma y hora**](https://outlook.live.com/mail/options/general/timeAndLanguage).
     
-3. En **configuración de zona y zona horaria**, elija su idioma.
+3. Elija su idioma.
     
 4. Seleccione **Guardar**.
     
