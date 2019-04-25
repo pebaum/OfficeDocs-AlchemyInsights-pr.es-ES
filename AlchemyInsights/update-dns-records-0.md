@@ -11,11 +11,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: fb7a525e-3527-4b4f-84a7-8d969e97abf7
 ms.openlocfilehash: 7d254fe04d98e28cd88f010749a423aea1474fe1
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758771"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423776"
 ---
 # <a name="update-dns-records"></a>Actualizar registros DNS
 

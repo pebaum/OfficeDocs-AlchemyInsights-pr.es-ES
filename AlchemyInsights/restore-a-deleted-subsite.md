@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 646fe22b-9980-4970-800b-034788de0c7f
 ms.openlocfilehash: 6bd3ae49d26594200ed6c46bb7f6138f1ae6100c
-ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31747723"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422392"
 ---
 # <a name="restore-a-deleted-subsite"></a>Restaurar un subsitio eliminado
 

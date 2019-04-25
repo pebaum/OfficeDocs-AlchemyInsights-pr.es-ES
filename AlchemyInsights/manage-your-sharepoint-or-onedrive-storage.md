@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
 ms.openlocfilehash: 450b416b5e0635bb8868f7eaf8296930af68f1a5
-ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31747327"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32408951"
 ---
 # <a name="manage-your-sharepoint-or-onedrive-storage"></a>Administrar el almacenamiento de SharePoint o OneDrive
 

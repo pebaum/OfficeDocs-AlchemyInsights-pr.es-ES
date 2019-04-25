@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
 ms.openlocfilehash: b35fecdcb232ea731659d7d585c56d01d2fb9f45
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30766330"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32377901"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Comprobar la configuración de reenvío de correo electrónico de un buzón
 

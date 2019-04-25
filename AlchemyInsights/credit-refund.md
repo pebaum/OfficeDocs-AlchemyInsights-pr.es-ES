@@ -1,5 +1,5 @@
 ---
-title: Crédito y reembolso
+title: Crédito/reembolso
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,20 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
 ms.openlocfilehash: 63624f7487292d09034f55a9ec976efa18363a91
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911861"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406631"
 ---
-# <a name="creditrefund"></a>Crédito y reembolso
+# <a name="creditrefund"></a>Crédito/reembolso
 
- **Cancelación**
+ **Renuncia**
   
-Cancelación de una suscripción a que recibirá una factura final con un crédito vencimiento en la próxima fecha de facturación. Esto puede tardar hasta 30 días para recibir desde la fecha de que la suscripción se ha cancelado.
+Al cancelar una suscripción, recibirá una factura final con un crédito que vencerá en la próxima fecha de facturación. Esto puede tardar hasta 30 días en recibirse desde la fecha en que se canceló la suscripción.
   
- **Cambio de puesto**
+ **Cambio de asiento**
   
-Cuando se quitan las licencias de una suscripción, se aplicará el tiempo no utilizado en estas licencias como un crédito en la lista siguiente. Esto puede tardar hasta 30 días para recibir desde la fecha en que se han quitado las licencias.
+Cuando se quitan las licencias de una suscripción, la hora no usada en estas licencias se aplicará como crédito en la siguiente factura. Esto puede tardar hasta 30 días en recibirse de la fecha en que se quitan las licencias.
   
 

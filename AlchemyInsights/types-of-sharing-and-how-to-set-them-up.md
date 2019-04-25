@@ -14,11 +14,11 @@ ms.custom:
 - "878"
 ms.assetid: 361f5405-ac43-46f6-b1b9-5d91f61617ec
 ms.openlocfilehash: feaa70c077f50cfd76ac2efedd8760462482a840
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31859409"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389812"
 ---
 # <a name="different-types-of-shared-calendars-and-how-to-set-them-up"></a>Distintos tipos de calendarios compartidos y cómo configurarlos
 

@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 1065
 ms.assetid: bd41784e-8002-428d-bc19-25671cfd34e8
 ms.openlocfilehash: 17beb1722142d94ea05b67ce5ed1f20f8b11375c
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31858113"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404838"
 ---
 # <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>Desuso de los intervalos de direcciones IP salientes de EOP
 

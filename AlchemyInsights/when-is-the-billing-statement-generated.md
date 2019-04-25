@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
 ms.openlocfilehash: 911d4a61ebdfc8b7c1ff084cba268b0509b59955
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30755819"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422854"
 ---
 # <a name="when-is-the-billing-statement-generated"></a>Cuándo se genera el extracto de facturación
 

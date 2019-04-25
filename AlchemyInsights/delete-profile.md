@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
 ms.openlocfilehash: ad29c88bde451695c3e9a915f8452f3ea1a5b1ea
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30777498"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404982"
 ---
 Para eliminar un perfil, siga estos pasos.
   

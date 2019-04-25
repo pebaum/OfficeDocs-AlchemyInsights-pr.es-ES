@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 1373
 ms.assetid: ''
 ms.openlocfilehash: f892f559109db8c3b697f65e7b9942a22ae65034
-ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "31909584"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32408340"
 ---
 # <a name="classic-sharepoint-audit-log-reports"></a>Informes de registro de auditoría de SharePoint clásicos
 

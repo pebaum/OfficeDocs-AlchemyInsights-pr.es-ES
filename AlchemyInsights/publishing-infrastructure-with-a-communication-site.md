@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
 ms.openlocfilehash: 228d048dba0f4b175855eebdf2b0019f7d1ed4f0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940314"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389136"
 ---
 # <a name="publishing-infrastructure-with-a-communication-site"></a>Infraestructura de publicación con un sitio de comunicación
 
 
-Habilitar la característica de infraestructura de publicación de SharePoint Server es **incompatible** con los sitios de comunicación. 
+**No se admite** la habilitación de la característica infraestructura de publicación de SharePoint Server en los sitios de comunicación. 
   
-Para obtener más información, vea [pasar de publicación de sitios a los sitios de comunicación](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience). 
+Para obtener más información, consulte [migración de sitios de publicación a sitios de comunicación](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience). 
   
 
