@@ -14,11 +14,11 @@ ms.custom:
 - "896"
 ms.assetid: e269310f-32d4-423d-a9ce-0b6fe5c8b5ed
 ms.openlocfilehash: 936c708e53ee02d5de49783bd38091d0dac73efa
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31857897"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396469"
 ---
 # <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Problemas de disponibilidad del calendario en entornos híbridos
 

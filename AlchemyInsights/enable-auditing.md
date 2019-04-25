@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: 286
 ms.assetid: ''
 ms.openlocfilehash: 4f5829ac1ecc7d01575df360929d1a775e626e2a
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30787333"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398943"
 ---
-# <a name="search-the-audit-log"></a>Buscar en el registro de auditoría
+# <a name="search-the-audit-log"></a>Búsquedas en el registro de auditoría
 
 Para buscar en el registro de auditoría de Office 365, siga [estos pasos](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log). 
 

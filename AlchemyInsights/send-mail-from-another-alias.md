@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
 ms.openlocfilehash: 41e5a67cdbb17ab562ad2830ab0ac0e4e708ef27
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30759959"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422119"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>Enviar correo electrónico desde un alias o una dirección secundaria
 

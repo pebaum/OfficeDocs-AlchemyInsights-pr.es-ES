@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ebdbdce7-6366-4dc0-84e0-54dacb938680
 ms.openlocfilehash: f35b769d5037b0b8dd4dec7af760124abacfd11a
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30756359"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398023"
 ---
 "No se puede iniciar Microsoft Outlook"
 

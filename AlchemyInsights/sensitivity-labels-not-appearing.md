@@ -10,11 +10,11 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: fac86806ac6931d7c69eaa7b6321c87f8c21ce26
-ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "31909577"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422012"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>No aparecen las etiquetas de confidencialidad
 

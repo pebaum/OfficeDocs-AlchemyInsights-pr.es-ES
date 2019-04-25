@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 8000010
 ms.assetid: fa795da0-f04b-4032-bd27-177ecdd488f9
 ms.openlocfilehash: fe5cb995cce396a8cee2fd7d1b892774cca64fdd
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30776693"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32394413"
 ---
 # <a name="change-your-email-address"></a>Cambiar la dirección de correo electrónico
 
