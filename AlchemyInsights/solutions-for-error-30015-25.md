@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1f16f2c7-9593-4ef3-a4d4-e22b59814497
 ms.openlocfilehash: 2b4a84495ae874e6c41f4ab3b0a0fcf036fb03d4
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758879"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32374197"
 ---
 # <a name="solutions-for-error-30015-25"></a>Soluciones para el error 30015-25
 

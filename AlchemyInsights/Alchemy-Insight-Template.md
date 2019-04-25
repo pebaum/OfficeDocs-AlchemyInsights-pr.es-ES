@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
 ms.openlocfilehash: 37398436435fb72cb5c8dca2d0798b86a0c8ccc9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762081"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32366348"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Falta el encabezado de Alchemy H1, H2's no funciona.
 Procedimientos recomendados y directrices para la creación de Alchemy:

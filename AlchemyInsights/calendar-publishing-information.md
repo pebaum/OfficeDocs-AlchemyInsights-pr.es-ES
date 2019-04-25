@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 613
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
 ms.openlocfilehash: 3194586205c15c0c0c0c6a52b677cda522cd17a0
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31859229"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396551"
 ---
 # <a name="calendar-publishing-information"></a>Información de publicación de calendario
 

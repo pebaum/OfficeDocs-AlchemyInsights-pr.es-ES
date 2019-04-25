@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
 ms.openlocfilehash: 0acd5345bb1b352af21b17e353591b8772d718aa
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30755352"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400220"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>¿Cómo quito la información de la tarjeta de crédito?
 

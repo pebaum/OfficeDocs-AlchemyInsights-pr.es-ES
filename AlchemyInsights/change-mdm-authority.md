@@ -1,5 +1,5 @@
 ---
-title: Cambiar la entidad de certificación MDM
+title: Cambiar la entidad de MDM
 ms.author: sirkkuw
 author: Sirkkuw
 ms.date: 12/4/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
 ms.openlocfilehash: c869609fa4527f46121eda563e0735378bcb0d3d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913481"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32394613"
 ---
-# <a name="change-intune-mdm-authority"></a>Modificar la autoridad Intune MDM
+# <a name="change-intune-mdm-authority"></a>Cambiar la entidad de MDM de Intune
 
-Puede cambiar la entidad de certificación MDM sin abrir un caso de soporte técnico. Consulte los siguientes documentos para obtener instrucciones:
+Puede cambiar la entidad de MDM sin abrir un caso de soporte técnico. Consulte los siguientes documentos para obtener instrucciones:
   
-- [Cambiar desde el Administrador de configuración de autoridad MDM a Intune independiente](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
+- [Cambiar la entidad de MDM del administrador de configuración a Intune independiente](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [Autoridad de MDM de cambio desde Intune independiente para el Administrador de configuración](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
+- [Cambiar la entidad de MDM de Intune standalone a Configuration Manager](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
     
- **Coexistencia de entidad de certificación MDM**
+ **CoExistencia de la autoridad de MDM**
   
-- Puede tener ambas autoridades MDM activos simultáneamente si ya dispone de Office 365 MDM habilitado pero desea probar a MDM. Intune
+- Puede tener ambas autoridades de MDM activas al mismo tiempo si ya tiene habilitada la MDM de Office 365, pero desea probar Intune MDM.
     
-- Los administradores que ya tengan O365 MDM activo pueden marcar simplemente Intune MDM como activo desde el portal de Azure.
+- Los administradores que ya tienen la MDM activa de O365 pueden simplemente marcar Intune MDM como activo desde Azure portal.
     
-- Si tiene Intune MDM pero desea hacer uso de Office 365 MDM: abra un vale que aparece a continuación y un agente de soporte técnico le ayudará a habilitar esta opción para usted.
+- Si tiene Intune MDM, pero quiere usar Office 365 MDM: Abra un tíquet a continuación y un agente de soporte técnico le permitirá hacerlo.
     
 

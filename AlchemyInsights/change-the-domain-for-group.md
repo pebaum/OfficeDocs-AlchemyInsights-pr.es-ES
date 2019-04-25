@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
 ms.openlocfilehash: 34a9832c035dd5ea523df954dbdf2e6d9d1a0618
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30764673"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32394009"
 ---
 # <a name="change-the-domain-for-office-365-group"></a>Cambiar el dominio del grupo de Office 365
 

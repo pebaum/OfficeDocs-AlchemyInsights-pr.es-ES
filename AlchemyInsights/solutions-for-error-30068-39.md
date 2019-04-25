@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
 ms.openlocfilehash: 4d41c7a5ed053d5d2a4cd3dd11be94cb74649c87
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30756395"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32373801"
 ---
 # <a name="solutions-for-error-30068-39"></a>Soluciones para el error 30068-39
 

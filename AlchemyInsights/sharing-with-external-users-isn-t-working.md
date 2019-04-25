@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
 ms.openlocfilehash: 69e290e5a13f40ad045086791189a7d0af88240b
-ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31747615"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32369515"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Solucionar problemas de uso compartido de contenido de SharePoint con usuarios externos
 

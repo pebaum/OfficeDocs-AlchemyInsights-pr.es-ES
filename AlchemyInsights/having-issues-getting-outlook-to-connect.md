@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b812e53a-d519-4f3e-8438-4115a8e8e906
 ms.openlocfilehash: 615aa2c40cd5633ab5e3fb1605fbc1c3afa430be
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208890"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400554"
 ---
 # <a name="having-issues-getting-outlook-to-connect"></a>¿Tiene problemas para que Outlook se conecte?
 

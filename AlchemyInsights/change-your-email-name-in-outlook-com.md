@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 8000036
 ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.openlocfilehash: 737423f22de3e79f3362c96ff9f13e1d8b31fd21
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30787543"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32394265"
 ---
 # <a name="change-your-email-name-in-outlookcom"></a>Cambiar el nombre de correo electrónico en Outlook.com
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
 ms.openlocfilehash: 5bab5dae1b98fd2de57f07d5321b01dbec974b60
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758087"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398835"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>Agregar un grupo a un sitio de SharePoint
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
 ms.openlocfilehash: 096e98335f99a28a9d7dba215ccc5334caf9f137
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758375"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32397987"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Pasos para solucionar problemas de bloqueo de Outlook
 

@@ -11,11 +11,11 @@ ms.collection: Adm_O365
 ms.custom: 400
 ms.assetid: 2a4ceadc-242a-492f-b794-682d40781e9f
 ms.openlocfilehash: 284f069416ee9fecbd623beb4f4174212179099c
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31859265"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396235"
 ---
 # <a name="issues-seeing-calendar-freebusy-information"></a>Problemas al ver la información de disponibilidad del calendario
 

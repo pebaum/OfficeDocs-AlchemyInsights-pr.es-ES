@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 8000002
 ms.assetid: 4dfaeb2a-2cef-444d-9415-c68a50df1a49
 ms.openlocfilehash: 50364ec6457819c3d574a42a80420ca47514ebdb
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773088"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32394211"
 ---
 # <a name="change-your-password"></a>Cambiar la contraseña
 

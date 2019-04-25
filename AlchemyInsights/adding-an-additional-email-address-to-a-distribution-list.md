@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 713
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
 ms.openlocfilehash: 491014e8f452faed4b78140b5fdf4bbd82ddba58
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31858617"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398619"
 ---
 # <a name="add-an-email-address-for-a-distribution-group"></a>Agregar una dirección de correo electrónico para un grupo de distribución
 
