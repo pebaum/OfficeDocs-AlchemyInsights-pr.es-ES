@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom: 8000041
 ms.assetid: 089589c9-6d5e-4073-8ec9-e297ee2397f4
 ms.openlocfilehash: 20c8ac5d15d878f2ebddbe2b31831a89eb6a0cc2
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30783693"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32394055"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a><span data-ttu-id="c8eed-102">Cambiar el aspecto de su buzón de Outlook.com</span><span class="sxs-lookup"><span data-stu-id="c8eed-102">Change the look of your Outlook.com mailbox</span></span>
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a><span data-ttu-id="e58a5-102">Cambiar el aspecto de su buzón de Outlook.com</span><span class="sxs-lookup"><span data-stu-id="e58a5-102">Change the look of your Outlook.com mailbox</span></span>
 
-<span data-ttu-id="c8eed-103">Puede cambiar la apariencia de la lista de mensajes y el panel de lectura en Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="c8eed-103">You can change the appearance of the message list and reading pane in Outlook.com.</span></span> <span data-ttu-id="c8eed-104">Elija si los mensajes deben ordenarse en prioritarios y en otras pestañas y si desea que el correo electrónico se muestre como conversaciones o mensajes individuales.</span><span class="sxs-lookup"><span data-stu-id="c8eed-104">Choose whether your messages should be sorted into Focused and Other tabs and whether you want your email to be displayed as individual messages or conversations.</span></span>
+<span data-ttu-id="e58a5-103">Puede cambiar la apariencia de la lista de mensajes y el panel de lectura en Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="e58a5-103">You can change the appearance of the message list and reading pane in Outlook.com.</span></span> <span data-ttu-id="e58a5-104">Elija si los mensajes deben ordenarse en prioritarios y en otras pestañas y si desea que el correo electrónico se muestre como conversaciones o mensajes individuales.</span><span class="sxs-lookup"><span data-stu-id="e58a5-104">Choose whether your messages should be sorted into Focused and Other tabs and whether you want your email to be displayed as individual messages or conversations.</span></span>
   
-<span data-ttu-id="c8eed-105">Obtenga información sobre cómo [cambiar la apariencia de su buzón de correo de Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001401&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="c8eed-105">Learn how to [change the look of your Outlook.com mailbox](https://go.microsoft.com/fwlink/p/?linkid=2001401&amp;clcid=0x409).</span></span>
+<span data-ttu-id="e58a5-105">Obtenga información sobre cómo [cambiar la apariencia de su buzón de correo de Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001401&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="e58a5-105">Learn how to [change the look of your Outlook.com mailbox](https://go.microsoft.com/fwlink/p/?linkid=2001401&amp;clcid=0x409).</span></span>
   
- <span data-ttu-id="c8eed-106">**Nota:** Ya no es posible dejar la versión beta de Outlook.com y volver a la versión clásica de Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="c8eed-106">**Note:** It's no longer possible to leave the Outlook.com beta and return to the classic version of Outlook.com.</span></span> <span data-ttu-id="c8eed-107">[Obtenga más información sobre el nuevo Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874356).</span><span class="sxs-lookup"><span data-stu-id="c8eed-107">[Learn more about the new Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874356).</span></span>
+ <span data-ttu-id="e58a5-106">**Nota:** Ya no es posible dejar la versión beta de Outlook.com y volver a la versión clásica de Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="e58a5-106">**Note:** It's no longer possible to leave the Outlook.com beta and return to the classic version of Outlook.com.</span></span> <span data-ttu-id="e58a5-107">[Obtenga más información sobre el nuevo Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874356).</span><span class="sxs-lookup"><span data-stu-id="e58a5-107">[Learn more about the new Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874356).</span></span>
   
 
