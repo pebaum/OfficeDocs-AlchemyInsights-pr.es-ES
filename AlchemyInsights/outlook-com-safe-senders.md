@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000089
 ms.openlocfilehash: d5df59cec3953e6f36af025c734708424bd2af58
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30784323"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32391419"
 ---
-# <a name="stop-messages-from-going-into-your-junk-email-folder"></a><span data-ttu-id="807db-102">Evitar que los mensajes pasen a la carpeta de correo no deseado</span><span class="sxs-lookup"><span data-stu-id="807db-102">Stop messages from going into your Junk Email folder</span></span>
+# <a name="stop-messages-from-going-into-your-junk-email-folder"></a><span data-ttu-id="2cfd0-102">Evitar que los mensajes pasen a la carpeta de correo no deseado</span><span class="sxs-lookup"><span data-stu-id="2cfd0-102">Stop messages from going into your Junk Email folder</span></span>
 
-<span data-ttu-id="807db-103">Hay veces en las que no quiere que los mensajes de una persona o dominio específicos acaben en la carpeta de correo electrónico no deseado.</span><span class="sxs-lookup"><span data-stu-id="807db-103">There are times when you don't want messages from a specific person or domain to end up in your Junk Email folder.</span></span> <span data-ttu-id="807db-104">Los mensajes de direcciones o dominios de la lista de remitentes seguros no se moverán a la carpeta correo electrónico no deseado.</span><span class="sxs-lookup"><span data-stu-id="807db-104">Messages from addresses or domains on the safe senders list won't get moved to your Junk Email folder.</span></span>
+<span data-ttu-id="2cfd0-103">Hay veces en las que no quiere que los mensajes de una persona o dominio específicos acaben en la carpeta de correo electrónico no deseado.</span><span class="sxs-lookup"><span data-stu-id="2cfd0-103">There are times when you don't want messages from a specific person or domain to end up in your Junk Email folder.</span></span> <span data-ttu-id="2cfd0-104">Los mensajes de direcciones o dominios de la lista de remitentes seguros no se moverán a la carpeta correo electrónico no deseado.</span><span class="sxs-lookup"><span data-stu-id="2cfd0-104">Messages from addresses or domains on the safe senders list won't get moved to your Junk Email folder.</span></span>
 
-1. <span data-ttu-id="807db-105">Abra la [configuración de remiteNtes seguros](https://go.microsoft.com/fwlink/?linkid=2035804).</span><span class="sxs-lookup"><span data-stu-id="807db-105">Open your [Safe Senders settings](https://go.microsoft.com/fwlink/?linkid=2035804).</span></span>
-2. <span data-ttu-id="807db-106">En **remitentes y dominios seguros**, escriba la dirección de correo electrónico o el dominio que quiera agregar y seleccione **Agregar**.</span><span class="sxs-lookup"><span data-stu-id="807db-106">Under **Safe senders and domains**, enter the email address or domain you want to add, and select **Add**.</span></span>
-3. <span data-ttu-id="807db-107">Para agregar una lista de correo a los remitentes seguros, escriba la lista de correo en **listas de correo seguras** y seleccione **Agregar**.</span><span class="sxs-lookup"><span data-stu-id="807db-107">To add a mailing list to your safe senders, enter the mailing list under **Safe mailing lists** and select **Add**.</span></span>
-4. <span data-ttu-id="807db-108">Seleccione **Guardar**.</span><span class="sxs-lookup"><span data-stu-id="807db-108">Select **Save**.</span></span>
+1. <span data-ttu-id="2cfd0-105">Abra la [configuración de remiteNtes seguros](https://go.microsoft.com/fwlink/?linkid=2035804).</span><span class="sxs-lookup"><span data-stu-id="2cfd0-105">Open your [Safe Senders settings](https://go.microsoft.com/fwlink/?linkid=2035804).</span></span>
+2. <span data-ttu-id="2cfd0-106">En **remitentes y dominios seguros**, escriba la dirección de correo electrónico o el dominio que quiera agregar y seleccione **Agregar**.</span><span class="sxs-lookup"><span data-stu-id="2cfd0-106">Under **Safe senders and domains**, enter the email address or domain you want to add, and select **Add**.</span></span>
+3. <span data-ttu-id="2cfd0-107">Para agregar una lista de correo a los remitentes seguros, escriba la lista de correo en **listas de correo seguras** y seleccione **Agregar**.</span><span class="sxs-lookup"><span data-stu-id="2cfd0-107">To add a mailing list to your safe senders, enter the mailing list under **Safe mailing lists** and select **Add**.</span></span>
+4. <span data-ttu-id="2cfd0-108">Seleccione **Guardar**.</span><span class="sxs-lookup"><span data-stu-id="2cfd0-108">Select **Save**.</span></span>
 
-<span data-ttu-id="807db-109">Leer más en [bloquear o desbloquear remitentes en Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e).</span><span class="sxs-lookup"><span data-stu-id="807db-109">Read more at [Block or unblock senders in Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e).</span></span>
+<span data-ttu-id="2cfd0-109">Leer más en [bloquear o desbloquear remitentes en Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e).</span><span class="sxs-lookup"><span data-stu-id="2cfd0-109">Read more at [Block or unblock senders in Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e).</span></span>
