@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 1488
 ms.assetid: ''
 ms.openlocfilehash: 5830f4ce5be6a5c10e0696a57f0b83b4c5606f2b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30784008"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32373333"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Cómo realizar búsquedas de contenido y búsquedas de exhibición de documentos electrónicos
 

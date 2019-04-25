@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f8d8b8d1-aed2-47df-b9bc-5f71b3c109dd
 ms.openlocfilehash: a20d332a32514e7c7608e825883b9e85f7d1a093
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30755639"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32390263"
 ---
 # <a name="update-payment-details"></a>Actualizar detalles de pago
 

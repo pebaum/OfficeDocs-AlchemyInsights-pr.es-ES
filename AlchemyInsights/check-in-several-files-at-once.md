@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
 ms.openlocfilehash: 76d234e4a5c0ea69fcb9c5f529568c192d00d3c0
-ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31747471"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32391996"
 ---
 # <a name="check-in-several-files-at-once"></a>Proteger varios archivos a la vez
 

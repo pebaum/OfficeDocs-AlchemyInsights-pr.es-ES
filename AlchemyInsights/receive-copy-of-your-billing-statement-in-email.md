@@ -1,5 +1,5 @@
 ---
-title: Recibir copia de su extracto de facturación en correo electrónico
+title: Recibir una copia del extracto de facturación por correo electrónico
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
 ms.openlocfilehash: fa366278bf6d41f08eea1a77817c902a945c5a3b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918017"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388272"
 ---
-# <a name="receive-copy-of-your-billing-statement-in-email"></a>Recibir copia de su extracto de facturación en correo electrónico
+# <a name="receive-copy-of-your-billing-statement-in-email"></a>Recibir una copia del extracto de facturación por correo electrónico
 Puede elegir recibir una copia del extracto de facturación como datos adjuntos de correo electrónico. Si elige esta opción, tenga en cuenta lo siguiente:
   
 - Se enviará un correo electrónico tanto a la dirección de correo electrónico principal como a la alternativa de cada usuario que aparezca como destinatario de notificación.
     
-- Recibirá dos mensajes de correo electrónico independientes: uno que le permite saber que la lista está lista, con instrucciones para iniciar sesión en el centro de administración para verla, y un segundo de correo electrónico que contiene la instrucción de facturación como datos adjuntos.
+- Recibirá dos correos electrónicos separados: uno que le indica que su factura está lista, con instrucciones para iniciar sesión en el centro de administración y un segundo correo electrónico que contiene el extracto de facturación como datos adjuntos.
     
-Para recibir su extracto de facturación en el correo electrónico:
+Para recibir el extracto de facturación por correo electrónico:
   
-1. En el centro de administración, vaya a la página de [notificaciones de facturación](https://go.microsoft.com/fwlink/p/?linkid=853212) o elija **facturación** \> **notificaciones de facturación**.
+1. En el centro de administración, vaya a la página [notificaciones](https://go.microsoft.com/fwlink/p/?linkid=853212) de facturación o **** \> elija notificaciones de **facturación**de facturación.
     
-    Si usa Office 365 Alemania, vaya a esta página de [notificaciones de facturación](https://go.microsoft.com/fwlink/p/?linkid=853213) . 
+    Si está usando Office 365 Germany, vaya a esta página de notificaciones de [facturación](https://go.microsoft.com/fwlink/p/?linkid=853213) . 
     
-2. Bajo **¿desea recibir el extracto de facturación como datos adjuntos de correo electrónico?**, cambie la alternancia **activado**. Para dejar de recibir los mensajes de correo electrónico instrucción facturación en cualquier momento cambiando la alternancia en **Off**.
+2. En **¿Desea recibir el extracto de facturación como datos adjuntos de correo electrónico?**, cambie el botón de alternancia a **Activado**. Puede dejar de recibir los correos electrónicos con el extracto de facturación en cualquier momento. Para ello, deberá cambiar el botón de alternancia a **Desactivado**.
     
 

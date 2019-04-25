@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
 ms.openlocfilehash: 9f8129b09f7aa9821202614c80dfcee400961122
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762981"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400878"
 ---
 # <a name="get-started-with-sharepoint-online"></a>Introducción a SharePoint Online
 

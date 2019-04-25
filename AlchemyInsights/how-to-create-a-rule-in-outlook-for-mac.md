@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 1800021
 ms.assetid: e3b275ac-09b6-47de-94d2-cf3e29cef446
 ms.openlocfilehash: 7ece22f1aa12dc76188edd0ef08136dd65eb3eaa
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30779598"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399625"
 ---
 # <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Cómo crear una regla en Outlook para Mac
 

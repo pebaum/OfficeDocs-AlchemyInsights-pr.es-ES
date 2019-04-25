@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
 ms.openlocfilehash: 3e4219143a9418d886b1f5cf85f8bef9c412bbaf
-ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31747363"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370379"
 ---
 # <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Sincronizar los archivos de SharePoint con el nuevo cliente de sincronización de OneDrive
 

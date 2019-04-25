@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 9000232
 ms.openlocfilehash: b602ffbd8416f9c3dc6dcfa1a129dc9179d16762
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773718"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388353"
 ---
 # <a name="address-book-in-outlookcom"></a>Libreta de direcciones en Outlook.com
 

@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000202
 ms.openlocfilehash: b0363a27e87fa92672f514d728ec13dc89f4cbec
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30779108"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32392470"
 ---
 # <a name="how-to-find-options-in-outlookcom-settings"></a>Cómo buscar opciones en la configuración de Outlook.com
 

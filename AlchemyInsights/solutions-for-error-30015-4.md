@@ -13,11 +13,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4293f495-01c5-4ea4-8268-bfc0a25bdf57
 ms.openlocfilehash: bc9f0c6f14ccacf739749545626ebd4e783ef9c1
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30759203"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370055"
 ---
 # <a name="solutions-for-error-30015-4"></a>Soluciones para el error 30015-4
 

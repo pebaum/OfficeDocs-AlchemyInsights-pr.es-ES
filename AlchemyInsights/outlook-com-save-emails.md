@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000088
 ms.openlocfilehash: 435415ca29d9ba26e6c27919ab1dcc0e64368357
-ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "31903753"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32391635"
 ---
 # <a name="saving-messages-in-outlookcom"></a>Guardar mensajes en Outlook.com
 

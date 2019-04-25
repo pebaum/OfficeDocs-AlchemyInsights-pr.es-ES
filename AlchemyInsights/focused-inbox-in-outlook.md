@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 1800019
 ms.assetid: f01362e1-17da-4528-b116-9b3240dd3f15
 ms.openlocfilehash: 5d5fbc73eea062031250669d7f45c2b3419183f9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773473"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401129"
 ---
 # <a name="focused-inbox-in-outlook"></a>Bandeja de entrada prioritarios en Outlook
 

@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
 ms.openlocfilehash: cc5f917522f31349c48c8232496dc862d6769539
-ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31747507"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401952"
 ---
 # <a name="external-sharing-with-a-team-site"></a>Uso compartido externo con un sitio de grupo
 

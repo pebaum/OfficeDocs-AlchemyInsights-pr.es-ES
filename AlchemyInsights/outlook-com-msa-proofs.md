@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 8000060
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
 ms.openlocfilehash: 14d32dbc4180d3dd7a20830ae9fdc918570aa359
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30777323"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32392387"
 ---
 # <a name="security-info-and-security-codes"></a>Información de seguridad y códigos de seguridad
 

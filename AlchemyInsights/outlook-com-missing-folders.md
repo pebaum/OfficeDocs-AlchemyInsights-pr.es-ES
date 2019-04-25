@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 8000061
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
 ms.openlocfilehash: 7fb0b01b88b04f11804e415a5a43d5abec364591
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30772318"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32392263"
 ---
 # <a name="find-missing-folders-in-outlookcom"></a>Buscar carpetas que faltan en Outlook.com
 

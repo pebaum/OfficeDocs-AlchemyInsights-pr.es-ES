@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
 ms.openlocfilehash: aa8fce9a3666e875efe0260f3604e13292dd4a26
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30763953"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370487"
 ---
 # <a name="restore-your-onedrive"></a>Restaurar su OneDrive
 

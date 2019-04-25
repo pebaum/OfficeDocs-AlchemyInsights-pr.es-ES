@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000082
 ms.openlocfilehash: 2ef958ed8da16f7c0510b65e1ddec890b10c7c75
-ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "31903465"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32392164"
 ---
 # <a name="skype-icon-missing"></a>Falta el icono de Skype
 
