@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 8000053
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
 ms.openlocfilehash: 595ed7b6cd27261de82e6d0a96a985a19383f4d3
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30782223"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423884"
 ---
 # <a name="unable-to-send-group-emails"></a>No se pueden enviar correos electrónicos de grupo
 
@@ -26,7 +26,7 @@ Si no puede enviar correos electrónicos a las listas de contactos o a los grupo
     
 2. Si sigue teniendo problemas para redactar un correo electrónico en el grupo, vaya a [contactos](https://outlook.live.com/people/), seleccione el grupo o la lista de contactos y, a continuación, elija **Enviar correo electrónico**.
     
- **Notas:**
+ **Notas**:
   
 1. Asegúrese de que los elementos emergentes no estén bloqueados: al enviar correo electrónico desde la página de lista de contactos, se abre una nueva ventana.
     

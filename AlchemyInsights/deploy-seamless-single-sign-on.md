@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 998d9af8-91c6-4583-a752-dfbf21f7d9b8
 ms.openlocfilehash: 90ce8d2de04620150c4e4f4f253e1690a4f2da36
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30766257"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404802"
 ---
 # <a name="enable-seamless-sso"></a>Habilitar SSO sin problemas
 

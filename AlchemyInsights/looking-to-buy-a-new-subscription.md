@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
 ms.openlocfilehash: 68912255fb1c76e417c59bf131dae08d8551fd3c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30757331"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409491"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>¿Desea comprar una nueva suscripción?
 

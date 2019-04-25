@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 606
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
 ms.openlocfilehash: 633fd9111cac64a8cb85db18d03968089bf2a128
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30777148"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410795"
 ---
 # <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Solución de problemas de delegación en Outlook y Outlook en la web
 

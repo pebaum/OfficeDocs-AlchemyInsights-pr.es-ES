@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
 ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30752147"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32412516"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Cambiar de planes para aumentar el tamaño del buzón.
 

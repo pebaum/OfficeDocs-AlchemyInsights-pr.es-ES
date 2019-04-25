@@ -9,27 +9,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
 ms.openlocfilehash: 5e8cc5d68afd5c35a503db2333ac620760cf3a8c
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29969730"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32408915"
 ---
 # <a name="manage-user-profiles-in-delve"></a>Administrar perfiles de usuario en Delve
 
-Delve de Office permite a los usuarios administrar sus perfiles de usuario de Office 365. Los usuarios pueden:
+Office Delve permite a los usuarios administrar su perfil de usuario de Office 365. Los usuarios pueden:
   
 - Ver y actualizar su información
     
-- Mantener cierta información privada
+- Mantener información privada
     
-- Cambiar su imagen de perfil o portada
+- Cambiar su perfil o imagen de portada
     
-- Cambiar el formato de idioma y la hora para Delve
+- Cambiar el formato de idioma y hora de Delve
     
 > [!NOTE]
-> Si un usuario actualiza su imagen de perfil y el cambio no aparece en SharePoint o OneDrive, pídales que abra un explorador de web, [vaya a Office.com](https://www.office.com), inicio de sesión con su trabajo o escuela cuenta y, a continuación, haga clic en el icono de OneDrive o SharePoint. Le solicitará la imagen de perfil para la sincronización. El usuario es posible que necesite para probar completar estos pasos con la versión privada de su explorador. 
+> Si un usuario actualizó su imagen de perfil y el cambio no aparece en SharePoint o en OneDrive, pídale que abra un explorador Web, [vaya a Office.com](https://www.office.com), inicie sesión con su cuenta profesional o educativa y, a continuación, haga clic en el mosaico OneDrive o SharePoint. Esto le pedirá que se sincronice la imagen de perfil. Es posible que el usuario tenga que intentar completar estos pasos con la versión privada de su explorador. 
   
-[Encontrará más información acerca de cómo actualizar los perfiles de Delve](https://go.microsoft.com/fwlink/?linkid=735070)
+[Obtenga más información sobre cómo actualizar perfiles en Delve](https://go.microsoft.com/fwlink/?linkid=735070)
   
 

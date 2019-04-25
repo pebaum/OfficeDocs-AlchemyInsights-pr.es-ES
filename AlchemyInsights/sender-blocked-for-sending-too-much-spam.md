@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
 ms.openlocfilehash: c2226a00de806049e92cf0e1e25c75fb57adef53
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767517"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422105"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>Se ha bloqueado la cuenta por enviar demasiado spam
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
 ms.openlocfilehash: 7a3bc4bfefed70df50edc9c01b343b597b24d951
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30763341"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32408843"
 ---
 # <a name="map-a-sharepoint-library-to-a-network-drive"></a>Asignar una biblioteca de SharePoint a una unidad de red
 
