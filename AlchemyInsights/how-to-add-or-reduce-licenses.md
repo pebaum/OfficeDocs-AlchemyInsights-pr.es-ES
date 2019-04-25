@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
 ms.openlocfilehash: 38d706c035613bf4f3ff87ffbfa19621aa386763
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767445"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400040"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a><span data-ttu-id="e3ae0-102">Cómo agregar o reducir licencias</span><span class="sxs-lookup"><span data-stu-id="e3ae0-102">How to add or reduce licenses</span></span>
+# <a name="how-to-add-or-reduce-licenses"></a><span data-ttu-id="9650a-102">Cómo agregar o reducir licencias</span><span class="sxs-lookup"><span data-stu-id="9650a-102">How to add or reduce licenses</span></span>
 
-<span data-ttu-id="e3ae0-103">Esta es la manera de quitar o comprar más licencias.</span><span class="sxs-lookup"><span data-stu-id="e3ae0-103">Here's how to remove or purchase more licenses.</span></span>
+<span data-ttu-id="9650a-103">Esta es la manera de quitar o comprar más licencias.</span><span class="sxs-lookup"><span data-stu-id="9650a-103">Here's how to remove or purchase more licenses.</span></span>
   
-1. <span data-ttu-id="e3ae0-104">En el Centro de administración, vaya a la página [Suscripciones](https://go.microsoft.com/fwlink/p/?linkid=842054) o elija **Facturación** \> **Suscripciones**.</span><span class="sxs-lookup"><span data-stu-id="e3ae0-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="9650a-104">En el Centro de administración, vaya a la página [Suscripciones](https://go.microsoft.com/fwlink/p/?linkid=842054) o elija **Facturación** \> **Suscripciones**.</span><span class="sxs-lookup"><span data-stu-id="9650a-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="e3ae0-105">En la parte izquierda, elija la suscripción de la que desea agregar o quitar licencias.</span><span class="sxs-lookup"><span data-stu-id="e3ae0-105">On the left, choose the Subscription from which you want to add/remove licenses</span></span>
+2. <span data-ttu-id="9650a-105">En la parte izquierda, elija la suscripción de la que desea agregar o quitar licencias.</span><span class="sxs-lookup"><span data-stu-id="9650a-105">On the left, choose the Subscription from which you want to add/remove licenses</span></span>
     
-3. <span data-ttu-id="e3ae0-106">Elija **Agregar o quitar licencias**.</span><span class="sxs-lookup"><span data-stu-id="e3ae0-106">Choose **Add/Remove licenses**.</span></span>
+3. <span data-ttu-id="9650a-106">Elija **Agregar o quitar licencias**.</span><span class="sxs-lookup"><span data-stu-id="9650a-106">Choose **Add/Remove licenses**.</span></span>
     
-4. <span data-ttu-id="e3ae0-107">Escriba el número total de usuarios necesarios.</span><span class="sxs-lookup"><span data-stu-id="e3ae0-107">Enter the total number of users needed.</span></span>
+4. <span data-ttu-id="9650a-107">Escriba el número total de usuarios necesarios.</span><span class="sxs-lookup"><span data-stu-id="9650a-107">Enter the total number of users needed.</span></span>
     
-    <span data-ttu-id="e3ae0-108">Por ejemplo, si actualmente tiene 25 licencias y desea quitar 5, escriba 20 en este campo.</span><span class="sxs-lookup"><span data-stu-id="e3ae0-108">For example, if you currently have 25 licenses and you want to remove 5, enter 20 in this field.</span></span>
+    <span data-ttu-id="9650a-108">Por ejemplo, si actualmente tiene 25 licencias y desea quitar 5, escriba 20 en este campo.</span><span class="sxs-lookup"><span data-stu-id="9650a-108">For example, if you currently have 25 licenses and you want to remove 5, enter 20 in this field.</span></span>
     
-5. <span data-ttu-id="e3ae0-109">Choose **Submit**.</span><span class="sxs-lookup"><span data-stu-id="e3ae0-109">Choose **Submit**.</span></span>
+5. <span data-ttu-id="9650a-109">Choose **Submit**.</span><span class="sxs-lookup"><span data-stu-id="9650a-109">Choose **Submit**.</span></span>
     
 > [!NOTE]
-> <span data-ttu-id="e3ae0-110">Cualquier nueva carga (aumento de licencia) o crédito (disminución de la licencia) se mostrará en la próxima factura.</span><span class="sxs-lookup"><span data-stu-id="e3ae0-110">Any new charge (license increase) or credit (license decrease) will show up on your next bill.</span></span> 
+> <span data-ttu-id="9650a-110">Cualquier nueva carga (aumento de licencia) o crédito (disminución de la licencia) se mostrará en la próxima factura.</span><span class="sxs-lookup"><span data-stu-id="9650a-110">Any new charge (license increase) or credit (license decrease) will show up on your next bill.</span></span> 
   
- <span data-ttu-id="e3ae0-111">**Resources**</span><span class="sxs-lookup"><span data-stu-id="e3ae0-111">**Resources**</span></span>
+ <span data-ttu-id="9650a-111">**Resources**</span><span class="sxs-lookup"><span data-stu-id="9650a-111">**Resources**</span></span>
   
-- [<span data-ttu-id="e3ae0-112">Quitar licencias de la suscripción de Office 365 para empresas</span><span class="sxs-lookup"><span data-stu-id="e3ae0-112">Remove licenses from your Office 365 for business subscription</span></span>](https://support.office.com/article/9c64d127-e2dd-4ecc-81f5-2f87e5a74803)
+- [<span data-ttu-id="9650a-112">Quitar licencias de la suscripción de Office 365 para empresas</span><span class="sxs-lookup"><span data-stu-id="9650a-112">Remove licenses from your Office 365 for business subscription</span></span>](https://support.office.com/article/9c64d127-e2dd-4ecc-81f5-2f87e5a74803)
     
-- [<span data-ttu-id="e3ae0-113">Comprar licencias para su suscripción de Office 365 para empresas</span><span class="sxs-lookup"><span data-stu-id="e3ae0-113">Buy licenses for your Office 365 for business subscription</span></span>](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
+- [<span data-ttu-id="9650a-113">Comprar licencias para su suscripción de Office 365 para empresas</span><span class="sxs-lookup"><span data-stu-id="9650a-113">Buy licenses for your Office 365 for business subscription</span></span>](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
     
-- [<span data-ttu-id="e3ae0-114">Cancelar Office 365 para empresas</span><span class="sxs-lookup"><span data-stu-id="e3ae0-114">Cancel Office 365 for business</span></span>](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [<span data-ttu-id="9650a-114">Cancelar Office 365 para empresas</span><span class="sxs-lookup"><span data-stu-id="9650a-114">Cancel Office 365 for business</span></span>](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
     
-- [<span data-ttu-id="e3ae0-115">Comprar otra suscripción a Office 365 para empresas</span><span class="sxs-lookup"><span data-stu-id="e3ae0-115">Buy another Office 365 for business subscription</span></span>](https://support.office.com/article/fab3b86c-3359-4042-8692-5d4dc7550b7c)
+- [<span data-ttu-id="9650a-115">Comprar otra suscripción a Office 365 para empresas</span><span class="sxs-lookup"><span data-stu-id="9650a-115">Buy another Office 365 for business subscription</span></span>](https://support.office.com/article/fab3b86c-3359-4042-8692-5d4dc7550b7c)
     
 
