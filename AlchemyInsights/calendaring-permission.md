@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.assetid: 9cf95572-4741-47d4-8770-544648ecb905
 ms.custom: 411
 ms.openlocfilehash: 11211c168cbfb9d65e9ff8c510cdb183b416e349
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30785233"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396127"
 ---
 # <a name="calendar-permissions"></a>Permisos de calendario
 

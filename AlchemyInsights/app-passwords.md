@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 500
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
 ms.openlocfilehash: 5e87d3c7094b137ece751aed71cfd6b15777bfb8
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31857861"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32397021"
 ---
 # <a name="app-passwords"></a>Contraseñas de aplicación
 

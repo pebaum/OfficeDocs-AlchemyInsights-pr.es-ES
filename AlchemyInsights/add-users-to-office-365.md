@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cfacdcac-8b59-4d81-a8b1-0d16b712df25
 ms.openlocfilehash: c47086e8324bfa4c92c109fc3e602af93a47634a
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30753479"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398691"
 ---
 # <a name="add-a-user-to-office-365"></a>Agregar un usuario a Office 365
 

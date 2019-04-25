@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.openlocfilehash: cddc790c7ad64cb917fb91df9fcdb60fd22bb306
-ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2019
-ms.locfileid: "31869612"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399198"
 ---
 # <a name="dlp-policy-tip-issues"></a>Problemas de la sugerencia de directiva DLP
 

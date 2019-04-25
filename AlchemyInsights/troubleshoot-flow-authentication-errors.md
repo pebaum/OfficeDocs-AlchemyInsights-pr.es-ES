@@ -1,5 +1,5 @@
 ---
-title: Solucionar errores de flujo de autenticación
+title: Solucionar errores de autenticación de flujo
 ms.author: kaarins
 author: kaarins
 ms.date: 6/27/2018
@@ -9,24 +9,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c15fed9f-65c6-422e-9d32-87e889a44b51
 ms.openlocfilehash: e578149e37c86178b98cf6073f6ed6325f42c455
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941093"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32393630"
 ---
-# <a name="troubleshoot-flow-authentication-errors"></a>Solucionar errores de flujo de autenticación
+# <a name="troubleshoot-flow-authentication-errors"></a>Solucionar errores de autenticación de flujo
 
-En muchos casos, los flujos de producirá un error debido a un error de autenticación. Si tiene este tipo de error, el mensaje de error contiene "No autorizado" o aparece un código de error de 401 o 403. Normalmente, puede corregir un error de autenticación mediante la actualización de la conexión:
+En muchos casos, los flujos dan error debido a un error de autenticación. Si tiene este tipo de error, el mensaje de error contiene "no autorizado" o aparece el código de error 401 o 403. Por lo general, puede corregir un error de autenticación actualizando la conexión:
   
-1. En la parte superior del portal web, haga clic o puntee en el icono del engranaje para abrir el menú Configuración y, a continuación, haga clic en o puntee en **conexiones**.
+1. En la parte superior del portal web, haga clic o pulse en el icono de engranaje para abrir el menú configuración y, a continuación, haga clic o pulse en **conexiones**.
     
-2. Desplácese a la conexión para la que se han visto el mensaje de error no autorizado.
+2. Desplácese hasta la conexión en la que vio el mensaje de error no autorizado.
     
-3. Junto a la conexión, haga clic en o puntee en el vínculo de **Repetir contraseña** en el mensaje acerca de la conexión no se autentica. 
+3. Junto a la conexión, haga clic o pulse en el vínculo **comprobar contraseña** del mensaje sobre la conexión que no se ha autenticado. 
     
-4. Compruebe sus credenciales siguiendo las instrucciones que aparecen, vuelva a su error de flujo de ejecución y, a continuación, haga clic en o puntee en **volver a enviar**.
+4. Compruebe las credenciales siguiendo las instrucciones que aparecen, vuelva al error de ejecución del flujo y, a continuación, haga clic o pulse **volver a enviar**.
     
-Para obtener más información, vea [solución de problemas de un flujo](https://go.microsoft.com/fwlink/?linkid=872110).
+Para obtener más ayuda, consulte [Troubleshooting a Flow](https://go.microsoft.com/fwlink/?linkid=872110).
   
 

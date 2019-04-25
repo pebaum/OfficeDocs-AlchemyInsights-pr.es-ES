@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: abdb45fb-93b0-4df9-994d-b997fcfcaff5
 ms.openlocfilehash: 5786e906bbf377915e8d5e2e0c4762242146d62b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30753515"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32393973"
 ---
 # <a name="changes-to-external-user-access"></a>Cambios en el acceso de usuarios externos
 

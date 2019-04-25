@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 8000048
 ms.assetid: 6f48a145-b258-4d47-ac7e-c4c3f76bd1c1
 ms.openlocfilehash: d6cc2b47593946cc9a0e5f01ea4e46d2801e4621
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30780053"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399374"
 ---
 # <a name="fix-outlookcom-email-sync-issues"></a>Solucionar problemas de sincronización de correo electrónico de Outlook.com
 

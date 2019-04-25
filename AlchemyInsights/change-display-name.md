@@ -11,11 +11,11 @@ ms.custom: 959
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
 description: ''
 ms.openlocfilehash: 81acd9bee4593e60446d1fc2c0422dd1ea306cea
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773578"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32394997"
 ---
 # <a name="change-your-display-name"></a>Cambiar el nombre para mostrar
   

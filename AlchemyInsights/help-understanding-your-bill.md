@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
 ms.openlocfilehash: 301aedd5ba64561eda33a6bd2f2e89253d63a854
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30766581"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400374"
 ---
 # <a name="help-understanding-your-bill"></a>Ayuda para comprender su factura
 

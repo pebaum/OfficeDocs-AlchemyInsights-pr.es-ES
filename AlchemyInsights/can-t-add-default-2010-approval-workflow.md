@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
 ms.openlocfilehash: 8c6dabcc63ff45be8811fe109517be3098b3ecee
-ms.sourcegitcommit: b14aa00b42ce4ca9d7dc3aa1fd57e66eae115447
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/28/2019
-ms.locfileid: "30951126"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32395933"
 ---
 # <a name="cant-add-default-2010-approval-workflow"></a>No se puede Agregar el flujo de trabajo de aprobación 2010 predeterminado
 
