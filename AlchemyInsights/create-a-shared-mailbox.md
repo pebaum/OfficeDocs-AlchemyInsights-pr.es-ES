@@ -1,5 +1,5 @@
 ---
-title: Crear un buzón compartido
+title: Creación de un buzón compartido
 ms.author: dmaguire
 author: msdmaguire
 manager: serdars
@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3b5f8296-6661-4721-83bc-bc7e310219ac
 ms.openlocfilehash: 96c69b3e6bf64a0db9517059864c4a8c0718335c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917837"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407271"
 ---
-# <a name="create-a-shared-mailbox"></a>Crear un buzón compartido
+# <a name="create-a-shared-mailbox"></a>Creación de un buzón compartido
 
-Un buzón compartido permite a más de una persona enviar y recibir correo electrónico de un alias, como **sales@contoso.com**, sin asignar otra licencia.
+Un buzón compartido permite que más de una persona envíe y reciba correo electrónico para un alias, como **sales@contoso.com**, sin asignar otra licencia.
   
-Para obtener más información, vea [crear un buzón compartido](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) . 
+Consulte [Create a Shared Mailbox](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) para obtener más información. 
   
 

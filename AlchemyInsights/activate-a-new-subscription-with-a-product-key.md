@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
 ms.openlocfilehash: 0cf8eb72da415c7ec0156cec282198bd0c61ad1a
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758987"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389400"
 ---
 # <a name="activate-a-new-subscription-with-a-product-key"></a>Activar una nueva suscripción con una clave de producto
 

@@ -13,11 +13,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
 ms.openlocfilehash: f72c1d59dba7d742945ea5db0842f696825eb660
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762621"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405206"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Eliminar un sitio de SharePoint que pertenece a un grupo de Office 365
 

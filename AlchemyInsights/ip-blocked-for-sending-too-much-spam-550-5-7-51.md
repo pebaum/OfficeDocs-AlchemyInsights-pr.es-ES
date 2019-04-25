@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 1264
 ms.assetid: f7af4211-9dbe-415c-b0e3-fc20d43c3868
 ms.openlocfilehash: d2d92a15a1863f0c4625fd363096fbfd0582a467
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31859481"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409959"
 ---
 # <a name="access-denied-banned-sender"></a>Acceso denegado, remitente prohibido
 

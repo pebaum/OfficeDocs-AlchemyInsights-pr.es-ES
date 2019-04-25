@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
 ms.openlocfilehash: f7cc1369bd179bf410871054b2d4184a55a2b342
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762513"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407704"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Copiar o mover elementos en una biblioteca de documentos de SharePoint
 

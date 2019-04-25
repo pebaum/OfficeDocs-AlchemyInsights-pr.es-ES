@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2f8699c8-1eb6-4f5e-8c06-08e960092b1a
 ms.openlocfilehash: 12f1e81eaafc2650482803796fc20fd7f8b3bd55
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30756251"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406733"
 ---
 # <a name="creating-public-folders"></a>Creación de carpetas públicas
 

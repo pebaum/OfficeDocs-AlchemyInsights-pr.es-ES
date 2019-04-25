@@ -13,11 +13,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
 ms.openlocfilehash: 134361cc92b86ab13a5cd3443b6fabe2df3b83bb
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30753335"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32408161"
 ---
 # <a name="control-creation-of-o365-groups"></a>Control de la creación de grupos de O365
 

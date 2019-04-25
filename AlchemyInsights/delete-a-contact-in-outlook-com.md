@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 8000012
 ms.assetid: b65125f0-7d6a-42c8-a5d8-a1ce733dddf7
 ms.openlocfilehash: 061f786d936ca58d7aaeb4588d3d9fb3d4bd0e0b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30778128"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405734"
 ---
 # <a name="delete-a-contact"></a>Eliminar un contacto
 

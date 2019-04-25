@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 924
 ms.assetid: d80318be-6e30-4cd9-a65e-e7dc55f69e69
 ms.openlocfilehash: 56c41c606ddb269f37232d646541f616578f6147
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31857789"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422156"
 ---
 # <a name="rule-limits"></a>Límites de reglas
 

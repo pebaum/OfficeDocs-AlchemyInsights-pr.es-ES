@@ -1,5 +1,5 @@
 ---
-title: Obtener información acerca de la suspensión por litigio o suspensión en contexto
+title: Información sobre la retención por juicio o la conservación local
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,21 +10,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
 ms.openlocfilehash: 9ecfb5bb167a0c959d39d47713bbb0e64862abb8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926945"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410427"
 ---
-- Para aplicar un litigio espera o in situ suspensión a un buzón de correo, se requiere una [licencia de Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Si tiene cualquier otro Plan, asigne una licencia independiente de [Archivado de Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) a la cuenta. 
+- Para aplicar una retención por juicio o una conservación local a un buzón, se necesita una [licencia de Exchange Online (plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) ). Si tiene algún otro plan, asigne una licencia independiente de archivado de [Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) a la cuenta. 
     
-- **Para habilitar un juicio** para un único usuario, siga los pasos descritos [aquí](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Cuando está habilitada la suspensión por litigio, todo el contenido del buzón de correo se pondrá en espera.
+- **Para habilitar una retención por juicio** para un solo usuario, siga los pasos que se describen [aquí](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Cuando la retención por juicio está habilitada, todo el contenido del buzón se coloca en retención.
     
-- Para aplicar una suspensión o una **retención en contexto en un solo a los usuarios** a **todos los buzones de correo en toda la organización**, puede usar las directivas de retención en el centro de cumplimiento y seguridad de Office 365, siga los pasos indicados para su [aquí](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
+- Para aplicar una **conservación local en usuarios únicos** o en una retención a **todos los buzones de toda la organización**, puede usar directivas de retención en el centro de seguridad y cumplimiento de Office 365 siguiendo los pasos que se describen [aquí](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
     
     > [!NOTE]
-    > Para las directivas de retención de toda la organización, los usuarios nuevos se agregará automáticamente a la suspensión. 
+    > En el caso de las directivas de retención de toda la organización, los nuevos usuarios se agregarán automáticamente a la retención. 
   
-- Para ver o detectar el contenido de los buzones que se pondrá en espera, utilice la **exhibición de documentos electrónicos búsqueda y exportación**. Para obtener información sobre el uso de **exhibición de documentos electrónicos búsqueda y exportación**, siga los pasos indicados para su [aquí](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+- Para ver o descubrir el contenido del buzón que se encuentra en suspensión, use la **búsqueda y la exportación de exhibición**de documentos electrónicos. Para obtener información sobre cómo usar la **búsqueda y la exportación de eDiscovery**, siga los pasos que se describen [aquí](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
     
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 8000029
 ms.assetid: e03a7476-f02d-4c2c-bc55-42cad0ab8622
 ms.openlocfilehash: c35c842ed2f6942b183671bec4eaa5a7b9804e88
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30779843"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406187"
 ---
 # <a name="deal-with-spam-or-phishing-scams-in-your-inbox"></a>Tratar con el correo no deseado y la suplantación de identidad en la Bandeja de entrada
 

@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 8000059
 ms.assetid: b8fbcf77-c6ab-43e8-8fb9-ae65530d73bf
 ms.openlocfilehash: 53d13e8a3a1e4aeab603e604645621427cd85765
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30785268"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406973"
 ---
 # <a name="create-a-new-folder"></a>Create a new folder
 

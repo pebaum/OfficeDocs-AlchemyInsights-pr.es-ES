@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 8000024
 ms.assetid: 46b0a31f-c4fc-4ecb-a18d-26a13a6b0aa4
 ms.openlocfilehash: 5d502a1b97780313a348160ee2c0420fabe2bb41
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30787263"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388076"
 ---
 # <a name="cant-sign-in-to-outlookcom"></a>No se puede iniciar sesión en Outlook.com
 

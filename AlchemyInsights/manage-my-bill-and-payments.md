@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: fee67567-01bd-4375-b97c-4b9e0dab2eb1
 ms.openlocfilehash: a3bf7f77685aad8abfccfa7c62d53d90c84b31cb
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30766833"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409167"
 ---
 # <a name="manage-my-bill-and-payments"></a>Administrar mis facturas y pagos
 

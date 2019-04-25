@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 597
 ms.assetid: 99cf97b6-0ecb-4e38-a2c6-4b59c702c978
 ms.openlocfilehash: 79c2ee24d4a832773805cbac603d411aa8f4f11f
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31858149"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418804"
 ---
 # <a name="microsoft-bookings-app"></a>Aplicación Microsoft bookings
 

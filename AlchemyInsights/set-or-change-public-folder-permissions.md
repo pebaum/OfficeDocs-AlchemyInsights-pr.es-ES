@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
 ms.openlocfilehash: d1554e8a63455f3549044e526183c0e8709f2631
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767301"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421833"
 ---
 # <a name="permissions-and-public-folders"></a>Permisos y carpetas públicas
 

@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 898
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
 ms.openlocfilehash: 5342cc5463840a404239e7a225324dce8f78c90e
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31858293"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410031"
 ---
 # <a name="learn-about-external-calendar-sharing-options"></a>Obtener información sobre las opciones de uso compartido de calendario externo
 

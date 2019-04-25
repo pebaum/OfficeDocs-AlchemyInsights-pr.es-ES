@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
 ms.openlocfilehash: 3242e2db85d20364b1678a1ec9c1ed9a93156bd5
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30766293"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417551"
 ---
 # <a name="how-to-make-an-office-365-purchase"></a>Cómo realizar una compra de Office 365
 

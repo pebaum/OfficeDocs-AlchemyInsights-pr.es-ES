@@ -1,5 +1,5 @@
 ---
-title: Reglas de DLP para Estados Unidos / número de pasaporte del Reino Unido no funciona
+title: Regla DLP para US/UK el número de Passport no funciona
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
 ms.openlocfilehash: bb80ef07364a575f6032bb105cff83cd8f95bd63
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912129"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404398"
 ---
-# <a name="problems-with-dlp---usuk-passport-numbers"></a>Problemas con DLP - US / números de Passport del Reino Unido
+# <a name="problems-with-dlp---usuk-passport-numbers"></a>Problemas con números de pasaporte de DLP-US/UK
 
-¿Tiene problemas con la **Prevención de pérdida de datos (DLP)** no funciona para que contiene contenido un **US / número de pasaporte del Reino Unido** cuando se utiliza un tipo de información confidencial de DLP en Office 365? Si es así, asegúrese de que el contenido contiene la información necesaria para lo que la directiva de DLP está buscando cuando se evalúa. 
+¿Tiene problemas con la **prevención de pérdida de datos (DLP)** que no funciona para contenido que contiene un **número de pasaporte de Estados Unidos** al usar un tipo de información confidencial de DLP en O365? Si es así, asegúrese de que el contenido contiene la información necesaria para lo que la Directiva de DLP está buscando cuando se evalúa. 
   
-Por ejemplo, para un **US / número de pasaporte del Reino Unido** directiva configurada con un nivel de confianza de un 75%, el siguiente se evalúan y deben detectarse para que desencadenan la regla 
+Por ejemplo, para una directiva de **número de pasaporte de Estados Unidos** configurada con un nivel de confianza del 75%, se evalúa lo siguiente y debe detectarse para que la regla desencadene 
   
 - **[Formato:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-77)** Nueve dígitos 
     
@@ -28,16 +28,16 @@ Por ejemplo, para un **US / número de pasaporte del Reino Unido** directiva con
     
 - **[Suma de comprobación:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-76)** No, no hay ninguna suma de comprobación 
     
-- **[Definición:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-77)** Una directiva de DLP está seguro de que ha detectado este tipo de información confidencial al 75% if, dentro de una proximidad de 300 caracteres: 
+- **[Definición:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-77)** Una directiva DLP está 75% segura de que se detecta este tipo de información confidencial si, en una proximidad de 300 caracteres: 
     
   - La función Func_usa_uk_passport encuentra contenido que coincide con el patrón.
     
   - Se encuentra una palabra clave de Keyword_passport.
     
-    Por ejemplo, podría desencadenar en el siguiente ejemplo para el **US / número de pasaporte del Reino Unido** directiva: número de Estados Unidos Passport 123456789 
+    Por ejemplo, el siguiente ejemplo se activaría para la Directiva de **número de pasaporte de Estados Unidos** : número de pasaporte de estados Unidos 123456789 
     
-Para obtener más información sobre lo que se requiere para un US / número de pasaporte Reino Unido para que detecte para su contenido, vea la siguiente sección de este artículo: [aspecto de lo que el confidencial tipos de información para los Estados Unidos o Reino Unido Passport número](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us--uk-passport-number)
+Para obtener más información sobre lo que se necesita para que se detecte un número de Passport de US/UK para el contenido, consulte la siguiente sección de este artículo: [Qué buscan los tipos de información confidencial para el número de pasaporte de Estados Unidos/Reino Unido](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us--uk-passport-number)
   
-Uso de un tipo de información confidencial integrada diferente, vea el siguiente artículo para obtener información en lo que se requiere para otros tipos de: [Buscar qué el confidencial tipos de información](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+Con un tipo de información confidencial integrado diferente, vea el siguiente artículo para obtener información sobre lo que se necesita para otros tipos: [Qué buscan los tipos de información confidencial](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
   
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 02266d4a-f703-43da-9899-277d3664a447
 ms.openlocfilehash: acf11fd45402f587830253346c4f52983628300b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30763449"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32373945"
 ---
 # <a name="solutions-for-error-30034-4"></a>Soluciones para el error 30034-4
 
