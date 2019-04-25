@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
 ms.openlocfilehash: 7fc1190fb7b93dce945e366cf8b90112a97a2f3f
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30766041"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32402720"
 ---
 # <a name="error-attributevaluemustbeunique"></a>Error: AttributeValueMustBeUnique
 

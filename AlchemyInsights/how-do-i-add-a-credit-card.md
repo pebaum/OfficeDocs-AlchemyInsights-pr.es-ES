@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
 ms.openlocfilehash: e7d9941af1379a3b0025835ed5c378ad1d5b3cbc
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762873"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400292"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>¿Cómo agrego una tarjeta de crédito?
 

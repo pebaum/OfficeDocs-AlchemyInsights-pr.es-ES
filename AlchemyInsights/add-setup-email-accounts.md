@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 764
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
 ms.openlocfilehash: 47450615212ef3ca10a44455ef4dc7ffd1678e9a
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30783938"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398655"
 ---
 # <a name="setup-email-accounts"></a>Configurar cuentas de correo electrónico
 

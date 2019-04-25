@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
 ms.openlocfilehash: 16fa7c045d4323f2f65d6ae219583affa9e27d37
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758519"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401093"
 ---
 # <a name="font-formatting-problems-in-excel"></a>Problemas de formato de fuente en Excel
 

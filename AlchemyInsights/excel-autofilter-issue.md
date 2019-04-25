@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4ef9e25f-7ac3-46fc-af90-cb24ad1c99ce
 ms.openlocfilehash: 63f6ef815751b9cb0d5eebab006e374c61426733
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30752939"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32402312"
 ---
 # <a name="excel-autofilter-issue"></a>Problema de autoFiltro de Excel
 

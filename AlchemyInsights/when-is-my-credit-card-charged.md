@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
 ms.openlocfilehash: adad4b8d16185db033a5405b2b09dc8f72fb221b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30766725"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422876"
 ---
 # <a name="when-is-my-credit-card-charged"></a>¿Cuándo se carga mi tarjeta de crédito?
 

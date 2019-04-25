@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d7738bb8-3473-40fe-9a47-7f4b93e68ab8
 ms.openlocfilehash: f61266c59662e8ce1ccd6063753eeaaf3638dbb8
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30764637"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421329"
 ---
 # <a name="how-to-share-in-onedrive"></a>Cómo compartir en OneDrive
 

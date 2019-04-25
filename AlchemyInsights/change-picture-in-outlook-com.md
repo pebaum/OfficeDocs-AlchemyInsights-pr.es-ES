@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 8000036
 ms.assetid: 81ce6c8b-6f73-4489-9539-f14680168a8e
 ms.openlocfilehash: 4b8e64e364d359c7045875cd7924fb35ec524f3e
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30782013"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32394301"
 ---
 # <a name="change-your-account-picture"></a>Cambiar la imagen de la cuenta
 

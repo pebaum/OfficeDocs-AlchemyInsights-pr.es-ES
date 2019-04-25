@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 8000035
 ms.assetid: 039b6814-0af4-4385-9fdf-bbc53ab2e161
 ms.openlocfilehash: 3c6669e60269b9ddaa3df0f919f21b84312ab342
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30781978"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409663"
 ---
 # <a name="the-new-outlookcom"></a>El nuevo Outlook.com
 

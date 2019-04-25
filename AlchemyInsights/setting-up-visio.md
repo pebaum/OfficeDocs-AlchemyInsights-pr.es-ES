@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0162885a-13d5-4400-9972-935c9186c608
 ms.openlocfilehash: 58fcd20751861add0269a1f71cb896c79b48a92d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906569"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421473"
 ---
 # <a name="setting-up-visio"></a>Configuración de Visio
 
-Parece que necesita ayuda con la configuración de seguridad de Visio con la suscripción de Office 365.
+Es como necesita ayuda para configurar Visio con su suscripción de Office 365.
   
-Aviso para los usuarios de Mac: Visio el producto no está disponible para Mac OS en este momento. Si tiene un equipo debe ser capaz de instalar el software mediante los pasos siguientes.
+Aviso para los usuarios de Mac: el producto Visio no está disponible para MacOS en este momento. Si tiene un equipo, debe poder instalar el software siguiendo los pasos que se indican a continuación.
   
-Puede seguir los pasos descritos en [este artículo](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) para obtener el programa de instalación completada. 
+Puede seguir los pasos de [este artículo](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) para completar la instalación. 
   
 

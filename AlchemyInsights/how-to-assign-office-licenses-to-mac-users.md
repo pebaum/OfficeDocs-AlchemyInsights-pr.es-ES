@@ -11,11 +11,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
 ms.openlocfilehash: ec58c6fb06047ee25b867127838e14fbc626e87f
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30207810"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399968"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Cómo asignar licencias de Office a usuarios de Mac
 

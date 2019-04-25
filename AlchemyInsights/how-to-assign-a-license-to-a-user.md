@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
 ms.openlocfilehash: e437b5c029c8488589bd2636b265d09af550690c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30766761"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400004"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Cómo asignar una licencia a un usuario
 

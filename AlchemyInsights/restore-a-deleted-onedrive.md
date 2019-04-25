@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5298f192-326b-4820-b007-7e1a1c3c2b13
 ms.openlocfilehash: cd40d53606d857eee3a02277b7c1266e0e15f28e
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30753227"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422444"
 ---
 # <a name="restore-a-deleted-onedrive"></a>Restaurar un OneDrive eliminado
 

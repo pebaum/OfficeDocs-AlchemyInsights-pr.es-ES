@@ -1,5 +1,5 @@
 ---
-title: Guía de actualización de los equipos
+title: Guía de actualización de Microsoft Teams
 ms.author: heidip
 author: microsoftheidi
 ms.date: 1/9/2019
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
 ms.openlocfilehash: 58b7d89426295ff512180aacb52d368fcdb8bb29
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906281"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370038"
 ---
-# <a name="upgrade-to-teams"></a>Actualización a los equipos
+# <a name="upgrade-to-teams"></a>Actualizar a Microsoft Teams
 
-Puede encontrar una guía paso a paso para mover de Skype para la empresa a Microsoft Teams [aquí](https://docs.microsoft.com/microsoftteams/journey-skypeforbusiness-teams).
+[Aquí](https://docs.microsoft.com/microsoftteams/journey-skypeforbusiness-teams)puede encontrar una guía paso a paso para cambiar de Skype empresarial a Microsoft Teams.
   
 

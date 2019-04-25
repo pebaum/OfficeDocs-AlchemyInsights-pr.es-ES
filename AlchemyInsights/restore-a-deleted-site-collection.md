@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
 ms.openlocfilehash: 0cf10a3a0effc1774d8a07c5d0be96384362c175
-ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31747795"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32369839"
 ---
 # <a name="restore-a-deleted-site"></a>Restauración de un sitio eliminado
 

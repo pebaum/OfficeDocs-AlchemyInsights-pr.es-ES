@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
 ms.openlocfilehash: c6277ee3705c30399b230852e849e47ec3f15187
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30759887"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422289"
 ---
 # <a name="restore-a-user-in-office-365"></a>Restaurar un usuario en Office 365
 

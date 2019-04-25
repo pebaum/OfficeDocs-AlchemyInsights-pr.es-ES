@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
 ms.openlocfilehash: 03bb3ad01a716390ec50845b29ddf6cc81a83116
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30759311"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32390624"
 ---
 # <a name="fix-problems-with-open-with-explorer"></a>Solucionar problemas con abrir con el explorador
 

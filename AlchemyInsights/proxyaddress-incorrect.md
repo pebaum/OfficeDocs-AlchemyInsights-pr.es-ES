@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c4cea778-1b26-4aea-bde8-4b7605e35886
 ms.openlocfilehash: a5677b4b5d3d02295a2213d771f685461c3502a4
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30753551"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388357"
 ---
 # <a name="proxyaddress-incorrect"></a>ProxyAddress incorrecto
 

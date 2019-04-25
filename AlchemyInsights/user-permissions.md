@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
 ms.openlocfilehash: 6fc7e4211691e0f29b9a65db2d33540804ea7b4a
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30209862"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423704"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Permisos de usuario en SharePoint y OneDrive
 
@@ -31,7 +31,7 @@ Si un usuario de la organización no puede obtener acceso a SharePoint o OneDriv
     
     Para un sitio de comunicación, haga clic en **compartir sitio** en la esquina superior derecha, escriba el nombre de la persona y, a continuación, seleccione el nivel de permisos (lectura, edición o control total). 
     
-    Para un sitio de grupo clásico, haga clic en **compartir** en la esquina superior derecha. Escriba el nombre de la persona a la que desea invitar o escriba todos para compartir con todos los usuarios de la organización. Haga clic en **compartir**.
+    Para un sitio de grupo clásico, haga clic en **compartir** en la esquina superior derecha. Escriba el nombre de la persona a la que desea invitar o escriba todos para compartir con todos los usuarios de la organización. Haga clic en **Compartir**.
     
 > [!NOTE]
 > Si es miembro de un sitio, pero no de un propietario, puede invitar a personas al sitio, pero la invitación generará una solicitud de acceso que el propietario del sitio puede aprobar o rechazar. 

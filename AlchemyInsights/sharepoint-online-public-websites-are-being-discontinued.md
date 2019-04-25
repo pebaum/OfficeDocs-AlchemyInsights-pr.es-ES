@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
 ms.openlocfilehash: 1c63fd905448d48bb8823ebcfcb4900c4aab86ff
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761326"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32369587"
 ---
 # <a name="sharepoint-online-public-websites-are-being-discontinued"></a>Los sitios web públicos de SharePoint Online se están discontinuando
 

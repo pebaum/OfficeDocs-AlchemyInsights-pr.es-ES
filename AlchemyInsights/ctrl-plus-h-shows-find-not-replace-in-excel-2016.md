@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
 ms.openlocfilehash: 0a398d2d6792e9e6af33dfe0678e40f71f6928ac
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30756647"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406483"
 ---
 # <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL + H muestra buscar, no reemplazar en Excel
 

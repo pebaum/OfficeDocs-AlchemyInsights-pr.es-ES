@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 1554
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
 ms.openlocfilehash: 7651effc43cb0c4bc2fbbe5349bb72303943f493
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31859157"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419997"
 ---
 # <a name="winsock-error-10061"></a>Error de Winsock 10061
 

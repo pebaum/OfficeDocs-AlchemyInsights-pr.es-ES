@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 8000051
 ms.assetid: 3bac167e-055b-4cfb-ad3f-7b47a7492588
 ms.openlocfilehash: 808ca790768859d6b6497438f9507d15e21d3a6c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30786983"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32392956"
 ---
 # <a name="long-running-script"></a>Script de larga ejecución
 

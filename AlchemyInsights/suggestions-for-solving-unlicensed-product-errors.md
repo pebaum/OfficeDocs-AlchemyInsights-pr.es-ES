@@ -1,5 +1,5 @@
 ---
-title: Sugerencias para solucionar errores de 'Producto sin licencia'
+title: Sugerencias para solucionar errores de "producto sin licencia"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,28 +11,28 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
 ms.openlocfilehash: 78db89b87f1ad50ca8a32383c4682a3f92701a3c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938465"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420969"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Sugerencias para solucionar ' producto sin licencia "errores
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Sugerencias para solucionar errores de "producto sin licencia"
 
 
 
-Asegúrese de que dispone de una suscripción que permite a cliente licencias, como Office 365 empresarial o Business Premium y [Asegúrese de que el usuario tiene una licencia asignada](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA). [Desactivar una instalación](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) para comprobar si se ha superado el número de instalaciones compatibles con su suscripción. 
+Asegúrese de que tiene una suscripción que permita licencias de cliente, como Office 365 Business o Business Premium, y [Asegúrese de que el usuario tenga una licencia asignada](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA). [Desactive una instalación](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) para comprobar si ha superado el número de instalaciones admitidas por su suscripción. 
   
-Asegúrese de que el usuario es iniciar sesión con la misma cuenta que tiene la licencia asignada.
+Asegúrese de que el usuario inicia sesión con la misma cuenta que tiene asignada la licencia.
   
-Ejecute el [Solucionador de problemas de activación](https://aka.ms/SARA-OfficeActivation-Alchemy).
+Ejecute el [solucionador de problemas de activación](https://aka.ms/SARA-OfficeActivation-Alchemy).
   
-Compruebe si ha caducado el estado de suscripción
+Comprobar si el estado de la suscripción ha expirado
   
-Comprobar la [página de estado del servicio Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) para ver si hay algún problema conocido con el servicio. 
+Consulte la [Página de estado del servicio de Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) para ver si hay algún problema conocido con el servicio. 
   
 [Realizar una reparación en línea de Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
   
-Para obtener soluciones adicionales para solucionar problemas, vea: [errores de activación de Office y productos sin licencia](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
+Para obtener soluciones adicionales para la solución de problemas, consulte: [errores de activación y de producto sin licencia en Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
   
 

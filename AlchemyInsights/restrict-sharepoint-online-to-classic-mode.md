@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6e99da1c-e61d-40ba-855e-1a8f346e42fd
 ms.openlocfilehash: c51e48fe5694f964aef74c2973f774b44415ebb8
-ms.sourcegitcommit: 21cfb213183188d32a3743f66db10a8463019965
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/28/2019
-ms.locfileid: "30956021"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422192"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>Restringir SharePoint Online al modo clásico
 

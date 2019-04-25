@@ -10,11 +10,11 @@ ms.custom: 9000250
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: 41aeffee28d7fe8b2619afcaff1579376771c2bf
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30784078"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372937"
 ---
 # <a name="outlookcom-updates"></a>Actualizaciones de Outlook.com
 
