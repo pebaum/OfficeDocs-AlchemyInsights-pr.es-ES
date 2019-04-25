@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000080
 ms.openlocfilehash: e1d2739ad5e1e3d2c3d5f19aee344ee1ee2ab458
-ms.sourcegitcommit: 0b6e9470c6b73616ba8bacef7010f739b7fac332
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "30742468"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418878"
 ---
 # <a name="how-to-get-support-in-outlookcom"></a>Cómo obtener soporte técnico en Outlook.com
 

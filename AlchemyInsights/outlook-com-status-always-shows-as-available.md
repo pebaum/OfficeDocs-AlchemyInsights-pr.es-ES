@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 8000049
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
 ms.openlocfilehash: 4f19d74c0181e987691c7da0b3408f0511e3c164
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30777463"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32373670"
 ---
 # <a name="my-outlookcom-status-always-shows-as-available"></a>Mi estado de Outlook.com siempre muestra como disponible
 

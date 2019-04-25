@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 8000046
 ms.assetid: 5e2f1581-027a-4417-8d7a-6cae5c6d52b6
 ms.openlocfilehash: bf0724a031e1a7f9adac3ccbfd46fd10c13486ae
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30786843"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417659"
 ---
 # <a name="print-an-attachment"></a>Imprimir datos adjuntos
 

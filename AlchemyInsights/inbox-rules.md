@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 922
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
 ms.openlocfilehash: 46b080cbc972ae5826ab6e3622308447cd5221ab
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31858473"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32413704"
 ---
 # <a name="inbox-rules"></a>Reglas de la bandeja de entrada
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 617
 ms.assetid: 35a22eeb-a426-4839-85b1-13745ed1d2c2
 ms.openlocfilehash: d7f7c84ed506a5d6a4e36db2186d074c995c7268
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31859301"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409831"
 ---
 # <a name="learn-about-external-calendar-sharing-options"></a>Obtener información sobre las opciones de uso compartido de calendario externo
 

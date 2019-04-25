@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 8000062
 ms.assetid: 5042f2a4-6edb-425e-8d6e-df4d9c6c5434
 ms.openlocfilehash: f0fce8670921128f1bbd405d00f91ac4119e25c1
-ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "31903501"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420537"
 ---
 # <a name="moving-a-folder-in-outlookcom"></a>Mover una carpeta en Outlook.com
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d7fb12ba-895f-45bf-9f4a-12620231d31e
 ms.openlocfilehash: 3f0360d3bfac1aaf28db8ce04b04067cc43c1bca
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30755099"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410247"
 ---
 # <a name="upgrade-to-office-2016"></a>Actualizar a Office 2016
 

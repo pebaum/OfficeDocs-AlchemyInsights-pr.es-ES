@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
 ms.openlocfilehash: 37f256ef31402f5139fdd7c2af8f3a6ca9dc3525
-ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31747220"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418342"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>Mover el correo electrónico al buzón de archivo
  
