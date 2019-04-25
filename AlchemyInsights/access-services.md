@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78916d8f-9549-4a21-b0df-626456b57382
 ms.openlocfilehash: 2d3d05214e6217568125f8b426aa952176f74fa1
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30752795"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32390192"
 ---
 # <a name="access-services"></a>Servicios de Access
 
