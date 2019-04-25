@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
 ms.openlocfilehash: 68592c1fd0626bb1d0f75ad2465e857245b87e13
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30752435"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421113"
 ---
 # <a name="subscription-notice-in-your-office-client"></a>Aviso de suscripción en el cliente de Office?
 

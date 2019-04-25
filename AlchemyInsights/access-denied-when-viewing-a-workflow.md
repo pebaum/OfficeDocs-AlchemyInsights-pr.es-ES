@@ -9,24 +9,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
 ms.openlocfilehash: 43369c600687d6ac253f70a8535dc2bd0d41687e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918845"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389904"
 ---
 # <a name="access-denied-when-viewing-a-workflow"></a>Acceso denegado al ver un flujo de trabajo
 
-Los flujos de trabajo de 2013 de SharePoint que intenta enviar un correo electrónico a un grupo de SharePoint puede producirse un error con un mensaje de error "Acceso denegado" Si no se establece la pertenencia al grupo de SharePoint para todos los usuarios.
+Los flujos de trabajo de SharePoint 2013 que intentan enviar un correo electrónico a un grupo de SharePoint pueden producir un error con un mensaje de error "acceso deNegado" si la pertenencia del grupo de SharePoint no está establecida en todos.
   
- **Para resolver este problema, siga estos pasos:**
+ **Para solucionar este problema, siga estos pasos:**
   
- 1. Permitir que cualquier persona ver a los miembros del grupo de SharePoint. 
+ 1. Permitir a todos los usuarios ver los miembros del grupo de SharePoint. 
   
- 2. Quitar el grupo de SharePoint para o CC línea del correo electrónico. 
+ 2. Quite el grupo de SharePoint de la línea para o CC del correo electrónico. 
   
- 3. Agregue explícitamente los usuarios a para o CC de línea si no se puede cambiar la visibilidad de la pertenencia al grupo de SharePoint. 
+ 3. Agregue explícitamente los usuarios a la línea para o CC si no se puede cambiar la visibilidad de la pertenencia al grupo de SharePoint. 
   
-Para ver más detalles, consulte [HTTP no autorizado a /_vti_bin/client.svc/sp.utilities.utility.SendEmail ](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Para ver más detalles, consulte [http no autorizado a/_vti_bin/Client.SVC/SP.Utilities.Utility.sendEmail ](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   
 

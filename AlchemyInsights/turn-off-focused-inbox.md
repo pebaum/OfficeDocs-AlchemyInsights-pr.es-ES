@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 8000001
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
 ms.openlocfilehash: b508cc597219789965f7ece26e55b0c1149a02dc
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773403"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389814"
 ---
 # <a name="turn-off-focused-inbox"></a>Desactivar la bandeja de entrada prioritarios
 
@@ -24,7 +24,7 @@ ms.locfileid: "30773403"
     
 2. En **cuando se reciba el correo electrónico**, seleccione **no ordenar los mensajes**.
     
-3. Seleccione **Aceptar**.
+3. Haga clic en **Aceptar**.
     
 Para obtener más información, consulte [bandeja de entrada prioritarios de Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).
   

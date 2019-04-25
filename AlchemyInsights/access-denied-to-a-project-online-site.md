@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 2700001
 ms.openlocfilehash: 14c8de57d65eb30408c1240b5f968146b44be6b6
-ms.sourcegitcommit: 17d9e813c0c5dd86eb26c706d6111a500ce63344
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31752687"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389436"
 ---
 # <a name="help-with-permissions-in-project-online"></a>Ayuda con los permisos en Project online
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ff0f9110-10be-4c27-acaa-1615f81a53f2
 ms.openlocfilehash: ee77923fbf4b6e54aa3d9f8fd046f4a740e99e44
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30766545"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419529"
 ---
 # <a name="the-open-with-explorer-button-is-disabled"></a>El botón abrir con el explorador está deshabilitado
 

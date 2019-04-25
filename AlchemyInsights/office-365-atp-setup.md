@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
 ms.openlocfilehash: 8dde7236bdee2bd0b83087282ff32b32af8bae30
-ms.sourcegitcommit: 601aec31e6556286fe5e0fd62827a037cbb6fe17
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31031103"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419925"
 ---
 # <a name="office-365-advanced-threat-protection-atp"></a>Office 365 Advanced Threat Protection (ATP)
 

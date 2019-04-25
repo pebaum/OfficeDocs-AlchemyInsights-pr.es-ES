@@ -13,11 +13,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
 ms.openlocfilehash: 841e181243932bacb18bdb49508468db1da3c715
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30760175"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421185"
 ---
 # <a name="solutions-for-error-30016-4"></a>Soluciones para el error 30016-4
 

@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000066
 ms.openlocfilehash: c48f936ab8ce1a643118040af85a336c4bd94b2f
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30781803"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419081"
 ---
 # <a name="han-pirateado-mi-cuenta-de-outlookcom"></a>Han pirateado mi cuenta de Outlook.com
 

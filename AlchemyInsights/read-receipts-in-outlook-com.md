@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 8000034
 ms.assetid: 8cae0e22-0dfc-4575-9f62-041aacbd9da9
 ms.openlocfilehash: 4a6c9e7da22b1e08c5bcc4673e4ff2dd19ee4302
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30778338"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371700"
 ---
 # <a name="read-receipts-in-outlookcom"></a>Confirmaciones de lectura en Outlook.com
 

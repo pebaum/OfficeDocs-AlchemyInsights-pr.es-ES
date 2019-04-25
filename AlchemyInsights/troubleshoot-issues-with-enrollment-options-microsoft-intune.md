@@ -1,5 +1,5 @@
 ---
-title: Solucionar problemas relacionados con opciones de inscripción de Microsoft Intune
+title: Solución de problemas de opciones de inscripción Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,22 +10,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9bef81ad-7514-49c8-b149-24d8fec90486
 ms.openlocfilehash: b2333a51f0cc0061351bc441d47444db52b262aa
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29909521"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32390588"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Solucionar problemas relacionados con opciones de inscripción de Microsoft Intune
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Solución de problemas de opciones de inscripción Microsoft Intune
 
-Revise los recursos enumerados a continuación para resolver el problema ahora. Si no le ayudan estos recursos, póngase en contacto con el soporte técnico por hacer clic en [aquí](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) y elegir "crear una solicitud de soporte técnico". 
+Revise los recursos que se enumeran a continuación para resolver su problema ahora. Si estos recursos no sirven de ayuda, póngase en contacto con el soporte técnico haciendo clic [aquí](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) y eligiendo "crear una solicitud de soporte". 
   
-- [Revisión Intune TechNet para buscar respuestas y soluciones para problemas comunes](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
+- [Revise Intune technet para encontrar respuestas y soluciones a problemas comunes](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
     
-- Usar [Intune Portal de solución de problemas](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) para diagnosticar y resolver los errores comunes de inscripción. Revise [este documento](https://docs.microsoft.com/intune/help-desk-operators) para obtener más detalles. 
+- Use el [portal de solución de problemas](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) de Intune para diagnosticar y resolver errores comunes de inscripción. Revise [este documento](https://docs.microsoft.com/intune/help-desk-operators) para obtener más información. 
     
-- Revise [este documento](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) para obtener una lista de errores comunes que impiden la inscripción y resoluciones a cada uno. 
+- Revise [este documento](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) para obtener una lista de errores comunes que impiden la inscripción y las resoluciones a cada uno. 
     
-- [Obtenga información sobre las opciones de inscripción de Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
+- [Obtenga información sobre las opciones de inscripción en Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
     
 

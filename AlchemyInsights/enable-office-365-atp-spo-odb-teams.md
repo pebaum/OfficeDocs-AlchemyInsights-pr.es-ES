@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
 ms.openlocfilehash: ae2f574663ae3233a056589c2d5a578171f3b2f4
-ms.sourcegitcommit: 601aec31e6556286fe5e0fd62827a037cbb6fe17
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31031102"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32403050"
 ---
 # <a name="enable-office-365-advanced-threat-protection-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Habilitación de la protección contra amenazas avanzada de Office 365 para SharePoint Online, OneDrive y Microsoft Teams
 

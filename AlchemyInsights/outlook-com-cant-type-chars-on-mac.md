@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000071
 ms.openlocfilehash: 753597db164f68cce7a2b11e406973d35a0cad8e
-ms.sourcegitcommit: 601aec31e6556286fe5e0fd62827a037cbb6fe17
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31031105"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419961"
 ---
 # <a name="how-to-type-special-characters-on-a-mac"></a>Cómo escribir caracteres especiales en un equipo Mac
 

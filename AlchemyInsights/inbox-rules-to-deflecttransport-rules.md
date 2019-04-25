@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 929
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
 ms.openlocfilehash: 880f4cb2c42a564362ad7832ebf8ced16fd26d77
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31859373"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32413668"
 ---
 # <a name="mail-flow-rules-also-known-as-transport-rules"></a>Reglas de flujo de correo (también conocidas como reglas de transporte)
 

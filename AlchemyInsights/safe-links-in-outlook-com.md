@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 8000057
 ms.assetid: 2334f60b-c26a-47e3-b084-351648959343
 ms.openlocfilehash: 25646c5d6abb0d6a9a5208a0fdd3b791bb147f31
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30772388"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422228"
 ---
 # <a name="disabling-advanced-outlookcom-security"></a>DesHabilitar la seguridad de Outlook.com avanzada
 

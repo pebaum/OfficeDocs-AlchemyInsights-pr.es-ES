@@ -1,5 +1,5 @@
 ---
-title: Directivas de retención en el centro de administración de Exchange no funciona
+title: Las directivas de retención del centro de administración de Exchange no funcionan
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
 ms.openlocfilehash: c9061fa728edaab6575a7b1027783e56739a6d14
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935009"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371315"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Directivas de retención en el centro de administración de Exchange
 
- **Problema:** Recién creado o las directivas de retención actualizado en el centro de administración de Exchange no se aplican a buzones de correo o no se mueven al buzón de archivo o se eliminan elementos. 
+ **Problema:** Las directivas de retención recién creadas o actualizadas en el centro de administración de Exchange no se aplican a los buzones o los elementos no se mueven al buzón de archivo o se eliminan. 
   
- **Causas raíz:**
+ **Causas principales:**
   
-- Esto puede ser debido a que el **Asistente para carpeta administrada** no procesó el buzón del usuario. El Asistente para carpeta administrada intenta procesar cada buzón de correo en su organización basada en la nube una vez cada siete días. Si cambia una etiqueta de retención o aplicar una directiva de retención diferente a un buzón de correo, puede esperar hasta que la carpeta administrada Assist procesa el buzón de correo, o bien puede ejecutar el cmdlet Start-ManagedFolderAssistant para iniciar el Asistente para carpeta administrada para procesar una determinada buzón de correo. Si ejecuta este cmdlet es útil para realizar pruebas o solucionar problemas de una directiva de retención o la configuración de la etiqueta de retención. Para obtener más información, visite [ejecutar el Asistente para carpeta administrada](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
+- Esto puede deberse a que el **Asistente para carpeta administrada** no ha procesado el buzón del usuario. El Asistente para carpeta administrada intenta procesar todos los buzones de correo de la organización basada en la nube una vez cada siete días. Si cambia una etiqueta de retención o aplica una directiva de retención diferente a un buzón, puede esperar hasta que la carpeta administrada Ayude a procesar el buzón o puede ejecutar el cmdlet Start-ManagedFolderAssistant para iniciar el Asistente para carpeta administrada para procesar un determinado bandeja. La ejecución de este cmdlet es útil para probar o solucionar problemas de configuración de una directiva de retención o de una etiqueta de retención. Para obtener más información, visite [ejecutar el Asistente para carpeta administrada](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
     
   - **Solución:** Ejecute el siguiente comando para iniciar el Asistente para carpeta administrada para un buzón específico: 
     
@@ -30,28 +30,28 @@ ms.locfileid: "29935009"
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
-- Esto también se puede ocurrir si **RetentionHold** se ha **habilitado** en el buzón de correo. Si el buzón de correo se ha colocado en un RetentionHold, no se procesará la directiva de retención en el buzón de correo durante ese tiempo. Para obtener más información sobre la opción RetentionHold, consulte: [Suspensión de retención de buzón de correo](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
+- Esto también puede ocurrir si **RetentionHold** se ha **habilitado** en el buzón de correo. Si el buzón se ha colocado en un RetentionHold, la Directiva de retención en el buzón no se procesará durante este período. Para obtener más información sobre la configuración de RetentionHold, vea: conservación de la retención de buzones de [correo](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
     
-    **Solución:**
+    **Soluciones**
     
-  - Compruebe el estado de la configuración de RetentionHold en el buzón de correo específico en [EXO powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
+  - Compruebe el estado de la opción RetentionHold en el buzón específico en el [PowerShell Exo](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
     
   ```
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
   ```
 
-  - Ejecute el siguiente comando para **Deshabilitar** RetentionHold en un buzón específico: 
+  - Ejecute el siguiente comando para **deshabilitar** RetentionHold en un buzón específico: 
     
   ```
   Set-Mailbox -RetentionHoldEnabled $false
   ```
 
-  - Ahora, vuelva a ejecutar el Ayudante de carpeta administrada:
+  - Ahora, vuelva a ejecutar el Asistente para carpeta administrada:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
- **Nota:** Si un buzón de correo es menor que 10 MB, el Asistente para carpeta administrada no procesará automáticamente el buzón de correo. 
+ **Nota:** Si un buzón tiene menos de 10 MB, el Asistente para carpeta administrada no procesará automáticamente el buzón. 
   
 

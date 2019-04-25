@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
 ms.openlocfilehash: 50a9a1c7ef24f6b15e3cdb8c9ae31e77a159ba70
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30760859"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370451"
 ---
 # <a name="restore-a-deleted-office-365-group"></a>Restaurar un grupo de Office 365 eliminado
 

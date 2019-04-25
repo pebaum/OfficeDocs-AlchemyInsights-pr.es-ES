@@ -13,11 +13,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
 ms.openlocfilehash: 7d72d902e933313082e725d3e467f77a7ec8ae5b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30755279"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32391715"
 ---
 # <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Soluciones para "Office (64-bit o 32-bit) no se pudo instalar
 

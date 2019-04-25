@@ -1,5 +1,5 @@
 ---
-title: Problemas de rendimiento-SharePoint o OneDrive
+title: 'Problemas de rendimiento: SharePoint o OneDrive'
 ms.author: kirks
 author: Techwriter40
 ms.date: 1/3/2019
@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
 ms.openlocfilehash: 706775085ef37df20de09c0a68097ca2d6ce6790
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905309"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372433"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint o OneDrive lenta, inaccesible o no esté disponible para varios usuarios
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint o OneDrive son lentos, inaccesibles o no disponibles para varios usuarios
 
-Puede haber diferentes motivos para SharePoint o OneDrive aparezca lenta, inaccesible o no está disponible. 
+Puede haber distintos motivos para que SharePoint o OneDrive aparezcan lentos, inaccesibles o no disponibles. 
   
-1. Si su sitio de SharePoint o OneDrive es lenta o retrasada para varios usuarios, puede haber un problema de servicio temporal donde los usuarios pueden experimentar retrasos intermitentes o errores de navegación al obtener acceso a los sitios de SharePoint o el contenido de OneDrive. Compruebe el [Panel de estado de servicio](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) para ver si su organización se ve afectada. 
+1. Si el sitio de SharePoint o de OneDrive es lento o se retrasa para varios usuarios, es posible que haya un problema de servicio temporal en el que los usuarios pueden experimentar retrasos intermitentes o errores de navegación al obtener acceso a sitios de SharePoint o contenido de OneDrive. Compruebe el [Panel de estado del servicio](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) para ver si su organización se ve afectada. 
   
-2. Si experimenta un rendimiento lento con un sitio de SharePoint **clásico** o una página, utilizar la [Herramienta de diagnóstico de página](https://aka.ms/perftool) para analizar las páginas. 
+2. Si experimenta un rendimiento lento con una página o sitio de SharePoint **clásico** , use la [herramienta de diagnóstico de páginas](https://aka.ms/perftool) para analizar las páginas. 
   
-3. Si aún experimenta un rendimiento lento general, revise con detalle los recursos en la parte inferior del artículo para ayudar a descubrir problemas, consulte [Introduction to para SharePoint Online optimizar el rendimiento](https://go.microsoft.com/fwlink/?linkid=2024334).
+3. Si sigue experimentando un rendimiento lento general, consulte detalladamente los recursos en la parte inferior del artículo para obtener información sobre problemas, vea [Introduction to Performance Tuning for SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334).
   
 

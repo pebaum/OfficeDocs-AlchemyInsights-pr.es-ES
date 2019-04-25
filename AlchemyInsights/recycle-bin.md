@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
 ms.openlocfilehash: a306d8764351a8769b4dba95b912f90433b2c2dc
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762153"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371821"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>Restaurar elementos en SharePoint Online
 

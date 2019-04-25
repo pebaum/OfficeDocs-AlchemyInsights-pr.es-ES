@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
 ms.openlocfilehash: 1949ad3b6c7f34c4cd2f87f280145b7f8e151370
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30764997"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418875"
 ---
 # <a name="migrate-email-from-g-suite-to-office-365"></a>Migrar el correo electrónico desde G Suite a Office 365
 

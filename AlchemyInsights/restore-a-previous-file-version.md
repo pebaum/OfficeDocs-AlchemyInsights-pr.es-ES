@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
 ms.openlocfilehash: b78899d4652fccb16054c2bc535d8b871acd0139
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30755771"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371207"
 ---
 # <a name="restore-a-previous-file-version"></a>Restaurar una versión anterior del archivo
 

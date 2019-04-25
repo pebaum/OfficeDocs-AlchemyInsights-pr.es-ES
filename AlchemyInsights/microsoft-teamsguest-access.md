@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
 ms.openlocfilehash: 0890950c48ffae7cfc13c641446088819f1cf04c
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468500"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418805"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft Teams: acceso de invitado
 

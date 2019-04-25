@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 1367
 ms.assetid: ''
 ms.openlocfilehash: 7e30a638de5926aa11b8ae637613a48076d7bdc9
-ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "31909583"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417046"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Identificar la dirección IP y el cliente en los registros de auditoría
 

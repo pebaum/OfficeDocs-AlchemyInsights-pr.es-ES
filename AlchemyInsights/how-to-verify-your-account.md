@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 8000030
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
 ms.openlocfilehash: d1e22bb6dde3c81876af6b8db05df12eadc4a3f5
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30781453"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417192"
 ---
 # <a name="how-to-verify-your-account"></a>Cómo comprobar la cuenta
 

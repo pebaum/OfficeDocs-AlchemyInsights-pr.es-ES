@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
 ms.openlocfilehash: d162d60ad55711d7165f32630faa1c6cd1b4b756
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30760823"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407711"
 ---
 # <a name="copy-items-in-a-sharepoint-document-library"></a>Copiar elementos en una biblioteca de documentos de SharePoint
 
