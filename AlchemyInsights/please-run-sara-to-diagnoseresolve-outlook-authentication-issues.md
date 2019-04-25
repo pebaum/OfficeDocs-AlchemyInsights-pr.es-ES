@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 182
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
 ms.openlocfilehash: a8154d56839c43dd073862467c43366978b8cd3a
-ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/15/2019
-ms.locfileid: "31869360"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372289"
 ---
 # <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Usar SaRA para diagnosticar y resolver problemas de autenticación de Outlook
 

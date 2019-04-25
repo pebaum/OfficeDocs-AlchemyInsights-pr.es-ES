@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
 ms.openlocfilehash: 04b9812e755ced55331c436932558dac6420e060
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30782783"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32373585"
 ---
 # <a name="subscriptions-and-unsubscribing"></a>Suscripciones y cancelación de suscripción
 

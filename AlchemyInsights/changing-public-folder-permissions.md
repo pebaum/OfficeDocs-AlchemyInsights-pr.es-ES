@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: edcbab6f-09f6-44d7-9426-a2fcdda265db
 ms.openlocfilehash: 574f1161fb73c5b52ba37d3a5f3ba945df0c5ba8
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30763017"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32408448"
 ---
 # <a name="changing-public-folder-permissions"></a>Cambio de permisos de carpetas públicas
 

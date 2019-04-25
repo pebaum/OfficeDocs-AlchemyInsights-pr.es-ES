@@ -1,5 +1,5 @@
 ---
-title: Compartir un sitio de comunicación con los usuarios externos
+title: Compartir un sitio de comunicación con usuarios externos
 ms.author: kirks
 author: Techwriter40
 ms.date: 1/3/2019
@@ -9,24 +9,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
 ms.openlocfilehash: 17a7c692ae98bca407b9313fa9c9f21014d159fa
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913373"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370182"
 ---
-# <a name="share-a-communication-site-with-external-users"></a>Compartir un sitio de comunicación con los usuarios externos
+# <a name="share-a-communication-site-with-external-users"></a>Compartir un sitio de comunicación con usuarios externos
 
-Para activar el uso compartido para los sitios de comunicación de usuarios externos, siga estos pasos: 
+Para activar el uso compartido de usuarios externos para sitios de comunicación, siga estos pasos: 
   
-1. Abrir el **Centro de administración de moderno** - si se encuentra en el centro de administración clásico se verá un **Pruébelo ahora** o ** pruebe la vista previa de ** botón desde la esquina superior derecha. Esto le llevará al centro de administración moderno. 
+1. Abra el **centro de administración moderno** : si se encuentra en el centro de administración clásico, verá una **prueba ahora** o * * pruebe el botón vista previa * * de la parte superior derecha. Esto le llevará al centro de administración moderno. 
   
 2. Seleccione **sitios activos.**
   
-3. Seleccionar un sitio que tiene una **plantilla de sitio de comunicación**. 
+3. Seleccione un sitio que tenga una **plantilla de sitio de comunicación**. 
   
-4. Seleccione el botón **Compartir** en el menú superior. 
+4. Seleccione el botón **compartir** del menú superior. 
   
- **Nota:** Si tiene más de un sitio seleccionado, el botón **Compartir** aparecerá deshabilitado. Seleccione un solo sitio. 
+ **Nota:** Si tiene más de un sitio seleccionado, el botón **compartir** aparecerá deshabilitado. Seleccione un solo sitio. 
   
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
 ms.openlocfilehash: ce624516e0fc34245f23a066276ce0e1d2dd99fb
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30756215"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405957"
 ---
 # <a name="declined-credit-card"></a>Tarjeta de crédito rechazada
 

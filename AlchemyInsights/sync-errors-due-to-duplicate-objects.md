@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 902
 ms.assetid: 9d9277a5-c825-4512-8d54-7138b2ee0c40
 ms.openlocfilehash: ce7eeb07cfde16e6d6856a9369c042dcf4f05b63
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31859121"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420932"
 ---
 # <a name="sync-errors-due-to-duplicate-objects"></a>Errores de sincronización debidos a objetos duplicados
 
