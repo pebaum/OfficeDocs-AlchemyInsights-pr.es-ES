@@ -521,18 +521,18 @@
 ## <a name="week-of-april-15-2019"></a>Semana del 15 de abril de 2019
 
 
-| Fecha de publicación |Título del tema | Cambio |
+| Fecha de publicación |Título del tema | Change |
 |------|------------|--------|
-| 4/15/2019 | [Alchemy: diagnosticar y resolver problemas de conectividad de Outlook](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | modificado |
-| 4/15/2019 | [Alchemy: volver a crear el perfil de Outlook](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | modificado |
-| 4/15/2019 | [Es posible que DLP necesite un tipo personalizado](/AlchemyInsights/dlp-might-need-custom-type) | agregado |
-| 4/15/2019 | [DLP no funciona como se esperaba](/AlchemyInsights/dlp-not-working-as-expected) | modificado |
-| 4/15/2019 | [Las sugerencias de directivas de DLP no funcionan](/AlchemyInsights/dlp-policy-tips-not-working) | modificado |
-| 4/15/2019 | [Error 550 de Outlook.com](/AlchemyInsights/outlook-com-error-550) | agregado |
-| 4/15/2019 | [Outlook.com sobre la cuota](/AlchemyInsights/outlook-com-over-quota) | agregado |
-| 4/15/2019 | [Quitar Skype Outlook.com](/AlchemyInsights/outlook-com-remove-skype-rule-1) | agregado |
-| 4/15/2019 | [Quitar Skype Outlook.com](/AlchemyInsights/outlook-com-remove-skype-rule-2) | agregado |
-| 4/15/2019 | [182, ejecute SaRA para diagnosticar &amp; problemas de autenticación de Outlook](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | modificado |
+| 15/4/2019 | [Alchemy: diagnosticar y resolver problemas de conectividad de Outlook](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | modificado |
+| 15/4/2019 | [Alchemy: volver a crear el perfil de Outlook](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | modificado |
+| 15/4/2019 | [Es posible que DLP necesite un tipo personalizado](/AlchemyInsights/dlp-might-need-custom-type) | agregado |
+| 15/4/2019 | [DLP no funciona como se esperaba](/AlchemyInsights/dlp-not-working-as-expected) | modificado |
+| 15/4/2019 | [Las sugerencias de directivas de DLP no funcionan](/AlchemyInsights/dlp-policy-tips-not-working) | modificado |
+| 15/4/2019 | [Error 550 de Outlook.com](/AlchemyInsights/outlook-com-error-550) | agregado |
+| 15/4/2019 | [Outlook.com sobre la cuota](/AlchemyInsights/outlook-com-over-quota) | agregado |
+| 15/4/2019 | [Quitar Skype Outlook.com](/AlchemyInsights/outlook-com-remove-skype-rule-1) | agregado |
+| 15/4/2019 | [Quitar Skype Outlook.com](/AlchemyInsights/outlook-com-remove-skype-rule-2) | agregado |
+| 15/4/2019 | [182, ejecute SaRA para diagnosticar &amp; problemas de autenticación de Outlook](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | modificado |
 | 4/16/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/outlook-com-pin) | modificado |
 | 4/16/2019 | [Quitar Skype Outlook.com](/AlchemyInsights/outlook-com-remove-skype-rule-1) | modificado |
 | 4/16/2019 | [8000088 guardar correo electrónico en Outlook.com](/AlchemyInsights/outlook-com-save-emails) | modificado |
@@ -557,6 +557,6 @@
 | 4/16/2019 | [Identificar el reenvío externo de correo electrónico en los buzones de registros de auditoría](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | modificado |
 | 4/16/2019 | [Identificar la actividad de las reglas de entrada en los registros de auditoría](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | modificado |
 | 4/16/2019 | [Informes de registro de auditoría de SharePoint clásicos](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | modificado |
-| 4/17/2019 | [Corregir problemas de entrega de correo electrónico en carpetas públicas habilitadas para correo](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | agregado |
-| 4/17/2019 | [Cambios de Teams](/AlchemyInsights/teams-shifts) | modificado |
-| 4/18/2019 | [8000011 recuperar correos electrónicos eliminados en Outlook.com](/AlchemyInsights/recover-deleted-email-in-outlook-com) | Fecha de modificación |
+| 17/4/2019 | [Corregir problemas de entrega de correo electrónico en carpetas públicas habilitadas para correo](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | agregado |
+| 17/4/2019 | [Cambios de Teams](/AlchemyInsights/teams-shifts) | modificado |
+| 4/18/2019 | [8000011 recuperar correos electrónicos eliminados en Outlook.com](/AlchemyInsights/recover-deleted-email-in-outlook-com) | modificado |

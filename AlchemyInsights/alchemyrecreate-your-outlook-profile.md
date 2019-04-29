@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 70982aa9-2bd2-4ad9-bc53-d27a02a67709
 ms.openlocfilehash: 254cb5284a0acc989ce01c59636e7f156302a639
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.sourcegitcommit: a7be616a4ebca62f8e70fe576df58e9a7597c4f8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397905"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33403233"
 ---
 # <a name="create-an-outlook-profile"></a>Crear un perfil de Outlook
 
