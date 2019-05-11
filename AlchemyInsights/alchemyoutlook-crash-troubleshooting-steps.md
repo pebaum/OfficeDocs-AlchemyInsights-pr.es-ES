@@ -10,13 +10,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
+ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 096e98335f99a28a9d7dba215ccc5334caf9f137
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d0e1211e8cdd20b9d3792fda2c50507f7860f466
+ms.sourcegitcommit: 5718d96f30f25619845223e8622ce13b4a52114c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397987"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33883144"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Pasos para solucionar problemas de bloqueo de Outlook
 
