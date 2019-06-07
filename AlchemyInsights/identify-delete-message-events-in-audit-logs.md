@@ -2,7 +2,7 @@
 title: Identificar eventos de eliminación de mensajes en registros de auditoría
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1370
 ms.assetid: ''
-ms.openlocfilehash: 93f8a192af6e689e2b2d04013f35b8da2b69e607
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0fb5d6aa0c99f7f68459c40302869bed69583b3f
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32416726"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34755169"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Registros de auditoría para mensajes de correo electrónico eliminados
 

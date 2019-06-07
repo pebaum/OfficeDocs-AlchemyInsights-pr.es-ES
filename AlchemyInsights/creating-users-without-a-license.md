@@ -2,7 +2,7 @@
 title: 743 crear usuarios sin una licencia
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 4/26/2018
 ms.audience: Admin
 ms.topic: article
@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 743
 ms.assetid: a47ef0c1-5f44-4c5f-aa91-b681c0c17ebf
-ms.openlocfilehash: 3aea61b21f30b8fcac1399a45fc585024d8cf5c9
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: fa691df766f8250839cff3df6a907f88fd475057
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406667"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34753116"
 ---
 # <a name="create-mailboxes-that-dont-require-licenses"></a>Crear buzones que no requieran licencias
 

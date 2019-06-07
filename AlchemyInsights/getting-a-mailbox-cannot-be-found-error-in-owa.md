@@ -2,7 +2,7 @@
 title: 126 se ha encontrado un error al obtener un buzón en OWA?
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 126
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: fe8119c300e99170da4f338f2420b1229ab24bea
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0288f952ae5e5aade409c3f9d394d2827b5013ee
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400842"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34755420"
 ---
 # <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Error al obtener un buzón no encontrado en Outlook en la web
 

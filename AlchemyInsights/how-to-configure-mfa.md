@@ -2,7 +2,7 @@
 title: 955 cómo configurar la MFA
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 6/15/2018
 ms.audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 955
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: d6f09ad04e308bfff9ade45c76ab842afaae30df
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f3f1b3b1c0fe128bf6f304a22043e1e3bf1de54e
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32399716"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34752506"
 ---
 # <a name="configure-multi-factor-authentication-in-office-365"></a>Configure multi-factor Authentication en Office 365
 
