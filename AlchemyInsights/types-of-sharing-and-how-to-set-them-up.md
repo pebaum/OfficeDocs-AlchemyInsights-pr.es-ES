@@ -2,7 +2,7 @@
 title: 615 Tipos de uso compartido y cómo configurarlos.
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.custom:
 - "615"
 - "878"
 ms.assetid: 361f5405-ac43-46f6-b1b9-5d91f61617ec
-ms.openlocfilehash: feaa70c077f50cfd76ac2efedd8760462482a840
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 30861fe6ae092d18dbe6fe47e722ea32f47dc425
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389812"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34757659"
 ---
 # <a name="different-types-of-shared-calendars-and-how-to-set-them-up"></a>Distintos tipos de calendarios compartidos y cómo configurarlos
 

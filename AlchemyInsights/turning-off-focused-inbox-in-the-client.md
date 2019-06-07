@@ -2,7 +2,7 @@
 title: 911 desactivación de la bandeja de entrada prioritarios en el cliente
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 5/30/2018
 ms.audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 911
 ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
-ms.openlocfilehash: 4d102d3b05de0ed2dc3fd035278d479c83c2653d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 683e4c1509185f0820d02071d63c98f9780271b4
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32366888"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34757730"
 ---
 # <a name="turn-off-focused-inbox-in-email-clients"></a>Desactivar la bandeja de entrada prioritarios en clientes de correo electrónico
 

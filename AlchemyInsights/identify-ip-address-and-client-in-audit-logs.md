@@ -2,7 +2,7 @@
 title: Identificar la dirección IP y el cliente en los registros de auditoría
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1367
 ms.assetid: ''
-ms.openlocfilehash: 7e30a638de5926aa11b8ae637613a48076d7bdc9
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 87e0d414fe02d5074a56cd5a77d50db1464b7faf
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417046"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34752076"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Identificar la dirección IP y el cliente en los registros de auditoría
 

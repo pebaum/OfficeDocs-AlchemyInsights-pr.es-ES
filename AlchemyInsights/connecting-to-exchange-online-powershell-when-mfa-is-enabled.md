@@ -2,7 +2,7 @@
 title: 761 conectarse a PowerShell de Exchange Online cuando MFA está habilitado
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 4/26/2018
 ms.audience: Admin
 ms.topic: article
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 761
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: d9c4195ba3079d35f7a556b91ea6d7318efb35cb
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 02c42175df821e17641b4252f5dd267eceb0e508
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408197"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34753688"
 ---
 # <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Conectarse a PowerShell de Exchange Online cuando MFA está habilitado
 

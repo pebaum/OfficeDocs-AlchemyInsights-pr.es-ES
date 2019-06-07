@@ -2,19 +2,19 @@
 title: Creación de carpetas públicas
 ms.author: dmaguire
 author: msdmaguire
-manager: serdars
+manager: dansimp
 ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: 2204e0d0b4f3ac73fe1198e0b14ad51a6b3b1adc
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 31208b68063041bf52ee11a7214e6709b18a03b3
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406769"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34753580"
 ---
 # <a name="creating-public-folders"></a>Creación de carpetas públicas
 

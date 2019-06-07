@@ -2,7 +2,7 @@
 title: Cambios de Teams
 ms.author: heidip
 author: heidip
-manager: serdars
+manager: dansimp
 ms.date: 3/5/2019
 ms.audience: Admin
 ms.topic: article
@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1686
-ms.openlocfilehash: 77d5e2d924197fb529fe23a3f496d828000c951c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 55b0f503f59fdf34132067713fa48fd6e79023a5
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420825"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34757766"
 ---
 # <a name="using-teams-shifts"></a>Uso de los equipos turnos
 

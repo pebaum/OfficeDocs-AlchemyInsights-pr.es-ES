@@ -2,7 +2,7 @@
 title: 929 reglas de la bandeja de entrada a reglas de deflectTransport
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 6/15/2018
 ms.audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 929
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: 880f4cb2c42a564362ad7832ebf8ced16fd26d77
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e016a502a8e23ec8beff4b448a454c66eda6969c
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32413668"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34751970"
 ---
 # <a name="mail-flow-rules-also-known-as-transport-rules"></a>Reglas de flujo de correo (también conocidas como reglas de transporte)
 

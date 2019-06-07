@@ -8,14 +8,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: 5fcf591c5312daf7b817b17056078506f1d4a77b
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: ebafb4ec807f6e6b9c26935e766456414212de81
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34718973"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34756881"
 ---
 # <a name="edit-a-read-only-file"></a>Edición de un archivo de solo lectura
 
-<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Al abrir archivos, es posible que se abran como de solo lectura. En algunos casos, esto es para mayor seguridad, como cuando se abren archivos de Internet y otras horas, puede deberse a una configuración que se puede cambiar. En el artículo &ldquo; <a href="https://support.office.com/en-us/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15"><span style="color: blue;">¿por qué el archivo se abrió en solo</span></a> &rdquo; lectura, se describen algunos escenarios en los que un archivo se abre en modo de solo lectura y algunos pasos que puede realizar para cambiarlo).</span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">A&rsquo;continuación, se muestra cómo abrir archivos de Office para editarlos.</span></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">En lugar de hacer clic en el título del documento, haga clic en <strong>Abrir menú</strong> (los tres puntos) y, a continuación, haga clic en <strong>Editar</strong>.</span></li> </ul> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Notas</span></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Si es&rsquo;así, tiene documentos abiertos para su edición en Office online al hacer clic en el título, puede configurar la biblioteca para que lo haga (siempre que tenga permiso para cambiar la configuración de la biblioteca):</span></li> </ul> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Si tiene bibliotecas con <strong style="box-sizing: border-box;">Checkout</strong>, columnas o metadatos obligatorios&nbsp;o cuando la seguridad de borrador de <strong style="box-sizing: border-box;">elementos</strong> está definida como&nbsp;<strong style="box-sizing: border-box;">solo usuarios que pueden editar</strong> o&nbsp;<strong style="box-sizing: border-box;">solo usuarios que pueden aprobar elementos</strong> en la versión <strong style="box-sizing: border-box;"> </strong> Configuración de una biblioteca de documentos de SharePoint, estos elementos se sincronizarán como de <strong style="mso-bidi-font-weight: normal;">solo lectura.</strong></span></li> </ul> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Un documento de Office se abre en la vista protegida, aunque habilite la configuración de directiva "abrir documentos de Office como de lectura y escritura al explorar". Para más información, consulte este <a href="https://support.microsoft.com/en-us/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the"> <span style="color: blue;">artículo.</span></a></span></li> </ul>
+Al abrir archivos, es posible que se abran como de solo lectura. En algunos casos, esto es para mayor seguridad, como cuando se abren archivos de Internet y otras horas, puede deberse a una configuración que se puede cambiar. En el artículo [¿por qué el archivo se abrió en solo lectura](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15) , se describen algunos escenarios en los que un archivo se abre en modo de solo lectura y algunos pasos que puede realizar para cambiarlo).
+
+Esta es la manera de abrir archivos de Office para editarlos.
+
+En lugar de hacer clic en el título del documento, haga clic en **Abrir menú** (los tres puntos) y, a continuación, haga clic en **Editar**.
+
+Notas:
+
+- Si prefiere que se abran los documentos para editarlos en Office online al hacer clic en el título, puede configurar la biblioteca para que lo haga (siempre que tenga permiso para cambiar la configuración de la biblioteca).
+
+- Si tiene bibliotecas con checkout, columnas obligatorias o cuando solo los usuarios puedan editar la configuración de versión de una biblioteca de documentos de SharePoint, estos elementos se sincronizarán como de solo lectura.
+
+- Un documento de Office se abre en la vista protegida, aunque habilite la configuración de directiva "abrir documentos de Office como de lectura y escritura al explorar". Para más información, consulte este [artículo.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)
 
