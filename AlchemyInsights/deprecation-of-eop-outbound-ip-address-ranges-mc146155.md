@@ -2,7 +2,7 @@
 title: 1065 desuso de la dirección IP saliente de EOP rangesMC146155
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 9/28/2018
 ms.audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1065
 ms.assetid: bd41784e-8002-428d-bc19-25671cfd34e8
-ms.openlocfilehash: 17beb1722142d94ea05b67ce5ed1f20f8b11375c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9860845dea444847833d4c5cd01d49ea93473778
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404838"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34752972"
 ---
 # <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>Desuso de los intervalos de direcciones IP salientes de EOP
 
