@@ -2,7 +2,7 @@
 title: 711 crear una lista o un grupo de distribución
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 711
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: fb8bc8354f659776b7ee5083581483534954b768
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a45bf0eea6abcd0fdb5c5d4aeec00a91a3e038f4
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406927"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34753400"
 ---
 # <a name="create-distribution-groups"></a>Crear grupos de distribución
 

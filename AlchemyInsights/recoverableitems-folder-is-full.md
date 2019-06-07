@@ -2,7 +2,7 @@
 title: 1336 la carpeta RecoverableItems está llena
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 11/5/2018
 ms.audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1336
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: 14d46980caf7dac90e73c34482a3aee34382fa1f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: cfcc69c1b3a59c73037d9a493af4ece86b7b7208
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389100"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34762097"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>La carpeta elementos recuperables está llena
 

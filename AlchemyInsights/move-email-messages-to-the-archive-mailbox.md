@@ -1,20 +1,20 @@
 ---
 title: Mover mensajes de correo electrónico al buzón de archivo
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+ms.author: chrisda
+author: chrisda
+manager: dansimp
 ms.date: 11/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 37f256ef31402f5139fdd7c2af8f3a6ca9dc3525
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: fb5745b60d42e1f7d7bb9b7a336a51b62c2ff92a
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418342"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34762382"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>Mover el correo electrónico al buzón de archivo
  
@@ -22,7 +22,7 @@ ms.locfileid: "32418342"
 
 2. Para archivar mensajes automáticamente en el buzón de archivo, se debe establecer una etiqueta de retención con la acción **mover a archivo** para que se **aplique automáticamente a toda la etiqueta del buzón (predeterminado)**. Siga los pasos que se describen aquí para crear la etiqueta: archivar la [etiqueta predeterminada](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Foffice365%2Fsecuritycompliance%2Fset-up-an-archive-and-deletion-policy-for-mailboxes%23create-a-custom-archive-default-policy-tag&data=04%7C01%7Cstephow%40microsoft.com%7C89934e16dbd84ebdef6708d6b319b348%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636893320296576506%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C-1&sdata=UibWi%2BtrO3ITZ6iF%2FtKQj5JyxzEb9Mu9frBJPT6FNFI%3D&reserved=0).
     
-3. A continuación, agregue la etiqueta de **archivo** a la Directiva de retención. En el centro de administración de Exchange, elija **directivas de retención** > agregue la **etiqueta migrar a archivo** a la Directiva > **Guardar**. 
+3. A continuación, agregue la etiqueta de **archivo** a la Directiva de retención. En el centro de administración de Exchange, seleccione **directivas de retención** > agregue la **etiqueta mover a archivo** a la Directiva > **Guardar**. 
     
 4. Ahora [asigne la Directiva de retención](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) al buzón de correo del usuario específico. La misma directiva se aplicará al buzón **principal** y al buzón de **archivo** . 
     

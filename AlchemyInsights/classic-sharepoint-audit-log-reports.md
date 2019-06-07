@@ -2,7 +2,7 @@
 title: Informes de registro de auditoría de SharePoint clásicos
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1373
 ms.assetid: ''
-ms.openlocfilehash: f892f559109db8c3b697f65e7b9942a22ae65034
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3b5bb5d2e7746e020093509aa869f83604b06e1f
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408340"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34754079"
 ---
 # <a name="classic-sharepoint-audit-log-reports"></a>Informes de registro de auditoría de SharePoint clásicos
 
