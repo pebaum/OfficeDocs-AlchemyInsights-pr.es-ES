@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 997
 ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685
-ms.openlocfilehash: 65b953ef5c090b59aa2665e29ef3fda92adb8a30
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6913bee931574266d1464a9f7862393747fe3746
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420884"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771431"
 ---
 # <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Me gustaría suscribirse a Microsoft Teams de forma gratuita, pero no puedo.
 
-- Si está usando una cuenta profesional o educativa de Office 365, esta oferta gratuita no está disponible. Sin embargo, es posible que su organización ya esté usando Microsoft Teams. Si no es así, ve a [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software) para ver si es elegible para una prueba gratuita.
+- Si está usando una cuenta profesional o educativa de Office 365, esta oferta gratuita no está disponible. Sin embargo, es posible que su organización ya esté usando Microsoft Teams. Si no es así, ve a [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) para ver si es elegible para una prueba gratuita.
 
 - Las instituciones académicas no son aptas para esta oferta gratuita. Sin embargo, los profesores y los alumnos pueden obtener una versión gratuita de Office 365, que incluye una versión completa de Microsoft Teams. Consulte [licencias de Office 365 para Microsoft Teams](https://docs.microsoft.com/microsoftteams/office-365-licensing).
 

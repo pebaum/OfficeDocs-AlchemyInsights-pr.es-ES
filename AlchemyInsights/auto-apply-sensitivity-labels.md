@@ -9,12 +9,12 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 65d359f9826e689963cfe5e83b37227cbadd526b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408735"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769559"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Aplicar automáticamente etiquetas de sensibilidad
 
@@ -25,7 +25,7 @@ La aplicación automática de las etiquetas de confidencialidad elimina la neces
 Para aplicar etiquetas automáticamente, es necesario lo siguiente:
 
 - Suscripción a Azure Information Protection P2
-- [Descargar e instalar el cliente de etiquetado Unificado de Azure Information Protection](https://docs.microsoft.com/en-us/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [Descargar e instalar el cliente de etiquetado Unificado de Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
 Estamos trabajando en soporte nativo que no requerirá el cliente de etiquetado Unificado de Azure Information Protection en el futuro.
 
@@ -33,5 +33,5 @@ Actualmente, solo Windows admite el cliente de etiquetado unificado.  La caracte
 
 Para obtener más información sobre las etiquetas de confidencialidad y su aplicación automática al contenido, vea:
 
-- [Información general de etiquetas de confidencialidad](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
-- [Aplicar una etiqueta de confidencialidad automáticamente al contenido](https://docs.microsoft.com/en-us/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Información general de etiquetas de confidencialidad](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Aplicar una etiqueta de confidencialidad automáticamente al contenido](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

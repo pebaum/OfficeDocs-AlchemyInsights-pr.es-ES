@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: c3d058c22d88eb9625dbdaecba7edd270977f351
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 3916e6cf6424b644e90621f21aa09b37140d5288
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760886"
+ms.locfileid: "34770614"
 ---
 # <a name="irm-protection-to-sharepoint-files"></a>Protección de IRM para archivos de SharePoint
 
@@ -21,7 +21,7 @@ En SharePoint Online, la protección de IRM se aplica a los archivos en el nivel
 
 Para obtener más información, lea [cómo los servicios y las aplicaciones de Office admiten Azure Rights Management](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
 
-[Configurar Information Rights Management (IRM) en el centro de administración de SharePoint](https://docs.microsoft.com/en-us/office365/securitycompliance/set-up-irm-in-sp-admin-center).
+[Configurar Information Rights Management (IRM) en el centro de administración de SharePoint](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
 
 [IRM: habilitar listas y bibliotecas de documentos de SharePoint](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
 

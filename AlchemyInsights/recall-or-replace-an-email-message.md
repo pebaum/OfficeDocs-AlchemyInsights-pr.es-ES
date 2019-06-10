@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096638"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770825"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Recuperar o reemplazar un mensaje de correo electrónico
 
@@ -36,7 +36,7 @@ Para obtener más información, incluido cómo comprobar la recuperación, vea [
 
 ***Buscar y eliminar mensajes de correo electrónico de la organización*** Para buscar y eliminar mensajes de correo electrónico en su organización, es más fácil si es un administrador global. Si no es un administrador global, su cuenta debe agregarse al grupo de roles eDiscovery Manager o al rol de administración de búsqueda de cumplimiento. Para eliminar mensajes, debe unirse al grupo de funciones de administración de la organización o al rol de administración de búsqueda y depuración. Los permisos para estos roles se asignan en el [centro de seguridad & cumplimiento](https://protection.office.com/).
 
-1. [Cree una búsqueda de contenido](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) para buscar el mensaje que se va a eliminar.
-2. [Conéctese a Security _AMP_ Compliance Center PowerShell](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Cree una búsqueda de contenido](https://docs.microsoft.com/office365/securitycompliance/content-search) para buscar el mensaje que se va a eliminar.
+2. [Conéctese al centro de seguridad & PowerShell del centro de cumplimiento](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-Si está usando MFA, consulte [conectarse a Office 365 Security _AMP_ Compliance Center PowerShell con multi-factor Authentication](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Si está usando MFA, consulte [conectarse a Office 365 Security & cumplimiento del centro de cumplimiento de PowerShell con multi-factor Authentication](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

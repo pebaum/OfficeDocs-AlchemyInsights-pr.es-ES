@@ -9,16 +9,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 950b20b9982bbac8620a153315598a2b6ea08c6f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6f36420280cc016c1117d19c15c2887d4e308f77
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418161"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771216"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Nuevas etiquetas de retención creadas automáticamente
 
-Es posible que vea [tres nuevas etiquetas de retención](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) creadas automáticamente en su organización en **etiquetas de retención** en el centro de seguridad o cumplimiento. Los nombres de etiqueta son:
+Es posible que vea [tres nuevas etiquetas de retención](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) creadas automáticamente en su organización en **etiquetas de retención** en el centro de seguridad o cumplimiento. Los nombres de etiqueta son:
 
 - Procedimientos operativos
 - General comercial
@@ -30,4 +30,4 @@ Esto ocurrirá la primera vez que elija **plan de archivos** si no hay otras eti
 
 1. Seleccione las etiquetas de retención que desea quitar > **Eliminar etiqueta** > **sí** para eliminar la etiqueta.
 
-Con el administrador del plan de archivos, puede administrar las directivas y etiquetas de retención en su organización: para obtener más información, vea [información general sobre el administrador del plan de archivos](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager).
+Con el administrador del plan de archivos, puede administrar las directivas y etiquetas de retención en su organización: para obtener más información, vea [información general sobre el administrador del plan de archivos](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).

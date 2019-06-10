@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: a8bfe01e6ab2a0204f9d5a6399a82cac4a4419a0
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 956cf333f83dc681b7d74e984fdeb4c6c273d703
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34717258"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769524"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>¿Tiene problemas con un servicio en la nube?
 
@@ -23,5 +23,5 @@ Si experimenta problemas con un servicio en la nube, puede comprobar el [Estado 
 
 **Directiva de notificación**
 
-Cuando ocurre un incidente de servicio, Microsoft es consciente de que una comunicación precisa, destinada a las personas indicadas y a tiempo resulta fundamental para los clientes. Microsoft notifica a los administradores de Office 365 mediante la actualización del panel de estado del servicio específico del inquilino [(publicación)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) en el portal de administración de Office 365. Las actualizaciones de incidentes de servicio se proporcionan en una cadencia por horas o, si se requiere una cadencia distinta, se indicará en el registro de comunicación de publicación. Para obtener más información, vea [Cómo comprobar el estado del servicio de Office 365](https://docs.microsoft.com/en-us/office365/enterprise/view-service-health).
+Cuando ocurre un incidente de servicio, Microsoft es consciente de que una comunicación precisa, destinada a las personas indicadas y a tiempo resulta fundamental para los clientes. Microsoft notifica a los administradores de Office 365 mediante la actualización del panel de estado del servicio específico del inquilino [(publicación)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) en el portal de administración de Office 365. Las actualizaciones de incidentes de servicio se proporcionan en una cadencia por horas o, si se requiere una cadencia distinta, se indicará en el registro de comunicación de publicación. Para obtener más información, vea [Cómo comprobar el estado del servicio de Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
 
