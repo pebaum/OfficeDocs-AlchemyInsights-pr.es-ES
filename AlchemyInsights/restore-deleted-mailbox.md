@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: d3808cdee54b748abec16035ecb5c093ec6d37f3
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 760587c0e58662283c3c1a647d1cc5fb81187545
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370559"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770755"
 ---
-# <a name="restore-a-deleted-mailbox"></a><span data-ttu-id="bda5b-102">Restaurar un buzón de correo eliminado</span><span class="sxs-lookup"><span data-stu-id="bda5b-102">Restore a deleted mailbox</span></span>
+# <a name="restore-a-deleted-mailbox"></a><span data-ttu-id="1153b-102">Restaurar un buzón de correo eliminado</span><span class="sxs-lookup"><span data-stu-id="1153b-102">Restore a deleted mailbox</span></span>
 
-<span data-ttu-id="bda5b-103">Cuando el usuario pierde su licencia de Exchange Online, su buzón se conserva durante 30 días y se puede recuperar con tan solo volver a asignar la licencia al usuario.</span><span class="sxs-lookup"><span data-stu-id="bda5b-103">When the user loses its Exchange Online license, their mailbox is retained for 30 days and can be recovered by simply re-assigning the license to the user.</span></span>
+<span data-ttu-id="1153b-103">Cuando el usuario pierde su licencia de Exchange Online, su buzón se conserva durante 30 días y se puede recuperar con tan solo volver a asignar la licencia al usuario.</span><span class="sxs-lookup"><span data-stu-id="1153b-103">When the user loses its Exchange Online license, their mailbox is retained for 30 days and can be recovered by simply re-assigning the license to the user.</span></span>
   
- <span data-ttu-id="bda5b-104">*Esto funcionará sólo en un plazo de 30 días.*</span><span class="sxs-lookup"><span data-stu-id="bda5b-104">*This will work only within 30 days.*</span></span>  <span data-ttu-id="bda5b-105">En el portal de administración, vaya a:</span><span class="sxs-lookup"><span data-stu-id="bda5b-105">In the Admin Portal, go to:</span></span> 
+ <span data-ttu-id="1153b-104">*Esto funcionará sólo en un plazo de 30 días.*</span><span class="sxs-lookup"><span data-stu-id="1153b-104">*This will work only within 30 days.*</span></span>  <span data-ttu-id="1153b-105">En el portal de administración, vaya a:</span><span class="sxs-lookup"><span data-stu-id="1153b-105">In the Admin Portal, go to:</span></span> 
   
-1. <span data-ttu-id="bda5b-106">**Usuarios** de \> Usuarios **activos** .</span><span class="sxs-lookup"><span data-stu-id="bda5b-106">**Users** \> **Active** users.</span></span> <span data-ttu-id="bda5b-107">Seleccione el usuario en cuestión.</span><span class="sxs-lookup"><span data-stu-id="bda5b-107">Select the user in question.</span></span> 
+1. <span data-ttu-id="1153b-106">**Usuarios** de \> Usuarios **activos** .</span><span class="sxs-lookup"><span data-stu-id="1153b-106">**Users** \> **Active** users.</span></span> <span data-ttu-id="1153b-107">Seleccione el usuario en cuestión.</span><span class="sxs-lookup"><span data-stu-id="1153b-107">Select the user in question.</span></span> 
     
-2. <span data-ttu-id="bda5b-108">Haga clic en **Editar** para modificar las licencias de producto</span><span class="sxs-lookup"><span data-stu-id="bda5b-108">Press **Edit** to modify Product licenses</span></span> 
+2. <span data-ttu-id="1153b-108">Haga clic en **Editar** para modificar las licencias de producto</span><span class="sxs-lookup"><span data-stu-id="1153b-108">Press **Edit** to modify Product licenses</span></span> 
     
-3. <span data-ttu-id="bda5b-109">Asignar la licencia de Exchange Online y presionar **Guardar**</span><span class="sxs-lookup"><span data-stu-id="bda5b-109">Assign the Exchange Online license and press **Save**</span></span>
+3. <span data-ttu-id="1153b-109">Asignar la licencia de Exchange Online y presionar **Guardar**</span><span class="sxs-lookup"><span data-stu-id="1153b-109">Assign the Exchange Online license and press **Save**</span></span>
     
-<span data-ttu-id="bda5b-110">Si está intentando recuperar un buzón compartido, también es recuperable durante 30 días.</span><span class="sxs-lookup"><span data-stu-id="bda5b-110">If you are trying to recover a Shared mailbox, it is also recoverable for 30 days.</span></span> <span data-ttu-id="bda5b-111">Puede encontrarlos en \*\*\*\* \> \*\*\*\* usuarios eliminados; los buzones compartidos no requieren una licencia.</span><span class="sxs-lookup"><span data-stu-id="bda5b-111">You can find them under **Users** \> **Deleted** users; shared mailboxes do not require a license.</span></span> <span data-ttu-id="bda5b-112">Si se da cuenta de que necesita restaurar un usuario eliminado, vea [restaurar un usuario en Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/restore-user).</span><span class="sxs-lookup"><span data-stu-id="bda5b-112">If you realize that you need to restore a deleted user, please see [Restore a user in Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/restore-user).</span></span>
+<span data-ttu-id="1153b-110">Si está intentando recuperar un buzón compartido, también es recuperable durante 30 días.</span><span class="sxs-lookup"><span data-stu-id="1153b-110">If you are trying to recover a Shared mailbox, it is also recoverable for 30 days.</span></span> <span data-ttu-id="1153b-111">Puede encontrarlos en \*\*\*\* \> \*\*\*\* usuarios eliminados; los buzones compartidos no requieren una licencia.</span><span class="sxs-lookup"><span data-stu-id="1153b-111">You can find them under **Users** \> **Deleted** users; shared mailboxes do not require a license.</span></span> <span data-ttu-id="1153b-112">Si se da cuenta de que necesita restaurar un usuario eliminado, vea [restaurar un usuario en Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).</span><span class="sxs-lookup"><span data-stu-id="1153b-112">If you realize that you need to restore a deleted user, please see [Restore a user in Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).</span></span>
   
 
