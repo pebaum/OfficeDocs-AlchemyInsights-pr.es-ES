@@ -1,23 +1,25 @@
 ---
-title: 8000069-Outlook.com bloquear remitente-Español
+title: Bloquear remitentes en Outlook.com-Español
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/7/2019
+ms.date: 6/10/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000069
-ms.openlocfilehash: af036c7f1f7b62696d31be23b67a8711ac510cf8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000069"
+- "1142"
+ms.openlocfilehash: 7ce49d7348001f45b09e6a3cefa5329b9912e9ca
+ms.sourcegitcommit: 65e270e6aaa58294d1e866a66cac787da22e8d13
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388542"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34820237"
 ---
 # <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a>Bloquear o desbloquear remitentes en Outlook.com
 
 Aceptar bloquear los mensajes de las direcciones de correo electrónico específica o dominio llegue a la bandeja de entrada. Cuando agrega una dirección de correo electrónico o un dominio a la lista de remitentes bloqueados, Outlook.com mueve automáticamente los mensajes de ese, remitente a la moqueta correo electrónico no deseado.
 
-Las instrucciones hijo ligeramente de dependiendo de si está utilizando la versión beta de Outlook.com. Elegir qué versión de Outlook.com usa para ver los [pasos que le conciernen](https://support.office.com/es-es/article/remitentes-de-bloquear-o-desbloquear-remitentes-en-outlook-com-afba1c94-77bb-4f50-8b85-057cf52f4d5e?ui=es-ES&rs=es-ES&ad=ES).
+Para aprender más leer [la ayuda a mantenerse el correo no deseado y el correo no deseado fuera de la bandeja de entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
