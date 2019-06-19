@@ -13,11 +13,11 @@ ms.custom:
 - "8000062"
 - "1070"
 ms.openlocfilehash: bba2231461d82431f585cf60b70f8f699777aac8
-ms.sourcegitcommit: 67292e43d1834c2cd20be9433698da47da59c135
+ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34749448"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "35062168"
 ---
 # <a name="move-a-folder"></a>Mover una carpeta
 

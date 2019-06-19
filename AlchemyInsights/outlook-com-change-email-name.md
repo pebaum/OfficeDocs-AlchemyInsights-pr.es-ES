@@ -13,11 +13,11 @@ ms.custom:
 - "8000036"
 - "838"
 ms.openlocfilehash: af9f343caaeba65c0f86606a048af3b39f3b1e00
-ms.sourcegitcommit: fd08cc6c8723fff65cad612ef9092bfae89f5354
+ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34859267"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "35062078"
 ---
 # <a name="change-your-email-name"></a>Cambiar el nombre de correo electrónico
 
