@@ -13,14 +13,14 @@ ms.custom:
 - "8000062"
 - "1070"
 ms.openlocfilehash: bba2231461d82431f585cf60b70f8f699777aac8
-ms.sourcegitcommit: 67292e43d1834c2cd20be9433698da47da59c135
+ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34749448"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "35062168"
 ---
-# <a name="move-a-folder"></a><span data-ttu-id="1d532-102">Mover una carpeta</span><span class="sxs-lookup"><span data-stu-id="1d532-102">Move a folder</span></span>
+# <a name="move-a-folder"></a><span data-ttu-id="97083-102">Mover una carpeta</span><span class="sxs-lookup"><span data-stu-id="97083-102">Move a folder</span></span>
 
-<span data-ttu-id="1d532-103">Puede reordenar carpetas en **Favoritos**, pero no puede reordenar carpetas en **carpetas** o convertir una subcarpeta en una carpeta.</span><span class="sxs-lookup"><span data-stu-id="1d532-103">You can reorder folders under **Favorites**, but you can't reorder folders under **Folders** or make a subfolder a folder.</span></span> <span data-ttu-id="1d532-104">Si mueve accidentalmente una carpeta a otra carpeta, cree una carpeta nueva y copie todos los correos electrónicos de la subcarpeta a la nueva carpeta.</span><span class="sxs-lookup"><span data-stu-id="1d532-104">If you accidentally move a folder into another folder, create a new folder and copy all your email from the subfolder to the new folder.</span></span>
+<span data-ttu-id="97083-103">Puede reordenar carpetas en **Favoritos**, pero no puede reordenar carpetas en **carpetas** o convertir una subcarpeta en una carpeta.</span><span class="sxs-lookup"><span data-stu-id="97083-103">You can reorder folders under **Favorites**, but you can't reorder folders under **Folders** or make a subfolder a folder.</span></span> <span data-ttu-id="97083-104">Si mueve accidentalmente una carpeta a otra carpeta, cree una carpeta nueva y copie todos los correos electrónicos de la subcarpeta a la nueva carpeta.</span><span class="sxs-lookup"><span data-stu-id="97083-104">If you accidentally move a folder into another folder, create a new folder and copy all your email from the subfolder to the new folder.</span></span>
   
-<span data-ttu-id="1d532-105">Para obtener más información, consulte [trabajar con carpetas de mensajes en Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a).</span><span class="sxs-lookup"><span data-stu-id="1d532-105">To learn more, read [Working with message folders in Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a).</span></span>
+<span data-ttu-id="97083-105">Para obtener más información, consulte [trabajar con carpetas de mensajes en Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a).</span><span class="sxs-lookup"><span data-stu-id="97083-105">To learn more, read [Working with message folders in Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a).</span></span>
