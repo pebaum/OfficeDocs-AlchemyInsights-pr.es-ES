@@ -11,14 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: a67fdd7e44ed5651135443b68998a3c61886d133
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 0f72136d788167472be3b77e83034f5147bbc92c
+ms.sourcegitcommit: ed30ec6cae5e52b54aa1ac7248a847579ad16062
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34762204"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "35079329"
 ---
-# <a name="open-office-files-and-documents-from-sharepoint--onedrive"></a>Abrir documentos y archivos de Office desde SharePoint & OneDrive
+# <a name="open-office-files-and-documents-from-sharepoint-and-onedrive"></a>Abrir documentos y archivos de Office desde SharePoint y OneDrive
+
 
 Si tiene problemas para abrir documentos y archivos de Office desde bibliotecas de documentos de SharePoint o OneDrive, estas son algunas sugerencias que le ayudarán a solucionarlos.
 

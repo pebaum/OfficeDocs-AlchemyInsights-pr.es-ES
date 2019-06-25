@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: a964751e52972875a8794ce311546f5816a36ca6
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 9ab06cbd1648da31d8a04e61c237a2326b4bbe93
+ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34753726"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "35199290"
 ---
 # <a name="create-sharepoint-sites-using-templates"></a>Crear sitios de SharePoint con plantillas
 
@@ -31,7 +31,7 @@ Los administradores tendrán que permitir el script personalizado para habilitar
 
 - El comando Guardar sitio como plantilla no es compatible y puede causar problemas en sitios que usan la infraestructura de publicación de SharePoint Server.
 
-La plantilla de sitio no se puede crear o no funciona correctamente.
+**La plantilla de sitio no se puede crear o no funciona correctamente**
 
 Puede que la plantilla falte una [característica](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) y no se activará. Si la característica no está disponible para activarse en la colección de sitios actual, no se puede usar la plantilla de sitio para crear un sitio.
 
