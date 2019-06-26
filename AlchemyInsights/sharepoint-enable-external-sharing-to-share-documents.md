@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 425752ce9b25132005fcff503b90aac2b9130903
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 081c6f38247e1dcfb0aaf88f01e2661aad432b54
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760773"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223873"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Habilitar el uso compartido externo en SharePoint Online
 
@@ -21,22 +21,22 @@ Si su organización realiza tareas que implican el uso compartido de documentos 
 
 Para obtener más información sobre el uso compartido externo, visite los siguientes vínculos.
 
-[¿Qué es un usuario externo?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [¿Qué es un usuario externo?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-[¿Qué ocurre cuando se comparte un sitio o documento?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [¿Qué ocurre cuando se comparte un sitio o documento?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
 
-[Activar o desactivar el uso compartido externo para SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)</
+- [Activar y desactivar el uso compartido externo para SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-[Activar o desactivar el uso compartido externo para un sitio](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Activar o desactivar el uso compartido externo para un sitio](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-[Usar SharePoint Online como una solución de extranet de negocio a negocio (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [Usar SharePoint Online como una solución de extranet de negocio a negocio (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-[Compartir archivos o carpetas de SharePoint](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Compartir archivos o carpetas de SharePoint](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-[Dejar de compartir archivos o carpetas de OneDrive o SharePoint, o cambiar permisos](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Dejar de compartir archivos o carpetas de OneDrive o SharePoint, o cambiar permisos](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
 
-[Eliminar un usuario externo](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+- [Eliminar un usuario externo](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
 ¿Recibe un error con un usuario externo? &nbsp;Compruebe los siguientes vínculos.
 

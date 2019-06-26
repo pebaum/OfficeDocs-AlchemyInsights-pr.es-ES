@@ -1,5 +1,5 @@
 ---
-title: Dar acceso a los usuarios a SharePoint y OneDrive
+title: Solución de problemas de los mensajes de acceso denegado a los sitios de OneDrive para la empresa
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: a689769dab24e12832ddc0937bc5ddc3d71dbee3
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: b394cc1441187133d8829cfc5fb0c1edbd71fd96
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34759272"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223441"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Dar acceso a los usuarios a SharePoint y OneDrive
+# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Solución de problemas de los mensajes de acceso denegado a los sitios de OneDrive para la empresa
 
 Este problema se produce con más frecuencia cuando se elimina un usuario y se vuelve a crear con el mismo nombre principal de usuario (UPN). La nueva cuenta se crea con un valor de PUID (identificador único de pasaporte) diferente. Cuando el usuario intenta tener acceso a una colección de sitios o a su OneDrive, el usuario tiene un PUID incorrecto. Un segundo escenario implica la sincronización de directorios con una unidad organizativa (OU) de Active Directory. Si los usuarios ya han iniciado sesión en SharePoint y, a continuación, se mueven a otra unidad organizativa y se resincronizan con SharePoint, pueden experimentar este problema.
 
