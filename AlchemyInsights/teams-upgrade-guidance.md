@@ -8,16 +8,18 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "982"
+- "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 58b7d89426295ff512180aacb52d368fcdb8bb29
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7b96e32acf616af648403d4925b22265893e534c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370038"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35367594"
 ---
-# <a name="upgrade-to-teams"></a><span data-ttu-id="5e9c6-102">Actualizar a Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="5e9c6-102">Upgrade to Teams</span></span>
+# <a name="upgrade-to-teams"></a><span data-ttu-id="e15e9-102">Actualizar a Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="e15e9-102">Upgrade to Teams</span></span>
 
-<span data-ttu-id="5e9c6-103">[Aquí](https://docs.microsoft.com/microsoftteams/journey-skypeforbusiness-teams)puede encontrar una guía paso a paso para cambiar de Skype empresarial a Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="5e9c6-103">You can find a step-by-step guide for moving from Skype for Business to Microsoft Teams [here](https://docs.microsoft.com/microsoftteams/journey-skypeforbusiness-teams).</span></span>
+<span data-ttu-id="e15e9-103">[Aquí](https://docs.microsoft.com/microsoftteams/journey-skypeforbusiness-teams)puede encontrar una guía paso a paso para cambiar de Skype empresarial a Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="e15e9-103">You can find a step-by-step guide for moving from Skype for Business to Microsoft Teams [here](https://docs.microsoft.com/microsoftteams/journey-skypeforbusiness-teams).</span></span>
   
-

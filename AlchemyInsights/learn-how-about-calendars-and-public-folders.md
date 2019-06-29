@@ -9,15 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 612
+ms.custom:
+- "612"
+- "3800010"
 ms.assetid: 390e208c-6f7f-4430-86b1-068f66ea3243
-ms.openlocfilehash: a57bd448c101bf2b55013951473248fd4c8709d0
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 24d3d3fcaca5c07254e5965ca9f8a0188d8654c5
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34751648"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381170"
 ---
-# <a name="learn-about-using-public-folders-in-outlook"></a><span data-ttu-id="50b87-102">Obtener información sobre cómo usar carpetas públicas en Outlook</span><span class="sxs-lookup"><span data-stu-id="50b87-102">Learn about using public folders in Outlook</span></span>
+# <a name="learn-about-using-public-folders-in-outlook"></a><span data-ttu-id="60c3d-102">Obtener información sobre cómo usar carpetas públicas en Outlook</span><span class="sxs-lookup"><span data-stu-id="60c3d-102">Learn about using public folders in Outlook</span></span>
 
-<span data-ttu-id="50b87-103">Para obtener más información, vea [crear y compartir una carpeta pública en Outlook](https://support.office.com/article/a2835011-d524-4a5c-a207-05c159bb2a97).</span><span class="sxs-lookup"><span data-stu-id="50b87-103">For more information, see [Create and share a public folder in Outlook](https://support.office.com/article/a2835011-d524-4a5c-a207-05c159bb2a97).</span></span>
+<span data-ttu-id="60c3d-103">Para obtener más información, vea [crear y compartir una carpeta pública en Outlook](https://support.office.com/article/a2835011-d524-4a5c-a207-05c159bb2a97).</span><span class="sxs-lookup"><span data-stu-id="60c3d-103">For more information, see [Create and share a public folder in Outlook](https://support.office.com/article/a2835011-d524-4a5c-a207-05c159bb2a97).</span></span>

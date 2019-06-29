@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "531"
+- "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 3242e2db85d20364b1678a1ec9c1ed9a93156bd5
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ffffbe80c67e223aa7084dd93944c63a055c069e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417551"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35384338"
 ---
-# <a name="how-to-make-an-office-365-purchase"></a><span data-ttu-id="a0cac-102">Cómo realizar una compra de Office 365</span><span class="sxs-lookup"><span data-stu-id="a0cac-102">How to make an Office 365 purchase</span></span>
+# <a name="how-to-make-an-office-365-purchase"></a><span data-ttu-id="51b0d-102">Cómo realizar una compra de Office 365</span><span class="sxs-lookup"><span data-stu-id="51b0d-102">How to make an Office 365 purchase</span></span>
 
-<span data-ttu-id="a0cac-103">Las compras en Office 365 se pueden realizar en el centro de administración.</span><span class="sxs-lookup"><span data-stu-id="a0cac-103">Purchases in Office 365 can be made In the Admin center.</span></span> <span data-ttu-id="a0cac-104">Vaya a la [](https://go.microsoft.com/fwlink/p/?linkid=842054) página suscripciones o elija suscripciones de **facturación** \> \*\*\*\*.</span><span class="sxs-lookup"><span data-stu-id="a0cac-104">Go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+<span data-ttu-id="51b0d-103">Las compras en Office 365 se pueden realizar en el centro de administración.</span><span class="sxs-lookup"><span data-stu-id="51b0d-103">Purchases in Office 365 can be made In the Admin center.</span></span> <span data-ttu-id="51b0d-104">Vaya a la [](https://go.microsoft.com/fwlink/p/?linkid=842054) página suscripciones o elija suscripciones de **facturación** \> \*\*\*\*.</span><span class="sxs-lookup"><span data-stu-id="51b0d-104">Go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
   
-- <span data-ttu-id="a0cac-105">para comprar una suscripción de Office 365 vaya a la página de [servicios de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) o elija **servicios de compra**de **facturación** \> .</span><span class="sxs-lookup"><span data-stu-id="a0cac-105">To purchase an Office 365 subscription go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase Services**.</span></span>
-    
-- <span data-ttu-id="a0cac-106">Para comprar licencias adicionales, vaya a [](https://go.microsoft.com/fwlink/p/?linkid=842054) la página suscripciones o elija suscripciones de **facturación** \> \*\*\*\*.</span><span class="sxs-lookup"><span data-stu-id="a0cac-106">To purchase additional licenses go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span> <span data-ttu-id="a0cac-107">En la \*\*\*\* página suscripciones, elija la suscripción a la que desea agregar licencias y, a continuación, elija **Agregar o quitar licencias**.</span><span class="sxs-lookup"><span data-stu-id="a0cac-107">On the **Subscriptions** page, choose the subscription that you want to add licenses to, and then choose **Add/Remove licenses**.</span></span>
-    
-- <span data-ttu-id="a0cac-108">Para cambiar a un plan diferente:</span><span class="sxs-lookup"><span data-stu-id="a0cac-108">To switch to a different plan:</span></span>
-    
-  - <span data-ttu-id="a0cac-109">Elija \* \* cambiar de plan \* \* para ver la lista de nuevos planes disponibles.</span><span class="sxs-lookup"><span data-stu-id="a0cac-109">Choose \*\* Switch plans \*\* to view the list of new plans that are available.</span></span> 
-    
-  - <span data-ttu-id="a0cac-110">Elija un plan para ver el nuevo coste total por mes.</span><span class="sxs-lookup"><span data-stu-id="a0cac-110">Choose a plan to see the new total cost per month.</span></span> <span data-ttu-id="a0cac-111">Asegúrese de leer la información de la clave y, a continuación, elija **siguiente** para desproteger.</span><span class="sxs-lookup"><span data-stu-id="a0cac-111">Be sure to read the key information, then choose **Next** to check out.</span></span> 
-    
- <span data-ttu-id="a0cac-112">**Recursos adicionales**</span><span class="sxs-lookup"><span data-stu-id="a0cac-112">**Additional Resources**</span></span>
-  
-- [<span data-ttu-id="a0cac-113">Asignar licencias a usuarios en Office 365 para empresas</span><span class="sxs-lookup"><span data-stu-id="a0cac-113">Assign licenses to users in Office 365 for business</span></span>](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
-    
-- [<span data-ttu-id="a0cac-114">Cancelar Office 365 para empresas</span><span class="sxs-lookup"><span data-stu-id="a0cac-114">Cancel Office 365 for Business</span></span>](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
-    
+- <span data-ttu-id="51b0d-105">Para comprar una suscripción de Office 365 vaya a la página de [servicios de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) o elija **servicios de compra**de **facturación** \> .</span><span class="sxs-lookup"><span data-stu-id="51b0d-105">To purchase an Office 365 subscription go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase Services**.</span></span>
 
+- <span data-ttu-id="51b0d-106">Para comprar licencias adicionales, vaya a [](https://go.microsoft.com/fwlink/p/?linkid=842054) la página suscripciones o elija suscripciones de **facturación** \> \*\*\*\*.</span><span class="sxs-lookup"><span data-stu-id="51b0d-106">To purchase additional licenses go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span> <span data-ttu-id="51b0d-107">En la \*\*\*\* página suscripciones, elija la suscripción a la que desea agregar licencias y, a continuación, elija **Agregar o quitar licencias**.</span><span class="sxs-lookup"><span data-stu-id="51b0d-107">On the **Subscriptions** page, choose the subscription that you want to add licenses to, and then choose **Add/Remove licenses**.</span></span>
+
+- <span data-ttu-id="51b0d-108">Para cambiar a un plan diferente:</span><span class="sxs-lookup"><span data-stu-id="51b0d-108">To switch to a different plan:</span></span>
+
+  - <span data-ttu-id="51b0d-109">Elija **Cambiar de plan** para ver una lista con los nuevos planes disponibles.</span><span class="sxs-lookup"><span data-stu-id="51b0d-109">Choose **Switch plans** to view the list of new plans that are available.</span></span>
+
+  - <span data-ttu-id="51b0d-110">Elija un plan para ver el nuevo coste total por mes.</span><span class="sxs-lookup"><span data-stu-id="51b0d-110">Choose a plan to see the new total cost per month.</span></span> <span data-ttu-id="51b0d-111">Asegúrese de leer la información de la clave y, a continuación, elija **siguiente** para desproteger.</span><span class="sxs-lookup"><span data-stu-id="51b0d-111">Be sure to read the key information, then choose **Next** to check out.</span></span>
+  
+ <span data-ttu-id="51b0d-112">**Recursos adicionales**</span><span class="sxs-lookup"><span data-stu-id="51b0d-112">**Additional Resources**</span></span>
+  
+- [<span data-ttu-id="51b0d-113">Asignar licencias a usuarios en Office 365 para empresas</span><span class="sxs-lookup"><span data-stu-id="51b0d-113">Assign licenses to users in Office 365 for business</span></span>](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
+
+- [<span data-ttu-id="51b0d-114">Cancelar Office 365 para empresas</span><span class="sxs-lookup"><span data-stu-id="51b0d-114">Cancel Office 365 for Business</span></span>](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)

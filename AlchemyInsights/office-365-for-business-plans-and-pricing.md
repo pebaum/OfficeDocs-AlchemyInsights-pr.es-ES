@@ -9,17 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "475"
+- "1500026"
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: 31d9f93c6eec94e9685c27ceec424ee3750d0c12
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 97a87c56f3f6e9ecea7613b0ecdbdd707d387818
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420213"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35378938"
 ---
-# <a name="compare-office-365-for-business"></a><span data-ttu-id="f5f88-102">Comparar Office 365 para empresas</span><span class="sxs-lookup"><span data-stu-id="f5f88-102">Compare Office 365 for Business</span></span>
+# <a name="compare-office-365-for-business"></a><span data-ttu-id="5a104-102">Comparar Office 365 para empresas</span><span class="sxs-lookup"><span data-stu-id="5a104-102">Compare Office 365 for Business</span></span>
 
-<span data-ttu-id="f5f88-103">Hay tres planes distintos disponibles con Office 365 para empresas.</span><span class="sxs-lookup"><span data-stu-id="f5f88-103">There are three different plans available with Office 365 for Business.</span></span> <span data-ttu-id="f5f88-104">[Comparar Office 365 para planes y precios de negocios](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span><span class="sxs-lookup"><span data-stu-id="f5f88-104">[Compare Office 365 for Business plans and pricing](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span></span>
+<span data-ttu-id="5a104-103">Hay tres planes distintos disponibles con Office 365 para empresas.</span><span class="sxs-lookup"><span data-stu-id="5a104-103">There are three different plans available with Office 365 for Business.</span></span> <span data-ttu-id="5a104-104">[Comparar Office 365 para planes y precios de negocios](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span><span class="sxs-lookup"><span data-stu-id="5a104-104">[Compare Office 365 for Business plans and pricing](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span></span>
   
-

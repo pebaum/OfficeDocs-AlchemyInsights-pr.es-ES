@@ -6,21 +6,23 @@ manager: joallard
 ms.date: 3/21/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000257
+ms.custom:
+- "1849"
+- "9000257"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 16d519802535ccf6e5d50e1111911f0a34392961
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 001be203b46e2ec8becb82d0553335d0b4465c77
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418168"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35376382"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a><span data-ttu-id="bda12-102">Cambiar el aspecto de su buzón de Outlook.com</span><span class="sxs-lookup"><span data-stu-id="bda12-102">Change the look of your Outlook.com mailbox</span></span>
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a><span data-ttu-id="f033a-102">Cambiar el aspecto de su buzón de Outlook.com</span><span class="sxs-lookup"><span data-stu-id="f033a-102">Change the look of your Outlook.com mailbox</span></span>
 
-<span data-ttu-id="bda12-103">Puede cambiar la apariencia de la lista de mensajes y el panel de lectura en Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="bda12-103">You can change the appearance of the message list and reading pane in Outlook.com.</span></span>
+<span data-ttu-id="f033a-103">Puede cambiar la apariencia de la lista de mensajes y el panel de lectura en Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="f033a-103">You can change the appearance of the message list and reading pane in Outlook.com.</span></span>
 
-- <span data-ttu-id="bda12-104">Para cambiar el diseño de la ventana de mensaje, seleccione el icono de engranaje en la parte superior de la página para abrir **configuración**y elija una opción en **Panel de lectura**.</span><span class="sxs-lookup"><span data-stu-id="bda12-104">To change the layout of the message window, select the gear icon at the top of the page to open **Settings**, and choose an option under **Reading Pane**.</span></span>
-- <span data-ttu-id="bda12-105">Para agrupar los mensajes por conversación, seleccione el icono de engranaje en la parte superior de la página para abrir **configuración**y elija una opción en**vista de conversación**.</span><span class="sxs-lookup"><span data-stu-id="bda12-105">To group your messages by conversation, select the gear icon at the top of the page to open **Settings**, and choose an option under**Conversation view**.</span></span>
-- <span data-ttu-id="bda12-106">Para activar o desactivar la bandeja de entrada prioritarios, seleccione el icono de engranaje en la parte superior de la página para abrir la **configuración**y mueva la alternancia situada junto a **bandeja de entrada prioritarios** en activado o desactivado.</span><span class="sxs-lookup"><span data-stu-id="bda12-106">To turn Focused Inbox on or off, select the gear icon at the top of the page to open **Settings**, and move the toggle next to **Focused Inbox** to on or off.</span></span>
-- <span data-ttu-id="bda12-107">Para cambiar el modo en que se ordena el correo electrónico, en la parte superior de la lista de mensajes, seleccione **filtrar** > **ordenar por** y elija cómo desea ordenar el correo electrónico.</span><span class="sxs-lookup"><span data-stu-id="bda12-107">To change how your email is sorted, at the top of the message list, select **Filter** > **Sort by** and choose how you want to sort your email.</span></span>
+- <span data-ttu-id="f033a-104">Para cambiar el diseño de la ventana del mensaje, abra las opciones del [Panel de lectura](https://outlook.live.com/mail/options/mail/layout/readingPane) .</span><span class="sxs-lookup"><span data-stu-id="f033a-104">To change the layout of the message window, open your [Reading pane](https://outlook.live.com/mail/options/mail/layout/readingPane) options.</span></span>
+- <span data-ttu-id="f033a-105">Para cambiar el modo en que se ordena el correo electrónico, en la parte superior de la lista de mensajes, seleccione **filtrar** > **ordenar por** y elija cómo desea ordenar el correo electrónico.</span><span class="sxs-lookup"><span data-stu-id="f033a-105">To change how your email is sorted, at the top of the message list, select **Filter** > **Sort by** and choose how you want to sort your email.</span></span>
+- <span data-ttu-id="f033a-106">Para agrupar los mensajes por conversación, abra las opciones de [organización de mensajes](https://outlook.live.com/mail/options/mail/layout/conversations) .</span><span class="sxs-lookup"><span data-stu-id="f033a-106">To group your messages by conversation, open your [Message organization](https://outlook.live.com/mail/options/mail/layout/conversations) options.</span></span>
+- <span data-ttu-id="f033a-107">Para activar o desactivar la bandeja de entrada prioritarios, abra las opciones de [diseño](https://outlook.live.com/mail/options/mail/layout/focused) .</span><span class="sxs-lookup"><span data-stu-id="f033a-107">To turn Focused Inbox on or off, open your [Layout](https://outlook.live.com/mail/options/mail/layout/focused) options.</span></span>
