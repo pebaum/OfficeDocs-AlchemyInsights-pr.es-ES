@@ -10,14 +10,16 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "168"
+- "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 134361cc92b86ab13a5cd3443b6fabe2df3b83bb
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 20e3110c61599ebd8548f0aedc53c644132c7766
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408161"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35364030"
 ---
 # <a name="control-creation-of-o365-groups"></a>Control de la creación de grupos de O365
 

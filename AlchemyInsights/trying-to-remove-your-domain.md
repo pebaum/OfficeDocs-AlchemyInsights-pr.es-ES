@@ -8,12 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
-ms.openlocfilehash: 0dcb3505c38b550fac2d22ce027f16179922012a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "28"
+- "9"
+ms.openlocfilehash: 97a7aa7861e716879db8df65ea9bfb6c4e49064b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32390552"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353158"
 ---
 # <a name="trying-to-remove-your-domain"></a>¿Está intentando quitar el dominio?
 
@@ -21,6 +24,5 @@ Para quitar el dominio de Office 365, siga los pasos de este artículo: [quitar 
   
 Tendrá que actualizar los usuarios o grupos que estén asignados a ese nombre de dominio antes de quitar el dominio.
   
-[Consulte las preguntas más frecuentes sobre dominios](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) para obtener otras soluciones comunes. 
+Consulte las [Preguntas frecuentes sobre los dominios](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) para saber cuáles son las soluciones más habituales.
   
-

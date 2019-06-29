@@ -9,12 +9,15 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 6f36420280cc016c1117d19c15c2887d4e308f77
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "1958"
+- "9000331"
+ms.openlocfilehash: 8b54e5449ed0726170393916df58722bfabc1129
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34771216"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379082"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Nuevas etiquetas de retención creadas automáticamente
 

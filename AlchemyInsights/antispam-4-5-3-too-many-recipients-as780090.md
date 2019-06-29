@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1049
+ms.custom:
+- "1049"
+- "3100024"
 ms.assetid: fa3d4be9-c90a-4926-9754-4b708b038bf6
-ms.openlocfilehash: f6dd8e544a6d2715f1eb8f5c62ad23a162f879fa
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 841691026560692942dfd78442e91f2b57fcbb63
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34755688"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357046"
 ---
 # <a name="453-too-many-recipients-as780090"></a>4.5.3 demasiados destinatarios (AS780090)
 

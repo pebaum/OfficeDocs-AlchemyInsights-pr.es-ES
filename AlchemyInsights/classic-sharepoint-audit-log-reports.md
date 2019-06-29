@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1373
+ms.custom:
+- "1373"
+- "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 3b5bb5d2e7746e020093509aa869f83604b06e1f
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: d93087523e29a68a7b3aefc2ed22b403c763a9d8
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754079"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35362302"
 ---
 # <a name="classic-sharepoint-audit-log-reports"></a>Informes de registro de auditoría de SharePoint clásicos
 

@@ -7,13 +7,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "871"
+- "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 570fa6c5efa1bd0d35a71e45d6ff61ae44951bdc
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3e428facb197db4987e822d1e0902b19ce4c32af
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398213"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357766"
 ---
 # <a name="deploy-office-apps"></a>Implementación de aplicaciones de Office
 
@@ -21,4 +24,3 @@ Para implementar aplicaciones de Office en varios usuarios finales mediante la h
   
 Para empezar, asegúrese de que ha iniciado sesión como administrador de inquilinos o administrador global y, a continuación, haga clic [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance)aquí:.
   
-

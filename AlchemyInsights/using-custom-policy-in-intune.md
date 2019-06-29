@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 6700005
-ms.openlocfilehash: f43db9ac288cb7d7d74f3177eead157ca9067468
-ms.sourcegitcommit: 7e2122a7e08525f628986978f396b3a138d2326d
+ms.custom:
+- "1566"
+- "6700005"
+ms.openlocfilehash: 300e2e90723ec4d46abeda1a4879e0577193ad05
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33661646"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35365936"
 ---
 # <a name="using-custom-policy-in-intune"></a>Uso de una directiva personalizada en Intune
 

@@ -8,13 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000234
-ms.openlocfilehash: 0de578fc2138d40bd43c35b50f8c3628f9c0d744
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1818"
+- "9000234"
+ms.openlocfilehash: d2fb9f5bd458844ee002423e46a8f22415b4031b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32393594"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35374402"
 ---
 # <a name="internal-server-errors-in-outlookcom"></a>Errores internos del servidor en Outlook.com
 

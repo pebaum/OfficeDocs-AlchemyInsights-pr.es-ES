@@ -10,13 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- "2380"
 - "9000544"
-ms.openlocfilehash: 39858f640ab24bdd1b8692fba7e46fa43d5f984c
-ms.sourcegitcommit: e4e5e373503819b0c0f36b659337f5f4bae8fb4f
+ms.openlocfilehash: 910e42770cd7269444e6286d44bd60d50885a220
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/14/2019
-ms.locfileid: "34031814"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375482"
 ---
 # <a name="delay-or-schedule-sending-email-messages"></a>Retraso o programación de envío de mensajes de correo electrónico
 

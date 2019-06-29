@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1368
+ms.custom:
+- "1368"
+- "3100005"
 ms.assetid: ''
-ms.openlocfilehash: f130846dd24cef81177934aa2a200c1056172d3f
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 51c25897223371a6dcc94c948955107ce74b0e8e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34755054"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35383042"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identificar la actividad de las reglas de entrada en los registros de auditoría
 

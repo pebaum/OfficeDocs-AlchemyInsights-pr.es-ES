@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "480"
+- "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: 0cf8eb72da415c7ec0156cec282198bd0c61ad1a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7907f873e6873239c0a981432036899c5b917728
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389400"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359494"
 ---
 # <a name="activate-a-new-subscription-with-a-product-key"></a>Activar una nueva suscripción con una clave de producto
 

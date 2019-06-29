@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1226
+ms.custom:
+- "1226"
+- "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 571f7211915d637f9c193cc453db38b29fc444de
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: f0f6547a4daca31a6330d2dc2f609dcdfcd8f4be
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34761919"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370187"
 ---
 # <a name="repair-pst-file-before-importing"></a>Reparar el archivo. pst antes de importar
 

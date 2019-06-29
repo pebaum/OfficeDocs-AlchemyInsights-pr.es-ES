@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
-ms.custom: 1048
-ms.openlocfilehash: 9417fef2584e9b81a2ca71cbcc5e23ce093d94e8
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.custom:
+- "1048"
+- "3100026"
+ms.openlocfilehash: b94fcc697bb7ac065cef57f3e3eb0b515c3094a0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34751720"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35352870"
 ---
 # <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a>el cliente de 5.7.750 bloqueó el envío desde un dominio no registrado
 

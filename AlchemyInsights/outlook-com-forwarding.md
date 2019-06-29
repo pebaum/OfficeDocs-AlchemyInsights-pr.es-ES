@@ -8,15 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000239
-ms.openlocfilehash: 5be7ed823d4a7ce0456ca30914f877f4b5e22d6e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1824"
+- "9000239"
+ms.openlocfilehash: c5bbaf6068c7a3f54982ee5de556888a2f2377ae
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419126"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35374762"
 ---
-# <a name="forwarding-email-in-outlookcom"></a>ReEnvío de correo electrónico en Outlook.com
+# <a name="forwarding-email-in-outlookcom"></a>Reenvío de correo electrónico en Outlook.com
 
 Para reenviar un mensaje cada vez:
 

@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 718
+ms.custom:
+- "718"
+- "3"
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
-ms.openlocfilehash: cbe01f20b4da6ef1517f937d1622b50fd2c29269
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 46ab32341a75695ffe925a09b7e30be6065b4c32
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754328"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358126"
 ---
 # <a name="add-external-email-addresses-to-a-distribution-group"></a>Agregar direcciones de correo electrónico externas a un grupo de distribución
 

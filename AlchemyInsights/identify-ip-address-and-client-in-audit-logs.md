@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1367
+ms.custom:
+- "1367"
+- "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 87e0d414fe02d5074a56cd5a77d50db1464b7faf
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: a91778c006531371b85116f5c97485d42e6cc5be
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34752076"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35382970"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Identificar la dirección IP y el cliente en los registros de auditoría
 

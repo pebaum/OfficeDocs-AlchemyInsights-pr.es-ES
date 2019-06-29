@@ -9,16 +9,19 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "1737"
+- "9000181"
+ms.openlocfilehash: 58c6768a5285247273b55eeb0f3df2a797c88086
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769559"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360515"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Aplicar automáticamente etiquetas de sensibilidad
 
-Las etiquetas de confidencialidad pueden ser aplicadas por los usuarios mannually a contenido o puede configurarlos para que se apliquen automáticamente al contenido.
+Los usuarios pueden aplicar manualmente las etiquetas de confidencialidad al contenido, o bien configurarlas para que se apliquen automáticamente al contenido.
 
 La aplicación automática de las etiquetas de confidencialidad elimina la necesidad de entrenar a los usuarios en la clasificación del contenido y en la necesidad de notificarlos sobre las configuraciones de la Directiva.
 

@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 726
+ms.custom:
+- "726"
+- "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: c017f66ff97321fe61f78c6cc4ba470d889500f9
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: dc95535eaa6ede3e25ec7ec56ca2ab7e11ec563d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34756248"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35352762"
 ---
 # <a name="block-email-forwarding"></a>Bloquear el reenvío de correo electrónico
 

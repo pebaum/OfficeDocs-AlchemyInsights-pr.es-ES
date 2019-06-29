@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
-- "9000236"
 - "1820"
-ms.openlocfilehash: ec541066a0dc6047d1e32409048b3b743dd482ca
-ms.sourcegitcommit: eb715fe9cb01f50bde3cae0f7739edcb24c95aad
+- "9000236"
+ms.openlocfilehash: 16fed7fc9995ba9b4143495fc268d5b3a31d2a01
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33653897"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35377642"
 ---
 # <a name="add-your-gmail-account-to-outlookcom"></a>Agregar su cuenta de Gmail a Outlook.com
 

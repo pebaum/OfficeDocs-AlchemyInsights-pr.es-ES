@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 713
+ms.custom:
+- "713"
+- "3"
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
-ms.openlocfilehash: 7f43bbc893a3163eb76a3239b689c76f266adca5
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 1ab653b16ce964692f5536f0f1ea774727535dfc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754580"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358198"
 ---
 # <a name="add-an-email-address-for-a-distribution-group"></a>Agregar una dirección de correo electrónico para un grupo de distribución
 

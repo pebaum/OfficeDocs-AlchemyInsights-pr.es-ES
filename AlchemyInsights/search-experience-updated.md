@@ -11,13 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "415"
 - "414"
+- "1600043"
 ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
-ms.openlocfilehash: b49faf3268263b0b505abc5307978d2e4b08d5b8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f5f70298e773722ea1f982f9d17aca45997b096c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32384078"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35355966"
 ---
 # <a name="search-experience-updated"></a>Experiencia de búsqueda actualizada
 

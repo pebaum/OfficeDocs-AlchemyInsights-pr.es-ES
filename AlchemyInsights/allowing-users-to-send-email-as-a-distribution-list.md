@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 717
+ms.custom:
+- "717"
+- "3"
 ms.assetid: d9e5f5be-b653-44a9-bce8-9ca11396d39e
-ms.openlocfilehash: 81b58fc9256a480982fd077c278caa370d3f5240
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: f035e249b810b1cef5d8a8ffb21d072e88947341
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754544"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357190"
 ---
 # <a name="allow-users-to-send-email-as-a-distribution-group"></a>Permitir a los usuarios enviar correo electrónico como un grupo de distribución
 

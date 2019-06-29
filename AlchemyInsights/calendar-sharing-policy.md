@@ -12,13 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "618"
 - "899"
+- "3800014"
 ms.assetid: bc3db17b-87f8-4e50-b3ee-8b105b70d67a
-ms.openlocfilehash: 04bf66956cf7a92917d023082ad72a3cb51a41de
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c405904b19db1d6c0fe7b484a71ebd977eeabaa0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32396199"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359926"
 ---
 # <a name="policy-error-when-sharing-a-calendar"></a>Error de directiva al compartir un calendario
 

@@ -6,15 +6,17 @@ manager: joallard
 ms.date: 3/21/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000258
+ms.custom:
+- "1850"
+- "9000258"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 24109e65c691811facc7c49983d0e8400a6c02e1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 979047010dee0bb5908fe9f2c9f5897f82ba0c67
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419205"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375698"
 ---
 # <a name="organizing-your-outlookcom-mailbox"></a>Organizar el buzón de correo de Outlook.com
 

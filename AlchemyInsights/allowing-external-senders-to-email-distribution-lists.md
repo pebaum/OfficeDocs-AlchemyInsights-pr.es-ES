@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 714
+ms.custom:
+- "714"
+- "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: d39339deb0f4b64938e3d7a716dd75fdbcb11f0d
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 501e9266a58c9bd39fe42771becee804c62ede46
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754508"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357262"
 ---
 # <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Permitir que los remitentes externos envíen mensajes a grupos de distribución
 

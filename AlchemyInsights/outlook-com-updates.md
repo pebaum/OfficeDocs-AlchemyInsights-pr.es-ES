@@ -8,13 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000250
-ms.openlocfilehash: fc463464b3f29dc2ce98dae75e9b17849471d410
-ms.sourcegitcommit: eb715fe9cb01f50bde3cae0f7739edcb24c95aad
+ms.custom:
+- "1840"
+- "9000250"
+ms.openlocfilehash: dc8cbefba8e85fcf19ac09d3c1d469ae0db4bc03
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33653896"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35390242"
 ---
 # <a name="outlookcom-updates"></a>Actualizaciones de Outlook.com
 

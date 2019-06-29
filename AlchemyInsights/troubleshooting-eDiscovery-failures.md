@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1490
+ms.custom:
+- "1490"
+- "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 562a9727f4b6fa1fff49e8d1f8ddf1de6bbd5b7a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 1a1977539b7dcfd2d99bac4779a6fcf28299e713
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420177"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353230"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Solucionar errores de búsqueda de contenido
 

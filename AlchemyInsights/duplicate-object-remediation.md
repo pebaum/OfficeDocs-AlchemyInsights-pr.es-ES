@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1314
+ms.custom:
+- "1314"
+- "1300024"
 ms.assetid: b8543b7e-fd00-4b3c-be68-a1758b8caf78
-ms.openlocfilehash: 37d8419bb3e322f79f7958e458606b8ae1391aab
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 37f8e4198337cf6a88e8fbfa7070a7ce9e665057
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34752720"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35388982"
 ---
 # <a name="duplicate-object-synchronization-errors"></a>Errores de sincronización de objetos duplicados
 

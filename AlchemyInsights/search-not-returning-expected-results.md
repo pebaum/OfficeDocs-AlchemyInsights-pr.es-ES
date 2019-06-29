@@ -9,18 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1491
+ms.custom:
+- "1491"
+- "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 517d9b75fc3aef09c0c2d5870aa695cc0ab10f06
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d25c1ef2e0e746432472a436cb11d25b5db5596c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32383852"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35355894"
 ---
 # <a name="content-search-not-returning-expected-results"></a>La búsqueda de contenido no devuelve los resultados esperados
 
-Al ejecutar búsquedas de contenido desde el centro de cumplimiento de & de seguridad de Office 365, es posible que reciba resultados de búsqueda inesperados. Tenga en cuenta lo siguiente que puede afectar a los resultados de la búsqueda:
+Al ejecutar búsquedas de contenido desde el centro de seguridad & cumplimiento de Office 365, es posible que reciba resultados de búsqueda inesperados. Tenga en cuenta lo siguiente que puede afectar a los resultados de la búsqueda:
 
 - **Ubicaciones de contenido y condiciones de búsqueda**: Asegúrese de que ha seleccionado las ubicaciones de contenido y las condiciones de búsqueda adecuadas. Si ha ejecutado una búsqueda grande (con muchas ubicaciones), considere la posibilidad de dividirla en varias búsquedas.
 

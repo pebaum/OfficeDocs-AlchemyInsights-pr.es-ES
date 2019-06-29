@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 929
+ms.custom:
+- "929"
+- "1800021"
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: e016a502a8e23ec8beff4b448a454c66eda6969c
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 6cf996e6d0a2698a5ce2bb57251de7c61d248d2a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34751970"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35382682"
 ---
 # <a name="mail-flow-rules-also-known-as-transport-rules"></a>Reglas de flujo de correo (también conocidas como reglas de transporte)
 

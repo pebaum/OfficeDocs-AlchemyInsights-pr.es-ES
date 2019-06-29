@@ -9,14 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 500
+ms.custom:
+- "500"
+- "387"
+- "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 4d87e1d5ee477d6aa0fe7d0cb41daa2c2750d4c3
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ef5de7f5b782993af2689315c484f7f2b16553a1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34755544"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356722"
 ---
 # <a name="app-passwords"></a>Contraseñas de aplicación
 

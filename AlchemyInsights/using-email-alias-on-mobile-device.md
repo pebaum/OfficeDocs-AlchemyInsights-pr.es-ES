@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 725
+ms.custom:
+- "725"
+- "1"
 ms.assetid: b6417cc9-c779-4856-b0e1-a2882af39397
-ms.openlocfilehash: 98d88570cd4c014de5a1e4b76a8192013b994521
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 89d8a469ea1145f993fb524327bd66ede70cf917
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757236"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35366046"
 ---
 # <a name="email-aliases-on-mobile-devices"></a>Alias de correo electrónico en dispositivos móviles
 

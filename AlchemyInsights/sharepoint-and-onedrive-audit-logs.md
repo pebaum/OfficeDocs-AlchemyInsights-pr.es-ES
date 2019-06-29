@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1372
+ms.custom:
+- "1372"
+- "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 409aa7371debec316d641206a8c8e2db495d42ca
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 2f575c71f23aff781f3126ccac2ba066cfd87a5e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760992"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35368926"
 ---
 # <a name="sharepoint-and-onedrive-audit-logs"></a>Registros de auditoría de SharePoint y OneDrive
 

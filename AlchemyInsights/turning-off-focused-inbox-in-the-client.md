@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 911
+ms.custom:
+- "911"
+- "1800019"
 ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
-ms.openlocfilehash: 683e4c1509185f0820d02071d63c98f9780271b4
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 4b8af31f1bcb80b35aa79b62b3ab57463bc43664
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757730"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353086"
 ---
 # <a name="turn-off-focused-inbox-in-email-clients"></a>Desactivar la bandeja de entrada prioritarios en clientes de correo electrónico
 

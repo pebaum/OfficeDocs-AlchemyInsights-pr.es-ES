@@ -8,13 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000091
-ms.openlocfilehash: f68a4d947c1698eadae9b4a8f8f4e01331c5211d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1412"
+- "1413"
+- "8000091"
+ms.openlocfilehash: e2347c94ac3741e8e455cab81db68ca7e747205d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392154"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373178"
 ---
 # <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com está listo para el horario de verano
 
