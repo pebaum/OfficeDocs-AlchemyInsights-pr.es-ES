@@ -8,13 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000090
-ms.openlocfilehash: 54064e804c1e6ab0c1303c16f4f9718ba3c22182
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1410"
+- "1411"
+- "8000090"
+ms.openlocfilehash: 87ca85adc61136460806dc37639484101dee4e00
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32391922"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372242"
 ---
 # <a name="how-to-select-all-in-outlookcom"></a>Cómo "seleccionar todo" en Outlook.com
 

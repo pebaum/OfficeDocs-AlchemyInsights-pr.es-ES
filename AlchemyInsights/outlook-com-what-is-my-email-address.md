@@ -3,29 +3,29 @@ title: ¿Cuál es mi dirección de correo electrónico de Outlook.com?
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/14/2019
+ms.date: 6/4/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- "771"
 - "8000037"
-ms.openlocfilehash: 66e230dea649cb1eb682bd8f6618600162353b88
-ms.sourcegitcommit: e4e5e373503819b0c0f36b659337f5f4bae8fb4f
+ms.openlocfilehash: c1338e5de55edc1f656a643718ccf8de87d4abf1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/14/2019
-ms.locfileid: "34031815"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35361006"
 ---
 # <a name="see-your-own-email-address"></a>Ver su propia dirección de correo electrónico
 
-Para comprobar la dirección de correo electrónico predeterminada que usa para enviar, abra la configuración de [correo electrónico de sincronización](https://outlook.live.com/mail/options/mail/accounts) de Outlook.com.
+Para ver la dirección de correo electrónico predeterminada que usa al enviar un correo electrónico, vaya a [configuración de correo electrónico de sincronización](https://outlook.live.com/mail/options/mail/accounts) y mire en **establecer predeterminada desde la dirección**.
 
 Si ha conectado otra cuenta de correo electrónico a su cuenta de Outlook.com, puede elegir enviar correo electrónico desde esa dirección.
 
 1. Seleccione los puntos suspensivos en la parte inferior de la ventana de redacción y seleccione **Mostrar desde** para ver la línea de.
-
 2. Encima de la línea para, seleccione desde y elija la dirección **de** correo electrónico que desea usar.
 
 Obtenga más información sobre [el envío de correo electrónico desde una dirección distinta en Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e).

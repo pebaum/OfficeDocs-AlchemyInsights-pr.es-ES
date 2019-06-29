@@ -8,13 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000238
-ms.openlocfilehash: dc3751b3f991393ede3117fdc536360446b71490
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1821"
+- "9000238"
+ms.openlocfilehash: b964252af07e990bd0802484a3b042448c931b57
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419300"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35377714"
 ---
 # <a name="add-an-email-alias-in-outlookcom"></a>Agregar un alias de correo electrónico en Outlook.com
 

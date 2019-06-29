@@ -7,13 +7,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "977"
+- "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: ca0d8b3181ea06a4e1ce9877843ed0eb5196b334
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0162b27b6310671bec19e159e9953b7556b31c60
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388414"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370115"
 ---
 # <a name="rename-a-site"></a>Cambiar el nombre de un sitio
 
@@ -21,4 +24,3 @@ Para cambiar el nombre de un sitio, por ejemplo, de https://contoso.sharepoint.c
   
 Nota: Si está intentando cambiar el nombre de dominio (es decir, la parte contoso de la dirección URL anterior) en una dirección URL de SharePoint Online, no es posible. Consulte [cambiar los dominios](https://go.microsoft.com/fwlink/?Linkid=2018696).
   
-

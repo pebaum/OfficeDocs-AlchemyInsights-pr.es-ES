@@ -6,12 +6,15 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 97a1191e3d90e4709135be95a6346a3557cc70fe
-ms.sourcegitcommit: 03258ec4f5476a1ea6dd3a31d17bda815bc5a18a
+ms.custom:
+- "1977"
+- "9000343"
+ms.openlocfilehash: a78ef48aa92cbcfa27f14aa755e4810e410dddc1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/24/2019
-ms.locfileid: "33243721"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35367252"
 ---
 # <a name="troubleshoot-onedrive-performance"></a>Solucionar problemas de rendimiento de OneDrive
 

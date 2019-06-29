@@ -8,13 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000185
-ms.openlocfilehash: 29e15a78d1b677011abe3a6f52c0517b2f2aee6b
-ms.sourcegitcommit: 8e5b9ee3f8ef10c6d973923f955c23fa436adb84
+ms.custom:
+- "1732"
+- "9000185"
+ms.openlocfilehash: af8f9af14e9c4689aae4b904f1a377596624bd79
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "33471102"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35364066"
 ---
 # <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>No se puede editar el campo notas de un contacto en Outlook
 

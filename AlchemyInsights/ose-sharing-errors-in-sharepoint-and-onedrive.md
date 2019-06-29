@@ -6,12 +6,15 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 036e2cfe00f71d73846572d50ac9b105615d99dd
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "1939"
+- "9000314"
+ms.openlocfilehash: 60d51a4266ddc56317993be71d6ece0ed809405c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34771181"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35378074"
 ---
 # <a name="ose-sharing-errors"></a>Errores de uso compartido de OSE
 

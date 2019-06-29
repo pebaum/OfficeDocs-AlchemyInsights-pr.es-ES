@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 973
+ms.custom:
+- "973"
+- "3500008"
 ms.assetid: e8448771-3828-43d0-b17d-0c2c87377bf2
-ms.openlocfilehash: a3cce9e2e9abf8999d065c8e5d4de64c63183146
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 8a2e336a2c55c7939a01333f527f3b0b2111b3bb
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34755945"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379802"
 ---
 # <a name="stalleddueto-errors-during-migration"></a>Errores de StalledDueTo durante la migración
 

@@ -8,13 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000086
-ms.openlocfilehash: 7d53d8768abbb5db26bd353c4cc9696a66dd507c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1390"
+- "1391"
+- "1392"
+- "1393"
+- "1394"
+- "8000086"
+ms.openlocfilehash: 2b140bb1adaf7b2817d1e41ca10eb6d2f80f4d6d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392676"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35374366"
 ---
 # <a name="insert-pictures-in-an-email-message-or-calendar-event"></a>Insertar imágenes en un mensaje de correo electrónico o un evento de calendario
 

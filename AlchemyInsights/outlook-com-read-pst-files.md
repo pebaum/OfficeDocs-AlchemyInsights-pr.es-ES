@@ -9,13 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 9000199
-ms.openlocfilehash: b3131ab450d75126e7251f032e895a36521a96c8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1761"
+- "1771"
+- "9000199"
+ms.openlocfilehash: 8902ae75c667e8a95da2950facfd70a3773a2ff6
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392604"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373106"
 ---
 # <a name="pst-data-files-in-outlookcom"></a>Archivos de datos PST en Outlook.com
 

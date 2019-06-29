@@ -1,26 +1,34 @@
 ---
-title: Outlook.com mensajes Stop de ir a la carpeta de correo no deseado
+title: Evitar que los mensajes pasen a la carpeta de correo no deseado en Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 5/16/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a45058474722af57b772cf6637195aa475faa045
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1897"
+- "9000290"
+ms.openlocfilehash: 835efcaa5b86feb38285f51aaea492cfefd8e339
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373261"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371810"
 ---
-# <a name="stop-messages-going-to-your-junk-email-folder"></a>Detener los mensajes dirigidos a la carpeta de correo electrónico no deseado
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Evitar que los mensajes pasen a la carpeta de correo no deseado
 
-Si descubre que un mensaje de correo electrónico de la carpeta correo electrónico no deseado no es correo no deseado o correo no deseado:
+Si descubre que un mensaje de correo electrónico de la carpeta correo electrónico no deseado no es correo electrónico:
 
-1. Abra la [carpeta correo electrónico no deseado](https://outlook.live.com/mail/junkemail) y seleccione el mensaje. (Los elementos de la carpeta correo electrónico no deseado se eliminan transcurridos 30 días).
+1. Abra la [carpeta correo electrónico no deseado](https://outlook.live.com/mail/junkemail).
+1. Seleccione el mensaje. (*Nota:* los elementos de la carpeta correo electrónico no deseado se eliminan transcurridos 30 días).
 1. Encima de la lista de mensajes, seleccione **correo deseado** > ****.
+
+Si desea evitar que los mensajes de un remitente vayan a la carpeta de correo electrónico no deseado, agregue el remitente a la lista de remitentes seguros:
+
 1. Abra la [configuración del correo electrónico no deseado](https://go.microsoft.com/fwlink/?linkid=2035804).
-1. En **remiteNtes seguros**, escriba la dirección de correo electrónico o el dominio que quiera agregar y seleccione **Agregar**. Los correos electrónicos de direcciones o dominios de la lista de remitentes seguros no se mueven a la carpeta de correo electrónico no deseado.
+1. En **remitentes y dominios seguros**, seleccione **Agregar**, escriba la dirección de correo electrónico o el dominio que quiera agregar y seleccione **Guardar**.
+
+Para obtener más información, consulte [marcar correo electrónico como no deseado o bloquear remitentes en Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).

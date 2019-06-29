@@ -8,13 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000092
-ms.openlocfilehash: 7096bbf872165329f53b095b50f6b2405c68521f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1424"
+- "8000092"
+ms.openlocfilehash: 563b00912e7089d0bb6601585cea6d38507c4732
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373225"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35390206"
 ---
 # <a name="how-to-view-message-headers-or-message-source"></a>Cómo ver los encabezados de mensajes o el origen de los mensajes
 

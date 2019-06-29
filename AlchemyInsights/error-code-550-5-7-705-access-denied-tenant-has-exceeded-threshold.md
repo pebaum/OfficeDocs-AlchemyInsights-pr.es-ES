@@ -8,12 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9e6df5ee-ede8-421d-ba25-a3a3d0ca0a5d
-ms.openlocfilehash: af84ef9cb3c9ed425b35d884ffaf4dcb94bff565
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "336"
+- "1948"
+- "3100014"
+ms.openlocfilehash: e05b799ae88b0e431397c5f17fd0eddbe39f9c95
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32402456"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35388082"
 ---
 # <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 acceso denegado, el inquilino ha superado el umbral
 

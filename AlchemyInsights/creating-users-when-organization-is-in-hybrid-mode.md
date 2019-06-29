@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 744
+ms.custom:
+- "744"
+- "1200022"
 ms.assetid: ed17197d-cee9-4539-b3dc-de5ac04efc79
-ms.openlocfilehash: 8a8f66d7269bc0c2edb197d5bd1577935b48506d
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 29f53f709e1a0c3a6c6ee007c65149e196195a2e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34753544"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35363202"
 ---
 # <a name="create-users-in-hybrid-deployments"></a>Crear usuarios en implementaciones híbridas
 

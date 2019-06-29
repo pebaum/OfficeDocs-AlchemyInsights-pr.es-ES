@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 723
+ms.custom:
+- "723"
+- "1"
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
-ms.openlocfilehash: c241357a107e4db28af37c3c664681854e750771
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 6bd8057845d6112d889666d1cd10f1221e4b5a22
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34756211"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35380954"
 ---
 # <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Convertir un alias de correo electrónico en la dirección principal de un usuario
 

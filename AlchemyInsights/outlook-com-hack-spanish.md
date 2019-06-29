@@ -8,13 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000066
-ms.openlocfilehash: c48f936ab8ce1a643118040af85a336c4bd94b2f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1139"
+- "1140"
+- "8000066"
+- "8000067"
+ms.openlocfilehash: 70bffbce3214158ac258622e10e0d68bd60532ac
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419081"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35374726"
 ---
 # <a name="han-pirateado-mi-cuenta-de-outlookcom"></a>Han pirateado mi cuenta de Outlook.com
 

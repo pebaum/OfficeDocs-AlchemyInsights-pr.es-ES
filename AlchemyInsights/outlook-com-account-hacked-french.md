@@ -8,13 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000073
-ms.openlocfilehash: b9fce263137148f1083069ea5bf6e864bac9a84a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1151"
+- "8000073"
+ms.openlocfilehash: e3bfb2421ab63ab760b8094ef260b28d52ece4df
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419493"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35377966"
 ---
 # <a name="mon-compte-outlookcom-a-t-pirat"></a>LUN Compte Outlook.com un été piraté
 

@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 922
+ms.custom:
+- "922"
+- "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: ae53dc524620e1c281e7435fa8feabae5619b4e7
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 8514592bb3252738537d3e5118a030b802a857d0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34751898"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35382610"
 ---
 # <a name="inbox-rules"></a>Reglas de la bandeja de entrada
 

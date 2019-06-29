@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 912
+ms.custom:
+- "912"
+- "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: 3dae12e13927e6dceb9cbc514ffe60b671aaa8a0
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 8466cfe958d9ad631f01b73aff46bc63d2afd6f9
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34753831"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35362158"
 ---
 # <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Activar o desactivar la bandeja de entrada prioritarios para todos los usuarios
 

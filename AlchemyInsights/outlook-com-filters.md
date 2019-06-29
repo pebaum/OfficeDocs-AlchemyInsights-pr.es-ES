@@ -9,13 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 9000203
-ms.openlocfilehash: ca17558a9e1f58f92eba6f9caa18b59cfaaccd45
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1772"
+- "1793"
+- "9000203"
+- "9000215"
+ms.openlocfilehash: 4078d614469bf5cf520d0d4e2378def29ee39acf
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418036"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35374978"
 ---
 # <a name="filtering-in-outlookcom"></a>Filtrar en Outlook.com
 

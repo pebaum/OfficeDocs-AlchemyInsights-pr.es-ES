@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 613
+ms.custom:
+- "613"
+- "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: 05a6545001827f379bb7707a9d972ebd2fdf6561
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: e04ec88da665283a8cf4b2cba84dfece9fa6623a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34756436"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35361510"
 ---
 # <a name="calendar-publishing-information"></a>Información de publicación de calendario
 

@@ -9,14 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
-- "8000048"
 - "2404"
-ms.openlocfilehash: fb8602fcbb2e7fbc7fafe3e66613272176271995
-ms.sourcegitcommit: 8a96c12bab83df16bdc5495be460e102c2b81d1d
+- "8000048"
+- "9000554"
+ms.openlocfilehash: 5a257f75a7c5557cfa8da8039d75c4da098edda3
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/23/2019
-ms.locfileid: "34420111"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371594"
 ---
 # <a name="sync-contacts"></a>Sincronizar contactos
 

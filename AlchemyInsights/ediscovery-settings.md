@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 2006
+ms.custom:
+- "2006"
+- "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 82dffaa1ba950a73f967502f932d28272d24b99a
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: a20f00653dcde4ce0f133ab3cf400550315c090c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770228"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35388802"
 ---
 # <a name="ediscovery-settings"></a>Configuración de eDiscovery
 

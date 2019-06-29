@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1374
+ms.custom:
+- "1374"
+- "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 553a6196d5822216d525972c551dd1eef29f7f4e
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 10fae9040b1d5d75a318721f0300ba722361e8c7
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34761848"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35369862"
 ---
 # <a name="a-user-has-two-mailboxes"></a>Un usuario tiene dos buzones de correo
 

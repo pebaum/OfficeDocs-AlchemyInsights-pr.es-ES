@@ -8,13 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000064
-ms.openlocfilehash: e3a25e2719543f5e45150f4eeb8d772d7901033b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1136"
+- "8000064"
+ms.openlocfilehash: 8f7c27368c580986510e6ce80fd2ee7b3b1e1858
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418954"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35374906"
 ---
 # <a name="problemas-de-sincronizacin-del-correo-electrnico"></a>Problemas de sincronización del correo electrónico
 

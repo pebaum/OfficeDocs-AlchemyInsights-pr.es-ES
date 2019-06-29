@@ -6,15 +6,17 @@ manager: joallard
 ms.date: 4/24/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 8000008
+ms.custom:
+- "1872"
+- "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: c4705d56435a597f718d643c1fd96d20cf969e81
-ms.sourcegitcommit: 70551369a9799b25f042f20a4de88a8d33666037
+ms.openlocfilehash: c28cae4cfa3dd64ea2b69f60b610ef1cb18b30ea
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33299426"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35376418"
 ---
 # <a name="unable-to-sign-out-of-outlookcom"></a>No se puede cerrar la sesión de Outlook.com
 

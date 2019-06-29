@@ -1,28 +1,28 @@
 ---
-title: 8000041 cambiar el aspecto de su buzón de Outlook.com
+title: Cambiar el aspecto de su buzón de Outlook.com
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 11/2/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/4/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000041
+ms.custom:
+- "775"
+- "789"
+- "792"
+- "8000041"
 ms.assetid: 089589c9-6d5e-4073-8ec9-e297ee2397f4
-ms.openlocfilehash: 20c8ac5d15d878f2ebddbe2b31831a89eb6a0cc2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9c9e7b18761d712b9e953276e5da7338bff15619
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32394055"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35362662"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Cambiar el aspecto de su buzón de Outlook.com
+# <a name="change-the-look-of-your-mailbox"></a>Cambiar la apariencia de su buzón de correo
 
-Puede cambiar la apariencia de la lista de mensajes y el panel de lectura en Outlook.com. Elija si los mensajes deben ordenarse en prioritarios y en otras pestañas y si desea que el correo electrónico se muestre como conversaciones o mensajes individuales.
+Puede cambiar la apariencia de la lista de mensajes y el panel de lectura en la [configuración de diseño](https://outlook.live.com/mail/options/mail/layout). Elija si el correo electrónico se debe mostrar como conversaciones o mensajes individuales, si los mensajes nuevos deben aparecer en la parte superior o inferior de la lista de mensajes, y más.
   
-Obtenga información sobre cómo [cambiar la apariencia de su buzón de correo de Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001401&amp;clcid=0x409).
-  
- **Nota:** Ya no es posible dejar la versión beta de Outlook.com y volver a la versión clásica de Outlook.com. [Obtenga más información sobre el nuevo Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874356).
-  
-
+Para obtener más información, vea [cambiar el aspecto de su buzón de correo de Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001401&amp;clcid=0x409).

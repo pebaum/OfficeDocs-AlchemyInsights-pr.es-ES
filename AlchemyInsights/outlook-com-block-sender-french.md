@@ -9,15 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
-- "8000076"
 - "1156"
 - "1157"
-ms.openlocfilehash: 64c3df6bddcfa7b3e8e6105792ef1de74be01851
-ms.sourcegitcommit: 65e270e6aaa58294d1e866a66cac787da22e8d13
+- "8000076"
+ms.openlocfilehash: 0dd85fd339cf381e455d79aa0e0035c44835d363
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34820273"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35377066"
 ---
 # <a name="bloquer-ou-dbloquer-expditeurs-dans-outlookcom"></a>Bloquer ou débloquer expéditeurs dans Outlook.com
 

@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 898
+ms.custom:
+- "898"
+- "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: eea84c3e2c51d89eb7e22e2a17db6b305855d994
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 6728f195b83ec7c2cc8583cb003d5978e29ee06f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754911"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381314"
 ---
 # <a name="learn-about-external-calendar-sharing-options"></a>Obtener información sobre las opciones de uso compartido de calendario externo
 

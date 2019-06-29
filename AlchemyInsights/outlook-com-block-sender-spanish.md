@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
-- "8000069"
 - "1142"
-ms.openlocfilehash: 7ce49d7348001f45b09e6a3cefa5329b9912e9ca
-ms.sourcegitcommit: 65e270e6aaa58294d1e866a66cac787da22e8d13
+- "8000069"
+ms.openlocfilehash: 4651b6ad5cb551c86692ba338bcf5d6d018b20b5
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34820237"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35376994"
 ---
 # <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a>Bloquear o desbloquear remitentes en Outlook.com
 

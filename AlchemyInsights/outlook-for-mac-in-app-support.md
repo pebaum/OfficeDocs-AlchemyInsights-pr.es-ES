@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1800009
+ms.custom:
+- "135"
+- "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
-ms.openlocfilehash: 8b2e0bb4005526d49ffdf12ffdef6fda2a741038
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 100767ebc1ca2e9869dcd971e7ae0ce5872a040a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770993"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35390134"
 ---
 # <a name="in-app-support-in-outlook-for-mac"></a>Compatibilidad con la aplicación en Outlook para Mac
 

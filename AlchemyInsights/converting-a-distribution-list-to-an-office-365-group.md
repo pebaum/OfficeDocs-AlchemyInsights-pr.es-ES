@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 712
+ms.custom:
+- "712"
+- "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: adc4b631854592d1b3b5c741e9d31717ff37cb4a
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 8c3c2e284c332f4eba45a317fb71af84fa052e64
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34753436"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35364606"
 ---
 # <a name="convert-a-distribution-group-to-an-office-365-group"></a>Convertir un grupo de distribución en un grupo de Office 365
 

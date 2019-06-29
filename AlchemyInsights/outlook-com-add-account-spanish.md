@@ -8,13 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000068
-ms.openlocfilehash: f42f2e32bd7ddce2ad512fdda410e5bdaf4ef116
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1141"
+- "8000068"
+ms.openlocfilehash: 77ffe082eef0098696f952afbffad0d5ca89ac6d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419859"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35377930"
 ---
 # <a name="agregar-sus-otras-cuentas-de-correo-electrnico"></a>Agregar sus otras cuentas de correo electrónico
 

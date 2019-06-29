@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1081
+ms.custom:
+- "1081"
+- "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: fc2fcbeb3f40660b4abd5f45ef8eb1838d1d42a5
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ec385fcc57ff3b32575ec0232c3ed623887461fb
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34751791"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35361438"
 ---
 # <a name="create-and-manage-room-mailboxes"></a>Creación y administración de buzones de sala
 

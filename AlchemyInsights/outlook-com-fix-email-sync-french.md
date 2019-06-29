@@ -8,13 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000071
-ms.openlocfilehash: af72fa25c04086d4ec06125350fe84386f6bd1d5
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1144"
+- "1145"
+- "1146"
+- "1147"
+- "1148"
+- "8000071"
+ms.openlocfilehash: ebe8219b9def164d9eb879164d0e744129c60f7f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408556"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35374870"
 ---
 # <a name="rsoudre-les-problmes-de-synchronisation-des-messages"></a>Résoudre problèmes de sincronización des mensajes
 

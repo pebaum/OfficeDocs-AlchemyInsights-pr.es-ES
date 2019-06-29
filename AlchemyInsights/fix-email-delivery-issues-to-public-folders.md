@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1956
+ms.custom:
+- "1956"
+- "3500007"
 ms.assetid: ''
-ms.openlocfilehash: 900b6cc2765937ee005c7e7dce5d33bbdf582601
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: e24a4db2deb3f691209a1634d932ed277a79c868
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34752696"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35387722"
 ---
 # <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Corregir problemas de entrega de correo electrónico en carpetas públicas habilitadas para correo
 

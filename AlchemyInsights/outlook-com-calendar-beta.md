@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 9000198
-ms.openlocfilehash: caf40fa1eda6301f5fd7956d2322c47e82bb5551
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1758"
+- "9000198"
+ms.openlocfilehash: 10df70e027efb099f663d6e79dff6e73c6ff6140
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419241"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35376922"
 ---
 # <a name="new-calendar-experiences-coming-to-outlookcom"></a>Nuevas experiencias de calendario que van a Outlook.com
 
