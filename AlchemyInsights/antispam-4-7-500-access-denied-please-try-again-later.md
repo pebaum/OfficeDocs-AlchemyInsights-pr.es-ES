@@ -8,17 +8,19 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1051
+ms.custom:
+- "1051"
+- "3100024"
 ms.assetid: 5b195ea9-028b-42a8-8b39-e19797a00d8e
-ms.openlocfilehash: c48007d1d151d4fc6e7e68ae530a8bb9f1985e90
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 79658dbc0ed3e902494d3e57c0c9623260901b89
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34755580"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356974"
 ---
-# <a name="47500-access-denied-please-try-again-later"></a><span data-ttu-id="68fe2-102">4.7.500 acceso denegado; inténtelo de nuevo más tarde.</span><span class="sxs-lookup"><span data-stu-id="68fe2-102">4.7.500 Access denied, please try again later</span></span>
+# <a name="47500-access-denied-please-try-again-later"></a><span data-ttu-id="7bc76-102">4.7.500 acceso denegado; inténtelo de nuevo más tarde.</span><span class="sxs-lookup"><span data-stu-id="7bc76-102">4.7.500 Access denied, please try again later</span></span>
 
-<span data-ttu-id="68fe2-103">Este error se produce cuando el volumen de tráfico de correo electrónico procedente de la dirección IP de origen supera el límite en función de la reputación (o la falta de reputación) de la dirección IP de origen.</span><span class="sxs-lookup"><span data-stu-id="68fe2-103">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
+<span data-ttu-id="7bc76-103">Este error se produce cuando el volumen de tráfico de correo electrónico procedente de la dirección IP de origen supera el límite en función de la reputación (o la falta de reputación) de la dirección IP de origen.</span><span class="sxs-lookup"><span data-stu-id="7bc76-103">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
 
-<span data-ttu-id="68fe2-104">El bloqueo del correo electrónico desde la dirección IP de origen expirará en una hora.</span><span class="sxs-lookup"><span data-stu-id="68fe2-104">Blocking email from the source IP address will expire within an hour.</span></span> <span data-ttu-id="68fe2-105">Si la dirección IP de origen es un servidor de correo electrónico local que le pertenece, Compruebe la configuración del conector de flujo de correo.</span><span class="sxs-lookup"><span data-stu-id="68fe2-105">If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector.</span></span> <span data-ttu-id="68fe2-106">Si el comportamiento se repite durante más de una hora, póngase en contacto con el soporte técnico para solicitar una excepción para la dirección IP de origen.</span><span class="sxs-lookup"><span data-stu-id="68fe2-106">If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
+<span data-ttu-id="7bc76-104">El bloqueo del correo electrónico desde la dirección IP de origen expirará en una hora.</span><span class="sxs-lookup"><span data-stu-id="7bc76-104">Blocking email from the source IP address will expire within an hour.</span></span> <span data-ttu-id="7bc76-105">Si la dirección IP de origen es un servidor de correo electrónico local que le pertenece, Compruebe la configuración del conector de flujo de correo.</span><span class="sxs-lookup"><span data-stu-id="7bc76-105">If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector.</span></span> <span data-ttu-id="7bc76-106">Si el comportamiento se repite durante más de una hora, póngase en contacto con el soporte técnico para solicitar una excepción para la dirección IP de origen.</span><span class="sxs-lookup"><span data-stu-id="7bc76-106">If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>

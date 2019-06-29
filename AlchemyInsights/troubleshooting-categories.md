@@ -9,17 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 604
+ms.custom:
+- "604"
+- "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: ee200555df0c5bf54c40644bb66fc27e4aadd921
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 1f8db144a93d77abc8427ab68cf50916b1a19d40
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32390324"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35367162"
 ---
-# <a name="troubleshoot-issues-with-outlook-categories"></a><span data-ttu-id="3b410-102">Solución de problemas con las categorías de Outlook</span><span class="sxs-lookup"><span data-stu-id="3b410-102">Troubleshoot issues with Outlook categories</span></span>
+# <a name="troubleshoot-issues-with-outlook-categories"></a><span data-ttu-id="7ff0b-102">Solución de problemas con las categorías de Outlook</span><span class="sxs-lookup"><span data-stu-id="7ff0b-102">Troubleshoot issues with Outlook categories</span></span>
 
-<span data-ttu-id="3b410-103">Para obtener más información, vea [crear y asignar categorías de color](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC).</span><span class="sxs-lookup"><span data-stu-id="3b410-103">For more information, see [Create and assign color categories](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC).</span></span>
+<span data-ttu-id="7ff0b-103">Para obtener más información, vea [crear y asignar categorías de color](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC).</span><span class="sxs-lookup"><span data-stu-id="7ff0b-103">For more information, see [Create and assign color categories](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC).</span></span>
   
-

@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
-- "9000236"
 - "1820"
-ms.openlocfilehash: ec541066a0dc6047d1e32409048b3b743dd482ca
-ms.sourcegitcommit: eb715fe9cb01f50bde3cae0f7739edcb24c95aad
+- "9000236"
+ms.openlocfilehash: 16fed7fc9995ba9b4143495fc268d5b3a31d2a01
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33653897"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35377642"
 ---
-# <a name="add-your-gmail-account-to-outlookcom"></a><span data-ttu-id="e71d7-102">Agregar su cuenta de Gmail a Outlook.com</span><span class="sxs-lookup"><span data-stu-id="e71d7-102">Add your Gmail account to Outlook.com</span></span>
+# <a name="add-your-gmail-account-to-outlookcom"></a><span data-ttu-id="ea66d-102">Agregar su cuenta de Gmail a Outlook.com</span><span class="sxs-lookup"><span data-stu-id="ea66d-102">Add your Gmail account to Outlook.com</span></span>
 
-1. <span data-ttu-id="e71d7-103">Abra la [configuración del correo electrónico de sincronización](https://go.microsoft.com/fwlink/?linkid=875264).</span><span class="sxs-lookup"><span data-stu-id="e71d7-103">Open your [Sync Email settings](https://go.microsoft.com/fwlink/?linkid=875264).</span></span>
-2. <span data-ttu-id="e71d7-104">En **cuentas conectadas**, seleccione **gmail**.</span><span class="sxs-lookup"><span data-stu-id="e71d7-104">Under **Connected accounts**, select **Gmail**.</span></span>
-3. <span data-ttu-id="e71d7-105">Escriba un nombre para mostrar (el nombre que verán los destinatarios cuando reciban un mensaje de correo electrónico del usuario).</span><span class="sxs-lookup"><span data-stu-id="e71d7-105">Enter a display name (the name recipients will see when they receive an email message from you).</span></span>
-4. <span data-ttu-id="e71d7-106">Elija si Outlook.com debe importar el correo electrónico desde gmail y donde se almacenará el correo electrónico importado.</span><span class="sxs-lookup"><span data-stu-id="e71d7-106">Choose if Outlook.com should import your email from Gmail and where imported email will be stored.</span></span>
-5. <span data-ttu-id="e71d7-107">Seleccione **Aceptar** para ir a la página de inicio de sesión de Google.</span><span class="sxs-lookup"><span data-stu-id="e71d7-107">Select **OK** to go to the Google sign-in page.</span></span>
+1. <span data-ttu-id="ea66d-103">Abra la [configuración del correo electrónico de sincronización](https://go.microsoft.com/fwlink/?linkid=875264).</span><span class="sxs-lookup"><span data-stu-id="ea66d-103">Open your [Sync Email settings](https://go.microsoft.com/fwlink/?linkid=875264).</span></span>
+2. <span data-ttu-id="ea66d-104">En **cuentas conectadas**, seleccione **gmail**.</span><span class="sxs-lookup"><span data-stu-id="ea66d-104">Under **Connected accounts**, select **Gmail**.</span></span>
+3. <span data-ttu-id="ea66d-105">Escriba un nombre para mostrar (el nombre que verán los destinatarios cuando reciban un mensaje de correo electrónico del usuario).</span><span class="sxs-lookup"><span data-stu-id="ea66d-105">Enter a display name (the name recipients will see when they receive an email message from you).</span></span>
+4. <span data-ttu-id="ea66d-106">Elija si Outlook.com debe importar el correo electrónico desde gmail y donde se almacenará el correo electrónico importado.</span><span class="sxs-lookup"><span data-stu-id="ea66d-106">Choose if Outlook.com should import your email from Gmail and where imported email will be stored.</span></span>
+5. <span data-ttu-id="ea66d-107">Seleccione **Aceptar** para ir a la página de inicio de sesión de Google.</span><span class="sxs-lookup"><span data-stu-id="ea66d-107">Select **OK** to go to the Google sign-in page.</span></span>
 
-<span data-ttu-id="e71d7-108">La sincronización desde una cuenta conectada a su cuenta de Outlook.com es unidireccional.</span><span class="sxs-lookup"><span data-stu-id="e71d7-108">Syncing from a connected account to your Outlook.com account is one-way only.</span></span> <span data-ttu-id="e71d7-109">El correo electrónico enviado desde su cuenta de gmail mediante Outlook.com no aparecerá en elementos enviados en gmail.</span><span class="sxs-lookup"><span data-stu-id="e71d7-109">Email sent from your Gmail account using Outlook.com will not appear in Sent Items in Gmail.</span></span>
+<span data-ttu-id="ea66d-108">La sincronización desde una cuenta conectada a su cuenta de Outlook.com es unidireccional.</span><span class="sxs-lookup"><span data-stu-id="ea66d-108">Syncing from a connected account to your Outlook.com account is one-way only.</span></span> <span data-ttu-id="ea66d-109">El correo electrónico enviado desde su cuenta de gmail mediante Outlook.com no aparecerá en elementos enviados en gmail.</span><span class="sxs-lookup"><span data-stu-id="ea66d-109">Email sent from your Gmail account using Outlook.com will not appear in Sent Items in Gmail.</span></span>
 
-<span data-ttu-id="e71d7-110">Puede enviar correo electrónico en Outlook.com desde su cuenta de gmail conectada.</span><span class="sxs-lookup"><span data-stu-id="e71d7-110">You can send email in Outlook.com from your connected Gmail account.</span></span> <span data-ttu-id="e71d7-111">Al redactar un correo electrónico, seleccione **desde** y elija su dirección de Gmail o [actualice su dirección desde predeterminada](https://go.microsoft.com/fwlink/?linkid=875264).</span><span class="sxs-lookup"><span data-stu-id="e71d7-111">When composing an email, select **From** and choose your Gmail address, or [update your default From address](https://go.microsoft.com/fwlink/?linkid=875264).</span></span>
+<span data-ttu-id="ea66d-110">Puede enviar correo electrónico en Outlook.com desde su cuenta de gmail conectada.</span><span class="sxs-lookup"><span data-stu-id="ea66d-110">You can send email in Outlook.com from your connected Gmail account.</span></span> <span data-ttu-id="ea66d-111">Al redactar un correo electrónico, seleccione **desde** y elija su dirección de Gmail o [actualice su dirección desde predeterminada](https://go.microsoft.com/fwlink/?linkid=875264).</span><span class="sxs-lookup"><span data-stu-id="ea66d-111">When composing an email, select **From** and choose your Gmail address, or [update your default From address](https://go.microsoft.com/fwlink/?linkid=875264).</span></span>
 
-<span data-ttu-id="e71d7-112">Para obtener más información, vea [Agregar sus otras cuentas de correo electrónico a Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba).</span><span class="sxs-lookup"><span data-stu-id="e71d7-112">For more information, see [Add your other email accounts to Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba).</span></span>
+<span data-ttu-id="ea66d-112">Para obtener más información, vea [Agregar sus otras cuentas de correo electrónico a Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba).</span><span class="sxs-lookup"><span data-stu-id="ea66d-112">For more information, see [Add your other email accounts to Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba).</span></span>
