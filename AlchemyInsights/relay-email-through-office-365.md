@@ -9,19 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "154"
+- "3000003"
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: db8523c19ed7f4ebdb475c1425fae4f6ea0b8219
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: b34e1b3d5e45fcebb8c2e3b8b8e37cf4a5a0ec8b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388884"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370440"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>Configurar una aplicación o dispositivo multifunción para enviar correos electrónicos mediante Office 365
 
 Para obtener más información sobre las opciones disponibles y los pasos, vea [Cómo configurar un dispositivo o aplicación multifunción para enviar correo mediante Office 365](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4).
   
-**Nota:** si tiene un dispositivo o aplicación que ha dejado de funcionar recientemente, tenga en cuenta que hemos comenzado a [deshabilitar el cifrado 3DES](https://docs.microsoft.com/office365/securitycompliance/technical-reference-details-about-encryption) según lo previsto.  **Windows Server 2003 IIS SMTP dejará de funcionar, se necesita una versión más reciente de Windows.** 
+**Nota:** si tiene un dispositivo o aplicación que ha dejado de funcionar recientemente, tenga en cuenta que hemos comenzado a [deshabilitar el cifrado 3DES](https://docs.microsoft.com/office365/securitycompliance/technical-reference-details-about-encryption) según lo previsto.  **Windows Server 2003 IIS SMTP dejará de funcionar, se necesita una versión más reciente de Windows.**
 
 Los errores comunes podrían ser similares a: error de autenticación, error de TLS, error del algoritmo de cifrado, error de coincidencia del algoritmo o conexión perdida.  Póngase en contacto con el proveedor de su aplicación o dispositivo para ver si admite un cifrado moderno o si hay una actualización.
