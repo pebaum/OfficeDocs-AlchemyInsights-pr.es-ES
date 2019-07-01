@@ -7,18 +7,20 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Once
+ms.custom:
+- "1195"
+- "1200004"
 ms.assetid: b8308c24-029f-43ab-af84-0ac97e6ff9d7
-ms.openlocfilehash: 0d685fa21f6d82e7a08f32bf0a8c1f6911e7782c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: 2d78103fcf05d23e3ba966b74bbedc411264eac3
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491657"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35388838"
 ---
-# <a name="email-forwarding-report"></a><span data-ttu-id="4cfb8-102">Informe de reenvío de correo electrónico</span><span class="sxs-lookup"><span data-stu-id="4cfb8-102">Email forwarding report</span></span>
+# <a name="email-forwarding-report"></a><span data-ttu-id="05f98-102">Informe de reenvío de correo electrónico</span><span class="sxs-lookup"><span data-stu-id="05f98-102">Email forwarding report</span></span>
 
-<span data-ttu-id="4cfb8-103">Para ver un informe en el número de mensajes reenviados automático hay en la organización, comprobar [entendimiento del flujo de correo](https://support.office.com/article/beb6acaa-6016-4d54-ba7e-3d6d035e2b46) el [Office 365 seguridad &amp; centro de cumplimiento](https://protection.office.com/#/homepage).</span><span class="sxs-lookup"><span data-stu-id="4cfb8-103">To see a report on how many auto-forwarded messages there are in your organization, check [Mail flow insights](https://support.office.com/article/beb6acaa-6016-4d54-ba7e-3d6d035e2b46) in the [Office 365 Security &amp; Compliance Center](https://protection.office.com/#/homepage).</span></span>
+<span data-ttu-id="05f98-103">Para ver un informe sobre el número de mensajes reenviados automáticamente que hay en la organización, consulte [Información de flujo de correo](https://support.office.com/article/beb6acaa-6016-4d54-ba7e-3d6d035e2b46) en el [Centro de seguridad y cumplimiento de Office 365](https://protection.office.com/#/homepage).</span><span class="sxs-lookup"><span data-stu-id="05f98-103">To see a report on how many auto-forwarded messages there are in your organization, check [Mail flow insights](https://support.office.com/article/beb6acaa-6016-4d54-ba7e-3d6d035e2b46) in the [Office 365 Security &amp; Compliance Center](https://protection.office.com/#/homepage).</span></span>
   
-<span data-ttu-id="4cfb8-104">Tenga en cuenta: si esta es la primera vez que inició sesión en la seguridad &amp; centro de cumplimiento, es posible que necesite actualizar el explorador después de unos minutos para ver todas las opciones disponibles.</span><span class="sxs-lookup"><span data-stu-id="4cfb8-104">Please note: if this is the first time you are logging into the Security &amp; Compliance Center, you might need to refresh the browser after a few minutes to see all of the available options.</span></span>
+<span data-ttu-id="05f98-104">Nota: si esta es la primera vez que inicia sesión en el Centro de seguridad y cumplimiento, es posible que tenga que actualizar el explorador después de unos minutos para ver todas las opciones disponibles.</span><span class="sxs-lookup"><span data-stu-id="05f98-104">Please note: if this is the first time you are logging into the Security &amp; Compliance Center, you might need to refresh the browser after a few minutes to see all of the available options.</span></span>
   
-
