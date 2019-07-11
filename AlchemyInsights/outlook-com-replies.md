@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1825"
 - "9000240"
-ms.openlocfilehash: b485432de902929685fec85a64951599bbbeff20
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 77ae61c4c92497fe35cea8f0be18f90385d38df5
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35372566"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614007"
 ---
 # <a name="replying-in-outlookcom"></a>Responder en Outlook.com
 
@@ -39,4 +39,4 @@ Para responder automáticamente a todos los mensajes:
 5. Para enviar respuestas sólo a los contactos, active la casilla de verificación **enviar respuestas a contactos solamente** .
 6. Haga clic en **Guardar**.
 
-Obtenga más información sobre el [reenvío automático en Outlook.com](https://support.office.com/article/14614626-9855-48dc-a986-dec81d07b1a0).
+Obtenga más información sobre el [reenvío automático en Outlook.com](https://support.office.com/article/14614626-9855-48dc-a986-dec81d07b1a0?wt.mc_id=Office_Outlook_com_Alchemy).

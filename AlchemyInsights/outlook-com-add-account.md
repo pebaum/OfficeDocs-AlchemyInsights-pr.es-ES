@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: e9cd0cffaae247ee2442713434c9d8bb256dba19
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7620537310b48b34124d815d112c9544d91f5283
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377786"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614151"
 ---
 # <a name="add-your-other-email-accounts-to-outlookcom"></a>Agregue sus otras cuentas de correo electrónico a Outlook.com
 
@@ -32,6 +32,6 @@ Para agregar una cuenta conectada:
 
 Puede enviar correo electrónico desde cualquier cuenta que haya conectado a su cuenta de Outlook.com. Al redactar un correo electrónico, seleccione **desde** y elija la dirección de correo electrónico que desea usar, o bien [actualice la dirección desde predeterminada](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Para obtener más información, lea [Agregar sus otras cuentas de correo electrónico a Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba).
+Para obtener más información, lea [Agregar sus otras cuentas de correo electrónico a Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Si desea crear una nueva dirección de correo electrónico que use la misma cuenta de Outlook.com, lea [Agregar o quitar un alias de correo electrónico](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2).
+Si desea crear una nueva dirección de correo electrónico que use la misma cuenta de Outlook.com, lea [Agregar o quitar un alias de correo electrónico](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
