@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: c1338e5de55edc1f656a643718ccf8de87d4abf1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4b007c66a20bd923f41f9767aead82f613097358
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35361006"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701340"
 ---
 # <a name="see-your-own-email-address"></a>Ver su propia dirección de correo electrónico
 
@@ -28,4 +28,4 @@ Si ha conectado otra cuenta de correo electrónico a su cuenta de Outlook.com, p
 1. Seleccione los puntos suspensivos en la parte inferior de la ventana de redacción y seleccione **Mostrar desde** para ver la línea de.
 2. Encima de la línea para, seleccione desde y elija la dirección **de** correo electrónico que desea usar.
 
-Obtenga más información sobre [el envío de correo electrónico desde una dirección distinta en Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e).
+Obtenga más información sobre [el envío de correo electrónico desde una dirección distinta en Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
