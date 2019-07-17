@@ -13,17 +13,17 @@ ms.custom:
 - "1140"
 - "8000066"
 - "8000067"
-ms.openlocfilehash: 70bffbce3214158ac258622e10e0d68bd60532ac
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7ac69d507331dbd8cdbb44ccb054a27da8629911
+ms.sourcegitcommit: a413a0e27ef4ab8c484fa9fccff8bbef381c8b96
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35374726"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35746354"
 ---
 # <a name="han-pirateado-mi-cuenta-de-outlookcom"></a>Han pirateado mi cuenta de Outlook.com
 
 Si su cuenta se ha pirateado significa que alguien robó la contraseña y es posible que esté el usando la cuenta para obtener de la información personal o enviar correo no deseado.
 
-[Siga las instrucciones para recuperar su cuenta.](https://support.office.com/es-es/article/han-pirateado-mi-cuenta-de-outlook-com-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=es-ES&rs=es-ES&ad=ES)
+[Siga las instrucciones para recuperar su cuenta.](https://support.office.com/es-es/article/han-pirateado-mi-cuenta-de-outlook-com-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)
 
 Para restablecer la cuenta mediante el teléfono u otro equipo, vaya un [account.Microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=836814).
