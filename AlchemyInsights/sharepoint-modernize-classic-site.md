@@ -7,19 +7,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: c1d8635346cbc260d5191878879f1120e6a3a602
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: cb2afc4cacf4c45b7643ebce7b6e8ca6f92c9e03
+ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760217"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35803091"
 ---
-# <a name="modernize-classic-sharepoint-site"></a>Modernización clásica del sitio de SharePoint
+# <a name="modernize-your-classic-sharepoint-site"></a>Modernizar el sitio clásico de SharePoint
 
-Para obtener una introducción paso a paso sobre la modernización de los sitios de SharePoint clásicos a la experiencia moderna, vea [modernizar los sitios de SharePoint clásicos](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+Consulte lo siguiente para obtener más información sobre cómo usar la nueva experiencia moderna:
 
-Para maximizar el uso de la interfaz de usuario moderna de sus páginas del sitio y páginas de listas y bibliotecas, consulte el artículo [Modernizar la interfaz de usuario](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface). 
+- Para obtener una introducción paso a paso sobre la modernización de los sitios de SharePoint clásicos a la experiencia moderna, vea [modernizar los sitios de SharePoint clásicos](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
 
-Para obtener más información sobre cómo desbloquear las listas y bibliotecas al usar la interfaz de usuario moderna, consulte [Maximize use of Modern lists and Libraries](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries) .
+- Para maximizar el uso de la interfaz de usuario moderna de sus páginas del sitio y páginas de listas y bibliotecas, consulte el artículo [Modernizar la interfaz de usuario](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface). 
 
-Para obtener más información sobre cómo conectarse a un grupo de Office 365 y realizar una conexión de grupo, consulte el artículo [Conectarse a un grupo de Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+- Para obtener más información sobre cómo desbloquear las listas y bibliotecas al usar la interfaz de usuario moderna, consulte [Maximize use of Modern lists and Libraries](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries) .
+
+- Para obtener más información sobre cómo conectarse a un grupo de Office 365 y realizar una conexión de grupo, consulte el artículo [Conectarse a un grupo de Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
