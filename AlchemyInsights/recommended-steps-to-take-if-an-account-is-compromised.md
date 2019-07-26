@@ -10,13 +10,12 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.assetid: 32da2272-cfdd-4d47-91da-9258167b67d8
-ms.openlocfilehash: 0f5c0ef451c6f1ba6862f5bcec45c4bada374b60
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 71ccb6c4bd3c9f3d229a391f820df72e2d01ee37
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356542"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35904207"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Pasos recomendados a seguir si una cuenta está en peligro
 

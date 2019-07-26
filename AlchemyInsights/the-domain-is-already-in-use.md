@@ -11,12 +11,12 @@ ms.assetid: 3b01008b-f57d-4a82-837c-d22a0ac6a294
 ms.custom:
 - "29"
 - "10"
-ms.openlocfilehash: 4ce27634dae0af5bbf8b6cbabb0f00756afa3e48
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 0d761e2ad9796a3bafe5153d4433926882cc241d
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35367378"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35904063"
 ---
 # <a name="the-domain-is-already-in-use"></a>El dominio ya está en uso
 

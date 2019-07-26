@@ -11,13 +11,12 @@ localization_priority: Priority
 ms.custom:
 - "595"
 - "3100017"
-ms.assetid: 75d912b3-f154-4219-9b8c-4e1d41aaa442
-ms.openlocfilehash: d96e5c86132c18b6daa669462e512b48b6cce651
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ac7009d81661c9ea061b3b23b1a5f6bde52b72e9
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360610"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35903018"
 ---
 # <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>¿Recibes demasiado correo no deseado o de suplantación de identidad en tu buzón?
 

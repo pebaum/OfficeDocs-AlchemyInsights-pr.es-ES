@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5"
 - "14"
-ms.assetid: d011531a-0951-49c0-af30-40d2e765f381
-ms.openlocfilehash: 148fbee1c14a8da6ede5ec5ccae90b1a4340ce32
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f4b5001f2a6291a422b5cd0c3c40de7be0f1ecf0
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35363094"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35902946"
 ---
 # <a name="update-your-domain-nameservers-to-office-365"></a>Actualizar los servidores DNS de dominio a Office 365
 
