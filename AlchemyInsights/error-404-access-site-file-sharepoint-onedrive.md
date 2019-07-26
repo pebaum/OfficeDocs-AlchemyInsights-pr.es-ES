@@ -7,13 +7,12 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: f829b4d4b45fdfac9fc2755cc5b24b5d519051ba
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: 1610ba60ad7c632cb3b2afab79d58aff4e171c93
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840496"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35902910"
 ---
 # <a name="error-404-file-not-found"></a>Error 404: no se encontró el archivo
 
@@ -24,9 +23,3 @@ La siguiente información puede ayudarle a resolver este problema:
 - [Ver y restaurar sitios eliminados en el nuevo centro de administración de SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): en el caso de los sitios modernos (comunicación, conexión de grupo y otros sitios) que existen en la nueva vista previa del centro de administración.
 - [Restaurar elementos en la papelera de reciclaje de un sitio de SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): para resolver el archivo (u otro elemento) que se ha cambiado de nombre, se ha movido o eliminado, vaya al sitio de SharePoint o OneDrive y vea la papelera de reciclaje en el contenido del sitio.
 - [Busque en el registro de auditoría del centro de &amp; seguridad y cumplimiento de Office 365](https://support.office.com/client/search-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c): Busque en el registro de auditoría (si está habilitado el registro) si sigue sin encontrar el elemento.
-
-
-
-
-    
-

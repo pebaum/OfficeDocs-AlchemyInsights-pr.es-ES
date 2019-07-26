@@ -10,13 +10,12 @@ localization_priority: Normal
 ms.custom:
 - "1012"
 - "5300012"
-ms.assetid: 50249bb9-3c28-408f-946b-2caab6b1b9f4
-ms.openlocfilehash: 4915604747f504ddc321f6f845940218743c6c4f
-ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
+ms.openlocfilehash: 651df67ea7eec0526cf6c1cc61232c3d31125596
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35802803"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35903054"
 ---
 # <a name="associate-a-hub-site"></a>Asociar un sitio concentrador
 
