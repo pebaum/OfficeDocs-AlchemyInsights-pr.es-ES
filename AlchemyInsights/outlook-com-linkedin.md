@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1276"
 - "8000079"
-ms.openlocfilehash: 64e2349a329bee570685034ca4bab9988c71182f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: cc177c7616da1a784bd72bf9648beb4f84f6139b
+ms.sourcegitcommit: 7c0575fd30f0f4448e530e1ec40eabb362cb4670
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35374114"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35595235"
 ---
 # <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problemas con la notificación de correo no deseado desde LinkedIn
 
@@ -25,4 +25,4 @@ Somos conscientes de que algunos usuarios reciben correo electrónico no deseado
 
 Se recomienda usar una regla de bandeja de entrada para filtrar estos correos electrónicos.
 
-Para obtener más información, consulte Cómo [usar las reglas de la bandeja de entrada en Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d).
+Para obtener más información, consulte Cómo [usar las reglas de la bandeja de entrada en Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).
