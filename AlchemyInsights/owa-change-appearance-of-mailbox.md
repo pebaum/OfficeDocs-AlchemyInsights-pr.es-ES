@@ -9,18 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 8cce6e27c2120389ca4b3778139528afa6f341e4
-ms.sourcegitcommit: ad4257df7113531cea883b477d505918da99b325
+ms.openlocfilehash: d9e30e18f9821f689878867b1619d01767c34274
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "34934273"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36171375"
 ---
 # <a name="change-the-look-of-your-mailbox"></a>Cambiar la apariencia de su buzón de correo
 
 Puede cambiar la apariencia de la lista de mensajes y el panel de lectura para que tenga el aspecto y el comportamiento que desee. Elija si desea que los mensajes se muestren de forma individual o como conversaciones, si los mensajes nuevos deben aparecer en la parte superior o inferior de la lista de mensajes, y más.
 
-1. Seleccione el icono de engranaje en la parte superior de la página para abrir el panel de configuración.
+1. Seleccionar el icono de engranaje <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ en la parte superior de la página para abrir el panel de configuración.
 1. Elija la configuración de la bandeja de entrada prioritarios, la densidad de la pantalla, la vista de conversación y el panel de lectura.
 1. En la parte superior de la lista de mensajes, seleccione **filtrar** > **ordenar por** para elegir cómo desea ordenar el correo electrónico.
 

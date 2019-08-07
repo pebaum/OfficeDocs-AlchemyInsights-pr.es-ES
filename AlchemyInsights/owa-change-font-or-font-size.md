@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000013"
 - "1999"
-ms.openlocfilehash: e79e58a53144094113d161d63c0b3f98a59cceeb
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.openlocfilehash: 907cb0a0fcc111f993dbc0d580ff397340eab8ab
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643640"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36171186"
 ---
 # <a name="change-font-or-font-size"></a>Cambiar la fuente o el tamaño de fuente
 
@@ -25,10 +25,11 @@ Al leer el correo electrónico, puede usar la función de zoom del explorador pa
   
 Para cambiar la fuente o el tamaño de fuente al redactar un mensaje:
   
-1. En la parte inferior del panel de redacción, seleccione los iconos **fuente** o **tamaño de fuente** .
+1. En la parte inferior del panel de redacción, selecciona <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAYAAACQjC21AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gQYEyoUnKTM5QAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABiElEQVQ4ja2UoY7CQBCGPy4IRDFVSOoQFbwAqgaBbRPeAJ6AOgSqj0GQayqaJiQIEhQOA1nXuqJQKypI9lQbSukdF+5Xm5mdL//s7G5La635R309B1arFYvF4v+ASikAhBCfAwtIp9NBSvk5UEqJYRjYtl06/QiolGIwGOA4TsXxo3zfJ47j34FFseM4mKaJYRi1tuM4RmvN8XhsBLaLhZSSdrvN+XwGoNvtkmVZZXMByvOcNE3p9/vNDpVS3O93oigiiqISVjhP05Q8z7EsC4AwDJsdFkWTyaSS3O12ZdthGGKaJp7nEQRBzX0FWEx3NBpVktfrtVxnWcZ8Psc0TSzLIkkShBC4rltvuZjus1zXxXVdhBAYhlGemed5AJxOp1pN65237Ps+Tdum0ynD4bDa8k86HA5orcthPCpJErbb7d+A+/0ey7KYzWa13HK55Ha7VWK1z+FRaZqilGI8Hr/M27YNwHq9fg+42WwAXl5ggF6vB8DlciljjUN59ScGQfBr/q0p/0Xfs0y4AjOuEswAAAAASUVORK5CYII=' />
+ **Fuente** o <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4QoUABonkSD1XgAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABL0lEQVQ4jaWSsU7DMBCGv1YVUrsms9e0azKBmh3E0ofIAA/RpW+AGHiCPEAkGDogIbllSzsmXT03a4yQqBmQI6ymKBX/5Dudv7vfvp4xxvAPDboWXt2/OPHFoM/b4w39roD3p1snfn24/jmYM3Q4GHN592w+Pr+aXO/UG8znc6qqIgxDkiQ5OVmrhc1mQ1VVABRFQV3X5wMAhBBorZFSdgfUdU1RFHiex2w2A2C73XYHSCnRWhNFEePxGM/zUEqhlOoGsN3CMARgOp06tv4ElGWJUgohBEIIAKIoAiDP81aA841pmrJer1sLAZIkaSazclbZjrlYLPB9v8kvl0uyLENKeQRoLKxWK7TWBEHgXAaI45jhcMhut2O/37cDrEfr+bdGoxGTycSpszq5yl31DXVws+8Srp81AAAAAElFTkSuQmCC' /> **Tamaño de fuente**.
     
 2. Elija la fuente o el tamaño de fuente que desea usar.
     
-Si no ve el menú opciones de formato en la parte inferior del panel de redacción, seleccione el icono **Opciones de formato** .
+Si no ves el menú opciones de formato en la parte inferior del panel de redacción, selecciona <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAARCAYAAAAG/yacAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFgkLmMb9xQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABOklEQVQokZWTIa7CQBCGPwjJgoG0YkXTVV1HHSHBIHqCXgLDiSoRnIArYBC9QoNZQBRBitlUvWfoPkih5P1uk/l2vsxkevf7/YdHyrJku92yWq2YTCZ8Sv/5URQFAIfD4SPQgowxTKdTB3+FyrLker2SJAlCCKqq+g4VRYFSCiEEWutORQc1agBKqU7FQaN2Op0YDoeuuK5rqqp6O8V+oxaGIUoppJRIKQnD0Claa9nv9+R5/tfJGMNsNkNr7X4bj8cYY7DWkmUZnudxPB7xfZ9+XddIKVFKvShorVksFmRZRhRFpGlKEAScz2cGQgiSJGl5Nx2iKGK5XLLb7bDWMp/PX5fbBdxuN9brNaPRqA19A9z0/gO0oDzP8TyvEwDoPZ/GZrPhcrm4oncAPPb0nCAIiOOYOI7fAgC/6HCjfMhhDgMAAAAASUVORK5CYII=' /> **Opciones de formato**.
   
 Para obtener más información, vea [cambiar el tamaño de fuente en Outlook en la web](https://support.office.com/article/43a2137f-8c3c-46df-af4a-73a12c9bb86e).

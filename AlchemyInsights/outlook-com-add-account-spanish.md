@@ -12,10 +12,10 @@ ms.custom:
 - "1141"
 - "8000068"
 ms.openlocfilehash: 405e741cf244032f8eb8be1e7202f8f076f4d702
-ms.sourcegitcommit: a413a0e27ef4ab8c484fa9fccff8bbef381c8b96
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/16/2019
+ms.lasthandoff: 08/06/2019
 ms.locfileid: "35746210"
 ---
 # <a name="agregar-sus-otras-cuentas-de-correo-electrnico"></a>Agregar sus otras cuentas de correo electrónico

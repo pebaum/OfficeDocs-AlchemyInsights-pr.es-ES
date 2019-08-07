@@ -16,10 +16,10 @@ ms.custom:
 - "1148"
 - "8000071"
 ms.openlocfilehash: fb1f39e29da3cbc3844890bebda2904198caa0da
-ms.sourcegitcommit: a413a0e27ef4ab8c484fa9fccff8bbef381c8b96
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/16/2019
+ms.lasthandoff: 08/06/2019
 ms.locfileid: "35745778"
 ---
 # <a name="rsoudre-les-problmes-de-synchronisation-des-messages"></a>Résoudre problèmes de sincronización des mensajes
