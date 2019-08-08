@@ -1,18 +1,19 @@
 ---
-title: Habilitar el uso compartido externo
-ms.author: kirks
-author: Techwriter40
+title: Habilitar el uso compartido externo en SharePoint Online
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: a541c6829d688f06fa4bc207b517cff68170e1da
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: b7ee6ead18e1fe17c1df7d05bc6480481b328546
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223837"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232495"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Habilitar el uso compartido externo en SharePoint Online
 

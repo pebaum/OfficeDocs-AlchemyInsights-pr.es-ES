@@ -1,27 +1,37 @@
 ---
 title: Información de retención y eliminación de OneDrive
-ms.author: kirks
-author: Techwriter40
-ms.date: 6/20/2019
+ms.author: efrene
+author: efrene
+ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: ''
-ms.openlocfilehash: a98e7740fb6c921252da6f36bc9e20d7a2be0099
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.custom:
+- "2440"
+- "9000596"
+ms.openlocfilehash: 5e67d280b26512613dbe9ecc0cf8f18134f92686
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35119705"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232634"
 ---
 # <a name="onedrive-retention-and-deletion"></a>Retención y eliminación de OneDrive
 
-En [este artículo](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) se describe lo que ocurre con el OneDrive de un usuario cuando se elimina la cuenta de Office 365 del usuario para la organización.
+- Puede [restaurar el OneDrive de los usuarios eliminados](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) . Están en la papelera de reciclaje durante 93 días. 
 
-Para obtener más información acerca de la retención y eliminación de OneDrive, consulte:
+- Consulte [este artículo](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) para obtener información:
+    - Cómo conceder a otro usuario acceso al OneDrive de un usuario eliminado.
+    - Qué sucede con el OneDrive de un usuario cuando se elimina la cuenta de Office 365 del usuario para la organización.
+    - Cómo configurar la delegación de acceso automático.
+    - Funcionamiento del proceso de eliminación de OneDrive.
 
-- [Proporcionar a otro usuario acceso al OneDrive de un usuario eliminado](https://docs.microsoft.com/onedrive/retention-and-deletion#give-another-user-access-to-a-deleted-users-onedrive)
-- [Configurar la delegación de acceso automático](https://docs.microsoft.com/onedrive/retention-and-deletion#configure-automatic-access-delegation)
-- [Descripción del proceso de eliminación de OneDrive](https://docs.microsoft.com/onedrive/retention-and-deletion#the-onedrive-deletion-process)
-- [Restaurar un OneDrive eliminado](https://docs.microsoft.com/onedrive/retention-and-deletion#configure-automatic-access-delegation)
+- ¿Está interesado en retención y retención del centro de seguridad y cumplimiento?:
+    - [Directivas de retención para sitios de SharePoint y OneDrive](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [conservación de exhibición de documentos electrónicos para sitios de SharePoint y OneDrive](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+
+
+

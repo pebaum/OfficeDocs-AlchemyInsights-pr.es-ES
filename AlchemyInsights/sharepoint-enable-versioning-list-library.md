@@ -1,20 +1,24 @@
 ---
-title: Habilitar el control de versiones en una lista o biblioteca
-ms.author: kirks
-author: Techwriter40
+title: Control de versiones en SharePoint y OneDrive
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
-ms.openlocfilehash: d75ce74f32e4d51fa18e49a853c7a6a3da641240
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.custom:
+- "5300025"
+- "1702"
+ms.openlocfilehash: 4dc15d360d196f24323c5fd1a557647a8936959f
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223621"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232675"
 ---
-# <a name="enable-versioning-for-a-sharepoint-list-or-library"></a>Habilitar el control de versiones para una lista o biblioteca de SharePoint
+# <a name="versioning-in-sharepoint-and-onedrive"></a>Control de versiones en SharePoint y OneDrive 
 
 
 Cuando el control de versiones está habilitado en su lista o biblioteca de SharePoint, puede realizar un seguimiento, almacenar y restaurar los elementos de una lista y los archivos de una biblioteca cada vez que se produzcan cambios. El control de versiones, combinado con otras opciones, como la desprotección, proporciona una gran cantidad de control del contenido que se publica en el sitio y puede proporcionar un valor real si alguna vez tiene que mirar o restaurar una versión anterior de un elemento o archivo.

@@ -1,21 +1,24 @@
 ---
 title: Restaurar un archivo o carpeta eliminados
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
+ms.date: 8/6/2019
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: 52b93516e47fcc6b221e2cc24993d0cd81413b55
-ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
+ms.custom:
+- "1782"
+- "9000210"
+ms.openlocfilehash: 413797fa30a03e31e20a7074f93b481301225af8
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "35199326"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232459"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>Restaurar elementos eliminados de SharePoint
 
@@ -27,7 +30,9 @@ Cuando se elimina un elemento o sitio de SharePoint, no se elimina inmediatament
 
 [Eliminar elementos o vaciar la papelera de reciclaje](https://support.office.com/article/delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site-2e713599-d13e-40d6-96dc-66f0a366f74e#ID0EAADAAA=Online)
 
-[Restaurar una colección de sitios eliminados (incluido el grupo, la comunicación y otros sitios)](https://docs.microsoft.com/onedrive/restore-deleted-onedrive).
+[Restaurar una colección de sitios eliminados (incluido el grupo, la comunicación y otros sitios)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection ).
+
+[Restaurar un OneDrive eliminado](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
 [PNP de SharePoint Online](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
 
