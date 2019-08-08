@@ -1,31 +1,34 @@
 ---
-title: Problemas de permisos durante la migración
-ms.author: kirks
-author: Techwriter40
+title: Problemas al migrar datos a SharePoint Online
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
-ms.openlocfilehash: c2502825962cc20ce92d6433c6e8bebbb978d3b0
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.collection: Adm_O365
+ms.custom:
+- "5300030"
+- "1885"
+ms.openlocfilehash: a404bb33e3862a94920bca609b23e8b1278d3022
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34735474"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232571"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a><span data-ttu-id="190f5-102">Problemas al migrar datos a SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="190f5-102">Issues while migrating data to SharePoint Online</span></span>
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a><span data-ttu-id="b0172-102">Problemas al migrar datos a SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="b0172-102">Issues while migrating data to SharePoint Online</span></span>
 
-<span data-ttu-id="190f5-103">Parece que está migrando a través de 100 TB de datos a SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="190f5-103">It appears you are migrating over 100TB of data to SharePoint Online.</span></span>
+<span data-ttu-id="b0172-103">Parece que está migrando a través de 100 TB de datos a SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="b0172-103">It appears you are migrating over 100TB of data to SharePoint Online.</span></span> <span data-ttu-id="b0172-104">Siga los pasos que se indican a continuación para que podamos ayudarle tan pronto como sea posible.</span><span class="sxs-lookup"><span data-stu-id="b0172-104">Please follow the steps below so we may assist you as soon as possible.</span></span> 
 
-<span data-ttu-id="190f5-104">Haga clic en **nueva solicitud de servicio** por teléfono o correo electrónico a continuación y deje la consulta como migración de SharePoint sobre 100 TB en el cuadro de texto.</span><span class="sxs-lookup"><span data-stu-id="190f5-104">Please click **New Service Request** by phone/email below and leave the query as SharePoint migration over 100TB in the text box.</span></span>
+1. <span data-ttu-id="b0172-105">Seleccione **nueva solicitud de servicio**y, a continuación, **nueva solicitud de servicio**.</span><span class="sxs-lookup"><span data-stu-id="b0172-105">Select **New Service Request**, and then **New Service Request**.</span></span> 
+2. <span data-ttu-id="b0172-106">Deje el título y la descripción como **migración de SharePoint a través de 100 TB**.</span><span class="sxs-lookup"><span data-stu-id="b0172-106">Leave the title and description as **SharePoint migration over 100TB**.</span></span>
+3. <span data-ttu-id="b0172-107">Una vez enviado el vale, actualícelo con la siguiente información:</span><span class="sxs-lookup"><span data-stu-id="b0172-107">Once the ticket has been submitted, please update it with the following information:</span></span> 
 
-<span data-ttu-id="190f5-105">Una vez enviado el vale, actualícelo con la siguiente información:</span><span class="sxs-lookup"><span data-stu-id="190f5-105">Once the ticket has been submitted, please update it with the following information:</span></span> 
-
-- <span data-ttu-id="190f5-106">El nombre de la empresa y la dirección URL del inquilino</span><span class="sxs-lookup"><span data-stu-id="190f5-106">Your company name and Tenant URL</span></span>
-- <span data-ttu-id="190f5-107">El tamaño estimado de la migración</span><span class="sxs-lookup"><span data-stu-id="190f5-107">Estimated size of your migration</span></span>
-- <span data-ttu-id="190f5-108">Una estimación de cuándo desea iniciar y completar la migración</span><span class="sxs-lookup"><span data-stu-id="190f5-108">An estimate of when you would like to start and complete your migration</span></span>
-- <span data-ttu-id="190f5-109">Describa desde dónde va a migrar el contenido, como SharePoint Server, Box, GDrive, recursos compartidos de archivos, etc.</span><span class="sxs-lookup"><span data-stu-id="190f5-109">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc.</span></span>
+    - <span data-ttu-id="b0172-108">Tamaño estimado de la migración.</span><span class="sxs-lookup"><span data-stu-id="b0172-108">Estimated size of your migration.</span></span>
+    - <span data-ttu-id="b0172-109">Una estimación de Cuándo desearía iniciar y completar la migración.</span><span class="sxs-lookup"><span data-stu-id="b0172-109">An estimate of when you would like to start and complete your migration.</span></span>
+    - <span data-ttu-id="b0172-110">Describir el lugar desde el que se va a migrar el contenido de, como SharePoint Server, cuadro, GDrive, recursos compartidos de archivos, etc.</span><span class="sxs-lookup"><span data-stu-id="b0172-110">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc..</span></span>
 
 
   
