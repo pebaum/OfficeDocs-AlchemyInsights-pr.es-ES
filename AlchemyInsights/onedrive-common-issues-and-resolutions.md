@@ -3,7 +3,7 @@ title: Problemas y soluciones comunes de OneDrive
 ms.author: efrene
 author: efrene
 manager: pamgreen
-ms.date: 7/22/2019
+ms.date: 8/7/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Admin_O365
 ms.custom:
 - "9000293"
 - "1901"
-ms.openlocfilehash: d278bb807c2b77747ce97d1160c07f265cd6b9f2
-ms.sourcegitcommit: 5a56fcd9fb0a6d8fbcdcad4960ff340959d1d2a0
+ms.openlocfilehash: 8d891f9c875429aabff6ec7991c96dc4736587a7
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "35814854"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270584"
 ---
 # <a name="onedrive-common-issues-and-resolutions"></a>Problemas y soluciones comunes de OneDrive
 

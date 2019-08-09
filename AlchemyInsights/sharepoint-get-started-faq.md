@@ -1,8 +1,9 @@
 ---
-title: Introducción a SharePoint Online
-ms.author: kirks
-author: Techwriter40
+title: Problemas y soluciones comunes de SharePoint Online
+ms.author: efrene
+author: efrene
 manager: pamgreen
+ms.date: 8/07/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: bdbd9a683342ae3b20033c8f4db170ad1f4c83a4
-ms.sourcegitcommit: 5a56fcd9fb0a6d8fbcdcad4960ff340959d1d2a0
+ms.openlocfilehash: a23d32e372010da1113669ba9edc52f22bfa60f8
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "35814652"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270163"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>Problemas y soluciones comunes de SharePoint Online
 

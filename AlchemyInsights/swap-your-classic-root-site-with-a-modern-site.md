@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: ''
 ms.custom:
-- "2579"
 - "9000687"
-ms.openlocfilehash: dad7d7a52222dc09aea532714a93ca89c0d9ae19
-ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
+- "2579"
+ms.openlocfilehash: 0f6f962314d9099bd21c281a23ad2e95742da4a8
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36246083"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270761"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Cambiar el sitio raíz clásico por un sitio moderno
 

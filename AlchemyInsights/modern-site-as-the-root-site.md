@@ -4,18 +4,19 @@ ms.author: efrene
 author: efrene
 ms.audience: ITPro
 ms.topic: article
+ms.date: 8/7/2019
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "1874"
 - "9000265"
-ms.openlocfilehash: b30fc3258bb76c0ab4bf10af0ec9317417f7c663
-ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
+- "1874"
+ms.openlocfilehash: 260048db6c439183da8e0bb0c2dfa3c7475fca79
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36232732"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36269393"
 ---
 # <a name="modern-site-as-root-site"></a>Sitio moderno como sitio raíz
 

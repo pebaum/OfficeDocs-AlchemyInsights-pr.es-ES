@@ -1,9 +1,9 @@
 ---
 title: Solucionar los problemas de "Abrir con el explorador" en SharePoint Online
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 manager: pamgreen
-ms.date: 5/17/2018
+ms.date: 8/7/19
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 13149d288336b487441c66521b32406e408911fd
-ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
+ms.openlocfilehash: afee367e250357b20b77f0ea5dfe66d68967eb2a
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803055"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270725"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Solucionar los problemas de "Abrir con el explorador" en SharePoint Online
 
@@ -31,9 +31,9 @@ Si eligió usar la vista del explorador en lugar de usar el nuevo Cliente de sin
 
 > [!Note]  
 > El botón **Abrir con el Explorador** no aparece en la nueva experiencia de la biblioteca. Seleccione la lista desplegable de **Vista** en la parte superior derecha (el nombre de la lista desplegable cambia en función de la vista actual) y luego, seleccione **Ver en el Explorador de archivos**.
-
+>
  >Abrir con el Explorador de SharePoint usa controles ActiveX, por lo que solo se admite en Internet Explorer 10 u 11. Abrir con el explorador no funciona en Windows con Microsoft Edge, Google Chrome, Mozilla Firefox o en la plataforma Mac. Por este motivo, es posible que la opción vista del explorador aparezca atenuada.
-
+>
 > - [Por qué los botones de la cinta de opciones de SharePoint no están disponibles o aparecen atenuados.](https://support.office.com/article/Why-SharePoint-ribbon-buttons-are-unavailable-48b0939a-2efb-4e79-b5e8-b2c4cb5d04ca)
   
 

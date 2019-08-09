@@ -1,7 +1,7 @@
 ---
 title: Asignar una biblioteca de SharePoint a una unidad de red
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 manager: pamgreen
 ms.date: 12/17/2018
 ms.audience: Admin
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: a545c2d9a395893bb089e1647944e9250e6d8df6
-ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
+ms.openlocfilehash: ca5adee1c7f6d87a4d1cd0d7fac34e51948ce6b4
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35802947"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36269573"
 ---
 # <a name="map-a-sharepoint-library-to-a-network-drive"></a>Asignar una biblioteca de SharePoint a una unidad de red
 

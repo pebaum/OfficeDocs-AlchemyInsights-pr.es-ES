@@ -1,24 +1,25 @@
 ---
 title: Creación de un sitio de SharePoint
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: article
+ms.collection: Adm_O365
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- "5200004"
 - "1386"
 - "2303"
-- "5200004"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 022f572aadae3b4d9f6665f9f8be871d79b51817
-ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
+ms.openlocfilehash: ad1a77b69d2d453dbd3daa304759238b329f96ba
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35802983"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36269933"
 ---
 # <a name="create-a-sharepoint-site"></a>Creación de un sitio de SharePoint
 

@@ -1,18 +1,18 @@
 ---
 title: Introducción a los sitios concentradores de SharePoint
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
-ms.openlocfilehash: 81e5e2da24e4d56e13d3d411b25f26c6ef04c7e9
-ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
+ms.openlocfilehash: 75b0635c2f045c8133e6023626f62a40a8bb9709
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803019"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36269537"
 ---
 # <a name="sharepoint-hub-sites-overview"></a>Introducción a los sitios concentradores de SharePoint
 

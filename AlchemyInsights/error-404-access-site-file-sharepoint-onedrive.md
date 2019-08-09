@@ -1,18 +1,18 @@
 ---
 title: 'Error 404: no se encontró el archivo'
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 ms.date: 9/18/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 1610ba60ad7c632cb3b2afab79d58aff4e171c93
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 8ad8e699ee3d4206234cd3823e06267de487df09
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35902910"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270617"
 ---
 # <a name="error-404-file-not-found"></a>Error 404: no se encontró el archivo
 
