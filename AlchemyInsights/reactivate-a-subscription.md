@@ -13,21 +13,23 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 401e9785398e04816040453655178c6afb93898b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 8e64c5f315fd52a34d735ba653e9cb28821f2031
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370584"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36391069"
 ---
 # <a name="reactivate-a-subscription"></a>Reactivar una suscripción
 
-Si su suscripción expira, Microsoft ha deshabilitado o lo ha cancelado a mediados de un término de suscripción, puede reactivarlo en el centro de administración de Microsoft 365.
+Si su suscripción expira, Microsoft ha deshabilitado o lo ha cancelado a mediados de un término de suscripción, puede reactivarlo en el centro de administración.
   
-1. En el Centro de administración, vaya a la página [Suscripciones](https://go.microsoft.com/fwlink/p/?linkid=842054) o elija **Facturación** \> **Suscripciones**.
+1. En el centro de administración, vaya a la página suscripciones de **facturación** \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Elija la suscripción que desea reactivar y, después, seleccione **Reactivar**.
 
     Si no ve reactivar como acción disponible, use la opción "llámenos" para hablar con un ingeniero de soporte técnico para reactivar la suscripción. ****
 
 3. Introduzca los datos de pago. Puede actualizar aquí su información de pago actual.
+
+¿Usa el nuevo centro de administración? Para nuevos pasos, consulte [reactivar la suscripción](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).

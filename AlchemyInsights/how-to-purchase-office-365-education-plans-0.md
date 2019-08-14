@@ -13,14 +13,13 @@ ms.custom:
 - "332"
 - "1500009"
 ms.assetid: 09f40c86-05d7-45ef-a6d1-3292509353c2
-ms.openlocfilehash: 8fde8f671ba7290740b48b830e42831e503928a9
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2ea82331f388fd8903d30ea4d479311f9af9dc31
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384050"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390961"
 ---
 # <a name="how-to-purchase-office-365-education-plans"></a>Cómo comprar planes de Office 365 Education
 
 La calificación de Office 365 Education está en revisión. Puede esperar recibir una notificación para determinar su elegibilidad antes de que expire la versión de prueba.
-  

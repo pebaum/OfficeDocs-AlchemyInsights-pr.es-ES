@@ -12,16 +12,16 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: f817836f7329e596a075361d9f9e8dc47374d48d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: cd75ad71fc731047011627cabe24b74d8f342892
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385778"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386421"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Cómo agregar o editar un VatID
 
-- Vaya a la [](https://go.microsoft.com/fwlink/p/?linkid=842054) página suscripciones o elija **facturación**de suscripciones. **** \>
+- En el centro de administración, vaya a la página suscripciones de **facturación** \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 - En la **** página suscripciones, elija la suscripción que desea editar y, a continuación, elija **más acciones** \> **Editar número de IVA**.
 
@@ -29,5 +29,6 @@ ms.locfileid: "35385778"
 
     Cuando termine, el IVA no se cargará en la próxima factura.
 
-Para obtener más información, vea [¿Qué impuesto se me cobrará por Office 365?](https://support.office.com/article/7e77382b-b966-4ad5-a515-9e629a777a22.aspx)
-  
+Para obtener más información, vea [¿Qué impuesto se me cobrará por Office 365?](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
+
+¿Usa el nuevo centro de administración? Para conocer los pasos nuevos, consulte [Agregar el NIF](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).

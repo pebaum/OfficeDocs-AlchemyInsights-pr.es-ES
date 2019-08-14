@@ -13,18 +13,18 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: beed41b96dde1b120a98391187424367e868071e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d11e5e28dbc524e9e894c0d2e504495f3811a763
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366766"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387861"
 ---
 # <a name="trying-to-find-a-trial"></a>¿Intenta encontrar una versión de prueba?
 
-Si desea probar un nuevo servicio, puede encontrar una lista de las suscripciones disponibles para la versión de prueba en el centro de administración de Microsoft 365.
+Si quiere probar un nuevo servicio, puede encontrar una lista de las suscripciones disponibles para la prueba en el centro de administración.
   
-1. Vaya a la página de [servicios de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) o elija **servicios de compra**de **facturación** \> .
+1. En el centro de administración, vaya a la página [servicios de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) de **facturación** \> .
 
 2. Busque la suscripción que mejor se adapte a sus necesidades, pase el mouse por encima de ella y elija **iniciar prueba gratuita**.
 

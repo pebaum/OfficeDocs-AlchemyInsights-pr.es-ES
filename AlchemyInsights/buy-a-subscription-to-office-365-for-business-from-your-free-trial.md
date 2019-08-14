@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: c4771f8a66d131d08a558a216c1d75869fbc13a3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1e1e6f115a1314f824ce69f03ee23a3e21ba3cf0
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359386"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386925"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Comprar una suscripción a Office 365 desde su versión de prueba gratuita
 
@@ -26,18 +26,16 @@ Ha probado Office 365 y ahora ya puede comprarlo. Tiene dos opciones al comprar 
   
  **Puede comprar el mismo plan que la versión de prueba**
   
-1. En el Centro de administración, vaya a la página [Suscripciones](https://go.microsoft.com/fwlink/p/?linkid=842054) o elija **Facturación** \> **Suscripciones**.
+1. En el centro de administración, vaya a la página suscripciones de **facturación** \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Elija **comprar ahora** para la suscripción de prueba que desee y siga los pasos para desproteger.
 
 o **puede comprar una suscripción diferente**
   
-1. Inicie sesión en Office 365 con su cuenta profesional o educativa como administrador global. [Descubra cómo iniciar sesión.](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
+1. En el centro de administración, vaya a la página suscripciones de **facturación** \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Elija **Office 365** en la página de inicio.
+2. En la página de **suscripción** , seleccione **Agregar**suscripciones.
 
-3. En la esquina superior derecha de la página, debajo de la barra de navegación, elija **comprar**.
+3. Busque la suscripción que desea comprar, seleccione **comprar ahora**y siga los pasos para desproteger.
 
-4. En la página suscripciones de **compra** , el plan en el que está intentando tiene un banner **en versión de prueba** .
-
-5. Elija **comprar ahora** para la suscripción de prueba que desee y siga los pasos para desproteger.
+¿Usa el nuevo centro de administración? Para conocer los nuevos pasos, consulte [comprar una suscripción a Office 365 para empresas desde su versión de prueba gratuita](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).

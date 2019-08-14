@@ -13,18 +13,18 @@ ms.custom:
 - "466"
 - "1500024"
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: ec00594736ec3f4dab085127ffbd4fc688df7d01
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ca67a737bb7a5210e4ff76b80a694ea4740fd5d8
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357118"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386205"
 ---
 # <a name="already-paid"></a>¿Ya ha pagado?
 
 Si ya ha enviado el pago, puede dejarnos saber lo siguiente:
   
-1. Vaya a la [](https://go.microsoft.com/fwlink/p/?linkid=842054) página suscripciones o elija suscripciones de **facturación** \> ****.
+1. En el centro de administración, vaya a la página suscripciones de **facturación** \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Elija una suscripción y, en la sección **mi factura** , elija **Ver factura**.
 
