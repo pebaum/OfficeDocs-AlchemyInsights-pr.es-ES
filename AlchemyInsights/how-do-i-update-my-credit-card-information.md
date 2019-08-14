@@ -13,16 +13,16 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 3f83db2fa1aab6a9f8171be3a423a5d87ac8ca48
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 23e2ea7cab1ccf3a2eb64b60137932ac38cff8aa
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386030"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389013"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>¿Cómo actualizo los datos de mi tarjeta de crédito?
 
-1. En el Centro de administración, vaya a la página [Suscripciones](https://go.microsoft.com/fwlink/p/?linkid=842054) o elija **Facturación** \> **Suscripciones**.
+1. En el centro de administración, vaya a la página **Facturación** \> [Suscripciones](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
 2. Seleccione la suscripción que compró con la tarjeta de crédito o cuenta bancaria que quiere actualizar y, luego, elija **Actualizar detalles de pago**.
 
@@ -32,5 +32,6 @@ ms.locfileid: "35386030"
 
 5. Debería aparecer un mensaje de confirmación.
 
-Para obtener más información, vea [Solución de problemas con tarjetas de crédito y cuentas bancarias](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
-  
+Para obtener más información, vea [Solución de problemas con tarjetas de crédito y cuentas bancarias](https://docs.microsoft.com/es-ES/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+
+¿Está usando el nuevo centro de administración? Puede ver los nuevos pasos en [Agregar, actualizar o quitar una tarjeta de crédito o cuenta bancaria en Office 365 para empresas](https://docs.microsoft.com/es-ES/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)

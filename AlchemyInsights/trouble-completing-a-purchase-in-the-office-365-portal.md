@@ -13,14 +13,13 @@ ms.custom:
 - "483"
 - "1500029"
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: 357ee96d92a76e59cb176bc3dbe254bfad1565d9
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 17e37f939c199120b85637eb889bb22432e85325
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35367270"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388005"
 ---
 # <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Problemas al completar una compra en el portal de Office 365
 
 Al intentar realizar una compra, si se le solicita en varias ocasiones que inicie sesión en el portal de Office 365 o si recibe un mensaje de error, es recomendable usar el modo InPrivate o incógnito de su explorador primero. Tras abrir una ventana en el modo InPrivate o incógnito, vaya al sitio [portal.office.com](https://portal.office.com) e inicie sesión con sus credenciales de administrador. Después, siga los pasos para completar la compra.
-  

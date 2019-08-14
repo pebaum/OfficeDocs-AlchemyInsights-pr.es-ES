@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 76415c71ecfe81e38dbcbd55d2aca38dfeeaa38b
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903734"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387788"
 ---
 # <a name="update-payment-details"></a>Actualizar detalles de pago
 
-1. En el centro de administración, vaya a la página [Métodos de pago](https://go.microsoft.com/fwlink/p/?linkid=2018806) o elija **Facturación** \> **Métodos de pago**.
+1. En el centro de administración, vaya a **Facturación** \> [ Métodos de pago](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
     > [!NOTE]
     > Si se produce un error que le dirige de nuevo a la página principal de administración antes de que se completen las actualizaciones, pruebe el modo InPrivate o Incógnito.
@@ -37,4 +37,4 @@ ms.locfileid: "35903734"
 
 5. Para quitar este método de pago, seleccione **Eliminar**.
 
-Para obtener más información, vea [Agregar, actualizar o quitar una tarjeta de crédito o cuenta bancaria en Office 365 para Empresas](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) y [Solución de problemas con tarjetas de crédito y cuentas bancarias](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Para obtener más información, vea [Agregar, actualizar o quitar una tarjeta de crédito o cuenta bancaria en Office 365 para Empresas](https://docs.microsoft.com/es-ES/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) y [Solución de problemas con tarjetas de crédito y cuentas bancarias](https://docs.microsoft.com/es-ES/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
