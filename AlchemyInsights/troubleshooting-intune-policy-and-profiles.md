@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: fb739d776f5a9a384ecdb948eee4b06daba81e90
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 19d2bf0e85e83b9e1a7fbdc24a4b3d21abf34941
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366982"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533644"
 ---
 # <a name="troubleshooting-intune-policy-and-profiles"></a>Solución de problemas de directivas y perfiles de Intune
 

@@ -15,12 +15,12 @@ ms.custom:
 - "1800014"
 - "3500003"
 ms.assetid: 27d1c658-af62-4442-864c-ab6c6afa19bf
-ms.openlocfilehash: ce826a5ed3fd5782a99b0a84c227c3ecf4a441c7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d2f0090270e0d93ddacbc4556209e7c94fb53566
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365856"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36531880"
 ---
 # <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Uso de un buzón compartido en un dispositivo móvil
 

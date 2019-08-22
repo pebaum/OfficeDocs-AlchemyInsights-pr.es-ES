@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: 2a03ac64d92c07b523b015850251b33c58bb76f8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f390d659b191fa4c44bd7c8acb32409cd3021489
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423582"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36532348"
 ---
 # <a name="upn-sync-disabled"></a>Sincronización UPN deshabilitada
 
 Si empezó a sincronizar con Azure AD antes del 30 de marzo de 2016, ejecute el siguiente cmdlet de Azure AD PowerShell para habilitar la coincidencia simplificada de UPN para su organización solo:
   
- **Set-MsolDirSyncFeature-Feature EnableSoftMatchOnUpn-enAble $True**
+ **Set-MsolDirSyncFeature-Feature EnableSoftMatchOnUpn-enable $True**
   
 La coincidencia Soft de UPN se activa automáticamente para las organizaciones que comenzaron a sincronizarse con Azure AD a partir del 30 de marzo de 2016.
   

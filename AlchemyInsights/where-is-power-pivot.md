@@ -15,12 +15,12 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 31487d8ca65974497bb1edbf2b0204abd11cb87b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5767fead9f67ad1070b3dbe65415d4c728cfd92f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365146"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530975"
 ---
 # <a name="where-is-power-pivot"></a>¿Dónde se encuentra Power Pivot?
 

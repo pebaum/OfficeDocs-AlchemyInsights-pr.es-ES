@@ -12,12 +12,12 @@ ms.custom:
 - "914"
 - "2000021"
 ms.assetid: d291c13a-723e-4425-8e49-baa465ec2505
-ms.openlocfilehash: 6408a266ca34b237f020aeb0c1b83a3d10d39a5f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 92c18207d676a42b86c5a11c6f4ae9001bbe9107
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35367990"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36534544"
 ---
 # <a name="steps-to-resolve-office-activation-error-0x80070005"></a>Pasos para resolver el error de activación de Office 0x80070005
 
