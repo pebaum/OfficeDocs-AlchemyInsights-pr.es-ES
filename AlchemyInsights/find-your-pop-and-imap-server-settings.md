@@ -11,17 +11,17 @@ ms.custom:
 - "934"
 - "1800018"
 ms.assetid: 244fb17f-f0e3-474a-b287-023f4fb74830
-ms.openlocfilehash: bab36de056fadc7faeadbd2283b7b74528d0efb1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3a18978d520f400672bc50a455fcd6bc45337b48
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35387962"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36525328"
 ---
-# <a name="find-your-pop-or-imap-server-settings"></a><span data-ttu-id="28c69-102">Buscar la configuración del servidor POP o IMAP</span><span class="sxs-lookup"><span data-stu-id="28c69-102">Find your POP or IMAP server settings</span></span>
+# <a name="find-your-pop-or-imap-server-settings"></a><span data-ttu-id="560b4-102">Buscar la configuración del servidor POP o IMAP</span><span class="sxs-lookup"><span data-stu-id="560b4-102">Find your POP or IMAP server settings</span></span>
 
-<span data-ttu-id="28c69-103">Si no sabe qué configuración necesita para agregar su cuenta POP o IMAP a Outlook, puede buscarla en nuestra [configuración de correo electrónico POP e IMAP de Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).</span><span class="sxs-lookup"><span data-stu-id="28c69-103">If you don't know what settings you need to add your POP or IMAP account to Outlook, you can look them up in our [POP and IMAP email settings for Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).</span></span>
+<span data-ttu-id="560b4-103">Si no sabe qué configuración necesita para agregar su cuenta POP o IMAP a Outlook, puede buscarla en nuestra [configuración de correo electrónico POP e IMAP de Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).</span><span class="sxs-lookup"><span data-stu-id="560b4-103">If you don't know what settings you need to add your POP or IMAP account to Outlook, you can look them up in our [POP and IMAP email settings for Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).</span></span>
   
 > [!NOTE]
-> <span data-ttu-id="28c69-104">¿Sabía que puede [habilitar y configurar POP3 en un servidor de Exchange 2016](https://technet.microsoft.com/library/bb124934%28v=exchg.160%29.aspx)?</span><span class="sxs-lookup"><span data-stu-id="28c69-104">Did you know you can [Enable and configure POP3 on an Exchange 2016 server](https://technet.microsoft.com/library/bb124934%28v=exchg.160%29.aspx)?</span></span>
+> <span data-ttu-id="560b4-104">¿Sabía que puede [habilitar y configurar POP3 en un servidor de Exchange 2016](https://technet.microsoft.com/library/bb124934%28v=exchg.160%29.aspx)?</span><span class="sxs-lookup"><span data-stu-id="560b4-104">Did you know you can [Enable and configure POP3 on an Exchange 2016 server](https://technet.microsoft.com/library/bb124934%28v=exchg.160%29.aspx)?</span></span>
   

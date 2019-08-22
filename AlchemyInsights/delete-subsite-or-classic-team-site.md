@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2ec4d9c-4841-4c8f-8f85-574395f8c728
-ms.openlocfilehash: 0162486b36a945576c1be822f7abba7641fa3cd1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c75d29dd102f97d1542724c971f1d1d9660fc609
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404946"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36512944"
 ---
-# <a name="delete-a-classic-sharepoint-team-site-or-subsite"></a><span data-ttu-id="d2bc9-102">Eliminar un sitio o subsitio de grupo clásico de SharePoint</span><span class="sxs-lookup"><span data-stu-id="d2bc9-102">Delete a classic SharePoint team site or subsite</span></span>
+# <a name="delete-a-classic-sharepoint-team-site-or-subsite"></a><span data-ttu-id="da101-102">Eliminar un sitio o subsitio de grupo clásico de SharePoint</span><span class="sxs-lookup"><span data-stu-id="da101-102">Delete a classic SharePoint team site or subsite</span></span>
 
-1. <span data-ttu-id="d2bc9-103">Vaya al sitio.</span><span class="sxs-lookup"><span data-stu-id="d2bc9-103">Go to the site.</span></span>
+1. <span data-ttu-id="da101-103">Vaya al sitio.</span><span class="sxs-lookup"><span data-stu-id="da101-103">Go to the site.</span></span>
     
-2. <span data-ttu-id="d2bc9-104">Haga clic en el icono de **configuración** en la esquina superior derecha.</span><span class="sxs-lookup"><span data-stu-id="d2bc9-104">Click the **Settings** icon in the upper right.</span></span> 
+2. <span data-ttu-id="da101-104">Haga clic en el icono de **configuración** en la esquina superior derecha.</span><span class="sxs-lookup"><span data-stu-id="da101-104">Click the **Settings** icon in the upper right.</span></span> 
     
-3. <span data-ttu-id="d2bc9-105">Haga clic en **configuración del sitio**.</span><span class="sxs-lookup"><span data-stu-id="d2bc9-105">Click **Site settings**.</span></span> <span data-ttu-id="d2bc9-106">En **acciones del sitio**, haga clic en **eliminar este sitio**y, a continuación, haga clic en **eliminar**.</span><span class="sxs-lookup"><span data-stu-id="d2bc9-106">Under **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
+3. <span data-ttu-id="da101-105">Haga clic en **configuración del sitio**.</span><span class="sxs-lookup"><span data-stu-id="da101-105">Click **Site settings**.</span></span> <span data-ttu-id="da101-106">En **acciones del sitio**, haga clic en **eliminar este sitio**y, a continuación, haga clic en **eliminar**.</span><span class="sxs-lookup"><span data-stu-id="da101-106">Under **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
     
 
