@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1402"
 - "8000045"
-ms.openlocfilehash: 97bb4d37a971888ddb7f8fdf9cb4d5dd795b403a
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: 92de9a03b8fbb1a0d8a27ba1479e2b1dd5454b88
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36044473"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538073"
 ---
 # <a name="adding-emojis-to-email-messages"></a>Adición de emojis a mensajes de correo electrónico
 

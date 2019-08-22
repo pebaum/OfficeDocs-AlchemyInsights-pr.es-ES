@@ -12,12 +12,12 @@ ms.collection: Admin_O365
 ms.custom:
 - "9000293"
 - "1901"
-ms.openlocfilehash: 8d891f9c875429aabff6ec7991c96dc4736587a7
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 88804e84f8bc3155abdf90e1c9961806367299d9
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270584"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36543762"
 ---
 # <a name="onedrive-common-issues-and-resolutions"></a>Problemas y soluciones comunes de OneDrive
 

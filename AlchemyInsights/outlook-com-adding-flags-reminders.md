@@ -11,12 +11,12 @@ ms.custom:
 - "9000304"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 210c07638346926286106c168735a029c38a927a
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: 795c6e25bf1b9badbbf305d1daa49033d5e0ae12
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36044797"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542934"
 ---
 # <a name="adding-flags-and-reminders-in-outlookcom"></a>Adición de marcas y avisos en Outlook.com
 

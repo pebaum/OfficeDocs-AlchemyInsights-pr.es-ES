@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1824"
 - "9000239"
-ms.openlocfilehash: 601c8022355122d163db84aca5c623b5a65ac622
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: bae54d14b18f5028c2ac8c87f4b4880ea0add72b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36044581"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36536632"
 ---
 # <a name="forwarding-email-in-outlookcom"></a>Reenvío de correo electrónico en Outlook.com
 

@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 81ee40a9f9598b6a9fbc0f28c04a0d229c8442c8
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: 296ecfc6f02c136d885ff9d447291b3f73ef96c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35602016"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535372"
 ---
 # <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Evitar que los mensajes pasen a la carpeta de correo no deseado
 
-Hay veces en las que no quiere que los mensajes de una persona o dominio específicos acaben en la carpeta de correo electrónico no deseado. Los mensajes de direcciones o dominios de la lista de remitentes seguros no se moverán a la carpeta correo electrónico no deseado.
+Hay veces en las que no quiere que los mensajes de una persona o dominio específicos acaben en la carpeta de correo no deseado en Outlook.com. Los mensajes de direcciones o dominios de la lista de remitentes seguros no se moverán a la carpeta correo electrónico no deseado.
 
 1. Abra la [configuración de remitentes seguros](https://go.microsoft.com/fwlink/?linkid=2035804).
 2. En **remitentes y dominios seguros**, escriba la dirección de correo electrónico o el dominio que quiera agregar y seleccione **Agregar**.

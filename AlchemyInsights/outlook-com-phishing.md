@@ -11,12 +11,12 @@ ms.custom:
 - "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d837096640d951e7fec289440f56b3339caf3680
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 96445a7689a0760c3d9dcd8e99889749d07e569a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35697316"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535839"
 ---
 # <a name="how-to-deal-with-a-phishing-email"></a>Cómo tratar un correo de suplantación de identidad
 

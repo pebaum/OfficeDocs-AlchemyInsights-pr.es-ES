@@ -12,12 +12,12 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: a29fb799b68f5c187ca1d44aeaf94e6cd8760b0e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ce52df446fc4c23c06476e8836ade6a6810d158f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379514"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549021"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>Mover el correo electrónico al buzón de archivo
 

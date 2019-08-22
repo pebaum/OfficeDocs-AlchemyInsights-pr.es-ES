@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 10df70e027efb099f663d6e79dff6e73c6ff6140
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 8e76edd920a86445b2edc4745d39538233413c04
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376922"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36548156"
 ---
 # <a name="new-calendar-experiences-coming-to-outlookcom"></a>Nuevas experiencias de calendario que van a Outlook.com
 

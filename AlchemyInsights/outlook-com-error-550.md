@@ -11,12 +11,12 @@ ms.custom:
 - "8000081"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: f1d5625c35cfbee4b3d38df0ad1bf48e471824c4
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: 9fa9e477528fb07afa66273d317ada5dd0ba4cc5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36044437"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36546824"
 ---
 # <a name="error-550553-in-outlookcom"></a>Error 550/553 en Outlook.com
 

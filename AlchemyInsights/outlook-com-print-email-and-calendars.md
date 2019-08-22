@@ -14,14 +14,14 @@ ms.custom:
 - "808"
 - "809"
 - "1327"
-ms.openlocfilehash: 43224a8d0383033e74ed71e5cbb549ade8d4617d
-ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
+ms.openlocfilehash: a91a67bce775292bd33f25301ea379fba91fa541
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36049265"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36545419"
 ---
-# <a name="print-email-and-calendars"></a>Imprimir correo electrónico y calendarios
+# <a name="print-email-and-calendars-in-outlookcom"></a>Imprimir el correo electrónico y los calendarios en Outlook.com
 
 Para imprimir un mensaje de correo electrónico:
   

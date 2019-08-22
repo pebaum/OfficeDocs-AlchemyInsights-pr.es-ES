@@ -15,12 +15,12 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: efaab5f424dcb84e0e97c4c19985c4e480a6025a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d4daf97aa7d082906000a48d2fd542a70e8cdc8b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377138"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36537893"
 ---
 # <a name="block-or-unblock-senders"></a>Bloquear o desbloquear remitentes
 

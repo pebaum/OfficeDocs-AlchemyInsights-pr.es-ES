@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000035"
-ms.openlocfilehash: 82189ce9fedc7a85e0295ae06bb8c4190d8962f1
-ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
+ms.openlocfilehash: 77a1a51684525008a6319aa4820c7e62d6906ca5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35117594"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535084"
 ---
 # <a name="the-new-outlookcom"></a>El nuevo Outlook.com
 

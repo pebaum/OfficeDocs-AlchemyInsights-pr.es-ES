@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1137"
 - "8000065"
-ms.openlocfilehash: 861d1931a87220ba384806ebfcd45af8348a7ec4
-ms.sourcegitcommit: a413a0e27ef4ab8c484fa9fccff8bbef381c8b96
+ms.openlocfilehash: bb9d5b00c5466fdc334a84e5805744f102160ae1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35746318"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36536367"
 ---
 # <a name="mantenga-el-correo-no-deseado-fuera-de-outlookcom"></a>Mantenga el correo no deseado fuera de Outlook.com
 
