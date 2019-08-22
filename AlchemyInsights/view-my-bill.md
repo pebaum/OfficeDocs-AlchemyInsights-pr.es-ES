@@ -13,19 +13,17 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: bd058a965dfc0f014ab8efca1f330ec7180f8696
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3583bf871a7325f0bb2a28d3ac1641fd5525d403
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387780"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506136"
 ---
 # <a name="view-my-bill"></a>Ver mi factura
 
-1. En el centro de administración, vaya a la página [facturas](https://go.microsoft.com/fwlink/p/?linkid=848039) de **facturación** \> .
+1. En el centro de administración de Microsoft 365, vaya **** \> a la página [facturas & pagos](https://go.microsoft.com/fwlink/p/?linkid=848039) .
 
-2. Elija el mes y la fecha de la factura que quiera y, después, elija **Ver**.
+2. Seleccione un intervalo de fechas en la lista desplegable y, a continuación, elija el orden que desea ver.
 
-3. Elija un pedido y, después, seleccione **Ver detalles**.
-
-Para obtener más información, consulte [ver la factura](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+Para obtener más información, consulte [ver la factura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1275"
 - "1800028"
-ms.openlocfilehash: 976a29eb43340e09a00c3044f13a731cb5f64f80
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 512778405b284432ccc7c6effae6065dbcc844d0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35368782"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36502104"
 ---
 # <a name="outlook-will-now-default-block-external-content-in-smime"></a>Ahora, Outlook bloquea el contenido externo de forma predeterminada en S/MIME
 

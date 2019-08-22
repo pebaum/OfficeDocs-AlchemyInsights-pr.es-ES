@@ -12,12 +12,12 @@ ms.custom:
 - "921"
 - "8000056"
 ms.assetid: d497edc0-f945-4c45-9fe0-f7060c259848
-ms.openlocfilehash: 7d7429f145f81af7ba80dfd15c63712545391c4a
-ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
+ms.openlocfilehash: b341642e2ad078e53829b3a34d238a68b73cd0a7
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35703893"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522700"
 ---
 # <a name="how-to-access-outlookcom-while-traveling"></a>Cómo obtener acceso a Outlook.com durante el viaje
 

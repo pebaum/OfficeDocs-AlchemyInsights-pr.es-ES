@@ -11,12 +11,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5d0b5d9b87712d6ec6a98ee175f952964e87ed80
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9007c4ee7484cb6fdf80e76c08720a5723bfa20a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388658"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527813"
 ---
 # <a name="enable-an-archive-mailbox"></a>Habilitación de un buzón de archivo
 

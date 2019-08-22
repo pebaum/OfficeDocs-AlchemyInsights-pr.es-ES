@@ -11,12 +11,12 @@ ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 12f98e8fccaf5aa2538721fd5b4067d6de7e3ddf
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4fa566acd7fab0b43e4614c8a7c7ae76bcabaa5f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365865"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506234"
 ---
 # <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Actualización a la versión completa de Microsoft Teams
 

@@ -11,12 +11,12 @@ ms.custom:
 - "845"
 - "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: a337b6db5b25a5b3af03ff62fef1b88f33562489
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d732b8a0804d348a27e6d896e058806b3611034c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382178"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499008"
 ---
 # <a name="install-and-configure-onedrive"></a>Instalar y configurar OneDrive
 

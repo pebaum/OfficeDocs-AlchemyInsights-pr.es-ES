@@ -8,12 +8,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: ''
-ms.openlocfilehash: a3e22ec802826c1e9b205314f3e9b461a00c46dd
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 7f481110d37bed6660c5a220ac230284d613c976
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270221"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36503508"
 ---
 # <a name="modernize-your-classic-sharepoint-site"></a>Modernizar el sitio clásico de SharePoint
 

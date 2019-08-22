@@ -13,12 +13,12 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 96ae13b62109337de9c41dd3a9bcc42196fe623b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 46a029f262fa05edffa6f681c7205e289fe448c5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359424"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496369"
 ---
 # <a name="office-365-alert-policies"></a>Directivas de alertas de 365 de Office
 

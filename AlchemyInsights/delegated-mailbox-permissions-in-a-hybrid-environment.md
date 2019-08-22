@@ -12,12 +12,12 @@ ms.custom:
 - "685"
 - "3500009"
 ms.assetid: 86685ad6-5988-415d-817a-57a75ff17119
-ms.openlocfilehash: 3f5bac5c8382fccf8526a34e7b1e487c2b515789
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bb2b82ab82ae8caaf14bf6fecc9c9f3ebd8f6797
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35363130"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514312"
 ---
 # <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a>Permisos de buzón delegados en un entorno híbrido
 

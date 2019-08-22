@@ -12,12 +12,12 @@ ms.custom:
 - "1049"
 - "3100024"
 ms.assetid: fa3d4be9-c90a-4926-9754-4b708b038bf6
-ms.openlocfilehash: 841691026560692942dfd78442e91f2b57fcbb63
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d8bd1e91fdc7975b128ee5d53198585cc97de418
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357046"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516904"
 ---
 # <a name="453-too-many-recipients-as780090"></a>4.5.3 demasiados destinatarios (AS780090)
 

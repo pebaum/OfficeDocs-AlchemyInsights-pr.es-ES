@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: 5da4914548348418c42e1e1b52d1428c0ed0af9b
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: f36a87488c3c470f92038a92f68519a7e38323c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903955"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36528136"
 ---
 # <a name="edit-a-read-only-file"></a>Edición de un archivo de solo lectura
 

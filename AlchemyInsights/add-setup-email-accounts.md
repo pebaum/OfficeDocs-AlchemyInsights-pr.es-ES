@@ -11,12 +11,12 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: 9aec8ef80f0ac8929d421c9a04142c7b7b8f6e71
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 39c9466f41002a1471a9fb81c93900f75260678d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358414"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36494832"
 ---
 # <a name="setup-email-accounts"></a>Configurar cuentas de correo electrónico
 

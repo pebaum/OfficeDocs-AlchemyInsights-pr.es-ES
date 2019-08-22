@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c6e78799-5baa-4e27-8def-29db01118209
-ms.openlocfilehash: 36754d836cfe6525873ecdeb962efa5c2cb97a34
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 552b5a523a55d67c8ba5f902581f8a625410e9d4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408807"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496848"
 ---
 # <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a>Las bibliotecas de SharePoint asignadas a unidades de red se desconectan
 

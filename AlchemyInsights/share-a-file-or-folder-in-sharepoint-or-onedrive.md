@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
-ms.openlocfilehash: 428646635f0a9112c49a676ee297d514a86354ae
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f70501f889ea38770fe4393ab219dcb33a27d86b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370415"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36508764"
 ---
 # <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>Compartir un archivo o una carpeta en SharePoint o en OneDrive
 

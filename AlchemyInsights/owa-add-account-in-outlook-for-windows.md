@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: e5ef4ebcdec7d20f9c85e116963722133aeb7a6d
-ms.sourcegitcommit: ad4257df7113531cea883b477d505918da99b325
+ms.openlocfilehash: f745546c991bae52046014dff836aeb54c779db8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "34934271"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511000"
 ---
 # <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Agregar su cuenta de Outlook en la web a Outlook
 

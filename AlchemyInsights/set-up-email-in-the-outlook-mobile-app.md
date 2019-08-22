@@ -15,12 +15,12 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: 168761c46cb7534d466664d6172c6e9f2ce74101
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f636c0b6bef3ec779a6393f3a4cd489a467c4bc5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355318"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36509234"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Configurar el correo electrónico en la aplicación móvil de Outlook
 

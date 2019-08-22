@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: 66156ee3bb9c1368326ad557f5f042fc8444694b
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 50a75073339f1903f2f843e301441c90e795d2f1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36269429"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36521584"
 ---
 # <a name="onedrive-retention-and-deletion"></a>Retención y eliminación de OneDrive
 

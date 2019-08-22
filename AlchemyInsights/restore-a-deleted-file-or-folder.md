@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: 93dc59ce44dab51281f0480fe0f401ca22e1f519
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: cc97cce1e87982c00167914cd3dfcb4b2e347360
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32371099"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36509847"
 ---
 # <a name="restore-a-deleted-file-or-folder"></a>Restaurar un archivo o carpeta eliminados
 

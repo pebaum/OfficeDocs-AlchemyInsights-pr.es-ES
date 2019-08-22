@@ -12,12 +12,12 @@ ms.assetid: a19e09cb-1956-4e26-98c4-243af855953b
 ms.custom:
 - "758"
 - "2000016"
-ms.openlocfilehash: df24cf8e5f74810b56722dd5ce461b545210824d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: b31beeaaad19bdced08c86db83bfc37636e79a04
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35378434"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522160"
 ---
 # <a name="office-products-not-available-for-the-mac-platform"></a>Productos de Office no disponibles para la plataforma Mac
 

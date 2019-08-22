@@ -13,12 +13,12 @@ ms.custom:
 - "317"
 - "1800014"
 ms.assetid: ae8140e0-1802-4387-9fcc-3e4deda115d8
-ms.openlocfilehash: 4f9fa98fe1ae02c1804b0bcb967fef13c72bb940
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d7c0acfa834f68977d2a04468fb39ac50e41023f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35387002"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36524248"
 ---
 # <a name="get-in-app-support-for-the-outlook-mobile-app"></a>Obtener soporte técnico en la aplicación para la aplicación móvil de Outlook
 

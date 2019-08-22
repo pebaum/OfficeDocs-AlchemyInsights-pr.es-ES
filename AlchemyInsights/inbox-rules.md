@@ -12,12 +12,12 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: 8514592bb3252738537d3e5118a030b802a857d0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: cebeea438ac881d9930eecb9bcb031f9a6e92977
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382610"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499656"
 ---
 # <a name="inbox-rules"></a>Reglas de la bandeja de entrada
 

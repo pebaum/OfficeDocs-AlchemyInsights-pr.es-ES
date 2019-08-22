@@ -11,12 +11,12 @@ ms.custom:
 - "1059"
 - "5800005"
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: 1f7eb3218d555993a39a0c9313925db09eab29e5
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1460a73a0365c4fd170f6aea3a30cc4d6dcefce2
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35387974"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527274"
 ---
 # <a name="error-message-when-sharing-files-from-windows-explorer"></a>Mensaje de error al compartir archivos desde el explorador de Windows
 

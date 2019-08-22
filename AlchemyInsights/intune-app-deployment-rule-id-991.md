@@ -11,12 +11,12 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: 00aeb63da4414edf19cadb183f1fd3931b61dc46
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: eb425bfc9fcc16a3a5b144794ced1f81209ef30e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381674"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498288"
 ---
 # <a name="intune-app-deployment"></a>Implementación de aplicaciones de Intune
 

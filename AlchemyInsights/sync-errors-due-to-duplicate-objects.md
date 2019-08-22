@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 902
 ms.assetid: 9d9277a5-c825-4512-8d54-7138b2ee0c40
-ms.openlocfilehash: 06cd582c30a59a94ee117728bd5daebecca77bc8
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 777c2d8d530d03d58180f43b362ee065439b56b3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34758012"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507432"
 ---
 # <a name="sync-errors-due-to-duplicate-objects"></a>Errores de sincronización debidos a objetos duplicados
 
-Es posible que reciba uno de los siguientes mensajes de error cuando finalice la sincronización de directorios:
+Es posible que reciba uno de los siguientes mensajes de error cuando la sincronización de directorios finaliza en Office 365:
 
 - No se puede actualizar este objeto en Microsoft Online Services porque los siguientes atributos asociados a este objeto tienen valores que ya pueden estar asociados a otro objeto en el directorio local.
 

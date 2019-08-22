@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: 6c9ea9c33097b65cf577106d1781023f0e9738c0
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: c73358ebfbdede5b4e43ca2c35146f6611958e23
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34883716"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495876"
 ---
 # <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Solucionar problemas con bibliotecas de SharePoint asignadas a unidades de red
 

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 1d3f6ad3128292a9dbcc46cc7da23af59a63fbb4
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: a4aeaeaea5743c276b907c78317ff30f5610be81
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840568"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36508440"
 ---
 # <a name="sharepoint-designer-connection-issues"></a>Problemas de conexión de SharePoint Designer 
 

@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 2cd66cb9cfd407e8c480fd8cb4a3daadec928d06
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 7b5253c94a177e27745a921bcc4b478229ad4c26
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36272109"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36525832"
 ---
 # <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>El usuario externo no puede aceptar una invitación para uso compartido
 

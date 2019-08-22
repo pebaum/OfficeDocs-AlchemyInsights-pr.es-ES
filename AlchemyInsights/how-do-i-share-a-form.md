@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2543"
 - "9000672"
-ms.openlocfilehash: df1d045527984ebe4cda2f0e516bd3c9e83be451
-ms.sourcegitcommit: 1320693af1222a8c55f67d714dcd084d72b3ffd4
+ms.openlocfilehash: 656c3f05494abbe0f387dffec4bd36c4e337a317
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35849466"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522855"
 ---
 # <a name="share-a-form"></a>Compartir un formulario
 

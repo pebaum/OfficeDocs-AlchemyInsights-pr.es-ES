@@ -13,12 +13,12 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: d6f53873a58f5d0a09ae9042eb54a254a65e0fe6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ebab0e09aa2eb4a1605a44a670489fbe5660be32
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357838"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36493933"
 ---
 # <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>¿Qué son los roles de administrador y cómo se asignan?
 

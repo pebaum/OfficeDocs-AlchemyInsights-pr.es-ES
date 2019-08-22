@@ -13,12 +13,12 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: dad0ecbacf20d5fc2fd0fa46bcf5a30cff44c58d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: da0897bf834c7b96eb5e6035457ef664c486c7ae
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35389954"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36513232"
 ---
 # <a name="delete-a-profile"></a>Eliminar un perfil
 

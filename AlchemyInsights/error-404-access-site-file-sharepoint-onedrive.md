@@ -7,12 +7,12 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 8ad8e699ee3d4206234cd3823e06267de487df09
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 98c390e1781d9c00fbc0dbabc633594726f2fda0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270617"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527416"
 ---
 # <a name="error-404-file-not-found"></a>Error 404: no se encontró el archivo
 

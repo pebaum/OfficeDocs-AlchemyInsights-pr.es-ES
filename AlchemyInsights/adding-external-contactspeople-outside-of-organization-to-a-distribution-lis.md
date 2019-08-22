@@ -13,12 +13,12 @@ ms.custom:
 - "718"
 - "3"
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
-ms.openlocfilehash: 46ab32341a75695ffe925a09b7e30be6065b4c32
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e31a9f4213a69e84f78fcd00b767edb04bd9ec4e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358126"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36494580"
 ---
 # <a name="add-external-email-addresses-to-a-distribution-group"></a>Agregar direcciones de correo electrónico externas a un grupo de distribución
 

@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "1718"
-ms.openlocfilehash: 29ae65f98ffbb392c9b97db3f148ee92e705c454
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 5d346c68490fb6fde4bd86c24947e2e56d88fb15
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36272119"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36559646"
 ---
 # <a name="steps-to-create-a-sharepoint-workflow"></a>Pasos para crear un flujo de trabajo de SharePoint
 

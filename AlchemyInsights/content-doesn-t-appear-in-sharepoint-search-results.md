@@ -11,12 +11,12 @@ ms.custom:
 - "750"
 - "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: 8215b0a5cde5adffa3bec37d6699418557f914dd
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ffb6bf349f9e8c2323186a8fc3183325d1d7e1bf
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35363839"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517048"
 ---
 # <a name="content-doesnt-appear-in-sharepoint-search-results"></a>El contenido no aparece en los resultados de la búsqueda de SharePoint
 
@@ -28,7 +28,7 @@ Siga estos pasos de solución de problemas cuando el contenido esperado no apare
 
 3. Compruebe que la página, el documento o el diseño de página personalizado está publicado como una **versión principal.** Seguir el paso 3 de la [búsqueda no devuelve todos los resultados en SharePoint Online](https://go.microsoft.com/fwlink/?linkid=874525).
 
-4. Compruebe que el usuario tiene **permisos** para ver el contenido. Siga los pasos descritos en Understanding [Levels in SharePoint](https://docs.microsoft.com/en-us/sharepoint/understanding-permission-levels).
+4. Compruebe que el usuario tiene **permisos** para ver el contenido. Siga los pasos descritos en Understanding [Levels in SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
     
 5. Si se ha cambiado el esquema de búsqueda mediante la adición de una nueva propiedad administrada, mediante la edición de una propiedad administrada o mediante la eliminación de una propiedad administrada, será necesario solicitar un rastreo y volver a indizar. Para **volver** a indizar el contenido, siga los pasos descritos en [solicitar manualmente el rastreo y la reindización de un sitio, una biblioteca o una lista](https://docs.microsoft.com/sharepoint/crawl-site-content). Esto puede tardar un rato, esperar 24 horas antes de volver a revisar los resultados.
 

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: ebb9037362d261b81b9b1dcafcbe461aac7f4963
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 1be9763ce7766c6261f0c1dae78ced6727c7a88d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400626"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523780"
 ---
 # <a name="give-users-access-to-sharepoint-and-onedrive"></a>Dar acceso a los usuarios a SharePoint y OneDrive
 
@@ -27,7 +27,7 @@ Si quiere que los usuarios de su organización puedan iniciar sesión y usar Sha
   
 1. Vaya a la [Página usuarios activos en el centro de administración de Microsoft 365](https://portal.office.com/adminportal/home#/users)y, a continuación, haga clic en **Agregar un usuario**.
     
-2. ReLlene la información del usuario y asegúrese de que en licencias de **productos**, se ha asignado una licencia y se ha seleccionado **SharePoint Online** . 
+2. Rellene la información del usuario y asegúrese de que en licencias de **productos**, se ha asignado una licencia y se ha seleccionado **SharePoint Online** . 
     
 Tenga en cuenta que, si permite el uso compartido externo en su organización, los usuarios pueden compartir contenido de SharePoint y OneDrive con personas de fuera de la organización. No es necesario conceder estas licencias a los usuarios externos. Tampoco necesita agregar cuentas para ellos, a menos que el uso compartido esté establecido en "solo usuarios externos existentes". En ese caso, si los usuarios no están en el directorio de su organización, debe agregarlos como usuarios invitados en el centro de administración de Azure AD.
   

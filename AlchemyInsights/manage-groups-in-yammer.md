@@ -11,12 +11,12 @@ ms.custom:
 - "720"
 - "6000003"
 ms.assetid: 254b58a6-a85d-4c1c-b19f-de61b8f9a227
-ms.openlocfilehash: b4f674c4e20fad0dea67de4dd41a28a732118e0e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e3b1c8d7bfab350f2ee4bede0515c90be8c1fad3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380666"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496992"
 ---
 # <a name="manage-groups-in-yammer"></a>Administrar grupos en Yammer
 

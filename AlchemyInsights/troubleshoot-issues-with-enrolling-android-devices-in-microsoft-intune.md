@@ -12,12 +12,12 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: 9cdfda0d7dd45af260f46738cbc85aac46f53960
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1e1d50c31df588a3416d758d40fbd7bde3f73b21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35367306"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36500088"
 ---
 # <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Solucionar problemas relacionados con la inscripción de dispositivos Android en Microsoft Intune
 

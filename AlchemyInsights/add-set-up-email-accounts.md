@@ -13,12 +13,12 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: 1b4c864ef0ad579593032b30581123b0e27ee2ab
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 26e4840f0feb38d8e12c593c00953c376d0817f8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358486"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36494976"
 ---
 # <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a>Problemas al configurar una cuenta de correo electrónico de Exchange en Outlook
 
