@@ -12,16 +12,16 @@ ms.custom:
 - "856"
 - "8000051"
 ms.assetid: 3bac167e-055b-4cfb-ad3f-7b47a7492588
-ms.openlocfilehash: e43fc15553d41dab8636935f9b5557291cd1192a
-ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
+ms.openlocfilehash: 3cf400cbc56d2d3f0bb756358f8348f280b56eae
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35703929"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36546536"
 ---
-# <a name="long-running-script"></a><span data-ttu-id="8eb2b-102">Script de larga ejecución</span><span class="sxs-lookup"><span data-stu-id="8eb2b-102">Long running script</span></span>
+# <a name="long-running-script"></a><span data-ttu-id="820f8-102">Script de larga ejecución</span><span class="sxs-lookup"><span data-stu-id="820f8-102">Long running script</span></span>
 
-<span data-ttu-id="8eb2b-103">Somos conscientes de los problemas con el "script de larga duración" en Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="8eb2b-103">We're aware of issues with "long running script" in Outlook.com.</span></span> <span data-ttu-id="8eb2b-104">Como solución alternativa, use la versión beta de Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="8eb2b-104">As a workaround, please use the Outlook.com beta.</span></span>
+<span data-ttu-id="820f8-103">Somos conscientes de los problemas con el "script de larga duración" en Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="820f8-103">We're aware of issues with "long running script" in Outlook.com.</span></span> <span data-ttu-id="820f8-104">Como solución alternativa, use la versión beta de Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="820f8-104">As a workaround, please use the Outlook.com beta.</span></span>
   
-[<span data-ttu-id="8eb2b-105">Obtenga más información sobre la versión beta de Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="8eb2b-105">Learn more about the Outlook.com beta.</span></span>](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[<span data-ttu-id="820f8-105">Obtenga más información sobre la versión beta de Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="820f8-105">Learn more about the Outlook.com beta.</span></span>](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
   
