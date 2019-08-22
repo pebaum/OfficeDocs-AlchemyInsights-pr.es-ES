@@ -12,12 +12,12 @@ ms.custom:
 - "646"
 - "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 0569cb10c1d1dd422709de5d2569e43ee9d75386
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 316d7253494c55a9bc94797d493897c2ddec516c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385389"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36541602"
 ---
 # <a name="configure-sync-features"></a>Configurar las características de sincronización
 

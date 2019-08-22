@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a994658a-08e1-400e-9ae9-2663edd0d11e
-ms.openlocfilehash: 99b6f7d92729f953c67ef742026876663d37a290
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ef9b7663b8230366764e5ff7bfa176d5cea3f4a9
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34751934"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542478"
 ---
 # <a name="your-users-mailbox-is-being-created"></a>Se está creando el buzón de correo del usuario.
 

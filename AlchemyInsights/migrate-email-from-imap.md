@@ -11,16 +11,16 @@ ms.custom:
 - "732"
 - "1200030"
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: cc0d14d1dd1dc2aec3916d69f7804359de58b604
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 90c291dfbe9eb35dd878040806d5ea649e09097f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379947"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544700"
 ---
-# <a name="when-you-get-a-not-an-accepted-domain-error"></a>Cuando recibe un error de "No es un dominio aceptado"
+# <a name="when-you-get-a-not-an-accepted-domain-error"></a>Cuando recibe un error de «No es un dominio aceptado»
 
-Al intentar agregar una dirección de correo electrónico en el usuario o un grupo, o durante la migración de buzones, es posible que reciba el siguiente error: **No se puede usar el dominio porque no es un dominio aceptado para el sistema de Exchange**.
+Al intentar agregar una dirección de correo electrónico en el usuario o un grupo, o durante la migración de buzones de Office 365, es posible que reciba el siguiente error: **No se puede usar el dominio porque no es un dominio aceptado para el sistema de Exchange**.
   
 En la mayoría de los casos, este error es el resultado de que el nombre de dominio *(por ejemplo, contoso.com)* no se haya configurado completamente para su organización.
   

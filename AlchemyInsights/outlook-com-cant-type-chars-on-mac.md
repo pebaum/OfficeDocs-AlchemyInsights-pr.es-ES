@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000071
-ms.openlocfilehash: 753597db164f68cce7a2b11e406973d35a0cad8e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3bc9915516b268ba8175907bec3a8530351f9f40
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419961"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36537496"
 ---
 # <a name="how-to-type-special-characters-on-a-mac"></a>Cómo escribir caracteres especiales en un equipo Mac
 
 Para escribir caracteres especiales en el equipo Mac, abra el menú **caracteres especiales** con el método abreviado de teclado ⌘ **comando** + **** + **espacio**de control.
 
-un método abreviado rápido para @ también es **ALT** + **64**.
+Un método abreviado rápido para @ también es **Alt** + **64**.

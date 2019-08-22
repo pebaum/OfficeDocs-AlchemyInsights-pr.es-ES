@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000087
-ms.openlocfilehash: 2f2091f9d47ecf6274f4d54c7853ccd324a505cf
-ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
+ms.openlocfilehash: 6144caa8f992fffdfd82c800a780155b29010416
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36049337"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36546464"
 ---
 # <a name="keyboard-shortcuts-in-outlookcom"></a>Métodos abreviados de teclado de Outlook.com
 

@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000082
-ms.openlocfilehash: 00dd77f64497b1c0e7f1f2b3be414b804a20f626
-ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
+ms.openlocfilehash: d1debdfb8f682cfa1d9889f29e2ea409d90185a7
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36048689"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36545381"
 ---
 # <a name="how-do-i-turn-off-skype-in-outlookcom"></a>¿Cómo puedo desactivar Skype Outlook.com?
 

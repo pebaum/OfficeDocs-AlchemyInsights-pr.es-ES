@@ -12,12 +12,12 @@ ms.custom:
 - "1262"
 - "2000021"
 ms.assetid: 05d36350-3b1e-4a5b-bbb1-0791ae727b8a
-ms.openlocfilehash: 46af6e2ff3aec93aae91f7625190f777fe909788
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 49ebcd433414a07becb035c36903d53a77f98872
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354310"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36534400"
 ---
 # <a name="steps-to-resolve-office-activation-error-0xc004b100"></a>Pasos para resolver 0xc004b100 de error de activación de Office
 

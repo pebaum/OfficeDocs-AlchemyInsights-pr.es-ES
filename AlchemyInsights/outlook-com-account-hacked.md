@@ -12,12 +12,12 @@ ms.custom:
 - "773"
 - "8000039"
 ms.assetid: e1930bba-edf7-47cb-b81e-f60d8a2535a8
-ms.openlocfilehash: 66f744106f496d3bbc73649b712a50cf5c7ce7a0
-ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
+ms.openlocfilehash: bb50c64a02c99ebfbda07bd58cb6329356ab24fe
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35704757"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542790"
 ---
 # <a name="outlookcom-account-hacked"></a>Se ha pirateado la cuenta Outlook.com
 

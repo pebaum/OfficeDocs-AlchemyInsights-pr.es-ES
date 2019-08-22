@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1812"
 - "9000229"
-ms.openlocfilehash: f9a41573fc8ad41fd10a12d6c95bd73c97f5a033
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 4fb2e551a6068c654d13093cffbcd1e84f09556f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36042414"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542862"
 ---
 # <a name="add-a-holiday-calendar-in-outlookcom"></a>Agregar un calendario de días festivos en Outlook.com
 

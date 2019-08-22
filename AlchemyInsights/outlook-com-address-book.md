@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1816"
 - "9000232"
-ms.openlocfilehash: 8900b934f5d011b35610baf8e889d8c6072b20ec
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: 38e08429a34e3cd65089505a71a6ca08001439fa
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36044545"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36537965"
 ---
 # <a name="address-book-in-outlookcom"></a>Libreta de direcciones en Outlook.com
 

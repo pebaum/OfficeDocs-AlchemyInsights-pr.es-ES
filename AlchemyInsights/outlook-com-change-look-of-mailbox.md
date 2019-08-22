@@ -11,12 +11,12 @@ ms.custom:
 - "9000257"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 001be203b46e2ec8becb82d0553335d0b4465c77
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 943af80d5d4af5ee67a1a31e9483399e76afdd83
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376382"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36547714"
 ---
 # <a name="change-the-look-of-your-outlookcom-mailbox"></a>Cambiar el aspecto de su buzón de Outlook.com
 

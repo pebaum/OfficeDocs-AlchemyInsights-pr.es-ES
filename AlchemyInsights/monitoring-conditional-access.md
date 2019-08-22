@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 756c5e98ed3e9cedd0152b5747ea6bf1ed31778e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 374814f4eabd61433a15876ebf7f351819933c21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418486"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538790"
 ---
-# <a name="monitoring-conditional-access"></a>Supervisión del acceso condicional
+# <a name="monitoring-conditional-access-for-exchange"></a>Supervisión del acceso condicional para Exchange
 
 Los usuarios con acceso condicional recibirán un correo electrónico de notificación si no cumplen los requisitos de acceso de la organización. Para solucionarlo, recomendamos una o varias de las siguientes soluciones:
   

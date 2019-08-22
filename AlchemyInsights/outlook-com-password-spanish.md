@@ -11,12 +11,12 @@ ms.custom:
 - "8000055"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: bf3a743bf857066872ce6d2f4a4f52e3f4f804ab
-ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
+ms.openlocfilehash: b6c4e5906f42701bcef2e62e6db51184c646b9c3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35704181"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36545931"
 ---
 # <a name="cmo-iniciar-o-cerrar-sesin-en-outlookcom"></a>Cómo iniciar o cerrar la planta en Outlook.com
 

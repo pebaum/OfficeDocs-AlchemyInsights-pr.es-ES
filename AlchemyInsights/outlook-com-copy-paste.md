@@ -11,12 +11,12 @@ ms.custom:
 - "9000303"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: ba51aa82b1eb98ecedcbf779301daa8beafb2f25
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a02b2d86785a63ede7f49faa603d205b566b68e7
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375626"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36546932"
 ---
 # <a name="copy-and-paste-in-outlookcom"></a>Copiar y pegar en Outlook.com
 

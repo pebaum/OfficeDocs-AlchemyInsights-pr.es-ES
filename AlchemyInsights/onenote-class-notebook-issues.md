@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000676"
 - "2577"
-ms.openlocfilehash: 3198113aea314252399c98f5654654663366b0a1
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: ff539417606ebe2b78e484a96bc384ed33e6c994
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045563"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36543114"
 ---
 # <a name="onenote-class-notebook-issues-and-resolutions"></a>Problemas y soluciones de Bloc de notas de clase de OneNote
 
@@ -28,7 +28,7 @@ A continuación, se incluyen algunos temas y solucionadores de problemas solicit
 
 - **Quite a los alumnos:** Empiece con [quitar alumnos del Bloc de notas de clase de OneNote](https://support.office.com/article/86dcf019-408f-4de8-8055-eb61f1578c3c). Para los problemas relacionados con la eliminación de alumnos, consulte [se ha eliminado el alumno pero todavía aparece su carpeta](https://support.office.com/article/0ed81eaa-c14a-436f-bb6f-ce95f130cc71).
 
-- **Nuevos profesores:** Para ayudar a los nuevos profesores a configurar su bloc de notas de clase, revise [Agregar o quitar profesores compartidos en Bloc de](https://support.office.com/en-us/article/fdcb870b-49a7-4a14-9ea6-d817f88026f8) notas de clase para OneNote o [transferir Bloc de notas de clase a un nuevo profesor](https://support.office.com/article/84ef5d4a-0eec-4d5b-bc22-1317bc3b9027).
+- **Nuevos profesores:** Para ayudar a los nuevos profesores a configurar su bloc de notas de clase, revise [Agregar o quitar profesores compartidos en Bloc de](https://support.office.com/article/fdcb870b-49a7-4a14-9ea6-d817f88026f8) notas de clase para OneNote o [transferir Bloc de notas de clase a un nuevo profesor](https://support.office.com/article/84ef5d4a-0eec-4d5b-bc22-1317bc3b9027).
 
 Si el problema que está viendo no aparece aquí, consulte la sección [solución de problemas](https://support.office.com/article/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea#ID0EAABAAA=Manage&ID0EABAAA=Troubleshoot) de [Bloc de notas de clase](https://support.office.com/article/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea). 
 

@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: afee367e250357b20b77f0ea5dfe66d68967eb2a
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 52429314d1529d0d2df7886feaebbcfd27666a06
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270725"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36559714"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Solucionar los problemas de "Abrir con el explorador" en SharePoint Online
 

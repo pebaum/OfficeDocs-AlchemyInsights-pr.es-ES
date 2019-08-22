@@ -14,12 +14,12 @@ ms.custom:
 - "1793"
 - "9000203"
 - "9000215"
-ms.openlocfilehash: d21ff26d3f64d54e14ca908e15c26e1dc1247338
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 4835b3996651ccdbd390a1ece2555ffe7f0fe430
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "35612540"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36546701"
 ---
 # <a name="filtering-in-outlookcom"></a>Filtrar en Outlook.com
 

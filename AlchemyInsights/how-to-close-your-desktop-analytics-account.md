@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2499"
-ms.openlocfilehash: 5407129d9fcc3aadaf7e9f5b2c24152a8f1fd5a7
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: 8ca9b323800a43d968192cef39b2b84d4c38e762
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800619"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36541745"
 ---
 # <a name="how-to-close-your-desktop-analytics-account"></a>Cómo cerrar la cuenta de Desktop Analytics
 

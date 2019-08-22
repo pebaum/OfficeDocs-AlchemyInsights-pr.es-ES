@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: 60d51a4266ddc56317993be71d6ece0ed809405c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 18de4ff4b738f289084e7d533ddfc6339204efdb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35378074"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36543150"
 ---
 # <a name="ose-sharing-errors"></a>Errores de uso compartido de OSE
 

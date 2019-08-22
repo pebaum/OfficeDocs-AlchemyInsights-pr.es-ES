@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: 7620537310b48b34124d815d112c9544d91f5283
-ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
+ms.openlocfilehash: a7eed96ea74b037adaa39bbe2d91936d65fe54c3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/10/2019
-ms.locfileid: "35614151"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538217"
 ---
 # <a name="add-your-other-email-accounts-to-outlookcom"></a>Agregue sus otras cuentas de correo electrónico a Outlook.com
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2381"
 - "9000545"
-ms.openlocfilehash: e25bc485b3550f1985673ea59ca56cdf41e9044d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 0f9c7669a91c3bf197cd19d566296dd0dedf62cb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377210"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542769"
 ---
 # <a name="bitlocker-recovery"></a>Recuperación de BitLocker
 

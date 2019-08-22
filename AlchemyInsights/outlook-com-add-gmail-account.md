@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1820"
 - "9000236"
-ms.openlocfilehash: 33bd6fa8a26eb27c1d829268ac0956c2dbf90d58
-ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
+ms.openlocfilehash: 59325a0d1221dac6fcd905f3918c164f69551271
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/10/2019
-ms.locfileid: "35614187"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538145"
 ---
 # <a name="add-your-gmail-account-to-outlookcom"></a>Agregar su cuenta de Gmail a Outlook.com
 

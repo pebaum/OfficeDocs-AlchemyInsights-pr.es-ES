@@ -13,12 +13,12 @@ ms.custom:
 - "1415"
 - "8000043"
 ms.assetid: 16b5fbc6-6f45-4707-97bb-49a9b610ac56
-ms.openlocfilehash: cca92cbe1d52f65acdf99fc4d1e2f5a3a8309248
-ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
+ms.openlocfilehash: 92b350c15883d4058eb38f451f5bcc792603c2f3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35704829"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535815"
 ---
 # <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>Configuración de POP, IMAP y SMTP para Outlook.com
 

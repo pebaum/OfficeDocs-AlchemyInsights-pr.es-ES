@@ -11,12 +11,12 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: c28cae4cfa3dd64ea2b69f60b610ef1cb18b30ea
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 0469aa53e031970ef295856619dbb59e0b95bf5a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376418"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36547832"
 ---
 # <a name="unable-to-sign-out-of-outlookcom"></a>No se puede cerrar la sesión de Outlook.com
 

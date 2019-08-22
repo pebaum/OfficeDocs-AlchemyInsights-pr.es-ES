@@ -13,12 +13,12 @@ ms.custom:
 - "628"
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: d203c1256785a99426503a5386935d78f8966a8b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 249d388564294f65e759f84b7fcb09278e05cc12
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384698"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540702"
 ---
 # <a name="how-to-enable-seamless-sso"></a>Cómo habilitar el SSO sin problemas
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1276"
 - "8000079"
-ms.openlocfilehash: cc177c7616da1a784bd72bf9648beb4f84f6139b
-ms.sourcegitcommit: 7c0575fd30f0f4448e530e1ec40eabb362cb4670
+ms.openlocfilehash: e0c2029ce40e4c105c7a4790f15555f9cd3b1fee
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35595235"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36536524"
 ---
 # <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problemas con la notificación de correo no deseado desde LinkedIn
 

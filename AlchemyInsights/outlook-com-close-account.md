@@ -13,12 +13,12 @@ ms.custom:
 - "206"
 - "8000005"
 ms.assetid: ef3475a8-e898-44d8-ae1d-82cdbf4454e8
-ms.openlocfilehash: 8ad2f2a5eaee1ec38188dc7a45da37f904be1e77
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 0ab0f867c399d3e5ac6015afdcb4d8295e6fd839
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375842"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36537064"
 ---
 # <a name="close-your-outlookcom-account"></a>Cerrar la cuenta de Outlook.com
 

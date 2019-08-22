@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1770"
 - "9000202"
-ms.openlocfilehash: 25d48e964d2669243eb4d44c773606d7142f2853
-ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
+ms.openlocfilehash: 6e52fd9f095464d158ade14ea4b51a0401d0f57e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36049013"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535912"
 ---
 # <a name="how-to-find-options-in-outlookcom-settings"></a>Cómo buscar opciones en la configuración de Outlook.com
 

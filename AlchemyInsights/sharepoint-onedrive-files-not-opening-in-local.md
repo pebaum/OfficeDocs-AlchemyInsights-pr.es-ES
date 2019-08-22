@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: fceb8656ed6f7b59492b63208475051b5f37d209
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 43df8ff77c26e7f5068bb99aaef5260b86acb807
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223477"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535300"
 ---
 # <a name="problems-opening-office-files-from-sharepoint"></a>Problemas al abrir archivos de Office desde SharePoint
 

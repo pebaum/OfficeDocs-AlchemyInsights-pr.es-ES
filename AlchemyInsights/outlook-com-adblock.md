@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "9000594"
 - "2438"
-ms.openlocfilehash: 9355e7a39d867e35755b2a2c0c8eb434234f19d3
-ms.sourcegitcommit: 67292e43d1834c2cd20be9433698da47da59c135
+ms.openlocfilehash: 4f0eb41b63d7654ea793952c7d7eac6e16856310
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34749413"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538289"
 ---
 # <a name="adblock"></a>AdBlock
 

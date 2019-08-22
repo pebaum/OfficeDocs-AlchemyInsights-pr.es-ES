@@ -11,12 +11,12 @@ ms.custom:
 - "966"
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
-ms.openlocfilehash: 95e60599b5298090db23bf887cb860350280964f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4683a71438ec31f9e9211404a9c66c4e45e0e1df
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384842"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540918"
 ---
 # <a name="how-to-disable-external-groups"></a>Cómo deshabilitar grupos externos
 

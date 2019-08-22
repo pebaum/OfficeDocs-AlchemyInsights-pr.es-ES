@@ -14,12 +14,12 @@ ms.custom:
 - "1396"
 - "1397"
 - "8000034"
-ms.openlocfilehash: 9bf158d434704ec13878c78461bfeeec22a7ac81
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5c411bca304071938982406816cb945037eac2ed
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373034"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36545312"
 ---
 # <a name="read-receipts"></a>Confirmaciones de lectura
 

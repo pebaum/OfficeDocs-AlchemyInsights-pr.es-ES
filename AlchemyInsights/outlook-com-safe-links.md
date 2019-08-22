@@ -13,12 +13,12 @@ ms.custom:
 - "962"
 - "8000057"
 ms.assetid: f0e4afcc-b0a1-4b1b-b1e8-743504b54d37
-ms.openlocfilehash: cd20c5a989e82f1f72829709d810305da6684fe9
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 3ae28c7d3f6586e24950c64ad893081aa25e242a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36166241"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36545276"
 ---
 # <a name="advanced-outlookcom-security-for-office-365-subscribers"></a>Seguridad Outlook.com avanzada para suscriptores de Office 365
 
