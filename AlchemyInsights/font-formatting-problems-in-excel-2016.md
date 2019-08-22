@@ -13,12 +13,12 @@ ms.custom:
 - "232"
 - "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: e1c773901cf367f40256597e1559da4d5da861c8
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 808fb5caefcd07885ac2b29d3f499cc5cb824fc3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35387218"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36524644"
 ---
 # <a name="font-formatting-problems-in-excel"></a>Problemas de formato de fuente en Excel
 

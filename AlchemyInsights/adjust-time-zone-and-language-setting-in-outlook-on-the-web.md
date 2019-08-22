@@ -13,12 +13,12 @@ ms.custom:
 - "620"
 - "3800018"
 ms.assetid: 9ee8d6dc-3bb4-4e2b-ba22-7a8466d039d9
-ms.openlocfilehash: 29633d96201d557ea70f4c3974c5730fe5b9f30e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 64e58d9ff51543919418668971c08ad90acee32f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357910"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499944"
 ---
 # <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a>Ajustar la configuración de zona horaria y idioma en Outlook en la web
 

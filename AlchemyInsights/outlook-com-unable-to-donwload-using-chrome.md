@@ -13,12 +13,12 @@ ms.custom:
 - "8000085"
 - "1352"
 ms.assetid: ''
-ms.openlocfilehash: 1c3f929a319b5f6ef52f5469f2e60eb481b66165
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: f8b62ce98c125360bb48c36339f9b9593fc5a55b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35602052"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511612"
 ---
 # <a name="cant-download-files-in-chrome"></a>No se pueden descargar archivos en Chrome
 

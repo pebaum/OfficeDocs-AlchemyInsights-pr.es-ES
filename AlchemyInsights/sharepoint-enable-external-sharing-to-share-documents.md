@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 22ed3ac5dec2077d05bce43921fe2e014009f6fb
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 31db17a45814355f9594a340881660ba7010b1a6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270473"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36504264"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>Uso compartido externo en SharePoint Online
 

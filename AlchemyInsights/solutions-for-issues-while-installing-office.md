@@ -12,12 +12,12 @@ ms.custom:
 - "852"
 - "2000020"
 ms.assetid: 26f1e0e6-7fbb-4c6d-aa31-eb60a2a77655
-ms.openlocfilehash: 4324abd3588b68fcd291cd29da7cf236b10f71a6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 496db627c9d56fb19322e2fda7d9733ded7407ce
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354886"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501456"
 ---
 # <a name="solutions-for-issues-while-installing-office"></a>Soluciones para problemas durante la instalación de Office
 

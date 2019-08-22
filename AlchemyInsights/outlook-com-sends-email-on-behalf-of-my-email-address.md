@@ -12,12 +12,12 @@ ms.custom:
 - "812"
 - "8000048"
 ms.assetid: fe180c8c-d9e5-4a8c-af54-3fe8fa4a4331
-ms.openlocfilehash: 06d5a62624d4570d3a0427a93086c2a7d2149af0
-ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
+ms.openlocfilehash: 1739751052cef1bc57bb8e5667e7d7626ba11eb9
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35704634"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36521340"
 ---
 # <a name="outlookcom-sends-email-on-behalf-of-my-email-address"></a>Outlook.com envía un correo electrónico "en nombre de" mi dirección de correo electrónico
 

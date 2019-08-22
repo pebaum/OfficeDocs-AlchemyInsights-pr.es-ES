@@ -14,12 +14,12 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: ad1a77b69d2d453dbd3daa304759238b329f96ba
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 96780bd2f4182c1385406ec2a31cd62745137985
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36269933"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36515824"
 ---
 # <a name="create-a-sharepoint-site"></a>Creación de un sitio de SharePoint
 

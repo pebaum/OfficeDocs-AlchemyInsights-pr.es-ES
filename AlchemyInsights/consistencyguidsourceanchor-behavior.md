@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
-ms.openlocfilehash: cb1b50792b07a1b3b69607bf2f6824141a15922f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f0ff94a8e46f1fb4e0ac8653c51f8f651e29498b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408125"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517012"
 ---
 # <a name="consistencyguid--sourceanchor-behavior"></a>Comportamiento de ConsistencyGuid/sourceAnchor
 

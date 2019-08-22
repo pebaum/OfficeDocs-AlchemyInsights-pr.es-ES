@@ -12,12 +12,12 @@ ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: 3bea0aff82cef78fc5aab892d6401d39e718ca94
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: cda46c32fcdb4e4dfbe3ab8323c2de9ab1420f32
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35362518"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520756"
 ---
 # <a name="changing-public-folder-permissions"></a>Cambio de permisos de carpetas públicas
 

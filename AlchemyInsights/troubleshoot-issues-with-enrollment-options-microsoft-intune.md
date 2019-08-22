@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9bef81ad-7514-49c8-b149-24d8fec90486
-ms.openlocfilehash: b2333a51f0cc0061351bc441d47444db52b262aa
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: dfe6c90d0c370037c92df3a8ed01dcbec6ae9d50
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32390588"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36559354"
 ---
 # <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Solución de problemas de opciones de inscripción Microsoft Intune
 

@@ -13,12 +13,12 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: ab26fc36d31badde5eef3a23082c96d23a5d744f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3963f9627da61e6b49f00593094084af3c2db5ec
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389049"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526156"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Ampliar la versión de prueba de Office 365 para empresas
 
@@ -32,4 +32,4 @@ Si la suscripción de prueba está en 15 días tras la expiración y la versión
 
 4. Debe proporcionar la información de la tarjeta de crédito para extender la versión de prueba. No cargaremos su tarjeta de crédito para la extensión de la versión de prueba.
 
-Para obtener más información acerca de la ampliación de pruebas o para obtener instrucciones paso a paso, consulte [ampliar la versión de prueba de Office 365 para empresas](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/extend-your-trial).
+Para obtener más información acerca de la ampliación de pruebas o para obtener instrucciones paso a paso, consulte [ampliar la versión de prueba de Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).

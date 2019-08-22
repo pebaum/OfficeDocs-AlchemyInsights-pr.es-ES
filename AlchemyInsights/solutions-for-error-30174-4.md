@@ -14,12 +14,12 @@ ms.custom:
 - "831"
 - "2000020"
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
-ms.openlocfilehash: 7245542aaf24990f7181d635244b8f47a93aafde
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f1edd7ebd61b46c601a53f7362d9e65acbc81701
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354670"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501636"
 ---
 # <a name="error-code-30174-4-when-installing-office"></a>Código de error 30174-4 al instalar Office
 

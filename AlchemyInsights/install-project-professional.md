@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000695"
 - "2607"
-ms.openlocfilehash: 56cb5476adbaf0b4dcda871b6e33f7a3c2ac8033
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 6d88f8f13f242d797114eae2367f16de03c6ca33
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36272102"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498720"
 ---
 # <a name="install-project-professional"></a>Instalación de Project Professional
 

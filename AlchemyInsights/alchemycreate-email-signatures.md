@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 563c1541-b4d3-4f7a-aaec-8b3b1477e517
-ms.openlocfilehash: 9a5654ec2ed890c1b899d779dd48578341f703fb
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 32b4cdb51aaf065d7da5a1021b6970d50815cc9e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398095"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505560"
 ---
 # <a name="create-email-signatures"></a>Crear firmas de correo electrónico
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: e682a1b3dbd0d3a1c2e52be725dd2b57fc66109a
-ms.sourcegitcommit: a2c866d2f3cdc1e18a33a5b2a4209340e83ca3c2
+ms.openlocfilehash: f389785fcd1029ae5a47e07c723874f9f214109d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36404819"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36504480"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>Notificaciones de alerta de SharePoint no entregadas
 
@@ -26,7 +26,7 @@ Compruebe la carpeta de correo no deseado en el correo electrónico, ya que a ve
 
 Determine si no **se entregan todas las alertas** o si no se entrega **una alerta individual** de un archivo o biblioteca específicos.
 
-- **No se entregan alertas individuales**: Si no se entrega una alerta individual de un archivo o biblioteca específicos, puede intentar eliminarla y volver a crearla. Consulte [administrar, ver o eliminar alertas de SharePoint](https://support.office.com/en-us/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=en-US&ad=US#ID0EAADAAA=Online) para volver a crear la alerta.
+- **No se entregan alertas individuales**: Si no se entrega una alerta individual de un archivo o biblioteca específicos, puede intentar eliminarla y volver a crearla. Consulte [administrar, ver o eliminar alertas de SharePoint](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=en-US&ad=US#ID0EAADAAA=Online) para volver a crear la alerta.
 - **No se entregan todas las alertas**: Si no se entregan todas las alertas de varios archivos o bibliotecas, visite el [Panel de estado del servicio](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) para comprobar si hay algún asesor o incidente que pueda producirse con SharePoint o Exchange. El problema podría estar relacionado con la capacidad de alerta de SharePoint o con retrasos en los correos electrónicos a través de Exchange. También será importante tener en cuenta si se va a entregar otro correo electrónico y, de no ser así, es probable que el problema se produzca con retrasos de Exchange.
 
 Preguntas más frecuentes sobre alertas:
@@ -36,17 +36,17 @@ Preguntas más frecuentes sobre alertas:
 
 Más información:
 
-- **Configuración de alertas**: para obtener más información sobre cómo configurar las alertas, vea [crear una alerta para recibir una notificación cuando cambia un archivo o una carpeta en SharePoint](https://support.office.com/en-us/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Solucionar problemas de alertas**: para obtener más información sobre la solución de problemas de alertas, consulte [usuarios que no reciben notificaciones de alertas de SharePoint Online](https://docs.microsoft.com/en-us/sharepoint/support/sites/no-alert-notifications).
-- **Directivas avanzadas de alertas de cumplimiento de O365**: para obtener más información acerca de cómo configurar estas alertas, consulte [directivas de alertas de cumplimiento](https://docs.microsoft.com/en-us/office365/securitycompliance/alert-policies).
-- **Registros de auditoría de SharePoint y OneDrive**: para obtener más información sobre cómo recuperar estos eventos, vea [Buscar en el registro de auditoría](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Alertas enviadas por la protección contra amenazas avanzada**: consulte [ATP para SharePoint y OneDrive](https://docs.microsoft.com/en-us/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Alertas enviadas por directivas de prevención de pérdida de datos**: consulte [notificaciones de correo electrónico para directivas de DLP](https://docs.microsoft.com/en-us/office365/securitycompliance/use-notifications-and-policy-tips).
+- **Configuración de alertas**: para obtener más información sobre cómo configurar las alertas, vea [crear una alerta para recibir una notificación cuando cambia un archivo o una carpeta en SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
+- **Solucionar problemas de alertas**: para obtener más información sobre la solución de problemas de alertas, consulte [usuarios que no reciben notificaciones de alertas de SharePoint Online](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
+- **Directivas avanzadas de alertas de cumplimiento de O365**: para obtener más información acerca de cómo configurar estas alertas, consulte [directivas de alertas de cumplimiento](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
+- **Registros de auditoría de SharePoint y OneDrive**: para obtener más información sobre cómo recuperar estos eventos, vea [Buscar en el registro de auditoría](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+- **Alertas enviadas por la protección contra amenazas avanzada**: consulte [ATP para SharePoint y OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
+- **Alertas enviadas por directivas de prevención de pérdida de datos**: consulte [notificaciones de correo electrónico para directivas de DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
 ## <a name="related-topics"></a>Temas relacionados
 
 ¿Desea probar Microsoft Flow en SharePoint Online?
 
-- [Crear flujo](https://support.office.com/en-us/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+- [Crear flujo](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
 
 - [Flujo y SharePoint](https://flow.microsoft.com/en-us/blog/sharepoint-and-flow/)

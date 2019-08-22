@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: 87fc4916100716bb2a95a8f7d9b0409f3c518fa1
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 067756fb7a411a2c75de1c61c3b57e78a07046da
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36272110"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526048"
 ---
 # <a name="external-user-cannot-access-content"></a>El usuario externo no puede obtener acceso al contenido
 

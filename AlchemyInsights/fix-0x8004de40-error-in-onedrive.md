@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 2256fb66cb7a4e2adcff9fda16a80c87e2997f0c
-ms.sourcegitcommit: 8f6a1be929b275faa295ba8aeeae17898a47c3b0
+ms.openlocfilehash: d436184bdc0e283db217ea734fb2c8e05f85b4e7
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35133993"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36525076"
 ---
 # <a name="fix-0x8004de40-error-in-onedrive"></a>Error de corrección 0x8004de40 en OneDrive
 

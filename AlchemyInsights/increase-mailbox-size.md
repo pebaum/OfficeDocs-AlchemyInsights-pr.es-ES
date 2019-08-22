@@ -13,12 +13,12 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: fc50b895f2c239ab05b58063058243fdc007f7be
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 67575a64090b013e9cd65123100c77f6f3599cdc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382430"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499332"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Cambiar de planes para aumentar el tamaño del buzón.
 

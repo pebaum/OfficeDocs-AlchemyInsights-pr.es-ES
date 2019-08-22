@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: 8d46340fed8a86756f5e2bef04550a117b777690
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: b0545c792e81fe733107a6157f4d57aa7bbc9fba
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36272106"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36503616"
 ---
 # <a name="sharepoint-migration-throttling-with-503-errors"></a>Limitación de la migración de SharePoint con 503 errores
 

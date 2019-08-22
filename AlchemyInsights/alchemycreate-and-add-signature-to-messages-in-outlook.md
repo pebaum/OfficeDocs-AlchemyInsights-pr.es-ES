@@ -13,12 +13,12 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: 624c8a65d4031a3b9b9e0e8a3ccecde1333dda0f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3ab140f81b208053906dfe030d98f4590d6f39d5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357694"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36494220"
 ---
 # <a name="creating-email-signatures"></a>Crear firmas de correo electrónico
 

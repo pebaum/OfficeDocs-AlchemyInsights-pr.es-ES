@@ -13,40 +13,38 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: f2d9896f10f122e3d1e6b24de441144134d03570
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b6a8e6dc08941bf18c3ef8f36a14d63a41b34d4d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388833"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522448"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Cómo agregar o reducir licencias
 
-Esta es la manera de quitar o comprar más licencias.
+Esta es la manera de quitar o comprar más licencias de Office 365.
   
-1. En el centro de administración, vaya a la página suscripciones de **facturación** \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. En el centro de administración, vaya a la página productos de **facturación** \> [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. En la parte izquierda, elija la suscripción de la que desea agregar o quitar licencias.
+2. Elija la suscripción de la que desea agregar o quitar licencias.
 
-3. Elija **Agregar o quitar licencias**.
+3. Seleccione **Agregar o quitar licencias**.
 
 4. Escriba el número total de usuarios necesarios.
 
     Por ejemplo, si actualmente tiene 25 licencias y desea quitar 5, escriba 20 en este campo.
 
-5. Choose **Submit**.
+5. Elija **Enviar cambio**.
 
 > [!NOTE]
 > Cualquier nueva carga (aumento de licencia) o crédito (disminución de la licencia) se mostrará en la próxima factura.
 
-¿Usa el nuevo centro de administración? Para conocer los nuevos pasos, vea [comprar licencias para una suscripción de Office 365 para empresas](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses).
+Para obtener más información, vea [comprar licencias para la suscripción a Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
- **Resources**
+ **Recursos adicionales**
   
-- [Quitar licencias de la suscripción de Office 365 para empresas](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
+- [Quitar licencias de la suscripción de Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
 
-- [Comprar licencias para su suscripción de Office 365 para empresas](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses)
+- [Cancelar Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
 
-- [Cancelar Office 365 para empresas](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
-
-- [Comprar otra suscripción a Office 365 para empresas](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-another-subscription)
+- [Comprar otra suscripción a Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)

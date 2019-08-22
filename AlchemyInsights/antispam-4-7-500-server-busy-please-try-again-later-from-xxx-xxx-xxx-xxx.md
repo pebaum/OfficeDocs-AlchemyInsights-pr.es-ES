@@ -12,12 +12,12 @@ ms.custom:
 - "1050"
 - "3100024"
 ms.assetid: a97b7845-4884-4d99-bab6-52539603cab2
-ms.openlocfilehash: 57db2d57e65befc39699bcda5d9620f015e3fe3d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7f6a8bee1417741e7a8145778f03bf6fd8c9bdcd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356866"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36494328"
 ---
 # <a name="47500-server-busy-please-try-again-later"></a>4.7.500 el servidor está ocupado; inténtelo de nuevo más tarde.
 

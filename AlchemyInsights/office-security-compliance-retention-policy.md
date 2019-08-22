@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 8d85116443b74369d33008ae8a398abc4597b6d4
-ms.sourcegitcommit: a2c866d2f3cdc1e18a33a5b2a4209340e83ca3c2
+ms.openlocfilehash: ff9daf0489fb5feeb22bda19d55136caaea024cb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36404855"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36521692"
 ---
 # <a name="more-info-about-retention-policies"></a>Más información sobre las directivas de retención
 
@@ -27,29 +27,29 @@ Para la mayoría de las organizaciones, el volumen y la complejidad de sus datos
 ## <a name="a-from-security-and-compliance-center"></a>A) del centro de seguridad y cumplimiento
 
 - Ir a seguridad y cumplimiento > gobierno de datos > retención
-  - Consulte [este](https://docs.microsoft.com/en-us/office365/securitycompliance/retention-policies) artículo
+  - Consulte [este](https://docs.microsoft.com/office365/securitycompliance/retention-policies) artículo
 
 - Vaya a seguridad y cumplimiento > eDiscovery> eDiscovery avanzado 
-  - Consulte [este](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases) artículo
+  - Consulte [este](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) artículo
 
 - Ir a las clasificaciones de > de seguridad y cumplimiento > retención
   - Consulte estos artículos
-    - [Etiquetas de confidencialidad](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
-    - [Información general sobre etiquetas](https://docs.microsoft.com/en-us/office365/securitycompliance/labels)
+    - [Etiquetas de confidencialidad](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+    - [Información general sobre etiquetas](https://docs.microsoft.com/office365/securitycompliance/labels)
 
 ## <a name="b-legacy-ediscovery-policies"></a>B) directivas de eDiscovery heredadas
 
-- Consulte [este](https://support.office.com/en-us/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) artículo
+- Consulte [este](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) artículo
 
 ## <a name="c-site-closure-and-deletion-policies"></a>C) directivas de cierre y eliminación del sitio
 
-- Consulte [este](https://support.office.com/en-us/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) artículo  
+- Consulte [este](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) artículo  
 
 ## <a name="d-information-rights-management-irm"></a>D) Information Rights Management (IRM)
 
 - Consulte estos artículos
-  - [IRM en una lista/Biblioteca](https://support.office.com/en-us/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
-  - [Introducción a IRM](https://support.office.com/en-us/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+  - [IRM en una lista/Biblioteca](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [Introducción a IRM](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
 > [!Note]
 > Se recomienda encarecidamente cambiar a las directivas de seguridad y cumplimiento si todavía está usando eDiscovery o IRM heredado, o directivas de cierre y eliminación de sitios.

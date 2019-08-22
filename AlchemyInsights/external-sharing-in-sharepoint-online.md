@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "1749"
-ms.openlocfilehash: 69b48e614fe55912699a7b943dbd2b132ee1c17d
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 9b19d15bcca10ff6e2dadf02e0a6092fae144292
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36272114"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526011"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>Uso compartido externo en SharePoint Online
 
@@ -37,7 +37,7 @@ Para obtener más información sobre el uso compartido externo, visite los sigui
 ¿Recibe un error con un usuario externo?Compruebe los siguientes vínculos:
 
 - [Errores "acceso denegado", "necesita permiso para obtener acceso a este sitio" o "usuario no encontrado en el directorio" en SharePoint Online y OneDrive para la empresa](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [Error "las directivas de la organización no le permiten compartir con estos usuarios" al compartir un elemento o sitio en SharePoint Online o OneDrive para la empresa](https://docs.microsoft.com/en-us/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [Error "las directivas de la organización no le permiten compartir con estos usuarios" al compartir un elemento o sitio en SharePoint Online o OneDrive para la empresa](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 - [Las opciones de uso compartido se muestran atenuadas al compartir desde SharePoint Online o OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
 - [Mensaje de error cuando un usuario externo acepta una invitación de SharePoint Online con otra cuenta](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
 - [Errores de uso compartido de OSE en SharePoint y OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)

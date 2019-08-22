@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2548"
 - "9000672"
-ms.openlocfilehash: b6794ad9de95f9a0bc7b93e2840a2e26f8b7a699
-ms.sourcegitcommit: 1320693af1222a8c55f67d714dcd084d72b3ffd4
+ms.openlocfilehash: 6c975955b596a0c8ab2693aa73074ad7c86913e0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35849469"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507216"
 ---
 # <a name="transfer-ownership-of-a-microsoft-form"></a>Transferir la propiedad de un formulario de Microsoft
 

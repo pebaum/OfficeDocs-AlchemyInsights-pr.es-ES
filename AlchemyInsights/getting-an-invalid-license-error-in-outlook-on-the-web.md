@@ -13,12 +13,12 @@ ms.custom:
 - "125"
 - "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: 62ddd64bf9e12c0b2acd35dfb09d301ab99cfa8a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d0f3fa354eb63c5a5f92d017694623c36fc6df30
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386642"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523816"
 ---
 # <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>¿Se obtiene un error de licencia no válida en Outlook en la web?
 

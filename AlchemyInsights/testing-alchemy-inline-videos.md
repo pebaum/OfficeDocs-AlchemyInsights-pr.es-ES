@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d00e9a23-6443-4f4d-8ea7-bb75fb590b74
-ms.openlocfilehash: 48045e5ebbcfef87d9c9902dccbf1f551a00d3c8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 83fc8cf2f656c27493fa3d4bf007185ddee35ecc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32391527"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36500592"
 ---
 # <a name="set-up-domain-and-users"></a>Configurar el dominio y los usuarios
 

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: 359386624f36dd997227b59802609862e05686df
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: b5653648d2c5e136cc35e3fe98f777f5932e4ac8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34758327"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36502788"
 ---
 # <a name="user-permissions-in-sharepoint"></a>Permisos de usuario en SharePoint
 

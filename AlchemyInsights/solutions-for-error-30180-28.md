@@ -12,12 +12,12 @@ ms.assetid: 2caadb7a-3b1e-4332-b928-03c1d51da8d3
 ms.custom:
 - "832"
 - "2000020"
-ms.openlocfilehash: ae1b36fe711b0e20d1c9f36d55645506f3ef1e65
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 63bb8b7495232bb43e9e7c45565a1c900a0e1f1d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354922"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501528"
 ---
 # <a name="solutions-for-error-30180-28"></a>Soluciones para el error 30180-28
 

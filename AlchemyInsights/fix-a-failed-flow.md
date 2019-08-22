@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
-ms.openlocfilehash: 28e3d83ee2b16c003f50a3b8815c034a97f5d55b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d99abced5627599380ba8b1e5e8d7f8d1109a8f2
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401309"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36525277"
 ---
 # <a name="fix-a-flow-that-failed"></a>Corregir un flujo con errores
 

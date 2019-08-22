@@ -13,14 +13,14 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: 70b09fc739d5967f40b7fa7a036e0721ff614e95
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5456a07a919b6344206deb2847aaf3843182b63b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35390170"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511535"
 ---
-# <a name="how-to-verify-your-account"></a>Cómo comprobar la cuenta
+# <a name="how-to-verify-your-outlookcom-account"></a>Cómo comprobar la cuenta de Outlook.com
 
 La verificación en dos pasos ayuda a protegerte haciéndole más difícil iniciar sesión en tu cuenta de Microsoft. Utiliza dos formas diferentes de identidad: su contraseña y un método de contacto (también conocido como Security info).
   

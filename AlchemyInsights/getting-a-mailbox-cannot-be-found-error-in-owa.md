@@ -13,12 +13,12 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: cb26898269888183262618e20e10366c80f41c42
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 136337c2791c69bf97ffd6a1498917015d348f8d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386930"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523888"
 ---
 # <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Error al obtener un buzón no encontrado en Outlook en la web
 

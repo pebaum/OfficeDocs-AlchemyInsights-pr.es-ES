@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 2a760386e84f13bd39a8b60582a36f2bfb9130a2
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 1359832943144ecf4727221771de981b131e8e94
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34719008"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36531046"
 ---
 # <a name="intermittent-delays-with-workflow-progress"></a>Retrasos intermitentes con progreso del flujo de trabajo
 

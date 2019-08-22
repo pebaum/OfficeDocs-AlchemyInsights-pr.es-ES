@@ -12,12 +12,12 @@ ms.custom:
 - "774"
 - "8000040"
 ms.assetid: 9b130870-ce56-4505-b93b-d1f0d4e52b3c
-ms.openlocfilehash: e72ec49eec7e4d28ecdab6cd7e4ac0cc2826f9ed
-ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
+ms.openlocfilehash: 73ba3428f6b2cf95a23acec1f102ed7e78570864
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35704001"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36494760"
 ---
 # <a name="add-your-outlookcom-account-to-another-mail-app"></a>Agregar su cuenta de Outlook.com a otra aplicación de correo
 

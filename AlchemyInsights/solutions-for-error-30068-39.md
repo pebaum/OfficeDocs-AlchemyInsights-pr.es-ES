@@ -13,12 +13,12 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 07c593d439a9954c70c1a41539a624a7a97c47e3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 0edb3f738f55406ba97872311f1bde907e0ed6c8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35368170"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501708"
 ---
 # <a name="solutions-for-error-30068-39"></a>Soluciones para el error 30068-39
 

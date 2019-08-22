@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1936"
 - "9000201"
-ms.openlocfilehash: e80a37e186f43f1243594fa115b3d9467d935be5
-ms.sourcegitcommit: 0bff5e2cddacaf2feb44c43e48c8c196f9dfd1e3
+ms.openlocfilehash: 50ad03e19b746c37949ddc85c17428d7dbd79efe
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34748835"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506460"
 ---
 # <a name="uninstall-visio"></a>Desinstalar Visio
 

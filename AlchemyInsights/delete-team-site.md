@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5213e00e-c856-4155-8364-d7f97e3cb094
-ms.openlocfilehash: e10a7cefa28c437fb7d041fda8cbcb164940b0f9
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: bd30d4899e9573f22395a2c05e5c27abc4b699d6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404910"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36512980"
 ---
 # <a name="delete-a-sharepoint-team-site"></a>Eliminar un sitio de grupo de SharePoint
 

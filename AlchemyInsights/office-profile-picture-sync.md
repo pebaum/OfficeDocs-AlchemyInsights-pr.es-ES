@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 10a393284b12a4850d06f613b0403dcf45a9237f
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: e63da2e0e67f2ed1f4f95d128b3215c8378ee81e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34762452"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36521872"
 ---
 # <a name="sync-a-users-profile-picture"></a>Sincronizar la imagen de Perfil de un usuario
 

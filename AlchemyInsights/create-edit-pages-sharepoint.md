@@ -8,12 +8,12 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 2890f5d0f593efd4f65c07d4d58813c1eeebd29d
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: f5e39ee3f4b8f543987267e873ef24a8f452c209
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132179"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36515500"
 ---
 # <a name="create-and-edit-modern-pages-on-sharepoint-site"></a>Crear y editar páginas modernas en un sitio de SharePoint
 

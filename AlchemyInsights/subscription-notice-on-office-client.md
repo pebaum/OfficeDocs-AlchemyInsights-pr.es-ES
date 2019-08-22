@@ -13,12 +13,12 @@ ms.custom:
 - "56"
 - "1600007"
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: 9bd764984a3ea053e6135124c7d217280d2e4fe9
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 03bd18b0ca7af8f3102041c4f6fd604bb29737f8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35367954"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36559786"
 ---
 # <a name="subscription-notice-in-your-office-client"></a>Aviso de suscripción en el cliente de Office?
 

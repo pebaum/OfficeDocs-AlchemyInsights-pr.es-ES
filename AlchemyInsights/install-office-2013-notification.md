@@ -13,12 +13,12 @@ ms.custom:
 - "54"
 - "1700001"
 ms.assetid: d7fb12ba-895f-45bf-9f4a-12620231d31e
-ms.openlocfilehash: b57c4b00f96ff7085dd55978df33a2208294f7c5
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 6a2151f6baf108e168f2ba2ce2e76b5c1a1c6d22
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382106"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498900"
 ---
 # <a name="upgrade-to-office-2016"></a>Actualizar a Office 2016
 

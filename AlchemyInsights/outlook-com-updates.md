@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: fa50002e6ceba625a0db1df407c0e750cd4a69c8
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 7b36780553b14043e2fb2e0ac5e8a9d65b9dc47f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35696992"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511324"
 ---
 # <a name="outlookcom-updates"></a>Actualizaciones de Outlook.com
 

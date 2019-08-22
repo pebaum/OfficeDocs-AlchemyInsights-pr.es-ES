@@ -13,24 +13,24 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: 65059f334e6a6d74c35324d2b10ca5c175398990
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: d56062f049246fdf63bacfc5884453446d7286c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390313"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523168"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>¿Cómo quito la información de la tarjeta de crédito?
 
-1. En el centro de administración, vaya a la página suscripciones de **facturación** \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. En el centro de administración de Microsoft 365, vaya a la página [métodos de pago](https://go.microsoft.com/fwlink/p/?linkid=2018806) de **facturación** \> .
 
-2. Seleccione cualquier suscripción y luego elija **Actualizar detalles de pago**.
+2. En la página **métodos de pago** , seleccione la tarjeta de crédito o la cuenta bancaria que desea eliminar.
 
-3. Elija la flecha desplegable de **Add or select a payment method** (Agregar o seleccionar un método de pago), seleccione la tarjeta de crédito o la cuenta bancaria que quiera eliminar y, después, elija **Eliminar**.
-
-4. Elija **Eliminar** de nuevo para eliminar la tarjeta de crédito o la cuenta bancaria.
+3. Para quitar la tarjeta de crédito o la cuenta bancaria, seleccione **Eliminar método de pago.**
 
 > [!NOTE]
-> Podrá quitar una tarjeta de crédito o cuenta bancaria siempre y cuando no tenga ningún saldo pendiente en ella y no la esté usando para pagar una suscripción activa.
+> No podrá quitar una tarjeta de crédito o cuenta bancaria si se está usando para pagar una suscripción.
 
-¿Usa el nuevo centro de administración? Para nuevos pasos, vea [Agregar, actualizar o quitar una tarjeta de crédito o una cuenta bancaria en Office 365 para empresas](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+4. En el panel **Eliminar método de pago** , seleccione **eliminar**.
+
+Para obtener más información, vea [Agregar, actualizar o quitar una tarjeta de crédito o una cuenta bancaria en Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

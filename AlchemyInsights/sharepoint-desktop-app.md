@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82dcee94-656f-4ec8-a9b2-730adb564c06
-ms.openlocfilehash: 1c1893e40835066b1da5e95c301f21ccb0fcb4c1
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 05a9c689424ccf8b4ed5dd8ee168e640d6bb48a9
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760774"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36504192"
 ---
 # <a name="desktop-app-for-sharepoint"></a>Aplicación de escritorio para SharePoint
 

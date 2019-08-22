@@ -13,12 +13,12 @@ ms.assetid: 2c03462c-8a6a-4042-a6fd-cd9e009b8a3f
 ms.custom:
 - "829"
 - "2000020"
-ms.openlocfilehash: c876122d754da3e0efd0fb414e7a3539da1ef18c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9d323856b1f3ad7cfea6903dcf3c9745a9853d8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35368120"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501672"
 ---
 # <a name="solutions-for-error-30088-4"></a>Soluciones para el error 30088-4
 

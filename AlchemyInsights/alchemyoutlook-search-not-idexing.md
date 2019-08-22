@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: 4b55ef73a9234f605fd3dd02dc801866273be1a6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397951"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505848"
 ---
 # <a name="outlook-search-not-indexing"></a>La búsqueda de Outlook no indiza
 
 Somos conscientes de los problemas de búsqueda de Outlook relacionados con las actualizaciones de seguridad más recientes para Windows.
   
-Al buscar en Outlook, es posible que reciba este error: * * se ha producido un problema y no se pudo completar la búsqueda * *, o puede que los resultados de la **búsqueda estén incompletos porque todavía se están indizando los elementos**. La corrección se emitió como una actualización opcional de Windows. Instale el correspondiente a la versión de Windows en la que está viendo este problema: 
+Al buscar en Outlook, es posible que se produzca uno de estos errores: se **ha producido un problema y no se ha podido completar la búsqueda**, o puede que los resultados de la **búsqueda estén incompletos porque todavía se están indizando los elementos**. La corrección se emitió como una actualización opcional de Windows. Instale el correspondiente a la versión de Windows en la que está viendo este problema: 
   
 > [Windows 7: actualización del 27 de junio de 2017](https://support.microsoft.com/kb/4022168.aspx)
     

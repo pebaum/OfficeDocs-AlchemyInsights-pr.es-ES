@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 10f7f26af6e208872c25c2ff22e925408f9d42c1
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ec39c31baedc8e31a9806b5a6b107009de09ce4c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34758852"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36503004"
 ---
 # <a name="site-and-page-navigation-in-sharepoint-sites"></a>Navegación de sitios y páginas en los sitios de SharePoint
 

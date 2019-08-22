@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: 88fe29b4aa89f05609b7aefc7732bb2b78cf3002
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: ec9b1a8541b1f54f93f38814a402d516788312c8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270185"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517840"
 ---
 # <a name="associate-a-hub-site"></a>Asociar un sitio concentrador
 

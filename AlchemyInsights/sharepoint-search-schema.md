@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: f49195bec64f115063ccfb5256e27fbecd4a54f6
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 704fb3b682d23220d61192e383d7d80f59f27933
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270151"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36502824"
 ---
 # <a name="manage-search-schema-in-sharepoint-online"></a>Administrar el esquema de búsqueda en SharePoint Online
 

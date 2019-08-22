@@ -11,12 +11,12 @@ ms.custom:
 - "1243"
 - "5200021"
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
-ms.openlocfilehash: 29101adfdee817964867c3049c66ea3106c8fa02
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 49154808a30446316fd8d6ef68af4086cc8c69ed
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353986"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36500844"
 ---
 # <a name="terms-missing-from-sharepoint-online-term-store"></a>Faltan términos en el almacén de términos de SharePoint Online
 

@@ -13,12 +13,12 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: d35834aa72d0a052c819fc2f07019e602e7c7850
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: eb69643f1760aa69ee45637b2099220ce4359692
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35362374"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520576"
 ---
 # <a name="check-aad-identity-sync-status"></a>Comprobar el estado de la sincronización de identidad de AAD
 

@@ -11,12 +11,12 @@ ms.custom:
 - "722"
 - "6000004"
 ms.assetid: ddc083c7-d01f-4f97-a232-5eafe8abddce
-ms.openlocfilehash: 6db09588eecf58ee7acca27801923580be118744
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 50f10f68670ca7fd68a771405f07f3bea4220ff4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35389810"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36512888"
 ---
 # <a name="disable-access-to-yammer"></a>Deshabilitar el acceso a Yammer
 

@@ -14,12 +14,12 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: e437015d476c1417fa37e1b1c250e2205e9ce4d9
-ms.sourcegitcommit: b825ced7b66d452b0f3874a57e033e690ec41c93
+ms.openlocfilehash: a1ea0589def4945da64c73d68b2e4a3d64d6b83d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/29/2019
-ms.locfileid: "35925302"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506424"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Actualizar registros DNS para conservar su sitio web con su proveedor de hospedaje actual
 

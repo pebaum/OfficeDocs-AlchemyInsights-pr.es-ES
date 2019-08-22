@@ -13,12 +13,12 @@ ms.custom:
 - "737"
 - "6500003"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: f808750f5a993c128dbe8d32dd3f4c2f3d2a492b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 78d555d5c93abbdcfd6ebf4a44c8904c7b08625d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388514"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527615"
 ---
 # <a name="enable-and-use-microsoft-teams"></a>Habilitar y usar Microsoft Teams
 

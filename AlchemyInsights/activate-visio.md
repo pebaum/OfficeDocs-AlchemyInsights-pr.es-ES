@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: f74846f805789731305fa321799007c151309033
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 50d1fc29ee4eafd6b6bbe0a873684ab471ba8f02
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358918"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495444"
 ---
 # <a name="activate-visio"></a>Activar Visio
 

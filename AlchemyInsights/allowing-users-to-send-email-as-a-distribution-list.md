@@ -13,12 +13,12 @@ ms.custom:
 - "717"
 - "3"
 ms.assetid: d9e5f5be-b653-44a9-bce8-9ca11396d39e
-ms.openlocfilehash: f035e249b810b1cef5d8a8ffb21d072e88947341
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 8fcd76ee85c5108aa6209952085d0488b1883256
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357190"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506190"
 ---
 # <a name="allow-users-to-send-email-as-a-distribution-group"></a>Permitir a los usuarios enviar correo electrónico como un grupo de distribución
 

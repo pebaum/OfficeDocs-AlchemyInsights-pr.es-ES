@@ -14,12 +14,12 @@ ms.custom:
 - "1768"
 - "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: 5ade09e56eeb283d61bcb7b4b49fa65103b5e26e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 404bd93b5c470dd78a72ae07140a8df151878f40
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371882"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511972"
 ---
 # <a name="my-status-always-shows-as-available"></a>Mi estado siempre muestra como disponible
 

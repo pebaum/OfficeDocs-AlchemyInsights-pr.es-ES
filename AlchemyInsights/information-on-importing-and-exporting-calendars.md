@@ -13,12 +13,12 @@ ms.custom:
 - "609"
 - "3800007"
 ms.assetid: 916ccbdb-439b-4cf8-a0d2-258c8c8b1130
-ms.openlocfilehash: 68a913b11c2ae2ffd146800b49a8b4bb563f92ac
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: aa6b318470739ef321aad9508f597dc04bcd6710
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382286"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499152"
 ---
 # <a name="importing-and-exporting-calendars"></a>Importación y exportación de calendarios
 

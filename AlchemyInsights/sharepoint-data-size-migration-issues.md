@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: a404bb33e3862a94920bca609b23e8b1278d3022
-ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
+ms.openlocfilehash: d8bdf0ac6c3a65b72e8c92a3f5960cb72b6cfd99
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36232571"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36504372"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemas al migrar datos a SharePoint Online
 

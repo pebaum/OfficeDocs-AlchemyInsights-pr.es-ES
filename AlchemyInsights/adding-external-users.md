@@ -13,12 +13,12 @@ ms.custom:
 - "742"
 - "1200022"
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
-ms.openlocfilehash: 01fa1bfe0fa557dd5ba3cfca83baa160ba8493c3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f159770bc8f68344fac1386d4a8b5bd24282373f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358018"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499764"
 ---
 # <a name="adding-external-users"></a>Adición de usuarios externos
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: 58c6768a5285247273b55eeb0f3df2a797c88086
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: b095426d780033f6c1c7eeb320d923f6c484b078
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360515"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517408"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Aplicar automáticamente etiquetas de sensibilidad
 

@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 126cfa4e44b3b7e900e47de0b86602c60f3f0dc2
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: bc0028626c8934e57e5580477b193a70e49d87be
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223909"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36504228"
 ---
 # <a name="irm-protection-to-sharepoint-files"></a>Protección de IRM para archivos de SharePoint
 

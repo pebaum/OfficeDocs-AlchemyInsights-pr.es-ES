@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1544"
 - "1800021"
-ms.openlocfilehash: 5ac1d37cf353a86bc729832efe55a8ce815b68bd
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: c36201e45945f4a718fc67682f8e1c94a012778e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382754"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499704"
 ---
 # <a name="rules-and-alerts-error-the-operation-failed"></a>Error de reglas y alertas: "error en la operación"
 

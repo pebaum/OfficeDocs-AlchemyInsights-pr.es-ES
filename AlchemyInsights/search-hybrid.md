@@ -11,12 +11,12 @@ ms.assetid: ''
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: aa9e9bfcb30854c14dc3f0e250cc6b22221d7c4e
-ms.sourcegitcommit: 25110a298bef81fe02af177b9fa880331c28948d
+ms.openlocfilehash: adc5dace5da9e9b1c52697211e5b770d5483994b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36284282"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36504840"
 ---
 # <a name="search-and-hybrid"></a>Búsqueda e implementación híbrida
 

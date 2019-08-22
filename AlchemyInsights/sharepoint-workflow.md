@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: e083431df1a86aad3d428901754f8150f5059b45
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: a13c5d7066e6a703e627adfbef1157e85138f447
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223189"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36502392"
 ---
 # <a name="workflows-in-sharepoint"></a>Flujos de trabajo de SharePoint
 

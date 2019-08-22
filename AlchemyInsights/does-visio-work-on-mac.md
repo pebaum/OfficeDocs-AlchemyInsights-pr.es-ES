@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1799"
 - "9000201"
-ms.openlocfilehash: a88b03b757a59ef5989f61cb539c133b9cbe749b
-ms.sourcegitcommit: f2b5fdfde0b407828b06fa5c91403c960a30294f
+ms.openlocfilehash: c1c544cf9e9ccafc6623c686e639051af56d32d7
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34730903"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36529684"
 ---
 # <a name="does-visio-work-on-a-mac"></a>¿Funciona Visio en un equipo Mac?
 

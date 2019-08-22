@@ -13,12 +13,12 @@ ms.assetid: f8cf946c-89c7-4770-8f1f-d111e654e6cb
 ms.custom:
 - "906"
 - "2000023"
-ms.openlocfilehash: 90cd76b1b4b080f154ff94498bf04bff6b8b790f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e76695475d2f1ebe8feb1e8f392d3fcb337e0d28
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354850"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501266"
 ---
 # <a name="solutions-for-unsupported-operating-system"></a>Soluciones para "sistema operativo no admitido"
 

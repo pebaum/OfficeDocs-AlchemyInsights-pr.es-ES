@@ -13,27 +13,30 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385629"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495048"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Agregar puestos a una suscripción de prepago
 
-1. En el centro de administración, vaya a la página suscripciones de **facturación** \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+Las licencias de Office 365 de prepago se emiten como un código alfanumérico de 25 caracteres. Una vez que haya comprado las licencias que necesita, puede agregarlas a su suscripción. 
 
-2. Elija la suscripción de prepago a la que desea agregar usuarios.
+1. En el centro de administración, vaya a la página productos de **facturación** > [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-3. En el menú **más acciones** , elija **renovar o agregar licencia con token**.
+2. Busque la suscripción a la que desea agregar licencias. Seleccione la lista desplegable **más acciones** y, a continuación, elija **renovar o agregar licencia con token**.
 
-4. Seleccione la opción de **clave de producto nueva y no usada** . (Si esta suscripción se ha creado con una clave de producto que se ha comprado en una ubicación comercial, es posible que tenga la opción de agregar usuarios con otros métodos de pago).
+3. En la página **renovar o agregar licencias de usuario** , seleccione **usar una clave de producto nueva y sin usar**y, a continuación, seleccione **siguiente**.
 
-5. Elija **Siguiente**.
+4. Escriba la clave del producto y, a continuación, seleccione **siguiente**.
 
-6. Escriba la clave del producto y, a continuación, elija **siguiente**.
+    > [!NOTE]
+    > Si tiene más de una clave de producto, puede seleccionar **Agregar otra clave de producto** o escribirlas.
 
-7. Elija la opción para agregar más usuarios, elija **siguiente**y, a **** continuación, elija canjear.
+5. Elija Agregar usuarios a la suscripción y, a continuación, seleccione **siguiente**.
 
-¿Usa el nuevo centro de administración? Para nuevos pasos, vea [Agregar licencias a o ampliar una suscripción pagada para usar una clave de producto](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
+6. Revise los detalles del pedido y, **** a continuación, seleccione canjear.
+
+Para obtener más información, vea [Agregar licencias a o ampliar una suscripción pagada para usar una clave de producto](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

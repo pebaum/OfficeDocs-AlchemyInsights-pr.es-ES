@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
-ms.openlocfilehash: 46bdb15733fa3673c6487c7a0316752b9ae757f4
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9033e8da6b3032b47b761b89e18af643100afaa0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408484"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36519100"
 ---
 # <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Cambiar los permisos de una lista o biblioteca de SharePoint
 

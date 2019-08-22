@@ -12,12 +12,12 @@ ms.custom:
 - "857"
 - "8000052"
 ms.assetid: f6d43c80-cfca-4898-9567-746177cfadc4
-ms.openlocfilehash: 866def6b7e126cc5598ee1c7220b2d0698f41b88
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d27757e8e10be75ec9ed7b14ba8ad965d6b3fb2e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359710"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517660"
 ---
 # <a name="how-to-attach-files"></a>Cómo adjuntar archivos
 

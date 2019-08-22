@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "909"
 - "2000021"
-ms.openlocfilehash: 0df824104301f39644f033c41626c0aab382f964
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a9dfbdd5b8b1dc34eded716ac7162f7188e622df
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358774"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495588"
 ---
 # <a name="activation-troubleshooting"></a>Solución de problemas de activación
 

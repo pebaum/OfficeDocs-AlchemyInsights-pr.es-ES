@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: fbf08f446233fc582f4651a60dfa9a31dda270a8
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 74641ba9dc7bfd2c89518c054b7bd09ede78f00a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223513"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36508392"
 ---
 # <a name="migrate-options-to-sharepoint-online"></a>Migrar opciones a SharePoint Online
 

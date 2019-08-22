@@ -12,12 +12,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 97cab1d3d88721b03e703623128229935074ebf1
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 9c1ffe8c384a76d3df425623285fa4f9ebf757f2
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270437"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36503976"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Control de versiones en SharePoint y OneDrive 
 

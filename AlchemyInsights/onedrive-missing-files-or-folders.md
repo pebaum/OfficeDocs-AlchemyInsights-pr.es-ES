@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: 2526f75cf7ded15875b61db5f4b3af42a8e0ece6
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: e24e4e1a0d33f7e857fc6af25914286ae2df0b2b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34762275"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36521260"
 ---
 # <a name="onedrive-missing-files-or-folders"></a>OneDrive: faltan archivos o carpetas
 

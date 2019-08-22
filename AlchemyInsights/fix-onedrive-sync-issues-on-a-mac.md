@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000178"
 - "1723"
-ms.openlocfilehash: 0a042c1e0f00a9276c5dfe8396a5f1a1725f809d
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: e6d6d694c6743bb42d7d8e467a82b2d05fa9e553
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36272105"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36525281"
 ---
 # <a name="fix-onedrive-sync-issues-on-a-mac"></a>Solucionar problemas de sincronización de OneDrive en un equipo Mac
 

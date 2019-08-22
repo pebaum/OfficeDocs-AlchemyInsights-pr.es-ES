@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: 5d4ee6859fef7cd91630e12eab5a5c7206c13dde
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 8279c58300c1c7ed18ca54d10c3b92e45728e856
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381890"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498606"
 ---
 # <a name="install-visio"></a>Instalar Visio
 

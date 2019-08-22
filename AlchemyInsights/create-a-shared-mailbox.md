@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3b5f8296-6661-4721-83bc-bc7e310219ac
-ms.openlocfilehash: 8a530fdf8c685844d1695d2a76a8a1b0e099caa4
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: e87bdbbc400217e6f7cb86c210b9140bd60a31c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34753506"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36515899"
 ---
 # <a name="create-a-shared-mailbox"></a>Creación de un buzón compartido
 

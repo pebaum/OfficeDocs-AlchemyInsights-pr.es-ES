@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
-ms.openlocfilehash: ce476961ac8126b8de2f63dc52b9ff26d02711b8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 879e482ed3cd80f2918e3cc56f2ba555bccc6f45
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389868"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495984"
 ---
 # <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Aparece un fondo negro o el formato de celda no se ve bien
 

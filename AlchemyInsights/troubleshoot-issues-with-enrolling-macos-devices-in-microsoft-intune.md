@@ -12,12 +12,12 @@ ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
 ms.custom:
 - "781"
 - "6200002"
-ms.openlocfilehash: c4c9f87c1a5aaa995ad0f277d44c73fd17cf39d1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 6c2293852554ce9be066975c4b8937444e544779
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353590"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36500016"
 ---
 # <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Solucionar problemas relacionados con la inscripción de dispositivos macOS en Microsoft Intune
 

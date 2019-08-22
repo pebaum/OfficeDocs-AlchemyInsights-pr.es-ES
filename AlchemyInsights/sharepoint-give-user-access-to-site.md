@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 81cfdb7c4b218ffacfca75b3cc14e5aac13dc3d5
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 059eeab6cc3aa14f90258edc39144bc6bce928c0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223765"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36503832"
 ---
 # <a name="give-users-access-to-sharepoint-site"></a>Conceder a los usuarios acceso al sitio de SharePoint
 

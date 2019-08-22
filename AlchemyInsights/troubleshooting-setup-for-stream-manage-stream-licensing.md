@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 4cc07cf2bbbf72a6ef52ef94b87ea13cfd954791
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 7c1a870c8dff53c937e98bc3f690b237762b1638
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903810"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36559210"
 ---
 # <a name="managing-microsoft-stream-licenses"></a>Administración de licencias de Microsoft Stream
 
