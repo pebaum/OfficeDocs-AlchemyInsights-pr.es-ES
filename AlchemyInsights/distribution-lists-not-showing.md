@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ccb3e76a-557e-42fa-a9fc-95e396a1a74d
-ms.openlocfilehash: b4137d1a88fd555f340c61298af5b34ec1fe0803
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a44e4ccd61d34c2514d23e93b202b47c39ac48d0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404654"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530476"
 ---
 # <a name="distribution-group-not-showing-in-groups-list"></a>El grupo de distribución no se muestra en la lista de grupos
 

@@ -14,12 +14,12 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 4c93a542fe4bf615bfa7a2cc0a2ce8e443a4dedc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f5caf2c49bc9967d17376159cf93a16930d30982
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357586"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505416"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Pasos para solucionar problemas de bloqueo de Outlook
 

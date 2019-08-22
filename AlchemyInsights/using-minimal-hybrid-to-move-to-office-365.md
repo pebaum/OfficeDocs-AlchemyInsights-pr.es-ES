@@ -12,12 +12,12 @@ ms.custom:
 - "691"
 - "3500010"
 ms.assetid: f974fc09-ae6e-4b3d-94cb-1b1021d2ee31
-ms.openlocfilehash: 6591ff2f4141a1a3dacc40a5c9b633e3df474bae
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a1cd9c07e56a525d82e905070571812bf4fd8d40
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366010"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36531664"
 ---
 # <a name="using-minimal-hybrid-to-move-to-office-365"></a>Uso de un híbrido mínimo para pasar a Office 365
 

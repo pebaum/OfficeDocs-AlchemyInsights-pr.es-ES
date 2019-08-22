@@ -14,16 +14,16 @@ ms.custom:
 - "1179"
 - "8000031"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: 5074cadecea9ea66367e3ddbcddc73ec182d7250
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 509c36f9f07c13ee27c83d7754da541879c7ca1b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366478"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533140"
 ---
 # <a name="unable-to-delete-photos-from-files"></a>No se pueden eliminar fotos de archivos
 
-Para eliminar los archivos o las fotos:
+Para eliminar las fotos de archivos en Outlook.com:
   
 1. Vaya a la carpeta de la **bandeja de entrada** o **elementos enviados** y elimine el mensaje de correo electrónico al que están adjuntos.
 

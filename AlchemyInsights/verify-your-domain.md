@@ -14,12 +14,12 @@ ms.custom:
 - "48"
 - "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 5bd6c32a246db9dfcdb475368ade0441df4dc9c3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3dd96a9731cfd75882dd3bb397005b19d471c882
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365434"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36531376"
 ---
 # <a name="verify-your-domain"></a>Verify your domain
 

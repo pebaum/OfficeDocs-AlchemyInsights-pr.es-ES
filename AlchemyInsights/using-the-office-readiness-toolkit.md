@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000176
-ms.openlocfilehash: 3b77cd3e7da833b6a5c9ecd61cab000857dce56d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 71d3627c9ec67b4a32bbc2b77f98f6d02cc1a818
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423164"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36531520"
 ---
 # <a name="using-the-office-readiness-toolkit"></a>Uso del kit de herramientas de preparación de Office
 

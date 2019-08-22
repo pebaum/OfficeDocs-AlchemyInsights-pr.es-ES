@@ -13,12 +13,12 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 165e0ff4b2136b727450946d2c47756ebee7d393
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2b0a1527ab1b16f56a97891445a2dcb4570302f5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353122"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533824"
 ---
 # <a name="troubleshoot-password-synchronization"></a>Solucionar problemas de sincronización de contraseñas
 

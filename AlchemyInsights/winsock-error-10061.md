@@ -12,12 +12,12 @@ ms.custom:
 - "1554"
 - "9000079"
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: e82e90b670235848105636fb2039ed60d3b93c67
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f54c7fc81c274871fbc22908ce0fb21500975d9e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364930"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530825"
 ---
 # <a name="winsock-error-10061"></a>Error de Winsock 10061
 

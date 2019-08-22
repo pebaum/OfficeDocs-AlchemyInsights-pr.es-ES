@@ -12,12 +12,12 @@ ms.custom:
 - "938"
 - "2000022"
 ms.assetid: 69ed12bf-c47a-4e08-bd52-2a90bec1ee91
-ms.openlocfilehash: 0aabd504ddc5d3bbea5e7d23a0315660721ebc8a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2e1bbddf91c623cad2e53b7c0d137f4d7de45143
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365974"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36532303"
 ---
 # <a name="use-the-office-offline-installer"></a>Usar el instalador sin conexión de Office
 

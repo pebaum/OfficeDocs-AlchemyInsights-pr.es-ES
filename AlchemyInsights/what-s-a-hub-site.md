@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c74df953-2ddc-4375-aea0-9f410881bb2e
-ms.openlocfilehash: cd414235a38d24b0889ccb400e011c387919691c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: bba1edd719a0c459332161876e793bc37b53cc94
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422912"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36531124"
 ---
 # <a name="whats-a-hub-site"></a>¿Qué es un sitio concentrador?
 

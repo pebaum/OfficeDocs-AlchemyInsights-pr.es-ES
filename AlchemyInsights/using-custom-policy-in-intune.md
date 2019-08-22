@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: 300e2e90723ec4d46abeda1a4879e0577193ad05
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: def82b1a49afebd89e9b3cdca163f4159faf7972
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365936"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36531772"
 ---
 # <a name="using-custom-policy-in-intune"></a>Uso de una directiva personalizada en Intune
 
