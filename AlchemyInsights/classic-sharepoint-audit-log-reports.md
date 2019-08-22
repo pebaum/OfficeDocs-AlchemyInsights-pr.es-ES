@@ -12,12 +12,12 @@ ms.custom:
 - "1373"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d93087523e29a68a7b3aefc2ed22b403c763a9d8
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a3d1b688150e351b14f5248a590a35cac999dd4d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35362302"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520144"
 ---
 # <a name="classic-sharepoint-audit-log-reports"></a>Informes de registro de auditoría de SharePoint clásicos
 

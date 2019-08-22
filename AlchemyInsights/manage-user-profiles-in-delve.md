@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
-ms.openlocfilehash: 5e8cc5d68afd5c35a503db2333ac620760cf3a8c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: cae756bf9a9ffa247cafd5fd76e913f3185bdb28
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408915"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36497208"
 ---
 # <a name="manage-user-profiles-in-delve"></a>Administrar perfiles de usuario en Delve
 

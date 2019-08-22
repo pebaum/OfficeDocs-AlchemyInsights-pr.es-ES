@@ -13,16 +13,14 @@ ms.custom:
 - "472"
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: 2bc74bf0d2bbb12a0973abf045020ce9b39014cf
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: af35dbcf4995dda7faa11100d7f562a16079a3f0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386637"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520432"
 ---
-# <a name="compare-office-365-plans"></a>Comparar planes de Office 365
-
-Comparar, cambiar o comprar planes de Office 365
+# <a name="compare-switch-or-purchase-office-365-plans"></a>Comparar, cambiar o comprar planes de Office 365
   
 Los planes de Office 365 están [](https://products.office.com/compare-all-microsoft-office-products?tab=2)disponibles para [empresas y empresas de nivel empresarial](https://products.office.com/business/compare-more-office-365-for-business-plans). Además, Office 365 está disponible para [instituciones académicas](https://products.office.com/academic/compare-office-365-education-plans), [organizaciones gubernamentales](https://products.office.com/government/compare-office-365-government-plans)y [ONG](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1).
   

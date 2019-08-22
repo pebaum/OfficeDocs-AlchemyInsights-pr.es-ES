@@ -13,12 +13,12 @@ ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: 8151d2b4ad88594186c9b15f1babdbca74ce3d06
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3b63262a289261bc1e040f745096645e7f2c784c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35363994"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516374"
 ---
 # <a name="copy-items-in-a-sharepoint-document-library"></a>Copiar elementos en una biblioteca de documentos de SharePoint
 

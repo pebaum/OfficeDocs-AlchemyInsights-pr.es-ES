@@ -13,12 +13,12 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: b014e350d5f6f1a61feb223e3d3fd0a1f56f5872
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: c9922258c2d203cc07c1a1055ffa36c23a756115
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357982"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499908"
 ---
 # <a name="adfs-federation-certificate-expiring"></a>Expiración del certificado de Federación de ADFS
 

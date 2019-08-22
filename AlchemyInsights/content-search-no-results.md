@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 9f2c0273762f1a4a2b905487f461dc1d05db9209
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: 09cdbc3cb0465e0e0bc08872c49e283081ad3e92
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800618"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516796"
 ---
 # <a name="no-results-from-content-searchexports"></a>No hay resultados en la búsqueda/exportación de contenido
 

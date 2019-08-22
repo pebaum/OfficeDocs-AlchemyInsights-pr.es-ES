@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 9ab06cbd1648da31d8a04e61c237a2326b4bbe93
-ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
+ms.openlocfilehash: 7c24a0cf3bcae0f2780c1cb33c911cb38c1ca5cb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "35199290"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36515015"
 ---
 # <a name="create-sharepoint-sites-using-templates"></a>Crear sitios de SharePoint con plantillas
 

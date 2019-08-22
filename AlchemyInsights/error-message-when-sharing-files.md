@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: 0ca85a43f21935708f8a9c689306ed3560627dea
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: dea173f74f8ddc6da485b44648a009a4900e1294
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32402420"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527308"
 ---
 # <a name="error-messages-when-sharing"></a>Mensajes de error al compartir
 

@@ -13,12 +13,12 @@ ms.custom:
 - "1949"
 - "9000323"
 ms.assetid: ''
-ms.openlocfilehash: fb33ec7a6c04f3794980499ad215bd09dbbf16c3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a6cfdd6d9329b002d3bc55b6eeff02a25157aa18
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35361725"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36519856"
 ---
 # <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>No se puede agregar ni crear una nueva firma en Outlook
 

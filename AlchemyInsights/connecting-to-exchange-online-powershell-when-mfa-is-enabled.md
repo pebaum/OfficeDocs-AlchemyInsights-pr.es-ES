@@ -13,12 +13,12 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 16137ae4f0324ca508676a7ba351e5f97e7125a1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: efcc1138a6ae71e7093f665722c8bafe730d70d6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364534"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517084"
 ---
 # <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Conectarse a PowerShell de Exchange Online cuando MFA está habilitado
 

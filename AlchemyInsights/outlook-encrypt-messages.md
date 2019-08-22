@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 7401aa0b6e6f4cfc12290d10e3eed75a0051827b
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 582c4dc361c0a665377bfc06d13691d222a934ac
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34771003"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511588"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>Cifrar mensajes de correo electrónico en Outlook
 

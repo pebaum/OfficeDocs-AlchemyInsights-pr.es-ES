@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000007"
 - "1992"
-ms.openlocfilehash: 16a9e157e5c033457d089519a6781edae4801683
-ms.sourcegitcommit: 8e4126e64eca48be458242d744650878b8bb89e5
+ms.openlocfilehash: 945d3168352bd00259a14508434243028720d6f0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33664008"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510568"
 ---
 # <a name="use-your-browser-to-check-spelling"></a>Usar el explorador para revisar la ortografía
 

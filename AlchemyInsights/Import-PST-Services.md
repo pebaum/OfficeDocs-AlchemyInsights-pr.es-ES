@@ -13,12 +13,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 000f736528db90895bac7b1f373dd6e8a589c75e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bab1a842d3c9c8ec32c066e7615e175c2e1d7a7e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359273"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496380"
 ---
 # <a name="office-365-import-service"></a>Servicio de importación de Office 365
 

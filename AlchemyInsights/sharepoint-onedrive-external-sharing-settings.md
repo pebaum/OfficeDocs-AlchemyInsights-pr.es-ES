@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 6417ff45a94c7b8fb50c8a1f9f84873714e3eaaf
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 30f4b30a86f6c65ff1dc348c279341e299b0275b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059197"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507900"
 ---
-# <a name="external-sharing-settings-for-sharepoint--onedrive"></a>Configuración de uso compartido externo para SharePoint & OneDrive
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Mensaje de ADVERTENCIA: las directivas de la organización no le permiten compartir con estos usuarios
 
 Los usuarios pueden experimentar un mensaje de advertencia al intentar compartir con usuarios externos de su organización. El mensaje es la **Directiva de la organización no le permite compartir con estos usuarios. Vaya a uso compartido externo en el centro de administración de Office 365 para habilitarlo**. Esto suele ocurrir la primera vez que se intenta compartir con usuarios externos o al compartir con nuevos usuarios externos.
 

@@ -12,12 +12,12 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: e05b799ae88b0e431397c5f17fd0eddbe39f9c95
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388082"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527236"
 ---
 # <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 acceso denegado, el inquilino ha superado el umbral
 

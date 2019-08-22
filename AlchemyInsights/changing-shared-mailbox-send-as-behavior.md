@@ -13,12 +13,12 @@ ms.custom:
 - "623"
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
-ms.openlocfilehash: d07be74493b8c9b9eb7bd28e87db06cebfbffe83
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4d21e638f55bfdd100f5f8a6cf0b48fafe88f76e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35362446"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520720"
 ---
 # <a name="changing-shared-mailbox-send-as-behavior"></a>Cambiar el comportamiento de envío de buzón compartido como
 

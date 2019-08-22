@@ -11,12 +11,12 @@ ms.custom:
 - "934"
 - "1800018"
 ms.assetid: 244fb17f-f0e3-474a-b287-023f4fb74830
-ms.openlocfilehash: bab36de056fadc7faeadbd2283b7b74528d0efb1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3a18978d520f400672bc50a455fcd6bc45337b48
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35387962"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36525328"
 ---
 # <a name="find-your-pop-or-imap-server-settings"></a>Buscar la configuración del servidor POP o IMAP
 

@@ -14,12 +14,12 @@ ms.custom:
 - "1399"
 - "1626"
 - "8000088"
-ms.openlocfilehash: 7f87e9dc53dd9209dbc74d64a7be63001f67a744
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: de5147c772b499e6ac494ff17039d192c690b9b6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36166169"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36521296"
 ---
 # <a name="saving-messages-in-outlookcom"></a>Guardar mensajes en Outlook.com
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: 580903fd89dca8a2ecbf635fa2157f31c93b85f4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 11516232e7ad1fb1d54f07bccd31d586d5c04d42
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35363778"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514780"
 ---
 # <a name="creating-intune-policy-and-profiles"></a>Creación de perfiles y directivas de Intune
 

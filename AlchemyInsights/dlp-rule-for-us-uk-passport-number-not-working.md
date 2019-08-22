@@ -12,12 +12,12 @@ ms.custom:
 - "1319"
 - "3200001"
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: 0567e9521507bcc192b187d0e5a8a0658332ff99
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bc91af8be58d49204f84cd7d22f481348af3c013
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35389558"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36529936"
 ---
 # <a name="problems-with-dlp---usuk-passport-numbers"></a>Problemas con números de pasaporte de DLP-US/UK
 

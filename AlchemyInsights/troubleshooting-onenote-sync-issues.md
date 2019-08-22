@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000555"
 - "2405"
-ms.openlocfilehash: 3a651c84716d762afc955aaaa464d92da9ff9e43
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 970fe688becc30ea1eb644793388a316d1878f30
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903919"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36559426"
 ---
 # <a name="troubleshoot-onenote-sync-issues"></a>Solucionar problemas de sincronización de OneNote
 

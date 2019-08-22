@@ -11,12 +11,12 @@ ms.custom:
 - "683"
 - "3500008"
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
-ms.openlocfilehash: 74c076417645bc85e508ed976e4247ef2da595f1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a3e12e84d30dc3fed34142c5c60d8fa2ffd6ee56
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386570"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523492"
 ---
 # <a name="migrating-email-from-imap-email-system-to-office-365"></a>Migrar correo electrónico desde el sistema de correo electrónico IMAP a Office 365
 

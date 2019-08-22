@@ -11,12 +11,12 @@ ms.custom:
 - "1077"
 - "1078"
 - "6200003"
-ms.openlocfilehash: c27e033c3bfa39044776e14f216655e390b55810
-ms.sourcegitcommit: a413a0e27ef4ab8c484fa9fccff8bbef381c8b96
+ms.openlocfilehash: 0c705cda207c7696840a2cb1c773c643c60814b5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35748827"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36528388"
 ---
 # <a name="dynamics-crm-import-solutions"></a>Soluciones de importación de Dynamics CRM
 

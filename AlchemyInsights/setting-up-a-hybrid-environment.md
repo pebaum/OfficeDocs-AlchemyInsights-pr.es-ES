@@ -12,12 +12,12 @@ ms.custom:
 - "690"
 - "3500010"
 ms.assetid: 08b866c0-aaff-4d6d-821f-97dc238dbd21
-ms.openlocfilehash: c302a8aaf1cf7ba5f3bac346ced3b9897f5b4f31
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 041ba1c8e235bc9adf4f951b8ff7688dcf12e826
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355246"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36509161"
 ---
 # <a name="setting-up-a-hybrid-environment"></a>Configuración de un entorno híbrido
 

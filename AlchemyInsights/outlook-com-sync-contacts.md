@@ -12,12 +12,12 @@ ms.custom:
 - "2404"
 - "8000048"
 - "9000554"
-ms.openlocfilehash: 5a257f75a7c5557cfa8da8039d75c4da098edda3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 6044f9d730a128de71708c131849e8ed78dd35a0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371594"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511792"
 ---
 # <a name="sync-contacts"></a>Sincronizar contactos
 

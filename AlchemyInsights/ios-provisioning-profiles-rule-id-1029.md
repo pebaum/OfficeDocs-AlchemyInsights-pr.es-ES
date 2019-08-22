@@ -11,12 +11,12 @@ ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
-ms.openlocfilehash: a13f24e9f9a984eb6c45a84e6f46176413f08f5c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1bde6205c98b97eae3340bcbfe154402c8c82c8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381566"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498144"
 ---
 # <a name="ios-provisioning-profiles"></a>Perfiles de aprovisionamiento de iOS
 

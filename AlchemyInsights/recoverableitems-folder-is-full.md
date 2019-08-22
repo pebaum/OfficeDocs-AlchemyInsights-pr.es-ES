@@ -12,12 +12,12 @@ ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: 05e7b47a2200c3b0500e7d786166966ea301179a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 8a5859ba29d847606e8b44d169c3cd6a26364744
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370404"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36509771"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>La carpeta elementos recuperables está llena
 

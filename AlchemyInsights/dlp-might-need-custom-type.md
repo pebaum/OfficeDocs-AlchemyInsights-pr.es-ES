@@ -13,12 +13,12 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 8b49afcf50e5eb53f517bbdbd002fb80dddb6f9b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 612b6652b445914063ac825847f5698d3afc3a00
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35389702"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530368"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>Es posible que DLP necesite un tipo personalizado
 

@@ -14,12 +14,12 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: ef5de7f5b782993af2689315c484f7f2b16553a1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 735e8f1db5107b502c5624689cb38abfbec04502
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356722"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517804"
 ---
 # <a name="app-passwords"></a>Contraseñas de aplicación
 

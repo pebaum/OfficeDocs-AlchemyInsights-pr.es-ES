@@ -12,12 +12,12 @@ ms.custom:
 - "1351"
 - "8000054"
 ms.assetid: 3241ac3e-57be-4888-9e95-c48c0cca8b13
-ms.openlocfilehash: 57f06beb6d786dcd26beb9384a10bc87736bb0ba
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 84a3d35516a5977dca46697f322842249f80dd93
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371666"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511864"
 ---
 # <a name="storage-limits-in-outlookcom"></a>Límites de almacenamiento en Outlook.com
 

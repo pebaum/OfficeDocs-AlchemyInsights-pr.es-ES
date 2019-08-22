@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom:
 - "1484"
 - "6200024"
-ms.openlocfilehash: 6edf6fbae0174f3fa4d635c7a99e7daae1243b60
-ms.sourcegitcommit: a413a0e27ef4ab8c484fa9fccff8bbef381c8b96
+ms.openlocfilehash: 3d7258bdd7366f679b048e93926ab7dfe0b956d9
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35748829"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36528568"
 ---
 # <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Se muestra un panel equivocado en la interfaz unificada Dynamics 365
 

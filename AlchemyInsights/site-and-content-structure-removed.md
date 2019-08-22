@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 55060d5c-fb1c-4812-bc66-181a7aa2cdea
-ms.openlocfilehash: d4d0f81cc129705d26a8dfeec7855350146d3dee
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 4cb7bd92ab2833d746da308277e3b2117fa1bb57
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770719"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36502284"
 ---
 # <a name="site-and-content-structure-removed"></a>Estructura de sitios y contenido eliminada
 

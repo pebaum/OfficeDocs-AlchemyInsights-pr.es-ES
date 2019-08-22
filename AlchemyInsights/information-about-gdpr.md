@@ -11,12 +11,12 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: e6e61c603fd0170c8b0494992da2bfa558b4d7de
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5d65ee9d648360c47f400ed2935c118086e8e0c8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382358"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499224"
 ---
 # <a name="information-about-gdpr"></a>Información sobre RGPD
 

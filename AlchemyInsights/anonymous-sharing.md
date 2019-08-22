@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: 402e10c131a0c331938854e2176983f1007fb315
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 01971c5bb52b9ee7a679dbae84632d777f29952a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397549"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36512476"
 ---
 # <a name="anonymous-sharing"></a>Uso compartido anónimo
 

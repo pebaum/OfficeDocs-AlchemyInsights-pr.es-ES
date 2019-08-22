@@ -12,12 +12,12 @@ ms.custom:
 - "908"
 - "1800019"
 ms.assetid: f01362e1-17da-4528-b116-9b3240dd3f15
-ms.openlocfilehash: 1305dd1e08da01b34cfbb0804a6828d42e069c33
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9f647338efd63d78bafca3424fcf735cf4c4dbd1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35387290"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36524572"
 ---
 # <a name="focused-inbox-in-outlook"></a>Bandeja de entrada prioritarios en Outlook
 

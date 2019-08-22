@@ -13,12 +13,12 @@ ms.custom:
 - "711"
 - "3"
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: bec7a5813e026eb3cd94bcad65a35824751f7fe7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 706cc34ddef79c519e7afc7cbf1d10621ffcf4d6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364174"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36515032"
 ---
 # <a name="create-distribution-groups"></a>Crear grupos de distribución
 

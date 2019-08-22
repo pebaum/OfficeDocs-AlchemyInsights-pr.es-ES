@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: 9d0a881a3c68e9ddae60a20f7ad6398c35a7a9f6
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 9b73688dc536c6e95e70071cc456cbaae4fbf50b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34759727"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36503292"
 ---
 # <a name="change-display-language-settings-in-sharepoint-or-onedrive"></a>Cambiar la configuración de mostrar idioma en SharePoint o OneDrive 
 

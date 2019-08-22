@@ -11,12 +11,12 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: 9e284c6f7b90dc1997f6b1f6b0ec20015adfa1c1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: b895dabc8d3513a2035b698fefb04a540810cfa3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35362957"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514174"
 ---
 # <a name="data-location"></a>Ubicación de datos
 

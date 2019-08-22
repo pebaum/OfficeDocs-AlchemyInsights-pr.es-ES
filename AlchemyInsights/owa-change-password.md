@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "8000002"
 - "1990"
-ms.openlocfilehash: d350f2292f759cb5a0e4674110e92036160f8985
-ms.sourcegitcommit: 8e4126e64eca48be458242d744650878b8bb89e5
+ms.openlocfilehash: 18aef4096e936138c85f22f343500f5f233f903f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33664009"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510496"
 ---
-# <a name="change-your-password"></a>Cambiar la contraseña
+# <a name="change-your-office-365-password"></a>Cambiar la contraseña de Office 365
 
-[Restablecer la contraseña de Office 365](https://go.microsoft.com/fwlink/p/?linkid=841910)
+Si necesita cambiar o restablecer su contraseña de Office 365, puede ir directamente a esta página: [restablecer la contraseña de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841910)

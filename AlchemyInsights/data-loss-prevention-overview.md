@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: e9ebad31e64aacedb32adcfc12e18313139058e2
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: cd73bc8f4e56f6fdc6e3e09d87eb4ff55523ca92
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769840"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514420"
 ---
 # <a name="data-loss-prevention-dlp-overview"></a>Información general sobre prevención de pérdida de datos (DLP)
 

@@ -13,12 +13,12 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: dc95535eaa6ede3e25ec7ec56ca2ab7e11ec563d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4bb1516964fac51fac484cc5dbbacef495081e30
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35352762"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517624"
 ---
 # <a name="block-email-forwarding"></a>Bloquear el reenvío de correo electrónico
 

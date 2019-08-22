@@ -12,12 +12,12 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: b45e63e26fa84e3ec125d16c1e156368288ca92d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f322a0252f1198b110f5558cf1e3c6aa28ec1f78
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35352798"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517696"
 ---
 # <a name="become-an-admin"></a>Convertirse en Administrador
 

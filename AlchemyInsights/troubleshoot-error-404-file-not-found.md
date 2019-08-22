@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: 045c29520ec60f9f093d3c9f129213213826466e
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 3c5de2f9dc75b4da4db888c53be21710423b35df
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757694"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507288"
 ---
 # <a name="troubleshoot-error-404-file-not-found"></a>Solucionar el error 404, no se encontró el archivo
 

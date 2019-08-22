@@ -12,12 +12,12 @@ ms.assetid: 858c2f23-bcf5-42e4-92c5-8749eed29dfb
 ms.custom:
 - "835"
 - "2000020"
-ms.openlocfilehash: 8ff674aed526a81be8539219fad68bbe08a17b9d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: dca552a2b2ec743c6d4a0feff81e93341b800443
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35368206"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501600"
 ---
 # <a name="solutions-for-error-30179-25"></a>Soluciones para el error 30179-25
 

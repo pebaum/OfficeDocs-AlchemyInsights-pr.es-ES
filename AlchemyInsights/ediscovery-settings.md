@@ -13,12 +13,12 @@ ms.custom:
 - "2006"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: a20f00653dcde4ce0f133ab3cf400550315c090c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 756473fc94a4c68d5cb1f4c390ecb810c3a8cf89
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388802"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36528244"
 ---
 # <a name="ediscovery-settings"></a>Configuración de eDiscovery
 

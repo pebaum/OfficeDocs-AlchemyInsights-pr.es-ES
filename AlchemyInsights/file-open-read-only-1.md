@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 69705825-723a-4c1e-ae85-d16b5051d2fe
-ms.openlocfilehash: 117b1e24d6250a1d5eb092a01a0d5146d09ea2e5
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 06c052383a6462288270d2e062930352883a199a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401654"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36525737"
 ---
 # <a name="file-open-read-only"></a>Abrir archivo en modo de solo lectura
 

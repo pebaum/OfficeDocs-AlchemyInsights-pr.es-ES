@@ -12,12 +12,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 9b3981964b66eb1c8083a3acf5ca31be3c8157fe
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1619d50b98419f59a1f863983c4ec5bff01679b4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35389522"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530332"
 ---
 # <a name="dlp-policy-tip-issues"></a>Problemas de la sugerencia de directiva DLP
 
