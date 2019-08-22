@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 0909edc581c811fdc4683b004e0df0adbac88d1c
-ms.sourcegitcommit: 514ced512d0d7fff485b6fbf236cd27d6b4166e0
+ms.openlocfilehash: 537b27d06acd17cbb3fe99bcb89e153099e92bb4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "35249930"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544880"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>Problema de solución de problemas-el usuario no se encuentra en el directorio
 

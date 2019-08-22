@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: 260048db6c439183da8e0bb0c2dfa3c7475fca79
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 2f75f1e60af06da47fe846e84bbb370dd60084e9
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36269393"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36543870"
 ---
 # <a name="modern-site-as-root-site"></a>Sitio moderno como sitio raíz
 

@@ -11,12 +11,12 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: 606a3a8cd8fefade73e0024cdb75a86799b17a87
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2345822cc022fa1113a9aa4203fb09eff872a2cc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381494"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498036"
 ---
 # <a name="issue-with-skype-for-business"></a>¿Tiene un problema con Skype Empresarial?
 

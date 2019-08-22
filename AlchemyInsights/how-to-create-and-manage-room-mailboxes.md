@@ -15,12 +15,12 @@ ms.custom:
 - "3500013"
 - "3800012"
 ms.assetid: 3f439b79-7eda-4dd7-857e-ce0a10130c88
-ms.openlocfilehash: 24fba159debdd47eefba232d21a338c8f90938e1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 8717573bde50cf64ffc8174b116674dec217dc21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385058"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36541220"
 ---
 # <a name="how-to-create-and-manage-room-mailboxes"></a>Cómo crear y administrar buzones de sala
 

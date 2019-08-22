@@ -13,12 +13,12 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 76dc4d5fe0a9c3d348decb9f762b7cc02eb50b43
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 369fad874a82e2f1938fffb9153e0b66de7aa5f4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355822"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36509306"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>Se ha bloqueado la cuenta por enviar demasiado spam
 

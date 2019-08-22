@@ -11,12 +11,12 @@ ms.custom:
 - "404"
 - "6500002"
 ms.assetid: b26be13f-7b8f-4393-9083-2b4d97b6cd80
-ms.openlocfilehash: 3fb6ffcb3a36aee8cb273e1d07def9867dc7ef5e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 45d2303134c83c8fb16533ff07dec0cf52ee8ba8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380162"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544808"
 ---
 # <a name="restoring-a-deleted-team-site"></a>Restauración de un sitio de grupo eliminado
 

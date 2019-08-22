@@ -13,12 +13,12 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: 9bf97ec7c5eee2218419cac73f23126086dd5c6e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ffedca61f5915c0a32a7e0ca903703802667b64e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384554"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540666"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Cómo buscar y recuperar los mensajes, contactos o elementos de calendario que faltan en Outlook
 

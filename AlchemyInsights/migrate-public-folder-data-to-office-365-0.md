@@ -12,12 +12,12 @@ ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: 4e870f153b37e141aa641c4a85a8d759a600ceed
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9bf21c6377d4587032cac0549d6e57ee0749c437
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380018"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544375"
 ---
 # <a name="migrate-public-folder-data-to-office-365"></a>Migrar datos de carpetas públicas a Office 365
 

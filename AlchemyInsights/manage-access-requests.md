@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 401600c1e6eb635e8b973d1d16a6ad05f0c795b5
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 90dfe7323b5f0ae37e963b413327bee2bc6b3d33
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409239"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542513"
 ---
 # <a name="manage-access-requests"></a>Administrar solicitudes de acceso
 

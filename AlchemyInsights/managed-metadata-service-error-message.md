@@ -11,12 +11,12 @@ ms.custom:
 - "1246"
 - "5200021"
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
-ms.openlocfilehash: 49b76cd0b7eb6af3ad4b2f0ea8c38c109d6fff00
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 58a5d88ad529baee19538d1ac5c1974b0c01abc4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380450"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542028"
 ---
 # <a name="managed-metadata-service-error-message"></a>Mensaje de error de servicio de metadatos administrados
 

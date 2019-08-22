@@ -13,12 +13,12 @@ ms.custom:
 - "723"
 - "1"
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
-ms.openlocfilehash: 6bd8057845d6112d889666d1cd10f1221e4b5a22
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ba5ade5c914600725ed2aff0a3aa0097adfb188f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380954"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542401"
 ---
 # <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Convertir un alias de correo electrónico en la dirección principal de un usuario
 

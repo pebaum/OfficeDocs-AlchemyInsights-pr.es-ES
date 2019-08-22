@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: 4c2191befa04d4fad41f84843acd5ae48a1b5bb7
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c6e0bfdbe3684163f1c35a74182e809f4c26cca4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34752218"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540090"
 ---
 # <a name="recover-missing-or-deleted-site-collections"></a>Recuperar colecciones de sitios que faltan o que se han eliminado
 

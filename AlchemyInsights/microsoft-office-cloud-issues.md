@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 956cf333f83dc681b7d74e984fdeb4c6c273d703
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5cf8c1b3e632fdf5c454d8b2d393d0a98d5a3989
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769524"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544628"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>¿Tiene problemas con un servicio en la nube?
 
-Si experimenta problemas con un servicio en la nube, puede comprobar el [Estado del servicio](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) para determinar si es un problema conocido con una solución en curso antes de llamar al soporte técnico o gastar tiempo en solucionar problemas. El problema puede ser muy temporal y ya está identificado por Microsoft, pero es posible que transcurra en el tiempo entre la identificación y publicación del problema en el panel de estado del servicio. Compruebe si hay más actualizaciones en el panel de servicio.
+Si experimenta problemas con un servicio en la nube, puede comprobar el [Estado del servicio](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) en el centro de administración de Microsoft 365 para determinar si se trata de un problema conocido con una solución en curso antes de llamar al soporte técnico o gastar tiempo en solucionar problemas. El problema puede ser muy temporal y ya está identificado por Microsoft, pero es posible que transcurra en el tiempo entre la identificación y publicación del problema en el panel de estado del servicio. Compruebe si hay más actualizaciones en el panel de servicio.
 
 **Directiva de notificación**
 

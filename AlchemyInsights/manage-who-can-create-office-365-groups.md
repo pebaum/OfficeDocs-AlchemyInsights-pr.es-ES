@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f68aada0-7700-4e61-b822-6ce203afd145
-ms.openlocfilehash: 9a567f9725a287c796d8b7e71fecddcb37660f47
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 35896132521d822578a6d8cd2a6e1aa200550263
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409030"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36541962"
 ---
 # <a name="manage-who-can-create-office-365-groups"></a>Administrar quién puede crear grupos de Office 365
 

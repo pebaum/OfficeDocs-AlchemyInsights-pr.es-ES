@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ad61fdc7-f3b8-46f9-817a-49c6ae2425e2
-ms.openlocfilehash: 056e80f1f24bd32f3d2fdad996fc3169d755b435
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 1506e6cbb2cee20f25f9df49626cc56f45346683
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419673"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36543650"
 ---
 # <a name="onedrive-is-not-provisioned-for-this-user"></a>No se ha aprovisionado OneDrive para este usuario
 

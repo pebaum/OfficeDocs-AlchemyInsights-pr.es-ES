@@ -13,12 +13,12 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: f950e24039f57d5c1458265fadf0c6c8e943b16e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 14bfc62c75e0bb2eb22ffb7052762c6350ad73e0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382826"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36545198"
 ---
 # <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Importar y exportar el correo electrónico, los contactos y los elementos de calendario de Outlook
 
