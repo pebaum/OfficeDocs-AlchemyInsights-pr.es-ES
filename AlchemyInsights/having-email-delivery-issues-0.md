@@ -13,12 +13,12 @@ ms.custom:
 - "875"
 - "876"
 - "3100010"
-ms.openlocfilehash: 50e51be8560ed3817f956cb0c8d111e57b504574
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a18878032c2da76c930c6d4d3fa572f46350de39
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386426"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523384"
 ---
 # <a name="having-email-delivery-issues"></a>¿Tiene problemas de entrega de correo electrónico?
 

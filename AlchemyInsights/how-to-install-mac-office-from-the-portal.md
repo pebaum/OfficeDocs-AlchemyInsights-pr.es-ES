@@ -13,12 +13,12 @@ ms.assetid: 9b3a36d7-9d59-424f-91f4-5cd58a878ef8
 ms.custom:
 - "647"
 - "2000016"
-ms.openlocfilehash: 0ee6319e09d08815d6fd96d68fc193bdbe2998a6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 660a581ada8e7146abf366d83450171b2f440f8f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384626"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540450"
 ---
 # <a name="how-to-install-mac-office-from-the-portal"></a>Cómo instalar Mac Office desde el portal
 
