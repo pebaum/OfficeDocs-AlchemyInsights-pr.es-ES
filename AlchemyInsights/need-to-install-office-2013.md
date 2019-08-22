@@ -11,12 +11,12 @@ ms.custom:
 - "907"
 - "2000023"
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
-ms.openlocfilehash: 20aef8ee6f89c23efef67ebae8a3de32fc23c05e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2acc0b82f6793c4b5a36b71b9574262c559e3aee
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379190"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538722"
 ---
 # <a name="office-2013-is-no-longer-supported-in-office-365-subscriptions"></a>Office 2013 ya no se admite en las suscripciones a Office 365
 

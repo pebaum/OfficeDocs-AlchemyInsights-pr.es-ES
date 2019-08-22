@@ -15,12 +15,12 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: f05e8fa7b973fd4b747aebaac0b76baf3fd67b2d
-ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
+ms.openlocfilehash: e7d63bc774b915e9d8b51695b8d7d0cd08086f35
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36049193"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36536200"
 ---
 # <a name="find-missing-folders"></a>Buscar carpetas que faltan
 

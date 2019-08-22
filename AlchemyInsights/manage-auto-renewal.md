@@ -13,21 +13,23 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: eba0888fb2591ea36620dfff14fcf08356e1e91a
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: f5d809e247516cc9ed47b5091eb0cb7edd88a44d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389809"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542455"
 ---
 # <a name="manage-recurring-billing"></a>Administrar la facturación recurrente
 
-Para administrar la facturación recurrente, puede activar o desactivar la **facturación periódica** .
+Puede activar o desactivar la facturación periódica en el centro de administración de Microsoft 365.
   
-1. En el centro de administración, vaya a la página suscripciones de **facturación** \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Vaya a la página de productos de **facturación** > [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Elija la suscripción para la que desea administrar la facturación recurrente.
+2. En **facturación**, seleccione **Editar**, junto a renueva o **expiración**. ****
 
-3. Cambie el botón de alternancia de **facturación recurrente** a **activado** o **** desactivado.
+3. En el panel **configuración de facturación recurrente** , seleccione **facturación** recurrentes para desactivarla. Si la **facturación recurrente** ya está desactivada, seleccione **mensual** o **una vez** para activarla.
 
-Para obtener más información, consulte [activar o desactivar la facturación periódica](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
+4. Seleccione **Enviar cambio**.
+
+Para obtener más información, consulte [activar o desactivar la facturación periódica](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
