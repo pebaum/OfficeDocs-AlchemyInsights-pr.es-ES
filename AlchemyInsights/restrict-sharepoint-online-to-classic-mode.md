@@ -12,12 +12,12 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: 52c63d8909796f8d0d114a46c5255e4073e8c47d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e7ecfd8c2f1a532355bfb8c2c0a846fc0d6e88b1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369790"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551576"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>Restringir SharePoint Online al modo clásico
 

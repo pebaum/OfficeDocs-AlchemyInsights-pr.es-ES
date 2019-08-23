@@ -14,14 +14,14 @@ ms.custom:
 - "280"
 - "2200009"
 ms.assetid: 1fb88cca-5dd4-4167-8783-13646082cfa0
-ms.openlocfilehash: 10cb6d9a791c20a2c87b80cc373b04b0514543e4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ef59ee1085bbd163eaa31845036619322038fa34
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356326"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36552329"
 ---
-# <a name="repeated-login-to-open-vtirpc"></a>Inicio de sesión repetido para abrir _vti_rpc
+# <a name="repeated-login-to-open-_vti_rpc"></a>Inicio de sesión repetido para abrir _vti_rpc
 
 Al trabajar en archivos de OneDrive con Office 2016, es posible que vea el mensaje: "díganos qué cuenta desea usar para abrir _vti_rpc". Este problema se corrigió en la versión 1708 (16.0.8431.2094). Para solucionar esto, actualice a la versión más reciente de Office. Seleccione **File** \> **account** \> **Update Options** \> **Actualizar ahora**.
   

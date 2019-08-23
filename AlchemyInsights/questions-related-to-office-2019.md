@@ -12,12 +12,12 @@ ms.custom:
 - "1251"
 - "2000023"
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: 289dd4abd5b529f43f01ba03ba2314ecd368dee1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f00109e467c5ef853f9312f57a7f966288a0bb0c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356686"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553629"
 ---
 # <a name="about-office-2019"></a>Acerca de Office 2019
 
