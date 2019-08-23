@@ -11,12 +11,12 @@ ms.custom:
 - "866"
 - "5300012"
 ms.assetid: cebdac7f-fa90-4431-9a71-feb4104e479a
-ms.openlocfilehash: 372849a9745bbb2909942295e58c5b1557e9d6a4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: aacb11aa21adf704c89f7dd7a6a4006cfbf6e628
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356470"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36552872"
 ---
 # <a name="remove-a-hub-site"></a>Quitar un sitio concentrador
 

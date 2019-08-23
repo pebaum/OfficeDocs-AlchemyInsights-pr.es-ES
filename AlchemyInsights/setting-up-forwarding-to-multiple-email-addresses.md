@@ -11,19 +11,19 @@ ms.custom:
 - "837"
 - "1200004"
 ms.assetid: 81205bed-e32a-468d-9d4c-9e881622908b
-ms.openlocfilehash: 7d2be8292d43c2bd124380700e4e7e5b10365b13
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: c97bbeff15cf615d25c43be49f72f90809a4178b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35368746"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549812"
 ---
 # <a name="setting-up-forwarding-to-multiple-email-addresses"></a>Configuración del reenvío a varias direcciones de correo electrónico
 
-Si necesita configurar el reenvío de correo electrónico a un grupo de usuarios, cree una lista de distribución, agréguele varios usuarios y, a continuación, configure el reenvío a esa lista. Primero, navegue a [administrar grupos](https://portal.office.com/adminportal/home#/groups)
+Si necesita configurar el reenvío de correo electrónico a un grupo de usuarios, cree una lista de distribución, agréguele varios usuarios y, a continuación, configure el reenvío a esa lista. En primer lugar, en el centro de administración, vaya a **grupos** > [](https://portal.office.com/adminportal/home#/groups)de grupos.
   
-1. Crear una *lista de distribución*
+1. Crear un grupo.
 
-2. Agregar varios usuarios a la misma
+2. Agregar varios usuarios a la misma.
 
-3. A continuación, configure el reenvío de buzones a ese grupo
+3. Configure el reenvío de buzones a ese grupo.

@@ -12,12 +12,12 @@ ms.custom:
 - "8000001"
 - "1988"
 - "1989"
-ms.openlocfilehash: 8f53d85ab6a701067573520a73692da1d5349c9d
-ms.sourcegitcommit: 77f704672b7c7de541899e25c022ff10c111e304
+ms.openlocfilehash: 46f50cd85a7cf797554af1c8736c1b73f122d2e1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "36204185"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555707"
 ---
 # <a name="turn-off-focused-inbox"></a>Desactivar la bandeja de entrada prioritarios
 

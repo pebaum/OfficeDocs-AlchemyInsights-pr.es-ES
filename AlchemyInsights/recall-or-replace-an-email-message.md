@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356614"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553449"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Recuperar o reemplazar un mensaje de correo electrónico
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>Recuperar o reemplazar un mensaje de correo electrónico en Office 365
 
 - Solo puede **recuperar los mensajes que se envían a las personas de su organización**. Si el mensaje se envió a una dirección de gmail, por ejemplo, no puede recuperarlo.
 - Solo puede **recuperar mensajes enviados desde Outlook 2016 para el equipo**. Si un usuario envía un mensaje con Outlook para Mac o Outlook en la web, no puede recuperarlo.
 - Si es administrador, puede **recuperar mensajes en nombre de los usuarios con PowerShell**. No puede recuperar mensajes del centro de administración. Desplácese hacia abajo hasta "buscar y eliminar mensajes de correo electrónico de la organización" para obtener más información.
 
-***Recuperar o reemplazar un mensaje de correo electrónico enviado***
+**Recuperar o reemplazar un mensaje de correo electrónico enviado**
 
 1. En el panel de carpetas de la izquierda de la ventana de Outlook, elija la carpeta elementos enviados.
 2. Abra el mensaje que desea recuperar. Debe hacer doble clic para abrir el mensaje. La selección del mensaje para que aparezca en el panel de lectura no le permitirá recuperar el mensaje.

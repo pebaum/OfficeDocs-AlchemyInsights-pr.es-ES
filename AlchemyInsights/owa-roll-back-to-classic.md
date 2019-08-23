@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: bf60af45ed26ae0f9c3b25d916831962016a0807
-ms.sourcegitcommit: efed0ae44bd6c61d751dd008b2885bd7e7d86521
+ms.openlocfilehash: 036de86ef0d18869a47bed6306e2df1b711ee764
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "35001031"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556042"
 ---
 # <a name="the-new-outlook-on-the-web"></a>El nuevo Outlook en la web
 

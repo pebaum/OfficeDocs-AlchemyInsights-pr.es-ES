@@ -11,12 +11,12 @@ ms.custom:
 - "1018"
 - "6700004"
 ms.assetid: 2e51ae64-8ba2-42e1-9e3e-f4aad102c391
-ms.openlocfilehash: 58471f22ce78be1b40d3330a76a92d811819849d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a0bbc1f49f251ef4f16300c8cca98e219008d17e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364885"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558022"
 ---
 # <a name="working-with-ios-vpp-applications"></a>Trabajar con aplicaciones de PCV para iOS
 

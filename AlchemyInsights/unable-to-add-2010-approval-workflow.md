@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: 3741b1169ddf731725c18fbaed80bfb321e5db46
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 1f564c5d1e689dcf41b22fab5a05ab1b488c2b0b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32366852"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558634"
 ---
 # <a name="unable-to-add-2010-approval-workflow"></a>No se puede Agregar el flujo de trabajo de aprobación de 2010
 

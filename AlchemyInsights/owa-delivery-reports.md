@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 50ce3ef6b507199914992c9ef580fb14dae552bd
-ms.sourcegitcommit: efed0ae44bd6c61d751dd008b2885bd7e7d86521
+ms.openlocfilehash: 1b39decd55f0bf63746a28866f880d42dd4d3001
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "35001171"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557122"
 ---
 # <a name="issues-with-email-delivery"></a>Problemas con la entrega de correo electrónico
 

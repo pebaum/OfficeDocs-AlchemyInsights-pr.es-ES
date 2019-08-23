@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
-ms.openlocfilehash: 5a72a74710a01cf958fa468b80ee67a4034c4383
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6322ca12902be2612f65b6388a650300b257a95e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372361"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554979"
 ---
 # <a name="how-permissions-inheritance-works-in-sharepoint"></a>Cómo funciona la herencia de permisos en SharePoint
 

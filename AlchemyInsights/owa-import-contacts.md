@@ -13,12 +13,12 @@ ms.custom:
 - "8000019"
 - "2002"
 ms.assetid: ''
-ms.openlocfilehash: 6de04d2b608fd9d9560da4c72a81a6858d14dbe2
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 2c3fcc98f85715305949873b19747be59f633d9b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36171123"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556650"
 ---
 # <a name="import-contacts"></a>Importar contactos
 

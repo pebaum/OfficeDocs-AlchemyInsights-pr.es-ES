@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "8000034"
 - "2470"
-ms.openlocfilehash: 0d9fb6b33bddf6256bde9f6a34feee477b74f87b
-ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
+ms.openlocfilehash: 896b7b684be1b8e28f59e7de60f3706e73d5b235
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "36170652"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556150"
 ---
 # <a name="read-receipts"></a>Confirmaciones de lectura
 
-Para solicitar una confirmación de lectura o una confirmación de entrega del mensaje:
+Para solicitar una confirmación de lectura o una confirmación de entrega del mensaje en Outlook en la web:
 
 1. Seleccione los puntos suspensivos <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
  en la parte superior del panel de redacción del mensaje.

@@ -13,12 +13,12 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: 5b256edb711d194584871c8072af9a266479e1bb
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a3cf9193e9c9494ed6f00e3001dd57af591a9ff0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35390062"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557354"
 ---
 # <a name="outlook-not-synching-folders"></a>Outlook no Sincronizando carpetas
 

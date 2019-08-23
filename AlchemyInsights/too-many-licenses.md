@@ -13,27 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 807fab7199a6f5d4e3c79be22451069def82a358
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 99102d883ae5c4fbb7af624b0b06e0313bd5f218
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388041"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549092"
 ---
 # <a name="too-many-licenses"></a>¿Demasiadas licencias?
 
-Si cree que se le facturan demasiadas licencias, suele deberse a haber comprado más licencias.
+Si cree que se le facturan demasiadas licencias de Office 365, esto suele deberse a que haya comprado más licencias y, a continuación, necesita.
   
 **Reducir el número de licencias adquiridas**
   
-1. En el centro de administración, vaya a la página suscripciones de **facturación** \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. En el centro de administración, vaya a la página productos de **facturación** \> [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. En la parte izquierda, elija la suscripción de la que desea quitar licencias.
+2. Busque la suscripción de la que desea quitar licencias y, a continuación, seleccione **Agregar o quitar licencias**.
 
-3. Elija **Agregar o quitar licencias**.
+3. En el cuadro **total de licencias** , escriba el número total de licencias que necesita para esta suscripción y, después, seleccione **Enviar cambio**. Por ejemplo, si tiene 110 licencias y quiere quitar 5, escriba 105.
 
-4. Escriba el número total de usuarios necesarios. Por ejemplo, si actualmente tiene 25 licencias y desea quitar 5, escriba 20 en este campo.
-
-5. Choose **Submit**.
-
-¿Usa el nuevo centro de administración? Para conocer los pasos nuevos, consulte [quitar licencias de la suscripción de Office 365 para empresas](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+Para más información, vea [Quitar licencias de una suscripción a Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).

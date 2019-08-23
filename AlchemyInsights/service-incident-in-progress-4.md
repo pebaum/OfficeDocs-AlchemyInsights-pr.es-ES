@@ -13,12 +13,12 @@ ms.custom:
 - "1891"
 - "1600011"
 - "9000287"
-ms.openlocfilehash: a6a1f6a03848d3540c0899fd369fead9aa4d8361
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 05120f32c56d0b0d2299ccb7528fc174c853ff0f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355534"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36550676"
 ---
 # <a name="service-incident-in-progress"></a>Incidente del servicio en curso
 

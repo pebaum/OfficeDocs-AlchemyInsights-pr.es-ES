@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "9000641"
 - "2478"
-ms.openlocfilehash: e7494964f08c7300c9329330b758edf7e0380554
-ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
+ms.openlocfilehash: c3e5a2c8a4f01df1553dfc1b20a064353165ad65
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "36171267"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556870"
 ---
 # <a name="fix-outlook-on-the-web-sync-issues"></a>Solucionar problemas de sincronización de Outlook en la web
 

@@ -13,12 +13,12 @@ ms.custom:
 - "135"
 - "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
-ms.openlocfilehash: 100767ebc1ca2e9869dcd971e7ae0ce5872a040a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 0784b7abfeee3f6be8e6f74084ef34934fc2f711
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35390134"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557444"
 ---
 # <a name="in-app-support-in-outlook-for-mac"></a>Compatibilidad con la aplicación en Outlook para Mac
 

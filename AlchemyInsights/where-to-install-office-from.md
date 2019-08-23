@@ -12,12 +12,12 @@ ms.custom:
 - "913"
 - "2000023"
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
-ms.openlocfilehash: c77b00bbfba784087c7d35fe45050ba24f6670a1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d00eb2dbafac21a151ac97b8079d2e5ed7dd0b52
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365182"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558490"
 ---
 # <a name="install-office"></a>Instalar Office
 

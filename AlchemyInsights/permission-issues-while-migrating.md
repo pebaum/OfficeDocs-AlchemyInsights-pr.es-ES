@@ -8,15 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
-ms.openlocfilehash: 3f420a0f930ccb227ad6d2b4b88a9726627bbdb7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3dac4e527aa181c89e6530a219c6f0596b417464
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372217"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554918"
 ---
 # <a name="permissions-issues-while-migrating"></a>Problemas de permisos durante la migración
 
-Para obtener información sobre los problemas comunes de permisos durante la migración a SharePoint Online, consulte Understanding perMissions [and the SharePoint Migration Tool.](https://go.microsoft.com/fwlink/?linkid=2019753)
+Para obtener información sobre los problemas comunes de permisos durante la migración a SharePoint Online, consulte Understanding Permissions [and the SharePoint Migration Tool.](https://go.microsoft.com/fwlink/?linkid=2019753)
   
 

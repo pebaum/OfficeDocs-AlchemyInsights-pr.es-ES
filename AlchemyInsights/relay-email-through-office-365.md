@@ -13,12 +13,12 @@ ms.custom:
 - "154"
 - "3000003"
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 3c056f5c78935adcf0b64779f9632f9336080a40
-ms.sourcegitcommit: dce9cf9bb05d29f0f9bab61fe3fc25e99f0cebf1
+ms.openlocfilehash: 84443cf1c93e9b19249c573704bc520eaa1c8f48
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/11/2019
-ms.locfileid: "35630758"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553004"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>Configurar una aplicación o dispositivo multifunción para enviar correos electrónicos mediante Office 365
 

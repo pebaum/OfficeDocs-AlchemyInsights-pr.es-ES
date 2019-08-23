@@ -13,12 +13,12 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 53f3dcc9e5ae1cde1f856bcd7c218afcbc6231da
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 91e1e9fa8177d1db6df02dd3376edc6cdd05fb60
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371089"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554494"
 ---
 # <a name="problems-sharing-with-outlook-customer-manager"></a>Problemas al compartir con el administrador de clientes de Outlook
 

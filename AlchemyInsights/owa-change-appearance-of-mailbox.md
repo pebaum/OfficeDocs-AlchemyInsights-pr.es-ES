@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d9e30e18f9821f689878867b1619d01767c34274
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 2a9f35dc83e82bc169e89404ae5e697792821b79
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36171375"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557518"
 ---
-# <a name="change-the-look-of-your-mailbox"></a>Cambiar la apariencia de su buzón de correo
+# <a name="change-the-look-of-your-outlook-mailbox"></a>Cambiar la apariencia del buzón de Outlook
 
 Puede cambiar la apariencia de la lista de mensajes y el panel de lectura para que tenga el aspecto y el comportamiento que desee. Elija si desea que los mensajes se muestren de forma individual o como conversaciones, si los mensajes nuevos deben aparecer en la parte superior o inferior de la lista de mensajes, y más.
 

@@ -13,12 +13,12 @@ ms.custom:
 - "1491"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: d25c1ef2e0e746432472a436cb11d25b5db5596c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 094da9d75013aae56ca219b7ae03e85736ce5ee0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355894"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551432"
 ---
 # <a name="content-search-not-returning-expected-results"></a>La búsqueda de contenido no devuelve los resultados esperados
 

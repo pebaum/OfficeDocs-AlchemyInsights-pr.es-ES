@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: 88f91f897aacf22ae9c82c59d5eb50b3ffcd5330
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e9b05de875969ac8fa1876898069f134e2bd96bb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32369731"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549488"
 ---
 # <a name="how-to-share-in-sharepoint-online"></a>Cómo compartir en SharePoint Online
 
