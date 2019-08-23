@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 04ff09b33024c6373570acbd2ee95f368e8ca0bc
-ms.sourcegitcommit: efed0ae44bd6c61d751dd008b2885bd7e7d86521
+ms.openlocfilehash: d25e3ea650bcd337640ab44574d109721639ce17
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "35001521"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556512"
 ---
 # <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>Configuración de POP, IMAP & SMTP para Outlook en la web
 

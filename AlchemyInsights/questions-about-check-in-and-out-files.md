@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5a5eaebc-5818-4ce8-9d2c-e0d04f8c6f7d
-ms.openlocfilehash: 1984a6859510254b4bcdb2a861df3456c253e161
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 98c7050ff9dbf684b9006b57cb3a30ca284c11b7
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388493"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553699"
 ---
 # <a name="questions-about-check-in-and-out-files"></a>Preguntas sobre los archivos de protección y salida
 

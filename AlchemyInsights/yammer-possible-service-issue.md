@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1338"
 - "2800001"
-ms.openlocfilehash: edd4e8236a33565490fb153ba5c06300543ed74b
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 7d89ce9a13430ac85fe3f634ccd106ef3f1e5532
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752918"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557842"
 ---
 # <a name="yammer---possible-service-issue"></a>Yammer: problema de servicio posible
 

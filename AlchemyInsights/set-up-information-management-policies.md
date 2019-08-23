@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 253110c8-ed8e-4485-b40b-0b344843762a
-ms.openlocfilehash: def9c77aaa31aa3d06e00661e80ab8747ca32844
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3c4487c613d53e8b0e6b8f7a146c2ac988424e89
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421526"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36550028"
 ---
 # <a name="set-up-information-management-policies"></a>Configurar directivas de administración de la información
 

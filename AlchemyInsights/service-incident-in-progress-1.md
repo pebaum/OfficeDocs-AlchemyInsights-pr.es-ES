@@ -11,12 +11,12 @@ ms.assetid: 2ed85d10-162f-4e4a-a843-7ad20e00a077
 ms.custom:
 - "121"
 - "1600017"
-ms.openlocfilehash: b9667919238ed5df38bde9f42e814ce486924438
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 60f3f1519a35be77dcb6c31bd2d2f3aa4c2949f6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369286"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36550604"
 ---
 # <a name="service-incident-in-progress"></a>Incidente del servicio en curso
 

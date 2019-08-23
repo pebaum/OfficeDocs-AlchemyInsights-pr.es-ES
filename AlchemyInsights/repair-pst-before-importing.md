@@ -12,12 +12,12 @@ ms.custom:
 - "1226"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: f0f6547a4daca31a6330d2dc2f609dcdfcd8f4be
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3f273d9807a20048f33ce476e091ee2122a773d4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370187"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36552440"
 ---
 # <a name="repair-pst-file-before-importing"></a>Reparar el archivo. pst antes de importar
 

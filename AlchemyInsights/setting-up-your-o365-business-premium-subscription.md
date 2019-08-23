@@ -11,12 +11,12 @@ ms.assetid: a9192d32-8a5a-459d-808a-d18ce0e397da
 ms.custom:
 - "31"
 - "1600002"
-ms.openlocfilehash: d700eff98d7f2b101b0a66360539aa441c385a25
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: fd9b270cf59134cbfce4a559125715457eb0c716
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35368854"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549596"
 ---
 # <a name="setting-up-your-o365-business-premium-subscription"></a>Configuración de la suscripción a Office 365 empresa Premium
 
