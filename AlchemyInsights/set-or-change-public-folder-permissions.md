@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
-ms.openlocfilehash: d1554e8a63455f3549044e526183c0e8709f2631
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3f891beeba8303b05d6730f608034e22b2bcdb92
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421833"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36550172"
 ---
 # <a name="permissions-and-public-folders"></a>Permisos y carpetas públicas
 

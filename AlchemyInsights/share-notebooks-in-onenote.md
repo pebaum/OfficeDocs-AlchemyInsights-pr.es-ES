@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000556"
 - "2406"
-ms.openlocfilehash: 539cbd46e5dadf02f23bdbdecbb6e50fbec7aa45
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 4648aa6e072e20fb5914e91faf25c2011d8aa6b5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35904161"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549308"
 ---
 # <a name="share-notebooks-in-onenote-for-the-web-or-onenote-2016"></a>Compartir blocs de notas en OneNote para la web o OneNote 2016
 

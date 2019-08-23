@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: a306d8764351a8769b4dba95b912f90433b2c2dc
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 8c61c6007c8e1cc8958993e0f1b3e0e6c0dbb617
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32371821"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553015"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>Restaurar elementos en SharePoint Online
 

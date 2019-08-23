@@ -13,20 +13,20 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 9a88c1e0d66eaff5fe942de55cf2c2c3525b5602
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e654137489609da2273d199b4eedb9227c7db011
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355390"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549956"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Comprobar la configuración de reenvío de correo electrónico de un buzón
 
-Es fácil comprobar la configuración del reenvío de correo electrónico en un buzón. Solo tiene que seguir estos pasos.
+Es fácil comprobar la configuración del reenvío de correo electrónico en un buzón de Office 365. Solo tiene que seguir estos pasos.
   
-> Si se trata de un buzón de usuario, **** \> vaya a usuarios **activos** y seleccione el usuario que es el buzón de correo que va a reenviar. En configuración de correo, elija **Editar** para reenvío de correo electrónico.
+> Si se trata de un buzón de usuario, **** \> vaya a usuarios **activos** y seleccione el usuario que es el buzón de correo que va a reenviar. En la ficha **correo** , seleccione **administrar el reenvío de correo electrónico**.
     
-> Si se trata de un buzón compartido, vaya a **grupos** \> de buzones compartidos y seleccione el buzón compartido que desea reenviar. **** Elija **Editar** para reenvío de correo electrónico.
+> Si se trata de un buzón compartido, vaya a **grupos** \> de buzones compartidos y seleccione el buzón compartido que desea reenviar. **** Editar **** editar para reenvío de correo electrónico.
 
 Para obtener más información, consulte [configurar el reenvío de correo electrónico en Office 365](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74).
   

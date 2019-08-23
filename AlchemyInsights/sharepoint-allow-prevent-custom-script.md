@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 3f43e4879fbf4ca4853c5a6c109ad48856ea21ec
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: cc39fd3e840ac17af2aea242551015074eb985cd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059305"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36548912"
 ---
 # <a name="allow-custom-script-to-enable-features"></a>Permitir scripts personalizados para habilitar características
 
