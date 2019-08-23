@@ -1,5 +1,5 @@
 ---
-title: El archivo WD no se abrió al hacer doble clic
+title: No se ha abierto el archivo de Word al hacer doble clic
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 5eedc991d787c2e50d9f92eae3acf4fa367c08f1
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: aaf4cf8f22a81c601f41ef00080aeb1d8a7e2789
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752778"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558202"
 ---
-# <a name="solutions-for-files-opening-in-wrong-apps"></a>Soluciones para archivos que se abren en aplicaciones incorrectas
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Documento de Word abierto en la aplicación incorrecta o no se ha abierto
 
 Pruebe una de estas sugerencias:
 
 **Elegir Word como predeterminado**
 
-* Haga clic con el botón derecho en el documento, elija **abrir con**y, a continuación, elija **Word** .
+- Haga clic con el botón derecho en el documento, elija **abrir con**y, a continuación, elija **Word** .
 
 **Ejecutar una reparación rápida**
 
