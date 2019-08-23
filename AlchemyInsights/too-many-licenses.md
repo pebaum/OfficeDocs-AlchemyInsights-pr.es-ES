@@ -13,27 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 807fab7199a6f5d4e3c79be22451069def82a358
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 99102d883ae5c4fbb7af624b0b06e0313bd5f218
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388041"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549092"
 ---
-# <a name="too-many-licenses"></a><span data-ttu-id="ddaeb-102">¿Demasiadas licencias?</span><span class="sxs-lookup"><span data-stu-id="ddaeb-102">Too many licenses?</span></span>
+# <a name="too-many-licenses"></a><span data-ttu-id="b67bc-102">¿Demasiadas licencias?</span><span class="sxs-lookup"><span data-stu-id="b67bc-102">Too many licenses?</span></span>
 
-<span data-ttu-id="ddaeb-103">Si cree que se le facturan demasiadas licencias, suele deberse a haber comprado más licencias.</span><span class="sxs-lookup"><span data-stu-id="ddaeb-103">If you think you're being billed for too many licenses, this is usually due to having purchased more licenses then you need.</span></span>
+<span data-ttu-id="b67bc-103">Si cree que se le facturan demasiadas licencias de Office 365, esto suele deberse a que haya comprado más licencias y, a continuación, necesita.</span><span class="sxs-lookup"><span data-stu-id="b67bc-103">If you think you're being billed for too many Office 365 licenses, this is usually due to having purchased more licenses then you need.</span></span>
   
-<span data-ttu-id="ddaeb-104">**Reducir el número de licencias adquiridas**</span><span class="sxs-lookup"><span data-stu-id="ddaeb-104">**Reduce the number of licenses purchased**</span></span>
+<span data-ttu-id="b67bc-104">**Reducir el número de licencias adquiridas**</span><span class="sxs-lookup"><span data-stu-id="b67bc-104">**Reduce the number of licenses purchased**</span></span>
   
-1. <span data-ttu-id="ddaeb-105">En el centro de administración, vaya a la página suscripciones de **facturación** \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="ddaeb-105">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="b67bc-105">En el centro de administración, vaya a la página productos de **facturación** \> [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="b67bc-105">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="ddaeb-106">En la parte izquierda, elija la suscripción de la que desea quitar licencias.</span><span class="sxs-lookup"><span data-stu-id="ddaeb-106">On the left, choose the subscription from which you would like to remove licenses.</span></span>
+2. <span data-ttu-id="b67bc-106">Busque la suscripción de la que desea quitar licencias y, a continuación, seleccione **Agregar o quitar licencias**.</span><span class="sxs-lookup"><span data-stu-id="b67bc-106">Find the subscription from which you want to remove licenses, then select **Add/Remove licenses**.</span></span>
 
-3. <span data-ttu-id="ddaeb-107">Elija **Agregar o quitar licencias**.</span><span class="sxs-lookup"><span data-stu-id="ddaeb-107">Choose **Add/Remove licenses**.</span></span>
+3. <span data-ttu-id="b67bc-107">En el cuadro **total de licencias** , escriba el número total de licencias que necesita para esta suscripción y, después, seleccione **Enviar cambio**.</span><span class="sxs-lookup"><span data-stu-id="b67bc-107">In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then select **Submit change**.</span></span> <span data-ttu-id="b67bc-108">Por ejemplo, si tiene 110 licencias y quiere quitar 5, escriba 105.</span><span class="sxs-lookup"><span data-stu-id="b67bc-108">For example, if you have 110 licenses and you want to remove 5 of them, enter 105.</span></span>
 
-4. <span data-ttu-id="ddaeb-108">Escriba el número total de usuarios necesarios.</span><span class="sxs-lookup"><span data-stu-id="ddaeb-108">Enter the total number of users needed.</span></span> <span data-ttu-id="ddaeb-109">Por ejemplo, si actualmente tiene 25 licencias y desea quitar 5, escriba 20 en este campo.</span><span class="sxs-lookup"><span data-stu-id="ddaeb-109">For example, if you currently have 25 licenses and you want to remove 5, enter 20 in this field.</span></span>
-
-5. <span data-ttu-id="ddaeb-110">Choose **Submit**.</span><span class="sxs-lookup"><span data-stu-id="ddaeb-110">Choose **Submit**.</span></span>
-
-<span data-ttu-id="ddaeb-111">¿Usa el nuevo centro de administración?</span><span class="sxs-lookup"><span data-stu-id="ddaeb-111">Are you using the new admin center?</span></span> <span data-ttu-id="ddaeb-112">Para conocer los pasos nuevos, consulte [quitar licencias de la suscripción de Office 365 para empresas](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).</span><span class="sxs-lookup"><span data-stu-id="ddaeb-112">For new steps, see [Remove licenses from your Office 365 for business subscription](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).</span></span>
+<span data-ttu-id="b67bc-109">Para más información, vea [Quitar licencias de una suscripción a Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).</span><span class="sxs-lookup"><span data-stu-id="b67bc-109">For more information, see [Remove licenses from your Office 365 for business subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).</span></span>

@@ -13,13 +13,13 @@ ms.custom:
 - "135"
 - "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
-ms.openlocfilehash: 100767ebc1ca2e9869dcd971e7ae0ce5872a040a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 0784b7abfeee3f6be8e6f74084ef34934fc2f711
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35390134"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557444"
 ---
-# <a name="in-app-support-in-outlook-for-mac"></a><span data-ttu-id="4f3dc-102">Compatibilidad con la aplicación en Outlook para Mac</span><span class="sxs-lookup"><span data-stu-id="4f3dc-102">In-app support in Outlook for Mac</span></span>
+# <a name="in-app-support-in-outlook-for-mac"></a><span data-ttu-id="b9e89-102">Compatibilidad con la aplicación en Outlook para Mac</span><span class="sxs-lookup"><span data-stu-id="b9e89-102">In-app support in Outlook for Mac</span></span>
 
-<span data-ttu-id="4f3dc-103">Para recibir problemas con soporte en la aplicación para Outlook para Mac, Abra Outlook y haga \> clic en ayuda de soporte técnico.</span><span class="sxs-lookup"><span data-stu-id="4f3dc-103">To receive support in-app for Outlook for Mac issues, open Outlook and click Help \> Contact Support.</span></span> <span data-ttu-id="4f3dc-104">Escriba su pregunta y un miembro del equipo de soporte técnico de Outlook para Mac se pondrá en contacto con usted.</span><span class="sxs-lookup"><span data-stu-id="4f3dc-104">Type your question, and a member of the Outlook for Mac support team will get in touch with you.</span></span> [<span data-ttu-id="4f3dc-105">Póngase en contacto con el soporte técnico de Outlook para Mac</span><span class="sxs-lookup"><span data-stu-id="4f3dc-105">Contact support in Outlook for Mac</span></span>](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
+<span data-ttu-id="b9e89-103">Para recibir problemas con soporte en la aplicación para Outlook para Mac, Abra Outlook y haga \> clic en ayuda de soporte técnico.</span><span class="sxs-lookup"><span data-stu-id="b9e89-103">To receive support in-app for Outlook for Mac issues, open Outlook and click Help \> Contact Support.</span></span> <span data-ttu-id="b9e89-104">Escriba su pregunta y un miembro del equipo de soporte técnico de Outlook para Mac se pondrá en contacto con usted.</span><span class="sxs-lookup"><span data-stu-id="b9e89-104">Type your question, and a member of the Outlook for Mac support team will get in touch with you.</span></span> [<span data-ttu-id="b9e89-105">Póngase en contacto con el soporte técnico de Outlook para Mac</span><span class="sxs-lookup"><span data-stu-id="b9e89-105">Contact support in Outlook for Mac</span></span>](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
