@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000562"
 - "2421"
-ms.openlocfilehash: 61a8d241e992cc73f1a3ac253365ac21d5e2f3d4
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: 6788a534d19521db98eb3ba59536cebeb02e190c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35606958"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558562"
 ---
-# <a name="where-do-i-get-software-as-a-service-saas-apps"></a><span data-ttu-id="98ee3-102">¿Dónde puedo obtener aplicaciones de software como servicio (SaaS)?</span><span class="sxs-lookup"><span data-stu-id="98ee3-102">Where do I get software-as-a-service (Saas) apps?</span></span>
+# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a><span data-ttu-id="abb65-102">¿Dónde puedo obtener aplicaciones de software como servicio (SaaS) de los socios de Microsoft?</span><span class="sxs-lookup"><span data-stu-id="abb65-102">Where do I get software-as-a-service (SaaS) apps from Microsoft partners?</span></span>
 
-<span data-ttu-id="98ee3-103">Los clientes pueden comprar aplicaciones de SaaS desde [AppSource](http://www.appsource.com/).</span><span class="sxs-lookup"><span data-stu-id="98ee3-103">Customers can purchase Saas apps from [Appsource](http://www.appsource.com/).</span></span>
+<span data-ttu-id="abb65-103">Los clientes pueden buscar, investigar y comprar aplicaciones de SaaS desde [AppSource](http://www.appsource.com/).</span><span class="sxs-lookup"><span data-stu-id="abb65-103">Customers can search for, research, and purchase SaaS apps from [AppSource](http://www.appsource.com/).</span></span>
