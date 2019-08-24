@@ -13,12 +13,12 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: c1c18215a6746ac7ae22c869ffde1a9bd53efce6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539946"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574779"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Cómo reactivar una suscripción
 
@@ -26,10 +26,11 @@ Si su suscripción ha expirado, se ha cancelado o Microsoft la ha deshabilitado,
   
 1. En el centro de administración, vaya a **Facturación** \> [Productos y servicios](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. En **Facturación**, al lado de **Se renueva en** o **Caduca en**, seleccione **Editar**.
+2. Busque la suscripción que quiere reactivar.  En la sección **Facturación**, elija Reactivar.
 
-3. En el panel **Configuración de la facturación periódica**, seleccione la opción que prefiera. Si la opción de facturación periódica está desactivada, seleccione **Mensual** o Una vez para activarla.
+    Si no ve **Reactivar** como acción disponible, llame al soporte técnico para volver a activar la suscripción.
 
-4. Seleccione **Enviar cambios**.
+3. Confirme los datos de pago. Puede actualizar aquí su información de pago actual. Cuando haya terminado de especificar el método de pago, seleccione **Reactivar.
 
-Para obtener más información, vea: [Renovar Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
+¿Sigue usando el antiguo centro de administración? Para conocer los antiguos pasos a tomar o para obtener más información, consulte [Reactivar 
+la suscripción.
