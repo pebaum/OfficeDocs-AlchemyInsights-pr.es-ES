@@ -12,18 +12,24 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840532"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620740"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Solo lectura para el mensaje de mantenimiento al intentar usar SharePoint o OneDrive
 
-Los usuarios pueden recibir un mensaje **de solo lectura para el mensaje de mantenimiento** al intentar usar SharePoint o OneDrive.  Si es así, compruebe si hay mantenimiento activo en el espacio empresarial desplazándose al centro de [mensajes](https://portal.office.com/adminportal/home#/MessageCenter). Además, asegúrese de comprobar el panel de [Estado del servicio](https://portal.office.com/adminportal/home#/servicehealth) para comprobar si hay algún asesor o incidente que pueda estar ocurriendo.
+Los usuarios pueden recibir un mensaje **de solo lectura para** el mensaje de mantenimiento al intentar usar SharePoint o OneDrive para uno de los siguientes escenarios. 
 
-Si ni el centro de mensajes o el panel de estado del servicio han anotado nada sobre el mantenimiento actual de su inquilino, puede tratarse de un problema del almacenamiento en caché del explorador.
+-   Una actividad de mantenimiento planificado o activo.  Para buscarlos, navegue hasta el [centro de mensajes](https://portal.office.com/adminportal/home#/messagecenter).
+-   Un incidente de servicio activo de alta prioridad que pueda estar ocurriendo. Compruebe si hay algún asesor o incidente desplazándose al [Estado del servicio](https://portal.office.com/adminportal/home#/servicehealth).
+-   Un escenario de recuperación de recuperación automática secundaria que podría estar ocurriendo debido a eventos inesperados en los servidores que pueden durar menos de 30 minutos o más. 
+    
+    No existen publicaciones de estado del servicio o del centro de mensajes para estas recuperaciones menores, pero debe volver a ser normal muy pronto.
+
+En muy pocas ocasiones observamos que uno de los tres escenarios enumerados anteriormente ha sido la causa y que se ha restaurado el servicio, pero la memoria caché del explorador de usuarios no se ha borrado.
 
 Intente borrar la memoria caché del explorador antes de navegar al sitio.
 

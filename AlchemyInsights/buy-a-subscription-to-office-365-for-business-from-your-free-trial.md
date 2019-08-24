@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: e6681268c3932fd96cb05ffd41149c890f37c6c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7d1624fdf71c33f8f04e2dc5e8f02f5ca74881e1
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518020"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575766"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Comprar una suscripción a Office 365 desde su versión de prueba gratuita
 
@@ -36,4 +36,4 @@ o **puede comprar una suscripción diferente**
 
 3. Busque la suscripción que desea comprar, seleccione **comprar**y siga los pasos para desproteger.
 
-Para obtener más información, consulte [Comprar una suscripción de Office 365 para empresas desde su versión de prueba gratuita](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+¿Usa el centro de administración antiguo? Para los pasos anteriores o para obtener más información, consulte [compre a Office 365 for Business desde su versión de prueba gratuita](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
