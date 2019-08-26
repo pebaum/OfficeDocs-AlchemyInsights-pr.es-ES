@@ -13,14 +13,14 @@ ms.custom:
 - "1639"
 - "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: fbdbdec10ddc5724122c02ad1350c11aaf63867e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 74cec40931491a9194252dd44894c602b3c849cd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388689"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555286"
 ---
-# <a name="payment-options"></a>Opciones de pago
+# <a name="payment-options-for-office-365-for-business-subscriptions"></a>Opciones de pago para las suscripciones de Office 365 para empresas
 
 **Opciones de pago**
   
@@ -30,7 +30,7 @@ Tarjeta de crédito, cuenta bancaria (adeudo directo), y factura (pague mediante
   
 Al pagar con tarjeta de crédito o cuenta bancaria, se le hará automáticamente un cargo por su suscripción el día siguiente a la fecha de factura. Puede [actualizar la información de la tarjeta de crédito o la cuenta bancaria](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) siempre que sea necesario. También tiene la posibilidad de [Recibir una copia del extracto de facturación por correo electrónico](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email).
   
-Si su tarjeta de crédito ha sido rechazada o tiene un saldo vencido, puede elegir la opción **Pagar ahora** en la página **Facturación** de\> [Suscripciones](https://portal.office.com/adminportal/home#/subscriptions).
+Si su tarjeta de crédito ha sido rechazada o tiene un saldo vencido, puede elegir la opción **Liquidar saldo** en la página **Facturación** \> [Productos y servicios](https://portal.office.com/adminportal/home#/subscriptions).
   
 **Pagar con factura (cheque o transferencia electrónica de fondos)**
   

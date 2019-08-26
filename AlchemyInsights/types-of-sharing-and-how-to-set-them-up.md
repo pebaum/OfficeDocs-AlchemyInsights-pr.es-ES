@@ -14,14 +14,14 @@ ms.custom:
 - "878"
 - "3500012"
 ms.assetid: 361f5405-ac43-46f6-b1b9-5d91f61617ec
-ms.openlocfilehash: c43edb77041915108d05a5e89e6107ee7838857f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 6680b79ec120e28076f3de01818ea27334921a05
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366622"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558742"
 ---
-# <a name="different-types-of-shared-calendars-and-how-to-set-them-up"></a>Distintos tipos de calendarios compartidos y cómo configurarlos
+# <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a>Distintos tipos de calendarios de Outlook compartidos y cómo configurarlos
 
 - [Crear un buzón compartido](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9)
 
