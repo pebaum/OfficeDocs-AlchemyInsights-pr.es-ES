@@ -15,20 +15,21 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: d4daf97aa7d082906000a48d2fd542a70e8cdc8b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
+ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537893"
+ms.lasthandoff: 08/27/2019
+ms.locfileid: "36643711"
 ---
 # <a name="block-or-unblock-senders"></a>Bloquear o desbloquear remitentes
 
-Los mensajes de direcciones de correo electrónico o dominios de los remitentes bloqueados van directamente a la carpeta correo electrónico no deseado. El correo electrónico se quita automáticamente de la carpeta correo electrónico no deseado transcurridos 14 días y no es recuperable.
+Los mensajes de direcciones de correo electrónico o dominios de los remitentes bloqueados van directamente a la carpeta correo electrónico no deseado. El correo electrónico se quita automáticamente de la carpeta correo electrónico no deseado transcurridos 30 días y no es recuperable. Se; el ect es un elemento para ver cuándo se quitará.
 
 **Desde la bandeja de entrada:**
 
 - En la lista mensaje, seleccione el mensaje y, a continuación, seleccione**bloque**de **correo no deseado** > .
+- **Nota:** Bloquear un elemento que ya está en la carpeta de correo no deseado no lo eliminará.
 
 **De la configuración:**
 
