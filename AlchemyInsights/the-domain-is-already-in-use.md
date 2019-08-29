@@ -2,7 +2,6 @@
 title: El dominio ya está en uso
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/8/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +10,12 @@ ms.assetid: 3b01008b-f57d-4a82-837c-d22a0ac6a294
 ms.custom:
 - "29"
 - "10"
-ms.openlocfilehash: 0d761e2ad9796a3bafe5153d4433926882cc241d
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 20a9935d17a6797a1eda7f69da534e3287c3cea1
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35904063"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660737"
 ---
 # <a name="the-domain-is-already-in-use"></a>El dominio ya está en uso
 
