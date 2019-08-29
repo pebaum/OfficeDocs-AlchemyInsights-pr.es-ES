@@ -3,7 +3,6 @@ title: Mover correo electrónico a Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 7/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +12,18 @@ ms.custom:
 - "640"
 - "3500008"
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: 47a8c880baf73f848b20847c2f61a7a241690a6c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bd0453307e39f4eeddf666e9a1b7f56adec89bec
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522268"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666893"
 ---
-# <a name="move-email-to-office-365"></a><span data-ttu-id="76074-102">Mover correo electrónico a Office 365</span><span class="sxs-lookup"><span data-stu-id="76074-102">Move email to Office 365</span></span>
+# <a name="move-email-to-office-365"></a><span data-ttu-id="4837f-102">Mover correo electrónico a Office 365</span><span class="sxs-lookup"><span data-stu-id="4837f-102">Move email to Office 365</span></span>
 
-<span data-ttu-id="76074-103">Tiene varias opciones para migrar el correo electrónico a Office 365.</span><span class="sxs-lookup"><span data-stu-id="76074-103">You have several options for migrating email to Office 365.</span></span> <span data-ttu-id="76074-104">[Office 365 mail Migration Advisor](https://aka.ms/alchemyinsight-mailmigrationadvisor) le ayuda a elegir el mejor para su entorno y también le guía a través de la migración de correo.</span><span class="sxs-lookup"><span data-stu-id="76074-104">The [Office 365 mail migration advisor](https://aka.ms/alchemyinsight-mailmigrationadvisor) helps you choose the best one for your environment and also guides you through the mail migration.</span></span>
+<span data-ttu-id="4837f-103">Tiene varias opciones para migrar el correo electrónico a Office 365.</span><span class="sxs-lookup"><span data-stu-id="4837f-103">You have several options for migrating email to Office 365.</span></span> <span data-ttu-id="4837f-104">[Office 365 mail Migration Advisor](https://aka.ms/alchemyinsight-mailmigrationadvisor) le ayuda a elegir el mejor para su entorno y también le guía a través de la migración de correo.</span><span class="sxs-lookup"><span data-stu-id="4837f-104">The [Office 365 mail migration advisor](https://aka.ms/alchemyinsight-mailmigrationadvisor) helps you choose the best one for your environment and also guides you through the mail migration.</span></span>
   
-<span data-ttu-id="76074-105">Para obtener información sobre las opciones sin iniciar la migración, consulte [decidir una ruta de migración](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).</span><span class="sxs-lookup"><span data-stu-id="76074-105">To read about your options without starting the migration, please see [Decide on a migration path](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).</span></span>
+<span data-ttu-id="4837f-105">Para obtener información sobre las opciones sin iniciar la migración, consulte [decidir una ruta de migración](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).</span><span class="sxs-lookup"><span data-stu-id="4837f-105">To read about your options without starting the migration, please see [Decide on a migration path](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).</span></span>
 
-<span data-ttu-id="76074-106">Consulte también la página [adopción de Office 365 con FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) para obtener ayuda asistida con la migración, si es elegible.</span><span class="sxs-lookup"><span data-stu-id="76074-106">Please also check the [Adopt Office 365 with FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) page for assisted help with migration, if eligible.</span></span>
+<span data-ttu-id="4837f-106">Consulte también la página [adopción de Office 365 con FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) para obtener ayuda asistida con la migración, si es elegible.</span><span class="sxs-lookup"><span data-stu-id="4837f-106">Please also check the [Adopt Office 365 with FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) page for assisted help with migration, if eligible.</span></span>
   
