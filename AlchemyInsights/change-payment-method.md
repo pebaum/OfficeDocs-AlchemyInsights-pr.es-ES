@@ -3,7 +3,6 @@ title: Cambiar el método de pago
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "277"
 - "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: d4e4548ab943ffdbe1117f333c64f2c95a5985da
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d89cb375475bfaff1f3a3a34ff7cefb9d9d42d5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519244"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665374"
 ---
 # <a name="change-payment-method"></a>Cambiar el método de pago
 
-Puede comprobar el método de pago que está configurado en el centro de administración de Microsoft 365. Elija la suscripción que quiera comprobar. El método de pago que está configurado para la suscripción aparece en **facturación**. 
+Puede comprobar y cambiar el método de pago que está configurado en el centro de administración de Microsoft 365. Elija la suscripción que quiera comprobar. El método de pago que está configurado para la suscripción aparece en **facturación**. 
   
 1. En el centro de administración, vaya a la página productos de **facturación** \> [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
@@ -30,4 +29,4 @@ Puede comprobar el método de pago que está configurado en el centro de adminis
 
 3. Siga los pasos que se indican en la pantalla para completar el cambio.
 
-Para obtener instrucciones paso a paso, consulte: [cambiar el método de pago de Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
+¿Usa el centro de administración antiguo? Para los pasos anteriores o para obtener más información, consulte [cambiar el método de pago de Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)

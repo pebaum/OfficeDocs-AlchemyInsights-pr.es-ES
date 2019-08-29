@@ -3,21 +3,28 @@ title: S/MIME en Outlook en la web
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
-ms.date: 5/1/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 582c4dc361c0a665377bfc06d13691d222a934ac
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f2c047ca31c586c0aa36701e6e7ca9976cfd1734
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511588"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666857"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>Cifrar mensajes de correo electrónico en Outlook
 
-<p><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">El cifrado de mensajes de Office 365 se basa en Microsoft Azure Rights Management (Azure RMS), que forma parte de Azure Information Protection. Si su suscripción incluye Azure Rights Management o Azure Information Protection, <strong style="mso-bidi-font-weight: normal;">no necesita realizar ninguna acción para habilitar o activar manualmente</strong> el servicio Rights Management.</span></p> <p><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">En función de los comentarios de los clientes, ya no se habilitarán las reglas de flujo de correo de Exchange para cifrar automáticamente el correo saliente que contiene determinados tipos de información confidencial en el espacio empresarial de forma predeterminada. &nbsp; En su lugar, proporcionamos instrucciones detalladas sobre cómo puede hacerlo usted mismo. &nbsp;Para obtener más información sobre cómo crear una regla de transporte para cifrar información confidencial, consulte este <a href="https://aka.ms/OmeEtr">artículo</a>.</span><u></u><span style="text-decoration: line-through;"></span></p> <ul> <li style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><span style="font-size: 10.5pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">&nbsp;Si &nbsp; Outlook en la web (anteriormente, OWA): al redactar un mensaje de correo electrónico, simplemente haga clic en proteger en OWA. &nbsp; &nbsp; </span> </span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;"> <strong style="mso-bidi-font-weight: normal;"></strong> <strong></strong> De forma predeterminada &lsquo;, esto se aplicará&rsquo; el permiso no reenviar. Haga clic en <strong>Cambiar permiso</strong> y elija <strong>cifrar</strong> para cifrar solo el mensaje.</span></li> <li style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">&nbsp;Si usa el <strong style="mso-bidi-font-weight: normal;">cliente de Outlook</strong>: para enviar un mensaje cifrado desde Outlook 2013 o 2016 o Outlook 2016 para Mac, &agrave; seleccione Opciones permisos y, a continuación, seleccione la opción de protección que necesite. &nbsp; &nbsp;</span></li> <li style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">&nbsp;&nbsp; Para <strong style="mso-bidi-font-weight: normal;">cifrar automáticamente todo el correo electrónico</strong> enviado a determinados destinatarios o organizaciones de asociados externos, debe crear una regla de transporte de flujo de correo en el centro de administración de Exchange. Se proporcionan instrucciones detalladas en este <span style="color: black;"><a href="https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities">artículo de soporte técnico</a></span></span></li> </ul>
+El cifrado de mensajes de Office 365 se basa en Microsoft Azure Rights Management (Azure RMS), que forma parte de Azure Information Protection. Si su suscripción incluye Azure Rights Management o Azure Information Protection, **no necesita realizar ninguna acción para habilitar o activar manualmente** el servicio Rights Management.
+
+En función de los comentarios de los clientes, ya no se habilitarán las reglas de flujo de correo de Exchange para cifrar automáticamente el correo saliente que contiene determinados tipos de información confidencial en el espacio empresarial de forma predeterminada. En su lugar, proporcionamos instrucciones detalladas sobre cómo puede hacerlo usted mismo. Para obtener más información sobre cómo crear una regla de transporte para cifrar información confidencial, consulte [este artículo](https://aka.ms/OmeEtr).
+
+- Si usa Outlook en la web (anteriormente, **OWA**): al redactar un mensaje de correo electrónico, simplemente haga clic en **proteger** en OWA. Se aplicará el permiso "no reenviar". Haga clic en **Cambiar permiso** y elija **cifrar** para cifrar solo el mensaje.
+
+- Si usa **el cliente de Outlook**: para enviar un mensaje cifrado desde Outlook 2013 o 2016 o Outlook 2016 para Mac, seleccione **Opciones** > **permisos**y, a continuación, seleccione la opción de protección que necesite.
+
+- Para **cifrar automáticamente todo el correo electrónico** enviado a determinados destinatarios o organizaciones de asociados externos, debe crear una regla de transporte de flujo de correo en el centro de administración de Exchange. Se proporcionan instrucciones detalladas en [este artículo de soporte técnico](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities).
 

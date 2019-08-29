@@ -2,7 +2,6 @@
 title: Actualizar registros DNS
 ms.author: pebaum
 author: pebaum
-ms.date: 1/12/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +10,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "41"
 - "100001"
-ms.openlocfilehash: f52ab0900c9d7e184105626a9b7de59a25f97d3f
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: ed6ef2f2165c2e0acf79f8d3d3ff6c84d737d90e
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903846"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660773"
 ---
 # <a name="update-dns-records"></a>Actualizar registros DNS
 

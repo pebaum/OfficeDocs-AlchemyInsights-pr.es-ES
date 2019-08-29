@@ -3,7 +3,6 @@ title: Cargar archivos en OneDrive o SharePoint
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
-ms.date: 3/5/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 38390bc510a96e5fdf7f06099ca0382be9e2335c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ddb29e04597e86ee4e54d700666548b5d2b30a81
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506280"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660845"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>Cargar archivos en OneDrive o SharePoint
 

@@ -2,7 +2,6 @@
 title: 'Problemas de rendimiento: SharePoint o OneDrive'
 ms.author: kirks
 author: Techwriter40
-ms.date: 1/3/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: a7e84ef41c5c3486eb0bc15ddf4f550c797b5f0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2f32319f5ffc2af8c7f260b8405d164d1195a6e5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554998"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666749"
 ---
 # <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint o OneDrive es lento, inaccesible o no disponible para varios usuarios
 

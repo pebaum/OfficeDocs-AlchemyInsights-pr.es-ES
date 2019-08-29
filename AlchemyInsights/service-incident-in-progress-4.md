@@ -2,7 +2,6 @@
 title: Incidente del servicio en curso
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 9/19/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "1891"
 - "1600011"
 - "9000287"
-ms.openlocfilehash: 05120f32c56d0b0d2299ccb7528fc174c853ff0f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 56593d5cc395799f7d253553e5f806d9f9b196e3
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550676"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666317"
 ---
 # <a name="service-incident-in-progress"></a>Incidente del servicio en curso
 

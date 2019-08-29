@@ -13,12 +13,12 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495048"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661025"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Agregar puestos a una suscripción de prepago
 
@@ -26,17 +26,15 @@ Las licencias de Office 365 de prepago se emiten como un código alfanumérico d
 
 1. En el centro de administración, vaya a la página productos de **facturación** > [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Busque la suscripción a la que desea agregar licencias. Seleccione la lista desplegable **más acciones** y, a continuación, elija **renovar o agregar licencia con token**.
+2. Busque la suscripción a la que desea agregar licencias. En la sección **licencias** , seleccione **Agregar más licencias**.
 
-3. En la página **renovar o agregar licencias de usuario** , seleccione **usar una clave de producto nueva y sin usar**y, a continuación, seleccione **siguiente**.
+3. En el panel **Agregar más licencias** , seleccione **usar una clave de producto nueva y sin usar**y, a continuación, seleccione **siguiente**.
 
 4. Escriba la clave del producto y, a continuación, seleccione **siguiente**.
 
     > [!NOTE]
     > Si tiene más de una clave de producto, puede seleccionar **Agregar otra clave de producto** o escribirlas.
 
-5. Elija Agregar usuarios a la suscripción y, a continuación, seleccione **siguiente**.
-
-6. Revise los detalles del pedido y, **** a continuación, seleccione canjear.
+5. Revise los detalles del pedido y, **** a continuación, seleccione canjear.
 
 Para obtener más información, vea [Agregar licencias a o ampliar una suscripción pagada para usar una clave de producto](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
