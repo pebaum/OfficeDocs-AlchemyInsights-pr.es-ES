@@ -2,7 +2,6 @@
 title: Uso compartido externo en SharePoint Online
 ms.author: efrene
 author: efrene
-ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +11,12 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "1749"
-ms.openlocfilehash: 9b19d15bcca10ff6e2dadf02e0a6092fae144292
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1369df853da594d679d5850fbd032111bdf277fe
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36526011"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664949"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>Uso compartido externo en SharePoint Online
 

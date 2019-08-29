@@ -13,16 +13,18 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 61a43938d5ae647aa08d388f466e9a97a6126d3a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d02f2cfdc867e54896945a8c9efd119a9b87a5d3
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514079"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665228"
 ---
 # <a name="declined-credit-card"></a>Tarjeta de crédito rechazada
 
-Si paga con tarjeta de crédito y rechazan el pago, recibirá un correo electrónico para informarle de que no pudimos procesar el pago. Compruebe que los detalles de la [tarjeta de crédito](https://go.microsoft.com/fwlink/p/?linkid=842054) -número de tarjeta, fecha de expiración, nombre de la tarjeta de crédito y dirección, incluidos la ciudad, el estado y el código postal aparezcan exactamente igual que en la tarjeta de crédito y en el extracto de la tarjeta de crédito. Puede actualizar la información de su tarjeta de crédito y enviar el pago inmediatamente mediante el botón " **pagar ahora** " en la página suscripciones. [](https://go.microsoft.com/fwlink/p/?linkid=842054) Para obtener más información, consulte "¿Qué sucede si mi tarjeta de crédito ha expirado y el pago es vencida?". en [pagar la suscripción de Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
+Si paga con tarjeta de crédito y rechazan el pago, recibirá un correo electrónico para informarle de que no pudimos procesar el pago. Compruebe que los detalles de la [tarjeta de crédito](https://go.microsoft.com/fwlink/p/?linkid=842054) -número de tarjeta, fecha de expiración, nombre de la tarjeta de crédito y dirección, incluidos la ciudad, el estado y el código postal aparezcan exactamente igual que en la tarjeta de crédito y en el extracto de la tarjeta de crédito. Puede actualizar la información de la tarjeta de crédito y enviar el pago inmediatamente mediante **** la opción de liquidar saldo en la página [productos & Services](https://go.microsoft.com/fwlink/p/?linkid=842054) . 
+
+Para obtener más información, consulte "¿Qué sucede si mi tarjeta de crédito ha expirado y el pago es vencida?". en [pagar la suscripción de Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
 Si sigue viendo el mensaje "rechazado", póngase en contacto con el banco. Es posible que la tarjeta de crédito no esté activa. Por ejemplo, si ha recibido recientemente la tarjeta de crédito por correo con la fecha de expiración actualizada, puede que necesite activarla. Su banco también puede decirle si su tarjeta de crédito no está aprobada para transacciones en línea, internacionales o periódicas.  
   

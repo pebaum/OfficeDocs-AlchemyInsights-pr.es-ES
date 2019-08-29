@@ -2,7 +2,6 @@
 title: ¿Tiene un problema con Skype Empresarial?
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/21/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +10,12 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: 2345822cc022fa1113a9aa4203fb09eff872a2cc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 08a59e9ebcae5ab0daff6089b54a73339fea6fc9
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498036"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661565"
 ---
 # <a name="issue-with-skype-for-business"></a>¿Tiene un problema con Skype Empresarial?
 

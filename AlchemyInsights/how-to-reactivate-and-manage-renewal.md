@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574559"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663977"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Cómo reactivar y administrar la facturación recurrente
 
@@ -32,7 +32,7 @@ Parece que tiene una suscripción que ha expirado. Si desea volver a activarla, 
 
 3. Confirmar los detalles de pago. Puede actualizar aquí su información de pago actual. Cuando haya terminado de introducir el método de pago, **** seleccione reactivar.
 
-¿Usa el centro de administración antiguo? Para los pasos anteriores o para obtener más información, consulte reactivar [la suscripción](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Para obtener más información, consulte reactivar [la suscripción](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 Para administrar la facturación mensual o anual, puede activar o desactivar la **facturación periódica** .
   
@@ -46,4 +46,4 @@ Para administrar la facturación mensual o anual, puede activar o desactivar la 
 
 5. Seleccione **Enviar cambio**.
 
-¿Usa el centro de administración antiguo? Para los pasos antiguos o para obtener más información, consulte [activar o desactivar la facturación recurrente](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Para obtener más información, consulte [activar o desactivar la facturación recurrente](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

@@ -3,7 +3,6 @@ title: 1800005 solucionar problemas de búsqueda al reconstruir el catálogo de 
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 6/7/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "644"
 - "1800005"
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: dc0bf1e51e603a63904d0478fe7bdc13019eac26
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cf167548c81b11e16aa98cd9a83b619a8087dcb0
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524896"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664913"
 ---
 # <a name="troubleshoot-search-issues"></a>Solucionar problemas de búsqueda
 
-Si tiene problemas con la búsqueda en Outlook, consulte los siguientes vínculos para obtener ayuda sobre la solución de problemas.
+Si tiene problemas con la búsqueda en Outlook, consulte los siguientes vínculos para obtener ayuda y solucionar problemas.
 
 Estos son los problemas más comunes y son un buen punto de partida:
 

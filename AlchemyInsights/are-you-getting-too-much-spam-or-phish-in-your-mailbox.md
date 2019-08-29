@@ -2,7 +2,6 @@
 title: ¿Recibes demasiado correo no deseado o de suplantación de identidad en tu buzón?
 ms.author: pebaum
 author: pebaum
-ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -11,12 +10,12 @@ localization_priority: Priority
 ms.custom:
 - "595"
 - "3100017"
-ms.openlocfilehash: ac7009d81661c9ea061b3b23b1a5f6bde52b72e9
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 394fb3f3ddb432f45f7410f69627c80f66adb7d8
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903018"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664841"
 ---
 # <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>¿Recibes demasiado correo no deseado o de suplantación de identidad en tu buzón?
 

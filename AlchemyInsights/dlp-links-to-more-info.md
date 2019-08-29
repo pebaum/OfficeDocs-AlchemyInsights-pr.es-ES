@@ -3,7 +3,6 @@ title: Más información sobre los problemas de DLP
 ms.author: stephow
 author: stephow-MSFT
 manager: laurawi
-ms.date: ''
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,14 +11,14 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: e1340945b5d90505e290d2561d0179856c93679d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0717b99f500fd9173167d2e3fcaff1b920d22d74
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530404"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665235"
 ---
-# <a name="more-info-about-dlp-issues"></a>Más información sobre los problemas de DLP
+# <a name="information-about-dlp-issues"></a>Información sobre problemas de DLP
 
 Con una directiva DLP, puede identificar, supervisar y proteger automáticamente la información confidencial en Office 365.
 

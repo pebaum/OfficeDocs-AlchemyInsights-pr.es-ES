@@ -2,7 +2,6 @@
 title: Habilitación de un buzón de archivo
 ms.author: markjjo
 author: markjjo
-ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 9007c4ee7484cb6fdf80e76c08720a5723bfa20a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f7b18ebd330c764c73a8f760a0d837686b9c5c72
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527813"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665165"
 ---
 # <a name="enable-an-archive-mailbox"></a>Habilitación de un buzón de archivo
 
-Los buzones de archivo en Office 365 (también denominados *archivos en línea* ) proporcionan a los usuarios un almacenamiento de correo electrónico adicional. Los usuarios pueden mover o copiar elementos a su buzón de archivo y los administradores pueden crear una directiva de archivo que mueva automáticamente los elementos a buzones de archivo.
+Los buzones de archivo en Office 365 (también denominados *archivos en línea*) proporcionan a los usuarios un almacenamiento de correo electrónico adicional. Los usuarios pueden mover o copiar elementos a su buzón de archivo y los administradores pueden crear una directiva de archivo que mueva automáticamente los elementos a buzones de archivo.
   
 Esta es la manera de crear un buzón de archivo:
   
@@ -28,13 +27,13 @@ Esta es la manera de crear un buzón de archivo:
 
 2. Inicie sesión en Office 365 con su cuenta de administrador.
 
-3. En el panel izquierdo del centro de &amp; seguridad y cumplimiento, haga clic en **archivo**de **gobierno** \> de datos.
+3. En el panel izquierdo del centro de &amp; seguridad y cumplimiento, seleccione **archivo**de **gobierno** \> de datos.
 
 4. Seleccione el usuario cuyo buzón de archivo desee habilitar.
 
-5. En el panel de detalles de la derecha, haga clic en **Habilitar** y, a continuación, haga clic en **sí** en el mensaje de advertencia para habilitar el buzón de archivo.
+5. En el panel de detalles de la derecha, seleccione **Habilitar** y, después, seleccione **sí** en el mensaje de advertencia para habilitar el buzón de archivo.
 
-También puede habilitar de forma masiva buzones de archivo seleccionando varios usuarios (con las teclas **MAYÚS** o **Ctrl** ) y, a continuación, haciendo clic en **Habilitar** en el panel de detalles.
+También puede habilitar de forma masiva buzones de archivo seleccionando varios usuarios (con las teclas **MAYÚS** o **Ctrl** ) y, a continuación, seleccionando **Habilitar** en el panel de detalles.
   
 Para obtener más información, vea:
   

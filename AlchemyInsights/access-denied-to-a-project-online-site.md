@@ -3,7 +3,6 @@ title: Acceso denegado a un sitio de Project Web App
 ms.author: efrene
 author: efrene
 manager: pamg
-ms.date: 4/09/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "1381"
-ms.openlocfilehash: b460f3b66a25b2724954c9ce5f2a7b30d8a4f1c4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: be8ba63cc5c7a2042d997598c6ed5d792862c58f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495912"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661241"
 ---
 # <a name="give-users-permissions-in-project-online"></a>Conceder permisos a los usuarios en Project online
 
 Dar a los usuarios acceso a un sitio de Project Web App mediante el modo de permisos de SharePoint:
 
 1. Inicie sesión en Project online como administrador.
-2. En la Página principal de Project Web App, seleccione **compartir**, disponible en la esquina superior derecha.
+2. En la Página principal de Project Web App, seleccione **compartir** en la esquina superior derecha.
 3. En el cuadro de diálogo **compartir Project Web App** , escriba el nombre de usuario de la persona a la que desea dar acceso en el cuadro invitar a **personas** .
 4. Seleccione **Mostrar opciones**y, en el menú **seleccionar un nivel de permisos** , seleccione **jefes de proyecto de Project Web App**.
 5. Seleccione **compartir**.

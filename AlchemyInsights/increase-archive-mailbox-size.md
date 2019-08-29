@@ -3,25 +3,24 @@ title: 305 aumentar el tamaño del buzón de archivo
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: 28086145d8769bd06ef6352257a820146c5f237d
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a8c16d97040e9396d6cf9bd4a5da671a7da88e13
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391553"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661817"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Aumentar el tamaño del buzón de archivo
 
 Office 365 [limita](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) el tamaño de los buzones de archivo en función de la licencia asignada a la cuenta de usuario. Cuando el buzón de archivo alcanza el 90% de su tamaño permitido, el usuario recibe una notificación por correo electrónico. Cuando un buzón de archivo alcanza su límite de tamaño, el usuario no puede mover más elementos al buzón de archivo. Office 365 no aumentará el tamaño de un buzón de archivo una vez que se alcance el límite de tamaño. En su lugar, los usuarios pueden realizar las siguientes acciones para liberar espacio en el buzón de archivo:
 
-- Exportar los elementos a un archivo. pst mediante Outlook
+- Exporte los elementos a un archivo. pst mediante Outlook.
 
 - Eliminar elementos del buzón de archivo.
 

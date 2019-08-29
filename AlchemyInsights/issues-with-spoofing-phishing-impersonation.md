@@ -3,19 +3,18 @@ title: ¿Tiene problemas con la suplantación, el phishing o la suplantación?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: 62eb0d8b43f3673bbf05dda8d533333aaaa37ce1
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c4d6c9c28c146a098288fdd2d978cdca098e89af
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765431"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661493"
 ---
 # <a name="issues-with-spoofing-phishing-or-impersonation"></a>¿Tiene problemas con la suplantación, el phishing o la suplantación?
 
@@ -33,6 +32,6 @@ Recomendaciones adicionales:
 
 - Compruebe que los usuarios no hayan configurado entradas de lista de permitidos que puedan permitir ataques de suplantación de identidad.
 
-- Considere la posibilidad de proporcionar mensajes de correo no deseado y phishing de alta confianza a la cuarentena en lugar de a la carpeta correo electrónico no deseado.
+- Considere la posibilidad de proporcionar mensajes de suplantación de identidad y phishing de alta confianza a la cuarentena en lugar de la carpeta de correo no deseado.
 
-**¿Ha [informado de este mensaje a Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2)? Esta es la mejor forma de hacernos saber cómo se realizan los filtros.**
+**La mejor forma de hacernos saber cómo se realizan los filtros es la mejor manera de informar sobre los [mensajes a Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) .**

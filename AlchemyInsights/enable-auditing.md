@@ -3,7 +3,6 @@ title: Habilitar y buscar el registro de auditoría
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,16 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 37ffbe6a3c94edc3b9888b1544e9e29097d3425a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527740"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665093"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Habilitación y búsqueda del registro de auditoría
+
+**Office 365**
 
 Para buscar en el registro de auditoría de Office 365, siga [estos pasos](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
@@ -28,7 +29,7 @@ Para buscar en el registro de auditoría de Office 365, siga [estos pasos](https
 
 - Las actividades de administración de Exchange se auditan de forma predeterminada.
 
-- Estamos en proceso de habilitar la auditoría de buzones de correo de forma predeterminada en Office 365. Hasta entonces, para habilitar la auditoría de un único buzón o de todos los buzones de la organización, consulte [este artículo](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- La auditoría de buzones de correo está habilitada de forma predeterminada en Office 365. Para obtener más información, vea [este artículo](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
 - Los buzones de grupo 365 y los buzones de carpetas públicas de Exchange online no admiten el registro de auditoría.
 

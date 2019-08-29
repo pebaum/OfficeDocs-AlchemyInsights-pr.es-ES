@@ -3,7 +3,6 @@ title: 611 uso compartido de calendarios
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "611"
 - "3800009"
 ms.assetid: 7a46ee5e-700e-455f-b13a-a063b5907a55
-ms.openlocfilehash: 460e5b10f600dba22d82026c873651d09e188546
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1739621bedc408cfd13da7b194964f8441d6b245
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518416"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665597"
 ---
-# <a name="calendar-sharing"></a>Uso compartido de calendarios
+# <a name="calendar-sharing-in-outlook"></a>Uso compartido de calendarios en Outlook
 
-Para obtener más información, vea estos temas:
+Para obtener información sobre cómo compartir un calendario de Outlook, vea estos artículos:
   
 - [Compartir un calendario de Outlook con otras personas](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
