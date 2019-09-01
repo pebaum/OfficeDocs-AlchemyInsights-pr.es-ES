@@ -12,22 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: fe5c4c7ca5fa5cce199c826f8488c564bf2cdef1
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: f6a0b4cd536abbcd407235ddd0eeced8721cd994
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903090"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660701"
 ---
-# <a name="add-a-user-to-office-365"></a><span data-ttu-id="21030-102">Agregar un usuario a Office 365</span><span class="sxs-lookup"><span data-stu-id="21030-102">Add a user to Office 365</span></span>
+# <a name="add-a-user-to-office-365"></a><span data-ttu-id="7ffce-102">Agregar un usuario a Office 365</span><span class="sxs-lookup"><span data-stu-id="7ffce-102">Add a user to Office 365</span></span>
 
-<span data-ttu-id="21030-103">Siga estos pasos para agregar un usuario a Office 365:</span><span class="sxs-lookup"><span data-stu-id="21030-103">Use these steps to add a user to Office 365:</span></span>
-  
-1. <span data-ttu-id="21030-104">Vaya a [Usuarios activos](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (o, en la navegación izquierda, elija **Usuarios** \> **Usuarios activos**).</span><span class="sxs-lookup"><span data-stu-id="21030-104">Go to [Active Users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (Or, on the left nav choose **Users** \> **Active users**).</span></span>
+1. <span data-ttu-id="7ffce-103">En el Centro de administración de Microsoft 365, vaya a **Usuarios** >  [Usuarios activos](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).</span><span class="sxs-lookup"><span data-stu-id="7ffce-103">In the Microsoft 365 admin center, choose Users to go to the Active users page.</span></span>
 
-2. <span data-ttu-id="21030-105">Haga clic en **Agregar un usuario**.</span><span class="sxs-lookup"><span data-stu-id="21030-105">Click **Add a user**.</span></span>
+2. <span data-ttu-id="7ffce-104">Haga clic en **Agregar un usuario**.</span><span class="sxs-lookup"><span data-stu-id="7ffce-104">Click **Add a user**.</span></span>
 
-3. <span data-ttu-id="21030-p101">Rellene la información del usuario. Elija **Agregar** cuando haya terminado.</span><span class="sxs-lookup"><span data-stu-id="21030-p101">Fill in the information for the user. Choose **Add** when you are done.</span></span>
+3. <span data-ttu-id="7ffce-105">Rellene la información del usuario.</span><span class="sxs-lookup"><span data-stu-id="7ffce-105">Fill in the information for the user.</span></span> <span data-ttu-id="7ffce-106">Cuando haya terminado, seleccione **Finalizar**.</span><span class="sxs-lookup"><span data-stu-id="7ffce-106">Choose **Finish** when you are done.</span></span>
 
-[<span data-ttu-id="21030-108">Más información...</span><span class="sxs-lookup"><span data-stu-id="21030-108">Read more...</span></span>](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
+<span data-ttu-id="7ffce-107">¿Sigue usando el antiguo centro de administración?</span><span class="sxs-lookup"><span data-stu-id="7ffce-107">Are you using the old admin center?</span></span> <span data-ttu-id="7ffce-108">Para conocer procedimientos antiguos u obtener más información, consulte [Agregar usuarios individualmente o de forma masiva a Office 365](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec).</span><span class="sxs-lookup"><span data-stu-id="7ffce-108">For old steps, or to learn more, see [ Add users individually or in bulk to Office 365](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec).</span></span>
   
