@@ -1,6 +1,6 @@
 ---
 title: Activar o desactivar el uso compartido externo para SharePoint
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,26 +10,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 30f4b30a86f6c65ff1dc348c279341e299b0275b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2f61a34cb0b510af7c4fcc6193a977662c328063
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507900"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750933"
 ---
-# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a><span data-ttu-id="b5b46-102">Mensaje de ADVERTENCIA: las directivas de la organización no le permiten compartir con estos usuarios</span><span class="sxs-lookup"><span data-stu-id="b5b46-102">Warning message: Your organization's policies don't allow you to share with these users</span></span>
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a><span data-ttu-id="2854d-102">Mensaje de ADVERTENCIA: las directivas de la organización no le permiten compartir con estos usuarios</span><span class="sxs-lookup"><span data-stu-id="2854d-102">Warning message: Your organization's policies don't allow you to share with these users</span></span>
 
-<span data-ttu-id="b5b46-103">Los usuarios pueden experimentar un mensaje de advertencia al intentar compartir con usuarios externos de su organización.</span><span class="sxs-lookup"><span data-stu-id="b5b46-103">Users may experience a warning message when trying to share with external users of your organization.</span></span> <span data-ttu-id="b5b46-104">El mensaje es la **Directiva de la organización no le permite compartir con estos usuarios. Vaya a uso compartido externo en el centro de administración de Office 365 para habilitarlo**.</span><span class="sxs-lookup"><span data-stu-id="b5b46-104">The message is **Your organization's policies don't allow you to share with these users. Go to External Sharing in the Office 365 admin center to enable it**.</span></span> <span data-ttu-id="b5b46-105">Esto suele ocurrir la primera vez que se intenta compartir con usuarios externos o al compartir con nuevos usuarios externos.</span><span class="sxs-lookup"><span data-stu-id="b5b46-105">This often happens the first time attempting to share with external users or when sharing with new external users.</span></span>
+<span data-ttu-id="2854d-103">Los usuarios pueden experimentar un mensaje de advertencia al intentar compartir con usuarios externos de su organización.</span><span class="sxs-lookup"><span data-stu-id="2854d-103">Users may experience a warning message when trying to share with external users of your organization.</span></span> <span data-ttu-id="2854d-104">El mensaje es la **Directiva de la organización no le permite compartir con estos usuarios. Vaya a uso compartido externo en el centro de administración de Office 365 para habilitarlo**.</span><span class="sxs-lookup"><span data-stu-id="2854d-104">The message is **Your organization's policies don't allow you to share with these users. Go to External Sharing in the Office 365 admin center to enable it**.</span></span> <span data-ttu-id="2854d-105">Esto suele ocurrir la primera vez que se intenta compartir con usuarios externos o al compartir con nuevos usuarios externos.</span><span class="sxs-lookup"><span data-stu-id="2854d-105">This often happens the first time attempting to share with external users or when sharing with new external users.</span></span>
 
-<span data-ttu-id="b5b46-106">Compruebe la **configuración de uso compartido externo de SharePoint y OneDrive** para la organización.</span><span class="sxs-lookup"><span data-stu-id="b5b46-106">Check the **SharePoint and OneDrive External Sharing settings** for your organization.</span></span>
+<span data-ttu-id="2854d-106">Compruebe la **configuración de uso compartido externo de SharePoint y OneDrive** para la organización.</span><span class="sxs-lookup"><span data-stu-id="2854d-106">Check the **SharePoint and OneDrive External Sharing settings** for your organization.</span></span>
 
-1. <span data-ttu-id="b5b46-107">En el [centro de administración de Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), seleccione **SharePoint**.</span><span class="sxs-lookup"><span data-stu-id="b5b46-107">In your [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), select **SharePoint**.</span></span>
-3. <span data-ttu-id="b5b46-108">Seleccione **uso compartido** para ver la configuración de uso compartido externo.</span><span class="sxs-lookup"><span data-stu-id="b5b46-108">Select **Sharing** to see the External sharing settings.</span></span>
+1. <span data-ttu-id="2854d-107">En el [centro de administración de Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), seleccione **SharePoint**.</span><span class="sxs-lookup"><span data-stu-id="2854d-107">In your [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), select **SharePoint**.</span></span>
+3. <span data-ttu-id="2854d-108">Seleccione **uso compartido** para ver la configuración de uso compartido externo.</span><span class="sxs-lookup"><span data-stu-id="2854d-108">Select **Sharing** to see the External sharing settings.</span></span>
 
-<span data-ttu-id="b5b46-109">Compruebe la **configuración de uso compartido externo** de un sitio específico.</span><span class="sxs-lookup"><span data-stu-id="b5b46-109">Check the **External Sharing settings** for a specific site.</span></span>
+<span data-ttu-id="2854d-109">Compruebe la **configuración de uso compartido externo** de un sitio específico.</span><span class="sxs-lookup"><span data-stu-id="2854d-109">Check the **External Sharing settings** for a specific site.</span></span>
 
-1. <span data-ttu-id="b5b46-110">En el [centro de administración de Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), seleccione **SharePoint**.</span><span class="sxs-lookup"><span data-stu-id="b5b46-110">In your [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), select **SharePoint**.</span></span>
-2. <span data-ttu-id="b5b46-111">Seleccione **sitios activos** para ver los sitios que están disponibles.</span><span class="sxs-lookup"><span data-stu-id="b5b46-111">Select **Active Sites** to see your sites that are available.</span></span>
-3. <span data-ttu-id="b5b46-112">Seleccione el sitio que desea comprobar y, a continuación, seleccione el botón **compartir** que se muestra en la barra de menús para comprobar la configuración del sitio.</span><span class="sxs-lookup"><span data-stu-id="b5b46-112">Select the site you want to check, and then select the **Sharing** button that displays in the menu bar to verify the settings for the site.</span></span>
+1. <span data-ttu-id="2854d-110">En el [centro de administración de Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), seleccione **SharePoint**.</span><span class="sxs-lookup"><span data-stu-id="2854d-110">In your [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), select **SharePoint**.</span></span>
+2. <span data-ttu-id="2854d-111">Seleccione **sitios activos** para ver los sitios que están disponibles.</span><span class="sxs-lookup"><span data-stu-id="2854d-111">Select **Active Sites** to see your sites that are available.</span></span>
+3. <span data-ttu-id="2854d-112">Seleccione el sitio que desea comprobar y, a continuación, seleccione el botón **compartir** que se muestra en la barra de menús para comprobar la configuración del sitio.</span><span class="sxs-lookup"><span data-stu-id="2854d-112">Select the site you want to check, and then select the **Sharing** button that displays in the menu bar to verify the settings for the site.</span></span>
 
-<span data-ttu-id="b5b46-113">Para obtener más información, vea [external Sharing Overview](https://docs.microsoft.com/sharepoint/external-sharing-overview).</span><span class="sxs-lookup"><span data-stu-id="b5b46-113">For more information, see [External sharing overview](https://docs.microsoft.com/sharepoint/external-sharing-overview).</span></span>
+<span data-ttu-id="2854d-113">Para obtener más información, vea [external Sharing Overview](https://docs.microsoft.com/sharepoint/external-sharing-overview).</span><span class="sxs-lookup"><span data-stu-id="2854d-113">For more information, see [External sharing overview](https://docs.microsoft.com/sharepoint/external-sharing-overview).</span></span>
