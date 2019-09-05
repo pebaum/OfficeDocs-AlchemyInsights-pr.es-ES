@@ -1,5 +1,5 @@
 ---
-Title: Solución de problemas de escenarios de actualización-errores de mosaico
+title: Solución de problemas de escenarios de actualización-errores de mosaico
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: 568fa4662c7d312583348981f80319aaefcf7290
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 48004ce28d94eccfffae9dc6f5fdc21100fdd455
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506856"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748845"
 ---
 # <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Solución de problemas de escenarios de actualización-errores de mosaico
 

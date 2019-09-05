@@ -1,6 +1,6 @@
 ---
 title: Eliminar un sitio de SharePoint
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/24/2019
 ms.audience: ITPro
@@ -9,12 +9,12 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 4106ed60ab79bd393906a08b29bfb7c1f996672a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5ba1fee33c3edaed2c320250004a91160f870f8c
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513700"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747909"
 ---
 # <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Eliminar un sitio del nuevo centro de administración de SharePoint
 

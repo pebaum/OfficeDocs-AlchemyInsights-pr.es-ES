@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 1674adcce4765f785797f15aa9ebab908f19c480
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e4349d78cf7b34fbf8429fbb482469861901ace1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661421"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734398"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>Cambio de permisos en un buzón
 
 Si los usuarios necesitan tener acceso a los buzones de correo de Office 365 que no sean los suyos, se les deben conceder permisos para trabajar con dichos buzones. La forma en que se asignan esos permisos depende del tipo de buzón. Si los usuarios necesitan tener acceso a:
   
-- Buzones de correo de otros usuarios: vea [conceder permisos de buzón a otro usuario en Office 365](https://support.office.com/article/give-mailbox-permissions-to-another-user-in-office-365-admin-help-1dbcf12f-a9de-4d1d-b0b3-a227f8a736d8).
+- Buzones de correo de otros usuarios: vea [conceder permisos de buzón a otro usuario en Office 365](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
     
 - Un buzón compartido: consulte [Agregar o quitar miembros de un buzón compartido](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     

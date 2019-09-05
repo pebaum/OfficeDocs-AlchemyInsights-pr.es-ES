@@ -1,6 +1,6 @@
 ---
 title: Solucionar problemas de rendimiento de OneDrive
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom:
 - "1977"
 - "9000343"
-ms.openlocfilehash: 22d5e2b24ac9bdd70b0bb0a9a6e1a0af29ef2c0f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2f05e048a8a1b22b71e1f91beef844a72002f7d7
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533932"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748737"
 ---
 # <a name="troubleshoot-onedrive-performance"></a>Solucionar problemas de rendimiento de OneDrive
 

@@ -13,12 +13,12 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: eb69643f1760aa69ee45637b2099220ce4359692
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d706021a6666270c8545b73e78abc56a3507f34
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520576"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738538"
 ---
 # <a name="check-aad-identity-sync-status"></a>Comprobar el estado de la sincronización de identidad de AAD
 
@@ -30,5 +30,5 @@ La comprobación del estado de la sincronización es sencilla:
 
 - En el panel sincronización de directorios, elija ir a administración de sincronización de directorios.
 
-Si hay un problema con la sincronización de directorios, los errores se muestran en esta página. Para obtener más información acerca de los diferentes errores que se pueden producir, consulte [identificar errores de sincronización de directorios en Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).
+Si hay un problema con la sincronización de directorios, los errores se muestran en esta página. Para obtener más información acerca de los diferentes errores que se pueden producir, consulte [Ver errores de sincronización de directorios en Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
   

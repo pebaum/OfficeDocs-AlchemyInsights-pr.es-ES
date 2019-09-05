@@ -1,6 +1,6 @@
 ---
 title: Cómo aumentar el almacenamiento en OneDrive para la empresa
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/14/2018
 ms.audience: ITPro
@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: ab43df8415f84d2cb289d8f3f93fa002faf783c2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2cf4b8c4e2cd2e5e6b91d609b34fde700c408fba
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540738"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755829"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>Cómo aumentar el almacenamiento en OneDrive para la empresa
 
@@ -27,7 +27,7 @@ Esta configuración de espacio de almacenamiento se aplica a todos los usuarios 
   
 Para aumentar el almacenamiento en OneDrive para la empresa, elija un plan de Office 365 que incluya **OneDrive para la empresa plan 2** u **Office 365 Enterprise E3**. 
   
-Para cambiar los planes, en el centro de administración de Microsoft 365, vaya a suscripciones de **facturación** \> **** y, después, elija **cambiar de plan.**
+Para cambiar los planes, en el centro de administración de Microsoft 365, vaya a **suscripciones**de **facturación** \> y, después, elija **cambiar de plan.**
   
 Para obtener más información sobre el cambio de planes y el almacenamiento de OneDrive para la empresa, vea [cambiar a otro plan de Office 365 para empresas](https://go.microsoft.com/fwlink/?LinkId=2031117) y la [Descripción del servicio de onedrive para](https://go.microsoft.com/fwlink/?LinkId-2031122)la empresa.
   

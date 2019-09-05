@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: 8226b88c0f472d0e35ff462dc5a5259487a8ef06
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7b16cb448684d3f68be84fda4d9de201b953ffb
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497047"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734902"
 ---
 # <a name="map-a-sharepoint-library-to-a-network-drive"></a>Asignar una biblioteca de SharePoint a una unidad de red
 
@@ -28,6 +28,6 @@ Si elige asignar una unidad en lugar de [usar el nuevo cliente de sincronizació
 **Cómo configurar y solucionar problemas de unidades de red asignadas**
 
 
-Consulte [configurar y solucionar problemas de unidades de red asignadas](https://support.office.com/article/troubleshoot-mapped-network-drives-that-connect-to-sharepoint-online-ef399c67-4578-4c3a-adbe-0b489084eabe?ui=en-US&amp;rs=en-US&amp;ad=US).
+Vea [solucionar problemas de las unidades de red asignadas que se conectan a SharePoint en línea](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
 
-Nota: Si usa Internet Explorer 10 con Windows 8 o Windows 7, y recibe acceso denegado o la ruta de **acceso** **no es accesible** al asignar una unidad, instale [esta revisión](https://support.microsoft.com/help/2846960) para resolver este problema. 
+Nota: Si usa Internet Explorer 10 con Windows 8 o Windows 7, y recibe **acceso denegado** o la ruta de acceso **no es accesible** al asignar una unidad, instale [esta revisión](https://support.microsoft.com/help/2846960) para resolver este problema. 

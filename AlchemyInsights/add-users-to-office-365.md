@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: f6a0b4cd536abbcd407235ddd0eeced8721cd994
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: af7088a9c3110ea5b18912485f05cbfecc8068bf
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660701"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737854"
 ---
 # <a name="add-a-user-to-office-365"></a>Agregar un usuario a Office 365
 
@@ -27,5 +27,5 @@ ms.locfileid: "36660701"
 
 3. Rellene la información del usuario. Cuando haya terminado, seleccione **Finalizar**.
 
-¿Sigue usando el antiguo centro de administración? Para conocer procedimientos antiguos u obtener más información, consulte [Agregar usuarios individualmente o de forma masiva a Office 365](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec).
+¿Sigue usando el antiguo centro de administración? Para conocer procedimientos antiguos u obtener más información, consulte [Agregar usuarios individualmente o de forma masiva a Office 365](https://docs.microsoft.com/office365/admin/add-users/add-users).
   

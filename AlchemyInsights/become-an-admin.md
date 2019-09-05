@@ -12,15 +12,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: f322a0252f1198b110f5558cf1e3c6aa28ec1f78
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d43ada137a906f0a4dade37bf6b30b597fd64576
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517696"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736918"
 ---
 # <a name="become-an-admin"></a>Convertirse en Administrador
 
 Para asumir el rol de administrador de esta organización, debe realizar el control del espacio empresarial.
   
-Siga las instrucciones de esta guía: [realizar una adquisición de administración en Office 365](https://support.office.com/article/b9707ec8-2247-4e25-9bad-f11ddbc686e4)
+Siga las instrucciones de esta guía: [realizar una adquisición de administración en Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)

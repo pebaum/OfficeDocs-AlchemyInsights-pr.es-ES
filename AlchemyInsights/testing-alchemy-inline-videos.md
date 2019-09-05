@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d00e9a23-6443-4f4d-8ea7-bb75fb590b74
-ms.openlocfilehash: 83fc8cf2f656c27493fa3d4bf007185ddee35ecc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ced92314d700a7f6725e831b0ea5fda0ccc9c2c3
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500592"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743218"
 ---
 # <a name="set-up-domain-and-users"></a>Configurar el dominio y los usuarios
 
@@ -21,6 +21,6 @@ Cuando esté listo para configurar el dominio y los usuarios, vea este vídeo r�
   
 ![Su explorador no admite vídeo. Instale Microsoft Silverlight, Adobe Flash Player o Internet Explorer 9.](media/MSN_Video_Widget.gif)
   
-Para obtener más información, consulte las [preguntas más frecuentes de los dominios.](https://support.office.com/article/1272bad0-4bd4-4796-8005-67d6fb3afc5a.aspx)
+Para obtener más información, consulte las [preguntas más frecuentes de los dominios.](https://docs.microsoft.com/office365/admin/setup/domains-faq)
   
 

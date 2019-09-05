@@ -13,16 +13,16 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501060"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743290"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Sugerencias para solucionar errores de "producto sin licencia"
 
-Asegúrese de que tiene una suscripción que permita licencias de cliente, como Office 365 Business o Business Premium, y [Asegúrese de que el usuario tenga una licencia asignada](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA). [Desactive una instalación](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) para comprobar si ha superado el número de instalaciones admitidas por su suscripción.
+Asegúrese de que tiene una suscripción que permita licencias de cliente, como Office 365 Business o Business Premium, y [Asegúrese de que el usuario tenga una licencia asignada](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). [Desactive una instalación](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) para comprobar si ha superado el número de instalaciones admitidas por su suscripción.
   
 Asegúrese de que el usuario inicia sesión con la misma cuenta que tiene asignada la licencia.
   

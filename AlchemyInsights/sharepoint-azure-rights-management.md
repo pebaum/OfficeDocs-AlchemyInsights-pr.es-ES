@@ -1,18 +1,18 @@
 ---
 title: Restringir el acceso a SharePoint o OneDrive
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: bc0028626c8934e57e5580477b193a70e49d87be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b1ec30a55ec0c08b291228ee90771bc56a55a36d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504228"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751761"
 ---
 # <a name="irm-protection-to-sharepoint-files"></a>Protección de IRM para archivos de SharePoint
 

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ebf00eb2-1205-4d5d-aae0-4581766234f5
-ms.openlocfilehash: 189eb0365e57bb872e1fb4ea400bff0f786e640b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ac8dddcfd9213d0a9fc67dde90a88195fac1ac74
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533278"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742498"
 ---
 # <a name="trying-to-verify-your-domain"></a>¿Intenta comprobar su dominio?
 
@@ -21,6 +21,6 @@ Tiene que agregar un registro TXT a su registrador de dominios para verificar qu
   
 Siga las instrucciones de este artículo para agregar un registro TXT y verificar su dominio. Seleccione su registrador de dominios para obtener instrucciones específicas sobre su dominio.
   
-[Crear registros DNS para Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+[Crear registros DNS para Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
   
 

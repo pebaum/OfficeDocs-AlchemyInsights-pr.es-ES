@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 52429314d1529d0d2df7886feaebbcfd27666a06
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 73583b3b27143c708a4cc993cdff94a33131ab52
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559714"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743110"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Solucionar los problemas de "Abrir con el explorador" en SharePoint Online
 
@@ -25,7 +25,7 @@ El comando Abrir con el explorador abre una instancia local del Explorador de Wi
 
 Si eligió usar la vista del explorador en lugar de usar el nuevo Cliente de sincronización de OneDrive, asegúrese de seguir los pasos y procedimientos recomendados de los artículos siguientes:
 
-- [Cómo usar el comando “Abrir con el Explorador” para solucionar problemas en SharePoint Online](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4)
+- [Cómo usar el comando “Abrir con el Explorador” para solucionar problemas en SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer)
 
 - [Copiar o mover archivos de las bibliotecas mediante Abrir con el Explorador](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 

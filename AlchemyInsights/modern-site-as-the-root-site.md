@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: d5ea73c967013822854dbd408d4628d991c90378
-ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
+ms.openlocfilehash: a3cf44d52a3948634fc0eed64c852ff17515fd9b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36620776"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753921"
 ---
 # <a name="modern-site-as-root-site"></a>Sitio moderno como sitio raíz
 
-Hemos empezado a distribuir una nueva característica que le permitirá intercambiar el sitio de raíz del sitio clásico con un sitio moderno. Use [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) para intercambiar la ubicación de un sitio con otro sitio mientras archiva el sitio original. Disponible tanto para el sitio de grupo (no conectado a un grupo) como para el sitio de comunicación. 
+Hemos empezado a distribuir una nueva característica que le permitirá [intercambiar el sitio de raíz del sitio clásico con un sitio moderno](https://docs.microsoft.com/sharepoint/modern-root-site). Use [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) para intercambiar la ubicación de un sitio con otro sitio mientras archiva el sitio original. Disponible tanto para el sitio de grupo (no conectado a un grupo) como para el sitio de comunicación.
 
 >[!Important]
 > No elimine el sitio raíz clásico para crear un sitio de comunicación moderno. No es compatible con Microsoft. La eliminación del sitio raíz hará que todos los sitios de SharePoint de la organización sean inaccesibles para todos los usuarios, hasta que restaure el sitio o cree un sitio nuevo en la misma dirección URL. Se comunicará esta característica a través del centro de mensajes. Es de esperar que la característica se active en su espacio empresarial en breve.

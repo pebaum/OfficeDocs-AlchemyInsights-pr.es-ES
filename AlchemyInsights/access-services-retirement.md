@@ -1,6 +1,6 @@
 ---
 title: Jubilación de servicios de Access
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: 8886d7a6fad49e942e17f6a2f3c98542f87aae0b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 197366882468ebc87fc26f2fe2733371790d1871
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495768"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747802"
 ---
 # <a name="access-services-retirement"></a>Jubilación de servicios de Access
 

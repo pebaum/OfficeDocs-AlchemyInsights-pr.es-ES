@@ -1,6 +1,6 @@
 ---
 title: Rol de administrador y cómo asignar
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 5cf8c1b3e632fdf5c454d8b2d393d0a98d5a3989
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6092a1222734666807509dff0d86b8a822f37922
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544628"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754101"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>¿Tiene problemas con un servicio en la nube?
 

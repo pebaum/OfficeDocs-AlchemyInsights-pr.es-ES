@@ -11,23 +11,23 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 351eb11c01984162468322e9f776238b76a34680
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519820"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736738"
 ---
 # <a name="change-your-display-name"></a>Cambiar el nombre para mostrar
   
 Para cambiar el nombre para mostrar en Outlook, siga estos pasos.
   
-1. En Outlook, seleccione Configuración de la **** \> **cuenta**de la cuenta de **archivo** \> .
+1. En Outlook, seleccione Configuración de la **cuenta**de **la cuenta de** \> **archivo** \> .
 
 2. Seleccione la cuenta de correo electrónico y, después, haga clic en **cambiar**.
 
     > [!NOTE]
-    > Si no ve la opción de cambiar el nombre para mostrar, probablemente use una cuenta de correo electrónico de Microsoft Exchange. En este caso, debe ponerse en contacto con el administrador para cambiar el nombre para mostrar. Vea [cambiar un nombre de usuario y una dirección de correo electrónico en Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).
+    > Si no ve la opción de cambiar el nombre para mostrar, probablemente use una cuenta de correo electrónico de Microsoft Exchange. En este caso, debe ponerse en contacto con el administrador para cambiar el nombre para mostrar. Vea [cambiar un nombre de usuario y una dirección de correo electrónico en Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
   
 3. Después de cambiar el nombre para mostrar, haga clic en **Aceptar** para guardar los cambios. Los cambios pueden tardar unas horas en reflejarse en toda la organización.
 

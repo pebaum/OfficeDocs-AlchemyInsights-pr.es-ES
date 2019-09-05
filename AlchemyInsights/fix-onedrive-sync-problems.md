@@ -13,12 +13,12 @@ ms.custom:
 - "824"
 - "5800003"
 ms.assetid: 3a05fcd2-639a-4f16-a6ed-1cffa35fbdb3
-ms.openlocfilehash: 24aff29e854ba6e00a70737213dfaaafcb33eaf4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 07239ddfeb313a7644226150000c09d5b861aa54
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525286"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739906"
 ---
 # <a name="fix-onedrive-sync-problems"></a>Solucionar problemas de sincronización de OneDrive
 
@@ -26,8 +26,8 @@ ms.locfileid: "36525286"
     
 - Asegúrese de que el equipo está actualizado: [Descargue las actualizaciones más recientes de Windows](http://go.microsoft.com/fwlink/p/?LinkId=825773), [Descargue la última versión de OneDrive](https://go.microsoft.com/fwlink/p/?linkid=844652)
     
-- Desvincule OneDrive y vuelva a ejecutar el programa de instalación de OneDrive: haga clic con el botón derecho en el icono azul de nube de OneDrive en el área de notificación, en el extremo derecho de la barra de tareas. Haga clic en **configuración**y, a continuación, haga clic en desvincular **este equipo**. Siga los pasos del asistente de bienvenida a OneDrive para volver a configurar OneDrive.
+- Desvincule OneDrive y vuelva a ejecutar el programa de instalación de OneDrive: haga clic con el botón derecho en el icono azul de nube de OneDrive en el área de notificación, en el extremo derecho de la barra de tareas. Haga clic en **configuración**y, a continuación, haga clic en **desvincular este equipo**. Siga los pasos del asistente de bienvenida a OneDrive para volver a configurar OneDrive.
     
-[Más pasos para solucionar problemas de sincronización](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90?ui=en-US&rs=en-US&ad=US)
+[Más pasos para solucionar problemas de sincronización](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90)
   
 

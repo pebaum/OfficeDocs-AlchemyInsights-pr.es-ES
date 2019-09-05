@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 31db17a45814355f9594a340881660ba7010b1a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6f8772f614b3d33c4eb73c7645c9b09971619bcc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504264"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744514"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>Uso compartido externo en SharePoint Online
 
@@ -36,7 +36,7 @@ Para obtener más información sobre el uso compartido externo, visite los sigui
 
 - [Compartir archivos o carpetas de SharePoint](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [Dejar de compartir archivos o carpetas de OneDrive o SharePoint, o cambiar permisos](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Dejar de compartir archivos o carpetas de OneDrive o SharePoint, o cambiar permisos](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
 - [Acceso de invitado en Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/guest-access)
 
@@ -46,9 +46,9 @@ Para obtener más información sobre el uso compartido externo, visite los sigui
 
 ¿Recibe un error con un usuario externo? &nbsp;Compruebe los siguientes vínculos.
 
-- [Mensaje de error cuando un usuario externo acepta una invitación de SharePoint Online con otra cuenta](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0- )
+- [Mensaje de error cuando un usuario externo acepta una invitación de SharePoint Online con otra cuenta](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Acceso denegado a una carpeta compartida](https://support.office.com/article/users-can-t-access-a-shared-folder-in-sharepoint-online-b5923bcb-a944-44c4-96c5-6312377040de)
+- [Acceso denegado a una carpeta compartida](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
 
 - [Errores de uso compartido de OSE en SharePoint y OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 

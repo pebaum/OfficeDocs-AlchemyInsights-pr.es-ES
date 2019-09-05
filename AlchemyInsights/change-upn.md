@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 51f0f7331d40ce4c87836725eb41d6d4beb26c27
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d7a7cdea8de8f6e12a9c98142c86dc80f7e1b172
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520864"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738610"
 ---
 # <a name="change-a-users-email-address"></a>Cambiar la dirección de correo electrónico de un usuario
 
 Cambiar la dirección de correo electrónico de una persona es fácil. Siga estos pasos:
   
-1. En el centro de administración de Microsoft 365, vaya a la página [usuarios](https://go.microsoft.com/fwlink/p/?linkid=834822) o **** \> elija usuarios **activos**.
+1. En el centro de administración de Microsoft 365, vaya a la página [usuarios](https://go.microsoft.com/fwlink/p/?linkid=834822) o **Elija** \> usuarios **activos**.
     
 2. Seleccione el usuario.
     
@@ -36,8 +36,8 @@ Cambiar la dirección de correo electrónico de una persona es fácil. Siga esto
     
 5. Elija **Establecer como principal** para la dirección de correo electrónico que desea establecer como la dirección de correo electrónico principal de esa persona. Si compró la suscripción a GoDaddy, debe iniciar sesión en su consola de administración para establecer la dirección de correo electrónico principal. 
     
-6. Elija **Guardar**y, **** después, haga clic en finalizar.
+6. Elija **Guardar**y, **después,** haga clic en finalizar.
     
-¿No era tan fácil? Para obtener más detalles y pasos con capturas de pantallas, consulte este artículo: [cambiar el nombre de usuario y la dirección de correo electrónico en Office 365](https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)
+¿No era tan fácil? Para obtener más detalles y pasos con capturas de pantallas, consulte este artículo: [cambiar el nombre de usuario y la dirección de correo electrónico en Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
   
 

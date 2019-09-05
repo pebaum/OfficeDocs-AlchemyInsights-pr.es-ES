@@ -1,6 +1,6 @@
 ---
 title: Restringir el acceso a SharePoint o OneDrive
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 8/7/2018
 ms.audience: ITPro
@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 84f2d4b6e5fd2380a2fa96e30953c68aab203cd3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bef0612903b9bb455aa34e90d35d6b7b9093b4e0
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559894"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750681"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>Restringir el acceso a SharePoint o OneDrive
 

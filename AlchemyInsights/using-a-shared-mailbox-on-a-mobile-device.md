@@ -15,12 +15,12 @@ ms.custom:
 - "1800014"
 - "3500003"
 ms.assetid: 27d1c658-af62-4442-864c-ab6c6afa19bf
-ms.openlocfilehash: d2f0090270e0d93ddacbc4556209e7c94fb53566
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: da35b257bb6aad9e3994dba562f9b8e86d08a693
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531880"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741850"
 ---
 # <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Uso de un buzón compartido en un dispositivo móvil
 
@@ -28,7 +28,7 @@ No puede acceder a un buzón compartido desde la aplicación de Outlook instalad
   
 Solo puede usar un buzón compartido en un dispositivo móvil si abre el explorador, inicia sesión en Office 365 y, a continuación, va a Outlook en la Web. Para obtener instrucciones, vea [Agregar un buzón compartido en Outlook en la web](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
   
-Si debe acceder a los buzones compartidos mediante la aplicación de Outlook en un dispositivo móvil, considere la posibilidad de crear un grupo de Office 365 en lugar de usar un buzón compartido. Para obtener más información, vea [comparar grupos](https://support.office.com/article/758759ad-63ee-4ea9-90a3-39f941897b7d.aspx).
+Si debe acceder a los buzones compartidos mediante la aplicación de Outlook en un dispositivo móvil, considere la posibilidad de crear un grupo de Office 365 en lugar de usar un buzón compartido. Para obtener más información, vea [comparar grupos](https://docs.microsoft.com/office365/admin/create-groups/compare-groups).
   
 Obtenga más información sobre cómo [obtener ayuda en la aplicación para Outlook para iOS y Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
   
