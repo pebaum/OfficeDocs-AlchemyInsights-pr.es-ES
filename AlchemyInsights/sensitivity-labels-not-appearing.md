@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: be5fac4cf4f1516575b8310347dd1d1948010538
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eea2d28b754ec87289984068b9e3330b9f10dd5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504552"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744838"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>No aparecen las etiquetas de confidencialidad
 
@@ -33,4 +33,4 @@ Si ha configurado las etiquetas de confidencialidad pero no aparecen en las apli
 
 - Compatibilidad con prevención de pérdida de datos (DLP): Actualmente, solo se pueden usar las etiquetas de retención como condición en las directivas de DLP.  La compatibilidad con las etiquetas de confidencialidad en una directiva DLP todavía no está disponible, pero estamos trabajando en ella.
 
-Para obtener más información sobre posibles problemas, consulte [problemas conocidos con las etiquetas de confidencialidad](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc?ui=en-US&rs=en-US&ad=US).
+Para obtener más información sobre posibles problemas, consulte [problemas conocidos con las etiquetas de confidencialidad](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

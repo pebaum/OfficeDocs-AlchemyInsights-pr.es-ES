@@ -1,18 +1,18 @@
 ---
 title: Sincronizar la imagen de Perfil de un usuario
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: e63da2e0e67f2ed1f4f95d128b3215c8378ee81e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6d2a3d08a6ee20cd4f62457b5365449fc5781606
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521872"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753877"
 ---
 # <a name="sync-a-users-profile-picture"></a>Sincronizar la imagen de Perfil de un usuario
 
@@ -30,4 +30,4 @@ Para agregar la foto de perfil a Office 365 para empresas
 
 Nota: Si ya ha cargado una imagen, es posible que quiera intentar hacer clic en el icono de SharePoint o de OneDrive para volver a sincronizar la imagen.
 
-Para obtener más información, visite la [información sobre sincronización de imágenes de perfil en Office 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a?ui=en-US&amp;rs=en-US&amp;ad=US).
+Para obtener más información, visite la [información sobre sincronización de imágenes de perfil en Office 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).

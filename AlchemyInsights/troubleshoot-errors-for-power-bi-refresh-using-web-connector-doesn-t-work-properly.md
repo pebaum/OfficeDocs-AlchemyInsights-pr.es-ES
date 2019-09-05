@@ -1,5 +1,5 @@
 ---
-Title: La actualización mediante Web Connector no funciona correctamente
+title: La actualización mediante Web Connector no funciona correctamente
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1316"
 - "2500002"
-ms.openlocfilehash: e6c0f44f8f62b01e7f4dd23776ba8c13a2999c6b
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 6bee3c3d0d07f79823fe8683e0bfef33ae6dfdfc
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753324"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748917"
 ---
 # <a name="refresh-using-web-connector-doesnt-work-properly"></a>La actualización mediante Web Connector no funciona correctamente
 

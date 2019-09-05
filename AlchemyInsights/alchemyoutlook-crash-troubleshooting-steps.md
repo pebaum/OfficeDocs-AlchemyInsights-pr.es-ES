@@ -13,16 +13,16 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: bcc23c54e38c0e3f06c243c53a6cc7fd1f8e7c0e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0d35793c5222c89828133e6ace98d8b53860107b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664589"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737136"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Pasos para solucionar problemas de bloqueo de Outlook
 
-Si tiene problemas de bloqueo del escritorio de Outlook, empiece por los tres pasos siguientes, que se incluyen en detalle en este artículo: [cómo solucionar problemas que provocan que Outlook se bloquee o deje de responder cuando se usa con Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
+Si tiene problemas de bloqueo del escritorio de Outlook, empiece por los tres pasos siguientes, que se incluyen en detalle en este artículo: [cómo solucionar problemas que provocan que Outlook se bloquee o deje de responder cuando se usa con Office 365.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
 Paso 1: investigar posibles problemas con los complementos.
   

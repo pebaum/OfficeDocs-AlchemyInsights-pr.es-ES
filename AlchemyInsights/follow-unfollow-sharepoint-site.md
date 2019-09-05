@@ -1,6 +1,6 @@
 ---
 title: Seguir o quitar el seguimiento de un sitio de SharePoint
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/20/2019
 ms.audience: ITPro
@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: ebbb69c987b331fb92e5149f972a4489288f8334
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ef2eaf323e24202117282ff6d9d09ba348bf9a62
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524608"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755721"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>Seguir o quitar el seguimiento de un sitio de SharePoint
 
