@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 8e76edd920a86445b2edc4745d39538233413c04
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75622ce992347e11dee57b3ba1b080bc498cda5b
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548156"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821999"
 ---
 # <a name="new-calendar-experiences-coming-to-outlookcom"></a>Nuevas experiencias de calendario que van a Outlook.com
 
@@ -27,4 +27,4 @@ Disfrutará de un diseño moderno que reduce el desorden visual y le ofrece form
 
 Hemos ampliado la colección de iconos de eventos y actualizado la apariencia de los existentes, y ahora se agregan automáticamente iconos relevantes a los eventos para que pueda ver fácilmente lo que ocurre de un vistazo.
 
-Puede proporcionar comentarios sobre las nuevas características a través del [canal de UserVoice del calendario de Outlook.com](https://outlook.uservoice.com/forums/601444-new-experiences-in-outlook-com?category_id=209197).
+Puede proporcionar comentarios sobre las nuevas características a través del [canal de UserVoice del calendario de Outlook.com](https://go.microsoft.com/fwlink/?linkid=2103075).

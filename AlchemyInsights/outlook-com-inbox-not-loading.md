@@ -3,7 +3,6 @@ title: No se está cargando la bandeja de entrada de Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/1/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +11,18 @@ ms.custom:
 - "1271"
 - "1963"
 - "8000078"
-ms.openlocfilehash: 0699b73e9df875f4fee2bb169540b43e48a72a95
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e53353949a37518b21b85a4786e443577cb88bda
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536452"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822359"
 ---
 # <a name="empty-inbox"></a>Bandeja de entrada vacía
 
 **Mi bandeja de entrada de Outlook.com está vacía**
 
-- Algunos complementos del explorador Firefox pueden impedir que se cargue la bandeja de entrada. Visite soporte técnico de Firefox para obtener información sobre cómo [deshabilitar o quitar complementos](https://support.mozilla.org/kb/disable-or-remove-add-ons).
+- Algunos complementos del explorador Firefox pueden impedir que se cargue la bandeja de entrada. Visite soporte técnico de Firefox para obtener información sobre cómo [deshabilitar o quitar complementos](https://aka.ms/mozilla-add-ons).
 
 **Deseo vaciar mi bandeja de entrada**
 

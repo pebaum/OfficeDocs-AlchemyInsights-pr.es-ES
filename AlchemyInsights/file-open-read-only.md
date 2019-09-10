@@ -9,12 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 5c28d5f1c6951971aab329060e24b8458e848dd7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.custom:
+- "765"
+- "2200014"
+ms.openlocfilehash: eddd427b159a782abf53adda934de8b15a02ed00
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525688"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822251"
 ---
 # <a name="file-open-read-only"></a>Abrir archivo en modo de solo lectura
 
@@ -22,7 +25,7 @@ Al abrir archivos, es posible que se abran como de solo lectura. En algunos caso
   
  **Mi antivirus está provocando que se abran en modo de solo lectura**
   
-Algunos programas antivirus pueden protegerse de archivos potencialmente no seguros al abrirlos como de solo lectura. Es posible que necesite consultar con su proveedor de antivirus para obtener información sobre cómo ajustar esta configuración. Por ejemplo, BitDefender tiene contenido sobre la adición de exclusiones de aplicaciones: [Cómo agregar aplicaciones o exclusiones de procesos en BitDefender centro de control](https://www.bitdefender.com/support/how-to-add-application-or-process-exclusions-in-bitdefender-control-center-1119.mdl).
+Algunos programas antivirus pueden protegerse de archivos potencialmente no seguros al abrirlos como de solo lectura. Es posible que necesite consultar con su proveedor de antivirus para obtener información sobre cómo ajustar esta configuración. Por ejemplo, BitDefender tiene contenido sobre la adición de exclusiones de aplicaciones: [Cómo agregar aplicaciones o exclusiones de procesos en BitDefender centro de control](https://aka.ms/AA6098i).
   
  **¿Se establecen las propiedades del archivo como de solo lectura?**
   
