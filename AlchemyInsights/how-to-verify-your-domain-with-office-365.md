@@ -13,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1621b58ca82f91645c7b46d962bd76290161b39f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7e6586f4ba0b7f65fe16a040208ff56ec4ca1985
+ms.sourcegitcommit: 52605656a92e31d3bf65f90ba427f56e87d6a221
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664094"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36851737"
 ---
 # <a name="how-to-verify-your-domain-with-office-365"></a>Cómo comprobar su dominio con Office 365
 
-Para comprobar su dominio, tendrá que agregar un registro TXT a su registrador de dominios para comprobar que es el propietario del dominio. En primer lugar, siga el [Asistente para agregar dominio](https://portal.office.com/adminportal/home#/Domains) seleccionando la **configuración** \> **Domaisn**y, a continuación, **agregue dominio**.
+Para comprobar su dominio, tendrá que agregar un registro TXT a su registrador de dominios para comprobar que es el propietario del dominio. En primer lugar, siga el [Asistente para agregar dominios](https://portal.office.com/adminportal/home#/Domains) seleccionando la **opción** \> **dominios**de configuración y, a continuación, **Agregar dominio**.
   
 Siga las instrucciones que se indican en [crear registros DNS en cualquier proveedor de hospedaje DNS para Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) para agregar un registro TXT para comprobar el dominio.
   
