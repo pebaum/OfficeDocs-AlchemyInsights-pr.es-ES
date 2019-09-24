@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 2637
+ms.custom:
+- "2637"
+- "9000682"
 ms.assetid: ''
-ms.openlocfilehash: 6a6a119f6ba32df474d44421f0571e882d1fe6ee
-ms.sourcegitcommit: a2c866d2f3cdc1e18a33a5b2a4209340e83ca3c2
+ms.openlocfilehash: 8d8c9b56c61c17be1001bf9723bc4b5ecbfba031
+ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36406568"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37122179"
 ---
 # <a name="bypass-spam-filtering-to-allow-specific-messages"></a>¿Omitir el filtrado de correo no deseado para permitir mensajes específicos?
 
