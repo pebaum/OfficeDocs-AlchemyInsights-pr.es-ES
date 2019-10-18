@@ -17,12 +17,12 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 08/29/2019
 ms.locfileid: "36664841"
 ---
-# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a><span data-ttu-id="64b9c-102">¿Recibes demasiado correo no deseado o de suplantación de identidad en tu buzón?</span><span class="sxs-lookup"><span data-stu-id="64b9c-102">Are you getting too much spam or phish in your mailbox?</span></span>
+# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a><span data-ttu-id="1f218-102">¿Recibes demasiado correo no deseado o de suplantación de identidad en tu buzón?</span><span class="sxs-lookup"><span data-stu-id="1f218-102">Are you getting too much spam or phish in your mailbox?</span></span>
 
-<span data-ttu-id="64b9c-103">Vea [Reducir el correo no deseado en Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) para solucionar problemas de correo no deseado.</span><span class="sxs-lookup"><span data-stu-id="64b9c-103">See [How to reduce spam email in Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) for troubleshooting spam.</span></span>
+<span data-ttu-id="1f218-103">Vea [Reducir el correo no deseado en Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) para solucionar problemas de correo no deseado.</span><span class="sxs-lookup"><span data-stu-id="1f218-103">See [How to reduce spam email in Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) for troubleshooting spam.</span></span>
   
-<span data-ttu-id="64b9c-104">La mejor forma de notificar sobre estos tipos de problemas es:</span><span class="sxs-lookup"><span data-stu-id="64b9c-104">The best way to report these types of issues is to:</span></span>
+<span data-ttu-id="1f218-104">La mejor forma de notificar sobre estos tipos de problemas es:</span><span class="sxs-lookup"><span data-stu-id="1f218-104">The best way to report these types of issues is to:</span></span>
   
-1. <span data-ttu-id="64b9c-105">[Habilitar el complemento de notificaciones](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) para el usuario.</span><span class="sxs-lookup"><span data-stu-id="64b9c-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span>
+1. <span data-ttu-id="1f218-105">[Habilitar el complemento de notificaciones](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) para el usuario.</span><span class="sxs-lookup"><span data-stu-id="1f218-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span>
 
-2. <span data-ttu-id="64b9c-106">Hacer que el [usuario notifique el mensaje](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) como correo no deseado.</span><span class="sxs-lookup"><span data-stu-id="64b9c-106">Have the [user report the message](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) as Junk.</span></span>
+2. <span data-ttu-id="1f218-106">Hacer que el [usuario notifique el mensaje](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) como correo no deseado.</span><span class="sxs-lookup"><span data-stu-id="1f218-106">Have the [user report the message](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) as Junk.</span></span>
