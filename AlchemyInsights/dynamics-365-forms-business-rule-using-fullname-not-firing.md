@@ -10,14 +10,14 @@ ms.custom:
 - "1928"
 - "6200018"
 ms.openlocfilehash: 91e091502f2b431c380663f3b938580b6cc963c4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529000"
 ---
-# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a><span data-ttu-id="63cf0-102">El campo Nombre completo no es compatible con las aplicaciones de la aplicación integrada</span><span class="sxs-lookup"><span data-stu-id="63cf0-102">Full Name field not supported with unified inteface apps</span></span>
+# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a><span data-ttu-id="fd525-102">El campo Nombre completo no es compatible con las aplicaciones de la aplicación integrada</span><span class="sxs-lookup"><span data-stu-id="fd525-102">Full Name field not supported with unified inteface apps</span></span>
 
-<span data-ttu-id="63cf0-103">Las acciones o condiciones que usan un campo **nombre completo** (FullName) no se admiten en las aplicaciones basadas en la interfaz unificada.</span><span class="sxs-lookup"><span data-stu-id="63cf0-103">Actions or conditions that use a **Full Name** (fullname) field aren’t supported in apps based on the unified interface.</span></span> <span data-ttu-id="63cf0-104">Como alternativa, puede usar acciones o condiciones con los campos **nombre** (FirstName) y **apellidos** (Apellidos).</span><span class="sxs-lookup"><span data-stu-id="63cf0-104">Alternatively, you can use actions or conditions with **First Name** (firstname) and **Last Name** (lastname) fields.</span></span>
+<span data-ttu-id="fd525-103">Las acciones o condiciones que usan un campo **nombre completo** (FullName) no se admiten en las aplicaciones basadas en la interfaz unificada.</span><span class="sxs-lookup"><span data-stu-id="fd525-103">Actions or conditions that use a **Full Name** (fullname) field aren’t supported in apps based on the unified interface.</span></span> <span data-ttu-id="fd525-104">Como alternativa, puede usar acciones o condiciones con los campos **nombre** (FirstName) y **apellidos** (Apellidos).</span><span class="sxs-lookup"><span data-stu-id="fd525-104">Alternatively, you can use actions or conditions with **First Name** (firstname) and **Last Name** (lastname) fields.</span></span>
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues)
