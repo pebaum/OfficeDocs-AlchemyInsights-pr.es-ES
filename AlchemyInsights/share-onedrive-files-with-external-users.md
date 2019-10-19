@@ -12,10 +12,10 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
 ms.openlocfilehash: da2e654a40cfb3a802a77526706b5093e2a6ac2d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36549236"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Compartir archivos en OneDrive con personas fuera de la organización
@@ -26,7 +26,7 @@ ms.locfileid: "36549236"
     
 3. Si el tipo de vínculo se establece en "personas \<de su\>organización", haga clic en la flecha hacia abajo y seleccione una de las siguientes opciones: 
     
-  - **Cualquiera** da acceso a cualquier persona que reciba este vínculo, tanto si lo recibe directamente de usted o lo reenvía desde otra persona. Esto puede incluir personas fuera de la organización. 
+  - **Cualquiera** da acceso a cualquier persona que reciba este vínculo, tanto si lo recibe directamente de usted o lo reenvía desde otra persona. Se incluyen personas de fuera de su organización. 
     
   - Los **usuarios específicos** solo proporcionan acceso a las personas que usted especifique, aunque es posible que otras personas ya dispongan de acceso. Si las personas reenvían la invitación para uso compartido, solo podrán usar el vínculo los usuarios que ya tengan acceso al elemento. 
     

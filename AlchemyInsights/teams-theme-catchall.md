@@ -12,10 +12,10 @@ ms.custom:
 - "2605"
 - "9000701"
 ms.openlocfilehash: 09cbbc28e3ad826dc3ed69a89e5ab3983c1aea24
-ms.sourcegitcommit: 3a7c40c232294878ac0c91302e86599ec6f5209e
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/02/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "37373128"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Problemas y soluciones comunes de Microsoft Teams

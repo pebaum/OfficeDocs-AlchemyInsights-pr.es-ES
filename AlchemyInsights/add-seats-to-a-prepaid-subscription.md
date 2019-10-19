@@ -14,10 +14,10 @@ ms.custom:
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661025"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Agregar puestos a una suscripción de prepago
@@ -35,6 +35,6 @@ Las licencias de Office 365 de prepago se emiten como un código alfanumérico d
     > [!NOTE]
     > Si tiene más de una clave de producto, puede seleccionar **Agregar otra clave de producto** o escribirlas.
 
-5. Revise los detalles del pedido y, **** a continuación, seleccione canjear.
+5. Revise los detalles del pedido y, a continuación, seleccione **canjear**.
 
 Para obtener más información, vea [Agregar licencias a o ampliar una suscripción pagada para usar una clave de producto](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

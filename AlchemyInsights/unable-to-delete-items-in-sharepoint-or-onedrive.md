@@ -12,10 +12,10 @@ ms.custom:
 - "9000255"
 ms.assetid: ''
 ms.openlocfilehash: 3cc168846999c6880b95edfaedb2df8cf6e843a6
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36748593"
 ---
 # <a name="unable-to-delete-items"></a>No se pueden eliminar los elementos

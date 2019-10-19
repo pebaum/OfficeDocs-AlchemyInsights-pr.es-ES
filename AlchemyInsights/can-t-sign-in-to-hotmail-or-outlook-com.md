@@ -13,10 +13,10 @@ ms.custom:
 - "8000077"
 ms.assetid: 51addffd-7c85-49ef-8ef5-dfa2605605dc
 ms.openlocfilehash: 4e89fa1746360dc6b41f25b71558b1b957edd4d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36518560"
 ---
 # <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>¿No puede iniciar sesión en hotmail o Outlook.com?

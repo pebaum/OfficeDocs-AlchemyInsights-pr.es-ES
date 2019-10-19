@@ -11,10 +11,10 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
 ms.openlocfilehash: e8f4bbcfc0b820af5ba54dd643c0e4451964f414
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36750897"
 ---
 # <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-libraries"></a>No se pueden guardar documentos de Office en bibliotecas de documentos de SharePoint o OneDrive

@@ -12,10 +12,10 @@ ms.custom:
 - "1800029"
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
 ms.openlocfilehash: 4648be89eeac657b61fa9f59d71549364453fdfb
-ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/10/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36821819"
 ---
 # <a name="connected-accounts-are-no-longer-supported"></a>Las cuentas conectadas ya no son compatibles
