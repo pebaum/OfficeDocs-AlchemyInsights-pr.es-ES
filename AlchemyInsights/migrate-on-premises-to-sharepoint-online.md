@@ -9,10 +9,10 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7ae8ff6d-db1b-403b-9707-6fe6da75be92
 ms.openlocfilehash: a063184a4662bc311c91b50a62456f40728b854d
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36754065"
 ---
 # <a name="migrate-on-premises-to-sharepoint-online"></a>Migrar de forma local a SharePoint Online

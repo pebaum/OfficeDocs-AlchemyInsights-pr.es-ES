@@ -16,10 +16,10 @@ ms.custom:
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
 ms.openlocfilehash: 5a54344d43d16c77d440768aa1c87489edf10ca0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36736342"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>¿No puede instalar ni ejecutar la herramienta de exportación de exhibición de documentos electrónicos?

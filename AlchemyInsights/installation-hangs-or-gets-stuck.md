@@ -13,10 +13,10 @@ ms.custom:
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
 ms.openlocfilehash: e72aa630a6ef3998b4f20f1a75c9826a23494705
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36735442"
 ---
 # <a name="office-installation-hangs-or-gets-stuck"></a>La instalación de Office se bloquea o se bloquea

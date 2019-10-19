@@ -13,10 +13,10 @@ ms.custom:
 - "9000687"
 - "2579"
 ms.openlocfilehash: bd477d90ab7e6737aafffc57d931aad2bd0351e8
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36749277"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Cambiar el sitio raíz clásico por un sitio moderno

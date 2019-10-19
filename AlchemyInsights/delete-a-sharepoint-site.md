@@ -10,10 +10,10 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
 ms.openlocfilehash: 5ba1fee33c3edaed2c320250004a91160f870f8c
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36747909"
 ---
 # <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Eliminar un sitio del nuevo centro de administración de SharePoint

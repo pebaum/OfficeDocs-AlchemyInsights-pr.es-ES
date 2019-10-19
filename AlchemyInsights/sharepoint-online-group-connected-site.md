@@ -11,10 +11,10 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
 ms.openlocfilehash: 423db4e5bbb85e75aee3548d5b6b46a64ebc6fa0
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36750537"
 ---
 # <a name="issues-when-creating-or-group-connected-sites-in-sharepoint-online"></a>Problemas al crear o agrupar sitios conectados en SharePoint Online

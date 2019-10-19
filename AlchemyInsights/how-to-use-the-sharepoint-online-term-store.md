@@ -12,10 +12,10 @@ ms.custom:
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
 ms.openlocfilehash: 2b785f475c7f673acff3dd419883b136d7feb92e
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36754857"
 ---
 # <a name="how-to-use-the-sharepoint-online-term-store"></a>Cómo usar el almacén de términos de SharePoint Online

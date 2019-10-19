@@ -10,10 +10,10 @@ ms.custom:
 - "1473"
 - "6200020"
 ms.openlocfilehash: d3b8dd968b3b4a5f774336b529718bc20870f955
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528532"
 ---
 # <a name="webpage-html-web-resources-limitations"></a>Limitaciones de los recursos Web de la página web (HTML)
