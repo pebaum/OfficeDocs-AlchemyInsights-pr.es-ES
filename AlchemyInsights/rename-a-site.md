@@ -12,10 +12,10 @@ ms.custom:
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
 ms.openlocfilehash: ee92e2687da9e72d8551e74a0d179bf2c50f2adb
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36752193"
 ---
 # <a name="rename-a-sharepoint-site"></a>Cambiar el nombre de un sitio de SharePoint
