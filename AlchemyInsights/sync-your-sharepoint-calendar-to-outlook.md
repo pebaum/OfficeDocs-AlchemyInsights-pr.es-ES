@@ -13,24 +13,24 @@ ms.custom:
 - "9000677"
 - "2586"
 ms.openlocfilehash: 18606337eac550d6b68d442f109f599810bb391e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36507360"
 ---
-# <a name="issues-synchronizing-your-calendar-to-devices"></a><span data-ttu-id="689e2-102">Problemas al sincronizar el calendario con los dispositivos</span><span class="sxs-lookup"><span data-stu-id="689e2-102">Issues synchronizing your calendar to devices</span></span>
+# <a name="issues-synchronizing-your-calendar-to-devices"></a><span data-ttu-id="f1938-102">Problemas al sincronizar el calendario con los dispositivos</span><span class="sxs-lookup"><span data-stu-id="f1938-102">Issues synchronizing your calendar to devices</span></span>
 
-<span data-ttu-id="689e2-103">Los calendarios de SharePoint son tipos de lista clásicos que a veces se confunden con los calendarios de grupo de Office 365.</span><span class="sxs-lookup"><span data-stu-id="689e2-103">SharePoint Calendars are classic list types which are sometimes confused with Office 365 Group Calendars.</span></span>
+<span data-ttu-id="f1938-103">Los calendarios de SharePoint son tipos de lista clásicos que a veces se confunden con los calendarios de grupo de Office 365.</span><span class="sxs-lookup"><span data-stu-id="f1938-103">SharePoint Calendars are classic list types which are sometimes confused with Office 365 Group Calendars.</span></span>
 
-<span data-ttu-id="689e2-104">Para sincronizar un calendario de SharePoint con Outlook, siga estos pasos:</span><span class="sxs-lookup"><span data-stu-id="689e2-104">To sync a SharePoint Calendar to Outlook, please follow these steps:</span></span>
+<span data-ttu-id="f1938-104">Para sincronizar un calendario de SharePoint con Outlook, siga estos pasos:</span><span class="sxs-lookup"><span data-stu-id="f1938-104">To sync a SharePoint Calendar to Outlook, please follow these steps:</span></span>
 
-1. <span data-ttu-id="689e2-105">Haga clic en el icono de engranaje de **configuración** y, a continuación, en **contenido del sitio**.</span><span class="sxs-lookup"><span data-stu-id="689e2-105">Click the **Settings** gear icon and then click **Site Contents**.</span></span>
-2. <span data-ttu-id="689e2-106">Abra el calendario que desea sincronizar (que es un tipo de lista de eventos).</span><span class="sxs-lookup"><span data-stu-id="689e2-106">Open the calendar you would like to sync (which is an Events list type).</span></span>
-3. <span data-ttu-id="689e2-107">En el menú de la cinta clásica, haga clic en **calendario**y, a continuación, haga clic en **conectar con Outlook**.</span><span class="sxs-lookup"><span data-stu-id="689e2-107">In the classic ribbon menu, click **Calendar**, then click **Connect to Outlook**.</span></span>
-4. <span data-ttu-id="689e2-108">En el elemento emergente que le pide que confirme la sincronización, haga clic en **permitir**.</span><span class="sxs-lookup"><span data-stu-id="689e2-108">In the pop-up asking you to confirm the sync, click **Allow**.</span></span>
+1. <span data-ttu-id="f1938-105">Haga clic en el icono de engranaje de **configuración** y, a continuación, en **contenido del sitio**.</span><span class="sxs-lookup"><span data-stu-id="f1938-105">Click the **Settings** gear icon and then click **Site Contents**.</span></span>
+2. <span data-ttu-id="f1938-106">Abra el calendario que desea sincronizar (que es un tipo de lista de eventos).</span><span class="sxs-lookup"><span data-stu-id="f1938-106">Open the calendar you would like to sync (which is an Events list type).</span></span>
+3. <span data-ttu-id="f1938-107">En el menú de la cinta clásica, haga clic en **calendario**y, a continuación, haga clic en **conectar con Outlook**.</span><span class="sxs-lookup"><span data-stu-id="f1938-107">In the classic ribbon menu, click **Calendar**, then click **Connect to Outlook**.</span></span>
+4. <span data-ttu-id="f1938-108">En el elemento emergente que le pide que confirme la sincronización, haga clic en **permitir**.</span><span class="sxs-lookup"><span data-stu-id="f1938-108">In the pop-up asking you to confirm the sync, click **Allow**.</span></span>
 
 >[!Note]
-> <span data-ttu-id="689e2-109">Cuando realice un cambio en el calendario de Outlook sincronizado, aparecerá en el calendario de SharePoint y viceversa.</span><span class="sxs-lookup"><span data-stu-id="689e2-109">When you make a change in the synced Outlook calendar, it will appear in the SharePoint calendar and vice versa.</span></span>
+> <span data-ttu-id="f1938-109">Cuando realice un cambio en el calendario de Outlook sincronizado, aparecerá en el calendario de SharePoint y viceversa.</span><span class="sxs-lookup"><span data-stu-id="f1938-109">When you make a change in the synced Outlook calendar, it will appear in the SharePoint calendar and vice versa.</span></span>
 
-<span data-ttu-id="689e2-110">Para obtener más información sobre los grupos de Office 365, consulte este [artículo](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span><span class="sxs-lookup"><span data-stu-id="689e2-110">For more information about Office 365 Groups, see this [article](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
+<span data-ttu-id="f1938-110">Para obtener más información sobre los grupos de Office 365, consulte este [artículo](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span><span class="sxs-lookup"><span data-stu-id="f1938-110">For more information about Office 365 Groups, see this [article](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
