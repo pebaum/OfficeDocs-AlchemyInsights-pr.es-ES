@@ -13,10 +13,10 @@ ms.custom:
 - "1200022"
 ms.assetid: a47ef0c1-5f44-4c5f-aa91-b681c0c17ebf
 ms.openlocfilehash: aa594ead2f48bd6b6597746588b1edc16e08a14a
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36740626"
 ---
 # <a name="create-mailboxes-that-dont-require-licenses"></a>Crear buzones que no requieran licencias

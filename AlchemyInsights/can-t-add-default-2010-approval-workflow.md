@@ -13,10 +13,10 @@ ms.custom:
 - "5200024"
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
 ms.openlocfilehash: d5486e218e9b6e3d632330bcc3a64b7b87952581
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36747693"
 ---
 # <a name="cant-add-default-2010-approval-workflow"></a>No se puede Agregar el flujo de trabajo de aprobación 2010 predeterminado

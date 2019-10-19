@@ -14,10 +14,10 @@ ms.custom:
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
 ms.openlocfilehash: c82eaa3717942ff223bb262f8fe7bdbe56cbb17a
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36737710"
 ---
 # <a name="calendar-publishing-information"></a>Información de publicación de calendario

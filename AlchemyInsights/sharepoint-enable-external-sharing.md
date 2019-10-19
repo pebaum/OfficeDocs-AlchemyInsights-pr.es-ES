@@ -9,10 +9,10 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
 ms.openlocfilehash: f4c74f11b2b74f2de4b7e1c831012b5f92600917
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36744442"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Habilitar el uso compartido externo en SharePoint Online

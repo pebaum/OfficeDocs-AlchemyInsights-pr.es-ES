@@ -9,10 +9,10 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 89b29dd9-edfe-49a4-84eb-5dc270d64526
 ms.openlocfilehash: 7a845bbf2fd6f3d3572a1284654c9f593dd3ec1e
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36743794"
 ---
 # <a name="install-setup-and-sync-onedrive-or-sharepoint-files-on-mac"></a>Instalar, configurar y sincronizar archivos de OneDrive o de SharePoint en Mac 

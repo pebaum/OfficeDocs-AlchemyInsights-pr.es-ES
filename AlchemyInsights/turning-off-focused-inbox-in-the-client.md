@@ -13,10 +13,10 @@ ms.custom:
 - "1800019"
 ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
 ms.openlocfilehash: 20f28659b2b4a3d8920c2143cfa25bc109fc0096
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36742390"
 ---
 # <a name="turn-off-focused-inbox-in-email-clients"></a>Desactivar la bandeja de entrada prioritarios en clientes de correo electrónico
