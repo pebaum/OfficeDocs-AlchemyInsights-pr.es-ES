@@ -14,18 +14,26 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: adf701dbc4e4840d1cdaf090197f97609254f623
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 55aff5bebdce35c9fad3db2d56696e1b5527c1d5
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661061"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658310"
 ---
 # <a name="manage-your-onedrive-storage"></a>Administrar el almacenamiento de OneDrive
 
-Para cambiar el almacenamiento predeterminado para los usuarios nuevos y existentes de OneDrive:
-  
-- Vaya a la [Página almacenamiento del centro de administración de OneDrive](https://admin.onedrive.com/?v=StorageSettings)y, a continuación, escriba una nueva cantidad en GB.
+El espacio de almacenamiento de OneDrive no se cuenta para la cuota de inquilino general. 
 
-Esta configuración de espacio de almacenamiento se aplica a todos los usuarios para los que no se han establecido límites de almacenamiento específicos. Para cambiar el espacio de almacenamiento para determinados usuarios, debe usar PowerShell de Microsoft. Para obtener información sobre cómo hacerlo, vea [cambiar el espacio de almacenamiento de OneDrive de los usuarios con PowerShell](https://go.microsoft.com/fwlink/?linkid=866402). Para comprobar la cantidad de almacenamiento que está usando en su propio OneDrive, consulte [administrar el almacenamiento de onedrive para la empresa](https://go.microsoft.com/fwlink/?linkid=866429). Para obtener información sobre el almacenamiento que incluye cada plan, consulte [OneDrive for Business Service Description](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Obtenga información sobre [cómo se asigna el espacio de almacenamiento de OneDrive por usuario o plan](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).
+
+Obtenga información sobre la [cantidad de almacenamiento que usa en su OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).
+
+Obtenga información sobre [Cómo obtener la cuota de almacenamiento de OneDrive con PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).
+
+Inicialmente, Microsoft proporcionará 1 TB por usuario, que los administradores pueden aumentar hasta 5 TB por usuario. Obtenga información sobre cómo [establecer el espacio de almacenamiento predeterminado para los usuarios de OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space).
+
+Obtenga información sobre [Cómo cambiar el espacio de almacenamiento de OneDrive de un usuario específico](https://docs.microsoft.com/onedrive/change-user-storage).
+
+Obtenga información sobre [cómo los administradores globales pueden establecer la cuota de almacenamiento de OneDrive para todos los usuarios que usan PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).
   
