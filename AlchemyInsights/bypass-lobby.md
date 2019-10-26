@@ -12,10 +12,10 @@ ms.custom:
 - "2673"
 - "9000740"
 ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/24/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "37654273"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Controlar la configuración de la sala de espera y el nivel de participación

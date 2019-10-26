@@ -14,10 +14,10 @@ ms.custom:
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
 ms.openlocfilehash: 15723e0b9b98dbee5c8ad4d0417f86a03fa08c7e
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "37026611"
 ---
 # <a name="a-user-has-two-mailboxes"></a>Un usuario tiene dos buzones de correo

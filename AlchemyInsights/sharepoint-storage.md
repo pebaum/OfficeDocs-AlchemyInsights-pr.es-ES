@@ -13,10 +13,10 @@ ms.custom:
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
 ms.openlocfilehash: 8a1892e5eb6fa11b69cca63a3d8465583ddb185c
-ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/24/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "37658274"
 ---
 # <a name="manage-your-sharepoint-online-storage"></a>Administrar el almacenamiento de SharePoint Online

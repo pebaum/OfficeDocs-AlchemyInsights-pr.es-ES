@@ -15,10 +15,10 @@ ms.custom:
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
 ms.openlocfilehash: 55aff5bebdce35c9fad3db2d56696e1b5527c1d5
-ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/24/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "37658310"
 ---
 # <a name="manage-your-onedrive-storage"></a>Administrar el almacenamiento de OneDrive
