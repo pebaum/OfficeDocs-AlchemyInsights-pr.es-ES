@@ -12,10 +12,10 @@ ms.custom:
 - "273"
 - "1500006"
 ms.openlocfilehash: 8a9d98e2af3ef0cc71b820b4e74aa2a2a522346b
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36743146"
 ---
 # <a name="access-the-domains-page"></a>Obtener acceso a la página dominios

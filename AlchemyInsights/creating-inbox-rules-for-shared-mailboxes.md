@@ -14,10 +14,10 @@ ms.custom:
 - "3500003"
 ms.assetid: fd97c1c7-fc0a-466d-87d4-cbdaf6310ca1
 ms.openlocfilehash: 9182ff22f183385cf6577f911bc37cd3d22c8f84
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36740734"
 ---
 # <a name="creating-inbox-rules-for-shared-mailboxes"></a>Creación de reglas de bandeja de entrada para buzones compartidos

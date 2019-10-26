@@ -13,10 +13,10 @@ ms.custom:
 - "9000191"
 - "2383"
 ms.openlocfilehash: 72e9321c43e33e3ea8ef50592d5d4ea5d9568d7c
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36735910"
 ---
 # <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>El usuario externo no puede aceptar una invitación para uso compartido

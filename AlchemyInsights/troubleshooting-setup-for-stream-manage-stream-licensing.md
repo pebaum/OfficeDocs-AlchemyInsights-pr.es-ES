@@ -12,10 +12,10 @@ ms.custom:
 - "1339"
 - "2800001"
 ms.openlocfilehash: 9ec942641f04c1649aa3e6ba1e4485f4e4f95d4d
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36742642"
 ---
 # <a name="managing-microsoft-stream-licenses"></a>Administración de licencias de Microsoft Stream
