@@ -13,14 +13,14 @@ ms.custom:
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
 ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36738430"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="d8c59-102">Activar o desactivar la bandeja de entrada prioritarios para todos los usuarios</span><span class="sxs-lookup"><span data-stu-id="d8c59-102">Turn Focused Inbox on or off for everyone</span></span>
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="3368c-102">Activar o desactivar la bandeja de entrada prioritarios para todos los usuarios</span><span class="sxs-lookup"><span data-stu-id="3368c-102">Turn Focused Inbox on or off for everyone</span></span>
 
-<span data-ttu-id="d8c59-103">Para obtener instrucciones, consulte [configurar la bandeja de entrada prioritarios para todos los usuarios de la organización](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span><span class="sxs-lookup"><span data-stu-id="d8c59-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span></span>
+<span data-ttu-id="3368c-103">Para obtener instrucciones, consulte [configurar la bandeja de entrada prioritarios para todos los usuarios de la organización](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span><span class="sxs-lookup"><span data-stu-id="3368c-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span></span>
 
-<span data-ttu-id="d8c59-104">**Nota**: este procedimiento requiere Exchange Online PowerShell.</span><span class="sxs-lookup"><span data-stu-id="d8c59-104">**Note**: This procedure requires Exchange Online PowerShell.</span></span> <span data-ttu-id="d8c59-105">¿Desea hacer esto en el centro de administración de Microsoft 365 en su lugar?</span><span class="sxs-lookup"><span data-stu-id="d8c59-105">Would you like to do this in the Microsoft 365 admin center instead?</span></span> [<span data-ttu-id="d8c59-106">¡Vote aquí!</span><span class="sxs-lookup"><span data-stu-id="d8c59-106">Vote here!</span></span>](https://go.microsoft.com/fwlink/p/?linkid=862489)
+<span data-ttu-id="3368c-104">**Nota**: este procedimiento requiere Exchange Online PowerShell.</span><span class="sxs-lookup"><span data-stu-id="3368c-104">**Note**: This procedure requires Exchange Online PowerShell.</span></span> <span data-ttu-id="3368c-105">¿Desea hacer esto en el centro de administración de Microsoft 365 en su lugar?</span><span class="sxs-lookup"><span data-stu-id="3368c-105">Would you like to do this in the Microsoft 365 admin center instead?</span></span> [<span data-ttu-id="3368c-106">¡Vote aquí!</span><span class="sxs-lookup"><span data-stu-id="3368c-106">Vote here!</span></span>](https://go.microsoft.com/fwlink/p/?linkid=862489)

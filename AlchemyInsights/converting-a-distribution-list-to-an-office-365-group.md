@@ -14,12 +14,12 @@ ms.custom:
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
 ms.openlocfilehash: 9af4f8772be25c5d3de0489cd24b9cdbac199daa
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36738358"
 ---
-# <a name="convert-a-distribution-group-to-an-office-365-group"></a><span data-ttu-id="f784c-102">Convertir un grupo de distribución en un grupo de Office 365</span><span class="sxs-lookup"><span data-stu-id="f784c-102">Convert a distribution group to an Office 365 Group</span></span>
+# <a name="convert-a-distribution-group-to-an-office-365-group"></a><span data-ttu-id="f36bc-102">Convertir un grupo de distribución en un grupo de Office 365</span><span class="sxs-lookup"><span data-stu-id="f36bc-102">Convert a distribution group to an Office 365 Group</span></span>
 
-<span data-ttu-id="f784c-103">Puede convertir los grupos de distribución a los grupos de Office 365 si cumplen determinados criterios.</span><span class="sxs-lookup"><span data-stu-id="f784c-103">You can convert distribution groups to Office 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="f784c-104">Para convertir un grupo o solucionar problemas de conversión, consulte [actualizar listas de distribución a grupos de Office 365 en Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="f784c-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Office 365 Groups in Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span></span>
+<span data-ttu-id="f36bc-103">Puede convertir los grupos de distribución a los grupos de Office 365 si cumplen determinados criterios.</span><span class="sxs-lookup"><span data-stu-id="f36bc-103">You can convert distribution groups to Office 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="f36bc-104">Para convertir un grupo o solucionar problemas de conversión, consulte [actualizar listas de distribución a grupos de Office 365 en Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="f36bc-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Office 365 Groups in Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span></span>

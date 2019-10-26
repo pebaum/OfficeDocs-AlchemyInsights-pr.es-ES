@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
 ms.openlocfilehash: 56aa04f7866227c4b5a1e1828d3c10ea3746d00a
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36748341"
 ---
-# <a name="who-has-a-file-checked-out"></a><span data-ttu-id="db55d-102">¿Quién tiene un archivo desprotegido?</span><span class="sxs-lookup"><span data-stu-id="db55d-102">Who has a file checked out?</span></span>
+# <a name="who-has-a-file-checked-out"></a><span data-ttu-id="a5cac-102">¿Quién tiene un archivo desprotegido?</span><span class="sxs-lookup"><span data-stu-id="a5cac-102">Who has a file checked out?</span></span>
 
-<span data-ttu-id="db55d-103">Para ver quién tiene un archivo desprotegido en SharePoint, puede realizar uno de los siguientes pasos:</span><span class="sxs-lookup"><span data-stu-id="db55d-103">To see who has a file checked out in SharePoint, you can do either one of the following steps:</span></span>
+<span data-ttu-id="a5cac-103">Para ver quién tiene un archivo desprotegido en SharePoint, puede realizar uno de los siguientes pasos:</span><span class="sxs-lookup"><span data-stu-id="a5cac-103">To see who has a file checked out in SharePoint, you can do either one of the following steps:</span></span>
   
-1. <span data-ttu-id="db55d-104">Mantenga el mouse en **desprotegido** para ver una información sobre herramientas que le indica quién ha desprotegido el archivo.</span><span class="sxs-lookup"><span data-stu-id="db55d-104">Hover over **Checked Out** to see a tooltip that tells you who has the file checked out.</span></span> 
+1. <span data-ttu-id="a5cac-104">Mantenga el mouse en **desprotegido** para ver una información sobre herramientas que le indica quién ha desprotegido el archivo.</span><span class="sxs-lookup"><span data-stu-id="a5cac-104">Hover over **Checked Out** to see a tooltip that tells you who has the file checked out.</span></span> 
     
-2. <span data-ttu-id="db55d-105">Agregue la columna **desprotegido por** a la vista predeterminada de la biblioteca.</span><span class="sxs-lookup"><span data-stu-id="db55d-105">Add the **Checked Out By** column to the default view of the library.</span></span> <span data-ttu-id="db55d-106">De este modo, todos pueden ver fácilmente quién tiene un documento desprotegido.</span><span class="sxs-lookup"><span data-stu-id="db55d-106">This way, everyone can easily see who has a document checked out.</span></span> 
+2. <span data-ttu-id="a5cac-105">Agregue la columna **desprotegido por** a la vista predeterminada de la biblioteca.</span><span class="sxs-lookup"><span data-stu-id="a5cac-105">Add the **Checked Out By** column to the default view of the library.</span></span> <span data-ttu-id="a5cac-106">De este modo, todos pueden ver fácilmente quién tiene un documento desprotegido.</span><span class="sxs-lookup"><span data-stu-id="a5cac-106">This way, everyone can easily see who has a document checked out.</span></span> 
     
-<span data-ttu-id="db55d-107">Para obtener información sobre cómo agregar una columna desprotegida en SharePoint, vea [crear una columna en una lista o biblioteca](https://go.microsoft.com/fwlink/?linkid=2019591).</span><span class="sxs-lookup"><span data-stu-id="db55d-107">To learn how to add a Checked Out By column in SharePoint, see [Create a column in a list or library](https://go.microsoft.com/fwlink/?linkid=2019591).</span></span> 
+<span data-ttu-id="a5cac-107">Para obtener información sobre cómo agregar una columna desprotegida en SharePoint, vea [crear una columna en una lista o biblioteca](https://go.microsoft.com/fwlink/?linkid=2019591).</span><span class="sxs-lookup"><span data-stu-id="a5cac-107">To learn how to add a Checked Out By column in SharePoint, see [Create a column in a list or library](https://go.microsoft.com/fwlink/?linkid=2019591).</span></span> 
   
-<span data-ttu-id="db55d-108">Consulte las preguntas más frecuentes sobre protección y desprotección de las preguntas más frecuentes acerca de la desprotección [, protección](https://go.microsoft.com/fwlink/?linkid=2018786).</span><span class="sxs-lookup"><span data-stu-id="db55d-108">See more frequently asked questions about check in or check out, see [Top questions about check out, check in](https://go.microsoft.com/fwlink/?linkid=2018786).</span></span>
+<span data-ttu-id="a5cac-108">Consulte las preguntas más frecuentes sobre protección y desprotección de las preguntas más frecuentes acerca de la desprotección [, protección](https://go.microsoft.com/fwlink/?linkid=2018786).</span><span class="sxs-lookup"><span data-stu-id="a5cac-108">See more frequently asked questions about check in or check out, see [Top questions about check out, check in](https://go.microsoft.com/fwlink/?linkid=2018786).</span></span>
   
 
