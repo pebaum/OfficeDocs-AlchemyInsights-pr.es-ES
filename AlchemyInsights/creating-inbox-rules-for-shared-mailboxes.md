@@ -2,7 +2,6 @@
 title: Creación de reglas de bandeja de entrada para buzones compartidos
 ms.author: pebaum
 author: pebaum
-ms.date: 5/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "1800021"
 - "3500003"
 ms.assetid: fd97c1c7-fc0a-466d-87d4-cbdaf6310ca1
-ms.openlocfilehash: 9182ff22f183385cf6577f911bc37cd3d22c8f84
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ac301788593c33d7a305f984d2caa00c9d25ea58
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36740734"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769464"
 ---
-# <a name="creating-inbox-rules-for-shared-mailboxes"></a><span data-ttu-id="ff343-102">Creación de reglas de bandeja de entrada para buzones compartidos</span><span class="sxs-lookup"><span data-stu-id="ff343-102">Creating Inbox rules for shared mailboxes</span></span>
+# <a name="creating-inbox-rules-for-shared-mailboxes"></a><span data-ttu-id="3e6fb-102">Creación de reglas de bandeja de entrada para buzones compartidos</span><span class="sxs-lookup"><span data-stu-id="3e6fb-102">Creating Inbox rules for shared mailboxes</span></span>
 
-<span data-ttu-id="ff343-103">Puede agregar reglas a un buzón compartido al que tenga acceso de forma similar a como se agregan las reglas a su propia cuenta.</span><span class="sxs-lookup"><span data-stu-id="ff343-103">You can add rules on a shared mailbox you have access to in a similar way to how you add rules to their own account.</span></span>
+<span data-ttu-id="3e6fb-103">Puede agregar reglas a un buzón compartido al que tenga acceso de forma similar a como se agregan las reglas a su propia cuenta.</span><span class="sxs-lookup"><span data-stu-id="3e6fb-103">You can add rules on a shared mailbox you have access to in a similar way to how you add rules to their own account.</span></span>
   
-<span data-ttu-id="ff343-104">Asegúrese de que es miembro del buzón compartido en cuestión y, a continuación, siga los pasos de este artículo: [agregar reglas a un buzón compartido](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)</span><span class="sxs-lookup"><span data-stu-id="ff343-104">Make sure you're a member of the shared mailbox in question, and then follow the steps in this article: [Add rules to a shared mailbox](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)</span></span>
+<span data-ttu-id="3e6fb-104">Asegúrese de que es miembro del buzón compartido en cuestión y, a continuación, siga los pasos de este artículo: [agregar reglas a un buzón compartido](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)</span><span class="sxs-lookup"><span data-stu-id="3e6fb-104">Make sure you're a member of the shared mailbox in question, and then follow the steps in this article: [Add rules to a shared mailbox](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)</span></span>
   
