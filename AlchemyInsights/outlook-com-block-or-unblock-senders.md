@@ -15,16 +15,16 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
-ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
+ms.openlocfilehash: af1daa00bbb2ec93622ac8f4dc9004bb3b65b761
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/27/2019
-ms.locfileid: "36643711"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768745"
 ---
 # <a name="block-or-unblock-senders"></a>Bloquear o desbloquear remitentes
 
-Los mensajes de direcciones de correo electrónico o dominios de los remitentes bloqueados van directamente a la carpeta correo electrónico no deseado. El correo electrónico se quita automáticamente de la carpeta correo electrónico no deseado transcurridos 30 días y no es recuperable. Se; el ect es un elemento para ver cuándo se quitará.
+Los mensajes de direcciones de correo electrónico o dominios de los remitentes bloqueados Irán directamente a la carpeta de correo electrónico no deseado de Outlook. El correo electrónico se quita automáticamente de la carpeta correo electrónico no deseado transcurridos 30 días y no es recuperable. Seleccione un elemento para ver cuándo se quitará.
 
 **Desde la bandeja de entrada:**
 

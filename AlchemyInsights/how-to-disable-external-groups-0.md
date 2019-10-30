@@ -2,7 +2,6 @@
 title: Cómo deshabilitar grupos externos
 ms.author: pebaum
 author: pebaum
-ms.date: 8/1/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,14 +10,14 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: a467cc5deea6ae3a6f12832d238928daf4800039
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: b62d53d1698f0afd3d89139f2cc2711a8a9b8ba6
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739582"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769068"
 ---
-# <a name="how-to-disable-external-groups"></a>Cómo deshabilitar grupos externos
+# <a name="how-to-give-access-to-external-users-in-yammer"></a>Cómo dar acceso a usuarios externos en Yammer
 
 Hay cuatro formas en las que los usuarios externos pueden tener acceso a su red en Yammer.
   
