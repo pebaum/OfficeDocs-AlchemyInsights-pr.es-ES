@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
 ms.openlocfilehash: 52d8fd39b21b2ac8f1a9965981e8fdc536ea18f0
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36519280"
 ---
-# <a name="change-the-default-onedrive-storage-space-for-your-users"></a><span data-ttu-id="4a5eb-102">Cambiar el espacio de almacenamiento predeterminado de OneDrive para los usuarios</span><span class="sxs-lookup"><span data-stu-id="4a5eb-102">Change the default OneDrive storage space for your users</span></span>
+# <a name="change-the-default-onedrive-storage-space-for-your-users"></a><span data-ttu-id="1c4bd-102">Cambiar el espacio de almacenamiento predeterminado de OneDrive para los usuarios</span><span class="sxs-lookup"><span data-stu-id="1c4bd-102">Change the default OneDrive storage space for your users</span></span>
 
-1. <span data-ttu-id="4a5eb-103">Vaya a la [Página almacenamiento del centro de administración de OneDrive](https://admin.onedrive.com/?v=StorageSettings).</span><span class="sxs-lookup"><span data-stu-id="4a5eb-103">Go to the [Storage page of the OneDrive admin center](https://admin.onedrive.com/?v=StorageSettings).</span></span>
+1. <span data-ttu-id="1c4bd-103">Vaya a la [Página almacenamiento del centro de administración de OneDrive](https://admin.onedrive.com/?v=StorageSettings).</span><span class="sxs-lookup"><span data-stu-id="1c4bd-103">Go to the [Storage page of the OneDrive admin center](https://admin.onedrive.com/?v=StorageSettings).</span></span>
     
-2. <span data-ttu-id="4a5eb-104">Escriba la cantidad de almacenamiento predeterminado (en GB) en el cuadro **Almacenamiento predeterminado** y haga clic en **Guardar**.</span><span class="sxs-lookup"><span data-stu-id="4a5eb-104">Enter the default storage amount (in GB) in the **Default storage** box, and then click **Save**.</span></span>
+2. <span data-ttu-id="1c4bd-104">Escriba la cantidad de almacenamiento predeterminado (en GB) en el cuadro **Almacenamiento predeterminado** y haga clic en **Guardar**.</span><span class="sxs-lookup"><span data-stu-id="1c4bd-104">Enter the default storage amount (in GB) in the **Default storage** box, and then click **Save**.</span></span>
     
-<span data-ttu-id="4a5eb-105">Esta configuración de espacio de almacenamiento se aplica a todos los usuarios para los que no se han establecido límites de almacenamiento específicos.</span><span class="sxs-lookup"><span data-stu-id="4a5eb-105">This storage space setting applies to all users for whom you haven't set specific storage limits.</span></span> <span data-ttu-id="4a5eb-106">Para cambiar el espacio de almacenamiento para determinados usuarios, debe usar PowerShell de Microsoft.</span><span class="sxs-lookup"><span data-stu-id="4a5eb-106">To change the storage space for specific users, you need to use Microsoft PowerShell.</span></span> <span data-ttu-id="4a5eb-107">Para obtener información sobre cómo hacerlo, vea [cambiar el espacio de almacenamiento de OneDrive de los usuarios con PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).</span><span class="sxs-lookup"><span data-stu-id="4a5eb-107">For info on how to do this, see [Change users' OneDrive storage space using PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).</span></span>
+<span data-ttu-id="1c4bd-105">Esta configuración de espacio de almacenamiento se aplica a todos los usuarios para los que no se han establecido límites de almacenamiento específicos.</span><span class="sxs-lookup"><span data-stu-id="1c4bd-105">This storage space setting applies to all users for whom you haven't set specific storage limits.</span></span> <span data-ttu-id="1c4bd-106">Para cambiar el espacio de almacenamiento para determinados usuarios, debe usar PowerShell de Microsoft.</span><span class="sxs-lookup"><span data-stu-id="1c4bd-106">To change the storage space for specific users, you need to use Microsoft PowerShell.</span></span> <span data-ttu-id="1c4bd-107">Para obtener información sobre cómo hacerlo, vea [cambiar el espacio de almacenamiento de OneDrive de los usuarios con PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).</span><span class="sxs-lookup"><span data-stu-id="1c4bd-107">For info on how to do this, see [Change users' OneDrive storage space using PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).</span></span>
   
 
