@@ -12,10 +12,10 @@ ms.custom:
 - "2662"
 - "9000660"
 ms.openlocfilehash: c6d5c0233acb8fb71127dcb54c719b71aa1a5bcb
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37769824"
 ---
 # <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>Desinstalar o excluir equipos de instalaciones de Office nuevas o existentes

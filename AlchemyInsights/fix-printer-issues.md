@@ -12,10 +12,10 @@ ms.custom:
 - "9001214"
 - "3186"
 ms.openlocfilehash: 3da19ce8f44cdc08aed708e9bf238350764843f4
-ms.sourcegitcommit: 3f50cd10aac418ef38a1782312b24588b49cefd9
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/05/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37976070"
 ---
 # <a name="troubleshoot-your-printer"></a>Solucionar problemas de la impresora

@@ -10,10 +10,10 @@ ms.custom:
 - "1467"
 - "6200018"
 ms.openlocfilehash: 66911e4f87d54f635b397d02fefdcaadb68d0ecc
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37769392"
 ---
 # <a name="business-rule-not-firing-for-a-form"></a>No se ha desencadenado la regla de negocio para un formulario

@@ -12,10 +12,10 @@ ms.custom:
 - "9000653"
 - "2505"
 ms.openlocfilehash: 15e4c6a5b531ca90b0a44e696aa158bd480c072f
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768996"
 ---
 # <a name="hybrid-and-federated-searches"></a>Búsquedas híbridas y federadas 

@@ -11,10 +11,10 @@ ms.custom:
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
 ms.openlocfilehash: b62d53d1698f0afd3d89139f2cc2711a8a9b8ba6
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37769068"
 ---
 # <a name="how-to-give-access-to-external-users-in-yammer"></a>Cómo dar acceso a usuarios externos en Yammer

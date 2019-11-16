@@ -14,10 +14,10 @@ ms.custom:
 - "8000041"
 ms.assetid: 089589c9-6d5e-4073-8ec9-e297ee2397f4
 ms.openlocfilehash: a537e7e2b6d78948660ad3a98e02d73bfd73a449
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37769716"
 ---
 # <a name="change-the-look-of-your-outlook-mailbox"></a>Cambiar la apariencia del buzón de Outlook

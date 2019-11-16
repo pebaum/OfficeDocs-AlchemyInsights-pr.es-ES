@@ -11,10 +11,10 @@ ms.custom:
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
 ms.openlocfilehash: bbb8741fcb394d0951a1fb40400a7534737d3a7a
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37769680"
 ---
 # <a name="changing-message-or-attachment-size"></a>Cambiar el tamaño de mensajes o datos adjuntos

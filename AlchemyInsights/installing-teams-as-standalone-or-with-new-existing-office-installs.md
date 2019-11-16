@@ -12,10 +12,10 @@ ms.custom:
 - "2663"
 - "9000660"
 ms.openlocfilehash: 39efd34a8eb163758bcb2ac9a3d45c3fac9b67d2
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768890"
 ---
 # <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Instalación de Teams como independiente o con instalaciones de Office nuevas o existentes

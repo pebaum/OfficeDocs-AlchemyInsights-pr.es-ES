@@ -7,10 +7,10 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: d05755133bd3e335bea74c69f599b66e1c6017da
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37769284"
 ---
 # <a name="error-404-file-not-found-in-sharepoint-or-onedrive"></a>Error 404: no se encuentra el archivo en SharePoint o OneDrive
