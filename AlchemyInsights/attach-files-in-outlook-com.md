@@ -12,10 +12,10 @@ ms.custom:
 - "8000052"
 ms.assetid: f6d43c80-cfca-4898-9567-746177cfadc4
 ms.openlocfilehash: 07f80551d99f26002dd5559b4b76acfea8e7bf5a
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768349"
 ---
 # <a name="how-to-attach-files-in-outlook"></a>Cómo adjuntar archivos en OUtlook 

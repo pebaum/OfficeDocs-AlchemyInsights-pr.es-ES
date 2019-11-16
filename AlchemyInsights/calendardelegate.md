@@ -11,10 +11,10 @@ ms.collection: Adm_O365
 ms.custom: 399
 ms.assetid: 4b6e1dfd-dcdf-4f7c-8249-be2bd2e1f936
 ms.openlocfilehash: b74188d74a6184ecd35b7a83e4b27ee6d38eb07f
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768529"
 ---
 # <a name="configure-mail-and-calendar-delegates"></a>Configurar delegados de correo y calendario

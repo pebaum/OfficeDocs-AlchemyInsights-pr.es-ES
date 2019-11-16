@@ -13,10 +13,10 @@ ms.custom:
 - "1276"
 - "8000079"
 ms.openlocfilehash: e0c2029ce40e4c105c7a4790f15555f9cd3b1fee
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36536524"
 ---
 # <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problemas con la notificación de correo no deseado desde LinkedIn

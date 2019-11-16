@@ -13,10 +13,10 @@ ms.custom:
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
 ms.openlocfilehash: e1f46a71d7c2bce0dc6df43fadade95a95db7b95
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768241"
 ---
 # <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Permitir que los remitentes externos envíen mensajes a grupos de distribución

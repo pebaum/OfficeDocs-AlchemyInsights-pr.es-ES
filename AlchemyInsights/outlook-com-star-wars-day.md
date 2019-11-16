@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000045
 ms.openlocfilehash: a1c0f8bf1ea220e5e8d3efc98451abb0fd352c89
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36512116"
 ---
 # <a name="star-wars-day"></a>Día de las guerras

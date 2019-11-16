@@ -14,10 +14,10 @@ ms.custom:
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
 ms.openlocfilehash: e9f5143edeb71ac69c71ecbbcecde35252994ac1
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768421"
 ---
 # <a name="block-email-forwarding"></a>Bloquear el reenvío de correo electrónico

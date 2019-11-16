@@ -13,10 +13,10 @@ ms.custom:
 - "3"
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
 ms.openlocfilehash: 57f8b5859a5a91b9ce83d7ca8da5330ac73413f9
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37766656"
 ---
 # <a name="add-external-email-addresses-to-a-distribution-group"></a>Agregar direcciones de correo electrónico externas a un grupo de distribución

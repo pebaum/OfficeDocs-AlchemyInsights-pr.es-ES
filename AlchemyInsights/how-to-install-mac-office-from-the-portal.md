@@ -14,10 +14,10 @@ ms.custom:
 - "647"
 - "2000016"
 ms.openlocfilehash: 28b32d18a134b7ae7d2495750768934058cb4408
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36735334"
 ---
 # <a name="how-to-install-mac-office-from-the-portal"></a>Cómo instalar Mac Office desde el portal

@@ -11,10 +11,10 @@ ms.custom:
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
 ms.openlocfilehash: 58da0e0dd4d7d02aba1ecd64a23dc2227596ec7a
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37658346"
 ---
 # <a name="change-domain-name-in-sharepoint-online"></a>Cambiar el nombre de dominio en SharePoint Online

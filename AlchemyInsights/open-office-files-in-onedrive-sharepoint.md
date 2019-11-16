@@ -12,10 +12,10 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
 ms.openlocfilehash: 50a4888a3f8b366101cefeae6b382c728994d8a0
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36753057"
 ---
 # <a name="problems-opening-files-from-sharepoint-or-onedrive"></a>Problemas al abrir archivos desde SharePoint o OneDrive 

@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.custom:
 - "9000289"
 ms.openlocfilehash: d9f199035251c8b4f8041fc8530d1eca2eb3c7e8
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36556625"
 ---
 # <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Cómo tratar un correo de suplantación de identidad (phishing) en Outlook en la web

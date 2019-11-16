@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.assetid: 7ec088d3-8629-435e-a222-8722bc99f9c6
 ms.custom: 410
 ms.openlocfilehash: f76c16275605a5716d4e20b569c10498763a8204
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36518272"
 ---
 # <a name="calendar-sharing-in-office-365"></a>Uso compartido de calendarios en Office 365
