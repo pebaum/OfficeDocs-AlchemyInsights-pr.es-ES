@@ -12,15 +12,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: 4bcf4a433fe5d49a61125dff60586ac717024da1
-ms.sourcegitcommit: 4ecd61b709d3ccb730dc120df9445754d5ae4f77
+ms.openlocfilehash: 33657fd68cdcbc4b9762e641156f9800b7b58f4b
+ms.sourcegitcommit: 4ba462af6cc00ea563f10c3f4a3d50e46962c166
 ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704370"
+ms.locfileid: "38715437"
 ---
 # <a name="become-an-admin"></a>Convertirse en Administrador
 
 Para asumir el rol de administrador de su organización, debe tomar el control del espacio empresarial de Office 365.
   
-Siga las instrucciones de esta guía: [adquisición de administrador](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover#azure-ad-powershell-cmdlets-for-the-forcetakeover-option)
+Siga las instrucciones de esta guía: [adquisición de administrador](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover)

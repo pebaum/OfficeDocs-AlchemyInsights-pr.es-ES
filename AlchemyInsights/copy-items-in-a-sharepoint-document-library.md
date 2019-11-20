@@ -13,12 +13,12 @@ ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: 3b63262a289261bc1e040f745096645e7f2c784c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5f9e1fdc74d4d2264d6daacbb96d03cd1b98bd82
+ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516374"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38711809"
 ---
 # <a name="copy-items-in-a-sharepoint-document-library"></a>Copiar elementos en una biblioteca de documentos de SharePoint
 
@@ -39,3 +39,7 @@ ms.locfileid: "36516374"
 > [!NOTE]
 > Puede copiar hasta 500 MB de archivos y carpetas al mismo tiempo. > cuando se usa **copiar a** con documentos que tienen el historial de versiones, solo se copia la última versión.
   
+Para obtener más información, vea:
+
+ - [Mover o copiar archivos en SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (artículo de soporte técnico de Office)
+ - [Mover archivos de cualquier carpeta en Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (artículo del blog de Microsoft Tech Community)   

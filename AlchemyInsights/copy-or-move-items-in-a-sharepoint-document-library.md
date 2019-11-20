@@ -13,16 +13,16 @@ ms.custom:
 - "454"
 - "5300013"
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: 0db9b6b20cb77c709c24273e089c2e511535e7ab
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e14260d3670eb15f73e92dc5b0c86e0e842974a
+ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516256"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38711773"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Copiar o mover elementos en una biblioteca de documentos de SharePoint
 
-Puede copiar y mover archivos, carpetas y vínculos a diferentes ubicaciones dentro de una biblioteca de documentos. También puede copiar elementos entre sitios. Si ha [configurado la opción versión dirigida](https://go.microsoft.com/fwlink/?linkid=622980), también puede mover elementos entre sitios.
+Puede copiar y mover archivos, carpetas y vínculos a diferentes ubicaciones dentro de una biblioteca de documentos. También puede copiar elementos entre sitios. 
   
 1. En un explorador, vaya a los archivos, carpetas o vínculos que desee mover y, a continuación, haga clic en **copiar a** o en **mover a**.
 
@@ -38,6 +38,12 @@ Puede copiar y mover archivos, carpetas y vínculos a diferentes ubicaciones den
 
 3. Haga clic en **copiar aquí** o **mover aquí**.
 
-> [!NOTE]
-> Puede copiar hasta 500 MB de archivos y carpetas al mismo tiempo. > cuando se copian documentos que tienen el historial de versiones, solo se copia la versión más reciente. Al mover documentos, también se mueve su historial.
+    > [!NOTE]
+    > Puede copiar hasta 500 MB de archivos y carpetas al mismo tiempo. > cuando se copian documentos que tienen el historial de versiones, solo se copia la versión más reciente. Al mover documentos, también se mueve su historial.
   
+ Cuando se mueve un archivo, seguirá apareciendo en el directorio de origen hasta que se mueva completamente al destino y, a continuación, se eliminará. El archivo permanecerá en la papelera de reciclaje de los sitios de origen después de que se complete el movimiento y estará sujeto a la programación normal de reciclaje, a menos que un usuario lo recupere de la papelera de reciclaje.
+
+Para obtener más información, vea:
+
+ - [Mover o copiar archivos en SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (artículo de soporte técnico de Office)
+ - [Mover archivos de cualquier carpeta en Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (artículo del blog de Microsoft Tech Community)  
