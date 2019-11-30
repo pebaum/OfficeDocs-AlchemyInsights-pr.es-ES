@@ -11,16 +11,16 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 7c60869897cacd688f32b2e8f28b9fcd934aa510
-ms.sourcegitcommit: add3ed8156af0a0a8b2659e906dfd60144346124
+ms.openlocfilehash: b35cb349aadf146079331370bb872ab24f4a8fef
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37469117"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39626329"
 ---
 # <a name="microsoft-teams-upgrade"></a>Actualización de Microsoft Teams
 
-Tanto si acaba de empezar a trabajar con Microsoft Teams, como si ya usa Microsoft Teams junto con Skype empresarial, o si está listo para la actualización, queremos asegurarse de que tiene todo lo que necesita para navegar correctamente a Microsoft Teams. Para obtener más información, visite los siguientes vínculos.
+Ya sea que recién esté comenzando con Teams, que ya esté usando Teams junto con Skype Empresarial, o que esté listo para actualizar, queremos asegurarnos de que tenga todo lo que necesita para un exitoso viaje a Teams. Para obtener más información, visite los siguientes vínculos.
 
 [Introducción a la actualización de Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
 
@@ -32,4 +32,4 @@ Tanto si acaba de empezar a trabajar con Microsoft Teams, como si ya usa Microso
 
 [Realizar la actualización de Skype empresarial local a teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Comprobar el estado de Skype empresarial online a teams actualizar con PowerShell](https://docs.microsoft.com/en-us/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Comprobar el estado de Skype empresarial online a teams actualizar con PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

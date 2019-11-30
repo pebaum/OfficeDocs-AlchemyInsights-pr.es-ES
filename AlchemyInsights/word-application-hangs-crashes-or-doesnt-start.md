@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: 94fd306d7eb0de5f7a9eb90b92ae49bd80c50d38
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.openlocfilehash: 6c807dc8b05788baa71b302275523b64a311157a
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37027171"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39628187"
 ---
 # <a name="word-crashes-or-doesnt-respond"></a>Word se bloquea o no responde
 
@@ -31,7 +31,7 @@ Si Word no se inicia, pruebe lo siguiente:
 1.   En un escritorio de Windows, cierre Outlook y presione CTRL + ALT + SUPR para abrir el administrador de tareas. 
 2. En la pestaña **procesos** , si se están ejecutando procesos de Word, selecciónelos y elija **Finalizar tarea**. También le recomendamos que reinicie para borrar todo de la memoria.
 
-    Si Word sigue bloqueándose o se bloquea durante el inicio, consulte [abrir aplicaciones de Office en modo seguro en un PC con Windows](https://support.office.com/en-us/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) para iniciarlo en modo seguro.
+    Si Word sigue bloqueándose o se bloquea durante el inicio, consulte [abrir aplicaciones de Office en modo seguro en un PC con Windows](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) para iniciarlo en modo seguro.
 
 Si sigue teniendo problemas, consulte los artículos siguientes: 
 - [Obtengo un error "dejó de funcionar" al iniciar aplicaciones de Office en mi equipo](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 09cbbc28e3ad826dc3ed69a89e5ab3983c1aea24
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 88e139e9d1179dd1afb14686a4c4e3ee5e211ebc
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37373128"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39626401"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Problemas y soluciones comunes de Microsoft Teams
 
@@ -34,5 +34,5 @@ Estos son algunos recursos adicionales:
 - **Solucionar problemas de un teclado de marcado que falta:**  
     - Asegúrese de que el usuario tiene asignada una licencia de Microsoft [Teams](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
     - Asegúrese de que el usuario tiene asignado un [plan de llamada](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) .
-    - Habilite a los usuarios para la [telefonía IP empresarial](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
+    - Habilite a los usuarios para la [telefonía IP empresarial](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
 - **Problemas conocidos de Teams:** Lea los [problemas conocidos de Microsoft Teams](https://docs.microsoft.com/microsoftteams/known-issues).
