@@ -1,18 +1,18 @@
 ---
 title: Guardar el sitio o la lista como plantilla
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 368ff1fa-82cf-4a07-986e-140b212ffc5c
-ms.openlocfilehash: 1fe0a2f5bf65ef4e8cabf3d05a701c8eff966435
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 627f49991aaef984f731412045351d7a1862b376
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36752049"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048741"
 ---
 # <a name="save-site-or-list-as-a-template"></a>Guardar el sitio o la lista como plantilla
 

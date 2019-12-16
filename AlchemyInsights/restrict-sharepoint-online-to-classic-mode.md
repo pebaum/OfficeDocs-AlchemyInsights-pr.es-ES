@@ -1,7 +1,7 @@
 ---
 title: Restringir SharePoint Online al modo clásico
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 3/27/2018
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +12,12 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: 18d263593d99f24c3020336ae601df14dbbf5411
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: b58a1c3fc331c739080542917d8945c090ec0d94
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36752085"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048777"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>Restringir SharePoint Online al modo clásico
 

@@ -1,7 +1,7 @@
 ---
 title: Control de versiones en SharePoint y OneDrive
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +12,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 606dcbb1523e54d6edeeb59573d1e98dda0ac88e
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 167c0fde2f09d4ba2f2f2b583eea849670fdb8c5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36744370"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40044240"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Control de versiones en SharePoint y OneDrive 
 

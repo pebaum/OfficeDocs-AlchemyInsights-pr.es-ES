@@ -1,19 +1,19 @@
 ---
 title: Infraestructura de publicación con un sitio de comunicación
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
-ms.openlocfilehash: 1d5eca87678ad0588c3dcd7edbf499e13baf09d9
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 0a8c8338d7c0678074cc38a68804f9cef66e1ec6
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36750105"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40044096"
 ---
 # <a name="sharepoint-publishing-infrastructure"></a>Infraestructura de publicación de SharePoint
 

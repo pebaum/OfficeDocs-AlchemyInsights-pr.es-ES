@@ -1,7 +1,7 @@
 ---
 title: Introducción a SharePoint Online
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 74ac6eb23552ccd70de3efabeb2eed7caf249dba
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 6ecd33e81f9918c5b4baac8da264ad79773a20f9
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36750141"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40044220"
 ---
 # <a name="site-and-page-navigation-in-sharepoint-sites"></a>Navegación de sitios y páginas en los sitios de SharePoint
 
-Los principios fundamentales y las prácticas recomendadas para la navegación de sitios y páginas pueden aplicarse a las arquitecturas de SharePoint clásicas y la modernas. Con todo, las opciones de implementación de navegación varían dependiendo del marco de sus sitios e intranet. Por ejemplo, las experiencias de navegación heredadas disponibles en las jerarquías de sitios clásicas de SharePoint (sitios con subsitios) no están disponibles en la experiencia moderna, pero los [sitios de concentradores](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) proporcionan una forma excelente de conseguir las características de navegación entre sitios previamente disponible en navegación administrada y jerarquías de sitios en la versión clásica de SharePoint.
+Los principios fundamentales y las prácticas recomendadas para la navegación de sitios y páginas pueden aplicarse a las arquitecturas de SharePoint clásicas y la modernas. Con todo, las opciones de implementación de navegación varían dependiendo del marco de sus sitios e intranet. Por ejemplo, las experiencias de navegación heredadas disponibles en las jerarquías de sitios clásicas de SharePoint (sitios con subsitios) no están disponibles en la experiencia moderna, pero los [sitios de concentradores](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) proporcionan una forma excelente de obtener las características de navegación entre sitios disponibles anteriormente en la navegación administrada y las jerarquías de sitios en SharePoint clásico.
 
  Para obtener más información sobre las opciones de navegación, visite los siguientes vínculos.
 

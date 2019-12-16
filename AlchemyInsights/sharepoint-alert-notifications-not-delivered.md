@@ -1,7 +1,7 @@
 ---
 title: Notificaciones de alerta de SharePoint no entregadas
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: d01d985f34d782fe14b3e2e6e6696c0101002db1
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 978ca8df40736228932ae6f6a7c33ad0b159d4e5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36744658"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40047084"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>Notificaciones de alerta de SharePoint no entregadas
 
