@@ -1,7 +1,7 @@
 ---
 title: Sitio moderno como sitio raíz
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,12 +10,12 @@ ms.collection: Adm_O365
 ms.assetid:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 6f55f1c63551027cc5522d296cb3f3f342356d95
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 3c48cb2dc172ac55e4517e1f84282396ca845c5a
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36576703"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051478"
 ---
 # <a name="modernize-your-classic-sharepoint-site"></a>Modernizar el sitio clásico de SharePoint
 

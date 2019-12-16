@@ -1,7 +1,7 @@
 ---
 title: Almacenamiento de SharePoint
-ms.author: kaarins
-author: kaarins
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 8a1892e5eb6fa11b69cca63a3d8465583ddb185c
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 37cdc6943b28dc6823044957691767351d4ac246
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37658274"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051046"
 ---
 # <a name="manage-your-sharepoint-online-storage"></a>Administrar el almacenamiento de SharePoint Online
 

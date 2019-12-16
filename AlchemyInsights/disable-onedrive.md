@@ -1,7 +1,7 @@
 ---
 title: Deshabilitar OneDrive
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 9ca8190cd90bc199e6f18734bb6607e47b877edd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 712004b2dfb36396707e0a39419e566fbfc6a751
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512908"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052954"
 ---
 # <a name="disable-onedrive"></a>Deshabilitar OneDrive
 

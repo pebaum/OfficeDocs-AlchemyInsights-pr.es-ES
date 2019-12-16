@@ -1,7 +1,7 @@
 ---
 title: S/MIME en Outlook en la web
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -9,12 +9,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 6915470655b85922f6f97e8ca6fac353224b1ae0
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 33e94eac6a2982b8036e13d17bf60015f244f2cb
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36752877"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053242"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>Cifrar mensajes de correo electrónico en Outlook
 

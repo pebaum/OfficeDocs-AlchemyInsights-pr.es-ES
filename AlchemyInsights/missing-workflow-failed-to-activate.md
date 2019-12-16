@@ -1,19 +1,19 @@
 ---
 title: No se pudo activar el flujo de trabajo ausente
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 12/3/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
-ms.openlocfilehash: f03d7e1441465050c4b0608f4100f217b183d2e2
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 3df1ddc1059c4cd6cc3f9f42dc157d20be79a63a
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36753813"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052630"
 ---
 # <a name="missing-workflow-failed-to-activate"></a>No se pudo activar el flujo de trabajo ausente
 

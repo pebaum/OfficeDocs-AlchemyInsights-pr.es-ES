@@ -1,9 +1,8 @@
 ---
 title: Se superó el límite diario de correo electrónico. El flujo de trabajo está suspendido.
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
-ms.date: 7/25/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: e3fbcd5bfc279847cfb39140c3689f5433b61509
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3cad5d8305da0a5db9a85888793350a062e6aed6
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514489"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053134"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Se superó el límite diario de correo electrónico. El flujo de trabajo está suspendido.
 

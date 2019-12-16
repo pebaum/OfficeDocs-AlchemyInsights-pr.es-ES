@@ -1,7 +1,7 @@
 ---
 title: Agregar un grupo a un sitio de SharePoint
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 423db4e5bbb85e75aee3548d5b6b46a64ebc6fa0
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 14ad9dd094902c85eaf0398c76003cea20ad4c0a
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36750537"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051118"
 ---
 # <a name="issues-when-creating-or-group-connected-sites-in-sharepoint-online"></a>Problemas al crear o agrupar sitios conectados en SharePoint Online
 

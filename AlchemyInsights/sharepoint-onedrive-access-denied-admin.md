@@ -1,19 +1,19 @@
 ---
 title: Solucionar problemas de mensajes de acceso denegado
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 6/29/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 4e6fdc6fbf745d1702bf1a7b3474ac82f6662305
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 57919e6dbd81a5bf3b17fb067485e8eec23b7d4c
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36751293"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051442"
 ---
 # <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Solucionar problemas de mensajes de acceso denegado en el centro de administración de SharePoint/OneDrive
 

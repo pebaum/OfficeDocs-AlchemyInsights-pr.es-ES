@@ -1,7 +1,7 @@
 ---
 title: Problemas y soluciones comunes de SharePoint Online
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 32657303d7f2176eb6840269daffe5825d24478c
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 03b450640ba5ca62bf05e7365d1759ed478648f8
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36744082"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051550"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>Problemas y soluciones comunes de SharePoint Online
 

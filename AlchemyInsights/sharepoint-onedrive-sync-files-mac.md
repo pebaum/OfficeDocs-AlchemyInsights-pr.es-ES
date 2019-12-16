@@ -1,19 +1,19 @@
 ---
 title: Instalar, configurar y sincronizar archivos de OneDrive o de SharePoint en Mac
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.date: 6/10/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 89b29dd9-edfe-49a4-84eb-5dc270d64526
-ms.openlocfilehash: 7a845bbf2fd6f3d3572a1284654c9f593dd3ec1e
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 993e537437c7da1498ef67f92e3ed5cd4b95c343
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36743794"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051190"
 ---
 # <a name="install-setup-and-sync-onedrive-or-sharepoint-files-on-mac"></a>Instalar, configurar y sincronizar archivos de OneDrive o de SharePoint en Mac 
 

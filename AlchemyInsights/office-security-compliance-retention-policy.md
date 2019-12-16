@@ -1,7 +1,7 @@
 ---
 title: Más información sobre las directivas de retención
-ms.author: stephow
-author: stephow-msft
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: 08/14/2019
 ms.audience: admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 4885407578e959bddcdd8374d482d2f6d7a461fe
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36753777"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053422"
 ---
 # <a name="more-info-about-retention-policies"></a>Más información sobre las directivas de retención
 

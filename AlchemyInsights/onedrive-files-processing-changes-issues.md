@@ -1,18 +1,18 @@
 ---
 title: 'OneDrive: faltan archivos o carpetas'
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: 5c38d323bd021ded8eccb3f12a46c9d04a3bcd13
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2011d8d3435b57818e77f7f710cf0de5b38de09c
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36753345"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052558"
 ---
 # <a name="onedrive-troubleshoot-processing-changes"></a>OneDrive: solucionar problemas "procesando cambios"
 

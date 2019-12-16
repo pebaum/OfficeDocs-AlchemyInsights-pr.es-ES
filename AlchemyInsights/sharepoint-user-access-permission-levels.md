@@ -1,19 +1,19 @@
 ---
 title: Permisos de usuario
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 5/21/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: ca104d8b5ed2a472faae565a04d1926504b1a95f
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: c176d7c838109e7f6a75043716e9f45079909b50
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36749817"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051010"
 ---
 # <a name="user-permissions-in-sharepoint"></a>Permisos de usuario en SharePoint
 

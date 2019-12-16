@@ -1,18 +1,18 @@
 ---
 title: Estructura de sitios y contenido eliminada
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 55060d5c-fb1c-4812-bc66-181a7aa2cdea
-ms.openlocfilehash: c4301fd892e82f2d41c69f0e65b319b92f676be2
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: cbdb461220acd38a0b7c1ec45fb76da67068010a
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36749493"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053602"
 ---
 # <a name="site-and-content-structure-removed"></a>Estructura de sitios y contenido eliminada
 

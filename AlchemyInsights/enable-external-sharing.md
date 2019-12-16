@@ -1,19 +1,19 @@
 ---
 title: Habilitar el uso compartido externo
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 53eadea43e4ac9365bd7f434b1db254ccf224e4b
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 5d8de2b0f29409b585451b160e421ad7eaac4cef
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36756045"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052738"
 ---
 # <a name="enable-external-sharing"></a>Habilitar el uso compartido externo
 

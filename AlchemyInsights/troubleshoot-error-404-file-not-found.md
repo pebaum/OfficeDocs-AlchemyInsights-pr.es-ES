@@ -1,18 +1,18 @@
 ---
 title: Solucionar el error 404, no se encontró el archivo
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: 45e7269d474d51569a216e94c0175f0b1c72b220
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 6c23d7c482e3beb900d6e0e2ba596c1ab1db8d7e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36749025"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050686"
 ---
 # <a name="troubleshoot-error-404-file-not-found"></a>Solucionar el error 404, no se encontró el archivo
 

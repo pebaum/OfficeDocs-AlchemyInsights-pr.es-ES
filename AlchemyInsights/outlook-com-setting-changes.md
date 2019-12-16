@@ -1,7 +1,7 @@
 ---
 title: Configuración de Outlook.com
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 3/21/2019
 ms.audience: Admin
@@ -9,16 +9,16 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d1b6eb0846796a484cd60335737a3ecc373266dd
-ms.sourcegitcommit: 582c8868e948e39db1e8d0bd8986f8087c4a1319
+ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37386382"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053278"
 ---
 # <a name="settings-in-outlookcom"></a>Configuración de Outlook.com
 
-Si el destinatario es interno o externo a su organización y si usa una cuenta de correo electrónico de Office 365 o Outlook.com, los clientes siguientes no deben tener que hacer nada especial para abrir el mensaje: **outlook 2016, Outlook en la web/Outlook Web App, Aplicación móvil de Outlook**
+Si el destinatario es interno o externo a su organización y si usa una cuenta de correo electrónico de Office 365 o Outlook.com, los clientes siguientes no deben tener que hacer nada especial para abrir el mensaje: **outlook 2016, Outlook en la web/Outlook Web App, Outlook Mobile App**
 
 **Delegados** de usuarios a los que se envió el correo electrónico protegido, no se pueden abrir mensajes protegidos. Solo los destinatarios originales (persona a la que se envió el correo electrónico protegido) pueden ver la información en el correo electrónico.
 

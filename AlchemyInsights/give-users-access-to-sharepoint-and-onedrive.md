@@ -1,7 +1,7 @@
 ---
 title: Dar acceso a los usuarios a SharePoint y OneDrive
-ms.author: kaarins
-author: kaarins
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 11/14/2018
 ms.audience: Admin
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 1be9763ce7766c6261f0c1dae78ced6727c7a88d
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: eead51d6d16206de19bca213d6df72dbb6b66c8b
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36523780"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051946"
 ---
 # <a name="give-users-access-to-sharepoint-and-onedrive"></a>Dar acceso a los usuarios a SharePoint y OneDrive
 

@@ -1,7 +1,7 @@
 ---
 title: Eliminar sitio de grupo
-ms.author: kaarins
-author: kaarins
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 1/24/2019
 ms.audience: Admin
@@ -14,12 +14,12 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: d1677fe1734386e38992811ec994c62286510eaa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d8f49cb780156de2e26d7fa19b79b567d94b8281
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513736"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053062"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Eliminar un sitio de SharePoint que pertenece a un grupo de Office 365
 

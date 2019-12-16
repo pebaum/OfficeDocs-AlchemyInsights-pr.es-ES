@@ -1,7 +1,7 @@
 ---
 title: Dar acceso a los usuarios a SharePoint y OneDrive
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 695a179f60f73b21b2491256b8491c6c94d4bd1e
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 1447212596f3b89b5c0223f52acb1105c45561ec
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36749745"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053674"
 ---
 # <a name="sharing-and-permission-methods-to-provide-or-restrict-user-access-to-sharepoint-site"></a>Métodos de uso compartido y permiso para proporcionar o restringir el acceso de los usuarios al sitio de SharePoint
 

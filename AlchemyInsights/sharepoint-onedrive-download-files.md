@@ -1,7 +1,7 @@
 ---
 title: Descargar o impedir la descarga de archivos desde OneDrive o SharePoint
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.date: 8/07/2019
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
 ms.custom:
 - "9000213"
 - "1788"
-ms.openlocfilehash: 409845a2e62aaeb6027a4c9120f5fc84d9c9722a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3a71734876cd3563ff4284b8389db53cdef24c56
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503328"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051370"
 ---
 # <a name="download-or-prevent-download-of-files-from-onedrive-or-sharepoint"></a>Descargar o impedir la descarga de archivos desde OneDrive o SharePoint
 

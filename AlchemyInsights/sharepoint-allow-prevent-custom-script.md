@@ -1,7 +1,7 @@
 ---
 title: Permitir scripts personalizados para habilitar características
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: cc39fd3e840ac17af2aea242551015074eb985cd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4fe0384a97e2f40c8d0dd12bafd84d19edaeb386
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548912"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051802"
 ---
 # <a name="allow-custom-script-to-enable-features"></a>Permitir scripts personalizados para habilitar características
 

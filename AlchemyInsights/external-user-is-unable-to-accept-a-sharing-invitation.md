@@ -1,7 +1,7 @@
 ---
 title: El usuario externo no puede aceptar una invitación para uso compartido
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: ebbd33fdff837c02b5f9220b3e895679041330bd
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 21f9ead80336e638a064d16ca14c3ec5c73046c3
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769140"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052090"
 ---
 # <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>El usuario externo no puede aceptar una invitación para uso compartido
 

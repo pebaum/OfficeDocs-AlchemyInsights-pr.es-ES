@@ -1,7 +1,7 @@
 ---
 title: Acceso denegado a un sitio de Project Web App
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 manager: pamg
 ms.audience: Admin
 ms.topic: article
@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "1381"
-ms.openlocfilehash: be8ba63cc5c7a2042d997598c6ed5d792862c58f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: ea2069f73db1e7ff52ca7fa0be46b002e9b2702a
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661241"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050578"
 ---
 # <a name="give-users-permissions-in-project-online"></a>Conceder permisos a los usuarios en Project online
 

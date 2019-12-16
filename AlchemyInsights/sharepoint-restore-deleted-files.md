@@ -1,7 +1,7 @@
 ---
 title: Restaurar un archivo o carpeta eliminados
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: 1d9937c632212d12883a02860354b6112efd49a6
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 2702837bff2c0a465dde2c090a44e02747cc85ec
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36749925"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051082"
 ---
 # <a name="restore-a-deleted-file-or-folder"></a>Restaurar un archivo o carpeta eliminados
 

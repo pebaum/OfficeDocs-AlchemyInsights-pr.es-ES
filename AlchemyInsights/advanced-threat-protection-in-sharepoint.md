@@ -1,7 +1,7 @@
 ---
 title: Protección contra amenazas avanzada en SharePoint y OneDrive
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +12,12 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: 74ab1bc37c43bdb48ff44f3073c3df4adf8c4f3d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f4043e9716ebdf5236df7ec0ead32d1a738fbc23
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36493896"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050434"
 ---
 # <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>Protección contra amenazas avanzada (ATP) en SharePoint y OneDrive
 

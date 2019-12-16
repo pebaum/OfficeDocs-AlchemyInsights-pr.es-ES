@@ -1,19 +1,19 @@
 ---
 title: Error de corrección 0x8004de40 en OneDrive
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 6/20/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: aa0e0a63ac1e365a7cdce018626740446040a664
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 48b29f57763ca22a71a23b2afddcac0e8e8a95db
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36755865"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052054"
 ---
 # <a name="fix-0x8004de40-error-in-onedrive"></a>Error de corrección 0x8004de40 en OneDrive
 
