@@ -1,7 +1,7 @@
 ---
 title: Crear y usar un buzón compartido
-ms.author: dianef
-author: dianef77
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -9,13 +9,14 @@ localization_priority: Normal
 ms.assetid: ac4188c0-a4f3-4852-9ed4-075ea684423c
 ms.common:
 - "358"
+- "624"
 - "3500003"
-ms.openlocfilehash: 5d704041fdf9245036bd20e13bad187f9aea9401
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: ca48d2b4b3d19c5907ebf5a4525c670fe3608e2c
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736702"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049822"
 ---
 # <a name="create-and-use-a-shared-mailbox"></a>Crear y usar un buzón compartido
 

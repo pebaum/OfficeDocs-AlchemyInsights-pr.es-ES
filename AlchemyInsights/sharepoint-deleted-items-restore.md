@@ -1,7 +1,7 @@
 ---
 title: Restaurar un archivo o carpeta eliminados
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: d68581fed677d2578e92b667e1fd29ee27c53336
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 61016010133bf07fa321be1a5bdef1674bcc2550
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36744586"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054142"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>Restaurar elementos eliminados de SharePoint
 

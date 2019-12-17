@@ -1,7 +1,7 @@
 ---
 title: Errores de uso compartido de OSE en SharePoint y OneDrive
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: e2a2dbf3ee4317e4ef6bea5c57f4a1473e9343c3
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 4322c8a106f453592e4c9660e9291704d2d8fc9a
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36752985"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049030"
 ---
 # <a name="ose-sharing-errors"></a>Errores de uso compartido de OSE
 

@@ -1,7 +1,7 @@
 ---
 title: No se pueden eliminar elementos en SharePoint o OneDrive
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: 3cc168846999c6880b95edfaedb2df8cf6e843a6
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: cc19fcb6603160032dac52b1ec9e194a90b7891f
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36748593"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049534"
 ---
 # <a name="unable-to-delete-items"></a>No se pueden eliminar los elementos
 

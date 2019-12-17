@@ -1,7 +1,7 @@
 ---
 title: Instalación de Project Professional
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000695"
 - "2607"
-ms.openlocfilehash: 9aa41ee8302413fb5c24eca3e7caaf1336fb65ad
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 845c692c78c852aed8cfff56c5edf65d957d4409
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36739150"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049642"
 ---
 # <a name="install-project-professional"></a>Instalación de Project Professional
 

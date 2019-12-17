@@ -1,19 +1,19 @@
 ---
 title: Mensaje de error al compartir archivos
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 9/18/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: 6ce62675193c835ec0ec394d8ccceac2261354bb
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: dcea4e9de2830d4c3ddf2db84911e0f313012c9f
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36755973"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052198"
 ---
 # <a name="error-messages-when-sharing"></a>Mensajes de error al compartir
 

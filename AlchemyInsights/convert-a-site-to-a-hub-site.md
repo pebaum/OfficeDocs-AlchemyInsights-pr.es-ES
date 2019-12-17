@@ -1,7 +1,7 @@
 ---
 title: Convertir un sitio en un sitio concentrador
-ms.author: kaarins
-author: kaarins
+ms.author: pebaum
+author: pebaum
 ms.date: 12/28/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,12 +11,12 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: 5d2f0ded6e32c62f880dce6314b5869231d6955d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d5b8bb4d7a492db44888bb99bb21c59985295e13
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516760"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049966"
 ---
 # <a name="create-a-sharepoint-hub-site"></a>Crear un sitio concentrador de SharePoint
 
@@ -29,5 +29,5 @@ ms.locfileid: "36516760"
     > [!NOTE]
     >  Le recomendamos que seleccione un sitio de comunicación o un sitio de grupo que use la nueva plantilla. Si usa un sitio de grupo clásico, la navegación de concentrador solo aparecerá en páginas modernas y la configuración de sitio de concentrador solo aparecerá en páginas modernas. Los sitios que ya están asociados a otro concentrador no se pueden registrar como un sitio concentrador.
   
-[Más información acerca de los sitios concentradores](https://go.microsoft.com/fwlink/?linkid=869149)
+[Más información sobre los sitios de concentrador](https://go.microsoft.com/fwlink/?linkid=869149)
   

@@ -1,7 +1,7 @@
 ---
 title: Administrar diccionarios de búsqueda en SharePoint Online
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 11/27/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,12 +11,12 @@ ms.custom:
 - "1244"
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: d375ed80ba4c58b32a830f140a8f18ba50008bd6
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 322ba8ede9e12bc2f24411deed89d3f8d65b2407
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36754425"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049246"
 ---
 # <a name="manage-search-dictionaries"></a>Administrar diccionarios de búsqueda
 

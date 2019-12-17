@@ -1,18 +1,18 @@
 ---
 title: Etiquetas de clasificación en Office 365
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6bfa1924-ec45-42b7-b1e3-10093e4e446f
-ms.openlocfilehash: 878be4bb0d2f7797340345248d06dff412a72a59
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 9cd9f2c76a7bd986b1962dcaa241d03ada0f8fea
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36755073"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050110"
 ---
 # <a name="classification-labels-in-office-365"></a>Etiquetas de clasificación en Office 365
 

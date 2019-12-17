@@ -1,7 +1,7 @@
 ---
 title: Almacenamiento de OneDrive
-ms.author: kaarins
-author: kaarins
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: 55aff5bebdce35c9fad3db2d56696e1b5527c1d5
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 625040199ad94749870efd3654af1525dd9c3bca
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37658310"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049066"
 ---
 # <a name="manage-your-onedrive-storage"></a>Administrar el almacenamiento de OneDrive
 

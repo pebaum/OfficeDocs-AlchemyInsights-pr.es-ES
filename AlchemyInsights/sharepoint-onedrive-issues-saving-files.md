@@ -1,7 +1,7 @@
 ---
 title: Cargar archivos o una carpeta en una biblioteca de documentos
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
-ms.openlocfilehash: e8f4bbcfc0b820af5ba54dd643c0e4451964f414
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 437bd2ff2c85a3753c31eb48d844c8b70532138a
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36750897"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053890"
 ---
 # <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-libraries"></a>No se pueden guardar documentos de Office en bibliotecas de documentos de SharePoint o OneDrive
 

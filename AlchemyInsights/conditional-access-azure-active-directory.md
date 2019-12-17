@@ -1,18 +1,18 @@
 ---
 title: Acceso condicional con Intune
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: b0f2a7bd2d28a05ea192747c5b8c95bc16d7b8fb
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b5c5e86a2239a31a6edaa5d6a90273a3f593777d
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36755577"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050074"
 ---
 # <a name="conditional-access"></a>Acceso condicional
 

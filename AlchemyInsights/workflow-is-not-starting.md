@@ -1,7 +1,7 @@
 ---
 title: El flujo de trabajo no se inicia
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.date: 8/2/2019
 ms.audience: Admin
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: 2d85dcf9111d48cb529c583c733823b404eb3188
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: cf7bd95e9a8f1d0842f0abcf82c758d649e80c0f
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36738106"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049354"
 ---
 # <a name="workflow-is-not-starting"></a>El flujo de trabajo no se inicia
 

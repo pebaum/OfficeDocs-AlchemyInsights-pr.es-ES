@@ -1,7 +1,7 @@
 ---
 title: Crear un sitio en SharePoint Online
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 42430c8dadc17b87dc7741f3fa045ba7c25fab84
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 458990889d3c074820527982cbfa6e2d198d3e66
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36755325"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052486"
 ---
 # <a name="create-sharepoint-sites-using-templates"></a>Crear sitios de SharePoint con plantillas
 

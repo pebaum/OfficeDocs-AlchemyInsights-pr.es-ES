@@ -1,7 +1,7 @@
 ---
 title: Cambiar el nombre de un sitio
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,12 +10,12 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: 453b19d9a35e074a9b0e8aaae5a4256110d4a1f9
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: cc0a4bcdd0290b7c4d4d26531e8043a7feaf0f50
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37658382"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048885"
 ---
 # <a name="rename-a-sharepoint-site"></a>Cambiar el nombre de un sitio de SharePoint
 

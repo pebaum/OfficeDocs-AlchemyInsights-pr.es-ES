@@ -1,7 +1,7 @@
 ---
 title: Sitio moderno como sitio raíz
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ms.date: 8/7/2019
@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: a3cf44d52a3948634fc0eed64c852ff17515fd9b
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 2e2bb02b9dbaf7f8ede0b4c5ba8c8f29453309cb
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36753921"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054719"
 ---
 # <a name="modern-site-as-root-site"></a>Sitio moderno como sitio raíz
 

@@ -1,18 +1,18 @@
 ---
 title: Limitación de SharePoint Online
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: cbe6799e5b7f415e560449485ce09518c6ac2999
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 24040647173206f43ea1eb78b9aaf1102e7cb575
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36749961"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053710"
 ---
 # <a name="sharepoint-online-throttling"></a>Limitación de SharePoint Online
 

@@ -1,7 +1,7 @@
 ---
 title: Abrir una biblioteca de SharePoint en el explorador de archivos
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: daab3f4d61002a83755240fa0ea71e0bcd5030ad
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 4e696f2e82172df02de03b2de894567de61f1476
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36751185"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053998"
 ---
 # <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-library"></a>No se pueden guardar documentos de Office en una biblioteca de documentos de SharePoint o OneDrive
 

@@ -1,7 +1,7 @@
 ---
 title: Administrar el almacenamiento de SharePoint o OneDrive
-ms.author: kaarins
-author: kaarins
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 5/18/2018
 ms.audience: Admin
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: 4427626108df36a8b8b4f5535a8236bc4de59832
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 111ab6b7833751a97341f8e2b365e74db7e749f4
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36497100"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049210"
 ---
 # <a name="manage-your-sharepoint-or-onedrive-storage"></a>Administrar el almacenamiento de SharePoint o OneDrive
 

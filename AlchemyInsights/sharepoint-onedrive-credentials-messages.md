@@ -1,7 +1,7 @@
 ---
 title: Abrir una biblioteca de SharePoint en el explorador de archivos
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: d33e0ad6903d960320578d3e3b2b5224d07a9574
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: b3bcff33fd0fa59b4f660af12cdd2a5c82409d1e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36751041"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053962"
 ---
 # <a name="credential-messages-in-sharepoint-or-onedrive"></a>Mensajes de credenciales en SharePoint o OneDrive
 

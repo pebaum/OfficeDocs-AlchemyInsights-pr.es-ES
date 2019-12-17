@@ -1,7 +1,7 @@
 ---
 title: "\"Solución de problemas de archivos o carpetas que faltan"
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: c5f9d50cc95b1dfeddad1cf6f9d141a7c0d876ad
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 0987be6bed4bdc98d6f0162d333c2797fda6b559
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36750753"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053854"
 ---
 # <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>Solución de problemas de archivos o carpetas que faltan en OneDrive o SharePoint
 

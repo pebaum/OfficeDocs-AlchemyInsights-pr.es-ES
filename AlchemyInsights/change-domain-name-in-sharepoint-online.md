@@ -1,7 +1,7 @@
 ---
 title: Cambiar el nombre de dominio en SharePoint Online
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,12 +10,12 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: 58da0e0dd4d7d02aba1ecd64a23dc2227596ec7a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7eb6e1463b95e01554722dd4790ab334371c86d9
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37658346"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050254"
 ---
 # <a name="change-domain-name-in-sharepoint-online"></a>Cambiar el nombre de dominio en SharePoint Online
 

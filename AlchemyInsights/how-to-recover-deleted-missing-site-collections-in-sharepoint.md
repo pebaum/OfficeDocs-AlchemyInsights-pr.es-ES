@@ -1,7 +1,7 @@
 ---
 title: Restauración de un sitio eliminado
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: c452169a260dd8b6f2aea32729c4228e54c18e77
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8787dbcbb802ea55498bc8a737e69bb54b6d8ff6
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769032"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049714"
 ---
 # <a name="recover-missing-or-deleted-site-collections"></a>Recuperar colecciones de sitios que faltan o que se han eliminado
 
