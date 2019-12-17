@@ -1,19 +1,19 @@
 ---
 title: Problemas de permisos durante la migración
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 9/18/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 33e605ff3019f52bbd0be876d485ff389b260a44
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 95bfbfdf002e457230479a860058c1cf7ab1f8c2
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36752639"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054431"
 ---
 # <a name="user-profile-and-photo-synchronization"></a>Perfil de usuario y sincronización de fotos
 

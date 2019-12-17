@@ -1,7 +1,7 @@
 ---
 title: Cómo usar el almacén de términos de SharePoint Online
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 12/17/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,12 +11,12 @@ ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: 2b785f475c7f673acff3dd419883b136d7feb92e
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c11c9cd8d0777d2e5dbdad61fdb0b8e4a25e53ca
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36754857"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049678"
 ---
 # <a name="how-to-use-the-sharepoint-online-term-store"></a>Cómo usar el almacén de términos de SharePoint Online
 

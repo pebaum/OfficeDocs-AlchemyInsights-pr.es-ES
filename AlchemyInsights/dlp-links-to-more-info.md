@@ -1,7 +1,7 @@
 ---
 title: Más información sobre los problemas de DLP
-ms.author: stephow
-author: stephow-MSFT
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.audience: admin
 ms.topic: article
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: 0717b99f500fd9173167d2e3fcaff1b920d22d74
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 358e7d23a84a6cdc45cbaff384c66af1de786b26
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665235"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052306"
 ---
 # <a name="information-about-dlp-issues"></a>Información sobre problemas de DLP
 
@@ -24,7 +24,7 @@ Con una directiva DLP, puede identificar, supervisar y proteger automáticamente
 
 Para obtener más información, visite estos vínculos:
 
-- [Información general sobre prevención de pérdida de datos](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
+- [Información general sobre la prevención de pérdida de datos](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
 - [Información que buscan los tipos de información confidencial](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
 - [Crear un tipo de información confidencial personalizado](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)
 - [Enviar notificaciones de correo electrónico y Mostrar sugerencias de directivas](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)

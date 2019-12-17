@@ -1,7 +1,7 @@
 ---
 title: El usuario externo no puede obtener acceso al contenido
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: d271206230148f2a6b95fb4e12682feefc02274f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: f64a1fb03d951fea5de86a8dd91669f3aa0f7067
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769212"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049750"
 ---
 # <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a>El usuario externo no puede acceder al contenido de SharePoint o OneDrive
 
