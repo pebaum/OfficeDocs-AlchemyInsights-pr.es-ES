@@ -11,26 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 5ee77e57b3bc64d7a04256ab67b691e5205eac56
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 311af365a94b788182bb6870bca3f67b2ad802d0
+ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626365"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889099"
 ---
-# <a name="control-lobby-settings-and-level-of-participation"></a>Controlar la configuración de la sala de espera y el nivel de participación
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Controlar la configuración de la sala de espera y el nivel de participación en Microsoft Teams
 
-Si quiere permitir que todos los usuarios, incluidos los usuarios de acceso telefónico, externos y anónimos, omitan la sala de espera en Microsoft Teams, puede usar PowerShell para hacerlo. Este es un ejemplo de cómo modificar la Directiva de reunión global de su organización:
+Si quiere permitir que todos los usuarios, incluidos los usuarios de acceso telefónico, externo y anónimo, **omitan la sala**de espera, use PowerShell para realizar esta tarea. Este es un ejemplo de cómo modificar la Directiva de reunión global de su organización.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Actualmente, este cmdlet requiere el uso del módulo de PowerShell de Skype empresarial. Para obtener el programa de instalación para usar este cmdlet, consulte [Managing Policies Via PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+Actualmente, este cmdlet requiere el uso del módulo de PowerShell de Skype empresarial. Para configurar el uso de este cmdlet, consulte Administración de [directivas a través de PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
-Puede configurar una nueva Directiva, que tendrá que aplicarla a los usuarios. Si modifica la directiva global, se aplicará automáticamente a los usuarios. Para cualquier cambio de Directiva, debe esperar al menos 4 horas y hasta 24 horas para que las directivas surtan efecto.
+Una vez configurada una directiva, debe aplicarla a los usuarios; o bien, si modificó la directiva global, se aplicará automáticamente a los usuarios. Para cualquier cambio de Directiva, debe esperar al menos **4 horas hasta 24 horas** para que las directivas surtan efecto. 
 
 Asegúrese de revisar la documentación siguiente antes de realizar estos cambios para comprender exactamente lo que permite.
 
+
 ## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Información sobre los controles de directiva de sala de reuniones de Teams
+
+Esta configuración controla qué participantes de la reunión esperan en la sala de espera antes de que se admitan en la reunión y el nivel de participación que se les permite en una reunión. Puede usar PowerShell para actualizar la configuración de la Directiva de reunión que todavía no se ha implementado (con la etiqueta "próximamente") en el centro de administración de Teams. Vea a continuación un cmdlet de PowerShell de ejemplo que permite a todos los usuarios omitir la sala de espera.
 
 - [Admitir automáticamente personas](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) es una directiva por organizador que controla si las personas se unen a una reunión directamente o esperan en la sala de espera hasta que un usuario autenticado las admita.
 
