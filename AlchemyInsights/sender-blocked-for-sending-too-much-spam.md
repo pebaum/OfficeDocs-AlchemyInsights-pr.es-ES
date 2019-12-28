@@ -12,20 +12,15 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: ca5dc9041bad4da9353601bdc39ecf986356f1b1
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.openlocfilehash: 8aa9ab5e6db0d434c13ed9e2d325d28552b7caeb
+ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40741049"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40886418"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>Se ha bloqueado la cuenta por enviar demasiado spam
 
-Si se ha bloqueado una cuenta de Office 365 por enviar muchos correos electrónicos no deseados, puede que la cuenta de envío esté en peligro. Tendrá que hacer lo siguiente:
-  
-1. [Determinar si la cuenta está en peligro](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account#symptoms-of-a-compromised-office-365-email-account). Si está en peligro, siga los pasos para [Responder a una cuenta de correo electrónico en peligro en Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
+Como administrador, si uno de los usuarios tiene restringido el envío de correo electrónico, puede [desbloquear la cuenta](https://protection.office.com/?hash=/restrictedusers) **sin tener que abrir un caso de soporte**. El usuario podrá enviar correo electrónico en una hora después de quitar la restricción.
 
-2. Ir a Usuarios restringidos para **[desbloquear la cuenta](https://protection.office.com/?hash=/restrictedusers)** en el Centro de seguridad &amp; cumplimiento. Cuando termine, debería poder volver a enviar mensajes *dentro de 1 hora*.
-
-3. Para evitar que la cuenta vuelva a estar en peligro, siga las recomendaciones de los [Guía de seguridad de Office 365](https://docs.microsoft.com/office365/securitycompliance/security-roadmap).
-  
+El servicio impide que los usuarios envíen correos electrónicos después de detectar la evidencia de un correo no deseado saliente o una cuenta en peligro. Como precaución, siga los pasos descritos en [Responder a una cuenta de correo electrónico en peligro en Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) para el usuario.
