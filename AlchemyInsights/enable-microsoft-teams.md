@@ -12,13 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "737"
 - "6500003"
+- "9000725"
+- "2671"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: 23491c2c6fbe51c0c2b6cdce112b59f00a8b868a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 53638195d0c1a0c73ff70c38ab7c3cea49d0a53a
+ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36736126"
+ms.lasthandoff: 12/30/2019
+ms.locfileid: "40908547"
 ---
 # <a name="enable-and-use-microsoft-teams"></a>Habilitar y usar Microsoft Teams
 
