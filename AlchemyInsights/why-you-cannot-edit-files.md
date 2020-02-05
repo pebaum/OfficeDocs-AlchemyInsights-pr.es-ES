@@ -13,16 +13,16 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049426"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771160"
 ---
 # <a name="why-cant-i-edit-files"></a>¿Por qué no puedo editar archivos?
 
-Si un documento, una hoja de cálculo o una presentación están bloqueados y no se pueden abrir en las aplicaciones de escritorio de Windows, puede que el archivo ya sea editado por otra persona o el archivo esté desprotegido. Echemos un vistazo rápido a algunas de las razones por las que es [posible que no pueda editar el archivo](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Eche un vistazo rápido a algunas de las razones por las que es [posible que no pueda editar el archivo](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
 Si tiene bibliotecas con las columnas o los metadatos de **desprotección, requisitos** o **validación** , o cuando la **seguridad de borrador de elementos** está definida como **solo usuarios que pueden editar** o **solo usuarios que pueden aprobar elementos** en la configuración de versión de la biblioteca:
 
