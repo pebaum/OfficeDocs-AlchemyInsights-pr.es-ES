@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3532"
-ms.openlocfilehash: 4243cdf0170fed1eadac6560d2a04e1a861c63e5
-ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
+ms.openlocfilehash: 739e9d91f90e4c0374814d199e4372eb5625553a
+ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42043621"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42158639"
 ---
 # <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>Para el lote de migración de carpetas públicas con estado CompletedWithErrors
 
 Siga estos pasos para completar el lote y omitir los elementos incorrectos o grandes: 
 1. Aprobar los elementos omitidos en el lote de migración:
 
-    Set-MigrationBatch \<batchname>-ApproveSkippedItems 
+    `Set-MigrationBatch \<batchname> -ApproveSkippedItems` 
 2. Use el siguiente comando para aprobar los elementos omitidos en las solicitudes de migración que se han "sincronizado" pero que no se han completado:
 
-    $pf = Get-PublicFolderMailboxMigrationRequest | Get-PublicFolderMailboxMigrationRequestStatistics-IncludeReport; ForEach ($i en $pf) {if ($i. LargeItemsEncountered-gt 0-o $i. BadItemsEncountered-gt 0) {set-PublicFolderMailboxMigrationRequest $i. Identity. IdentifyingGuid-SkippedItemApprovalTime $ ([DateTime]:: UtcNow)}}
+    `$pf=Get-PublicFolderMailboxMigrationRequest | Get-PublicFolderMailboxMigrationRequestStatistics -IncludeReport; ForEach ($i in $pf) {if ($i.LargeItemsEncountered -gt 0 -or $i.BadItemsEncountered -gt 0) {Set-PublicFolderMailboxMigrationRequest $i.Identity.IdentifyingGuid -SkippedItemApprovalTime $([DateTime]::UtcNow)}}`
 3. El lote de migración y las solicitudes deben reanudarse y completarse en unos minutos.
 
