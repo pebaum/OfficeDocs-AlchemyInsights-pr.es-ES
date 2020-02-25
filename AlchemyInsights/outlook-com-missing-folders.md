@@ -15,17 +15,18 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: e7d63bc774b915e9d8b51695b8d7d0cd08086f35
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d81239b8992910d7bf451cdcb2a3f54c9d2a72c4
+ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536200"
+ms.lasthandoff: 02/24/2020
+ms.locfileid: "42260259"
 ---
-# <a name="find-missing-folders"></a><span data-ttu-id="c86f6-102">Buscar carpetas que faltan</span><span class="sxs-lookup"><span data-stu-id="c86f6-102">Find missing folders</span></span>
+# <a name="find-missing-folders"></a><span data-ttu-id="547bb-102">Buscar carpetas que faltan</span><span class="sxs-lookup"><span data-stu-id="547bb-102">Find missing folders</span></span>
 
-<span data-ttu-id="c86f6-103">Si no ves las carpetas, comprueba que las carpetas no están contraídas.</span><span class="sxs-lookup"><span data-stu-id="c86f6-103">If you can't see your folders, check that your folders aren't collapsed.</span></span> <span data-ttu-id="c86f6-104">Seleccione la flecha situada junto a **carpetas** en el panel izquierdo.</span><span class="sxs-lookup"><span data-stu-id="c86f6-104">Select the arrow next to **Folders** in the left pane.</span></span>
-  
-<span data-ttu-id="c86f6-105">Si elimina una carpeta por error, puede recuperarla si todavía está en la carpeta elementos eliminados.</span><span class="sxs-lookup"><span data-stu-id="c86f6-105">If you accidentally delete a folder, you can recover it if it's still in your Deleted Items folder.</span></span> <span data-ttu-id="c86f6-106">Para obtener más información, consulte [restauración de mensajes de correo electrónico eliminados en Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="c86f6-106">To learn more, read [Restoring deleted email messages in Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
-  
-<span data-ttu-id="c86f6-107">Hay un problema conocido en el que faltan carpetas.</span><span class="sxs-lookup"><span data-stu-id="c86f6-107">There is a known issue where folders are missing.</span></span> <span data-ttu-id="c86f6-108">Estamos trabajando para solucionarlo.</span><span class="sxs-lookup"><span data-stu-id="c86f6-108">We're working to fix this.</span></span> <span data-ttu-id="c86f6-109">Todavía puede encontrar elementos guardados en las carpetas que faltan mediante la **búsqueda**</span><span class="sxs-lookup"><span data-stu-id="c86f6-109">You can still find items saved within the missing folders using **Search**</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' /><span data-ttu-id="c86f6-110">y puede ayudarle si cierre sesión y, a continuación, vuelva a iniciar sesión.</span><span class="sxs-lookup"><span data-stu-id="c86f6-110">, and it may help if you sign out and then sign in again.</span></span> [<span data-ttu-id="c86f6-111">Haga clic aquí para cerrar sesión.</span><span class="sxs-lookup"><span data-stu-id="c86f6-111">Click here to sign out.</span></span>](https://login.live.com/logout.srf)
+<span data-ttu-id="547bb-103">Es posible que algunos usuarios no puedan ver el panel de carpetas de la izquierda cuando se ve en una pantalla pequeña.</span><span class="sxs-lookup"><span data-stu-id="547bb-103">Some users may not be able to see the left folder pane when viewing on a small screen.</span></span>
+
+- <span data-ttu-id="547bb-104">Expanda el panel de carpetas sólo cuando lo necesite.</span><span class="sxs-lookup"><span data-stu-id="547bb-104">Expand the folder pane only when you need it.</span></span> <span data-ttu-id="547bb-105">Seleccione el icono de tres líneas en la barra lateral izquierda para mostrar u ocultar las carpetas.</span><span class="sxs-lookup"><span data-stu-id="547bb-105">Select the three line icon in the left side bar to show or hide folders.</span></span>
+- <span data-ttu-id="547bb-106">Abra la [configuración de diseño](https://outlook.live.com/mail/options/mail/layout) y seleccione **ocultar panel de lectura** y, a continuación, **Guardar**.</span><span class="sxs-lookup"><span data-stu-id="547bb-106">Open [layout settings](https://outlook.live.com/mail/options/mail/layout) and select **Hide reading pane** and then **Save**.</span></span> <span data-ttu-id="547bb-107">Esto le dará más espacio a la pantalla para mostrar las carpetas.</span><span class="sxs-lookup"><span data-stu-id="547bb-107">This will give the screen more space to show folders.</span></span>
+
+<span data-ttu-id="547bb-108">Si elimina una carpeta por error, puede recuperarla si todavía está en la carpeta elementos eliminados.</span><span class="sxs-lookup"><span data-stu-id="547bb-108">If you accidentally delete a folder, you can recover it if it's still in your Deleted Items folder.</span></span> <span data-ttu-id="547bb-109">Para obtener más información, consulte [restauración de mensajes de correo electrónico eliminados en Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).</span><span class="sxs-lookup"><span data-stu-id="547bb-109">To learn more, read [Restoring deleted email messages in Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).</span></span>
