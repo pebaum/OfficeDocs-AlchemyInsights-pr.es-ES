@@ -15,17 +15,18 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: e7d63bc774b915e9d8b51695b8d7d0cd08086f35
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d81239b8992910d7bf451cdcb2a3f54c9d2a72c4
+ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536200"
+ms.lasthandoff: 02/24/2020
+ms.locfileid: "42260259"
 ---
 # <a name="find-missing-folders"></a>Buscar carpetas que faltan
 
-Si no ves las carpetas, comprueba que las carpetas no están contraídas. Seleccione la flecha situada junto a **carpetas** en el panel izquierdo.
-  
-Si elimina una carpeta por error, puede recuperarla si todavía está en la carpeta elementos eliminados. Para obtener más información, consulte [restauración de mensajes de correo electrónico eliminados en Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
-  
-Hay un problema conocido en el que faltan carpetas. Estamos trabajando para solucionarlo. Todavía puede encontrar elementos guardados en las carpetas que faltan mediante la **búsqueda** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />y puede ayudarle si cierre sesión y, a continuación, vuelva a iniciar sesión. [Haga clic aquí para cerrar sesión.](https://login.live.com/logout.srf)
+Es posible que algunos usuarios no puedan ver el panel de carpetas de la izquierda cuando se ve en una pantalla pequeña.
+
+- Expanda el panel de carpetas sólo cuando lo necesite. Seleccione el icono de tres líneas en la barra lateral izquierda para mostrar u ocultar las carpetas.
+- Abra la [configuración de diseño](https://outlook.live.com/mail/options/mail/layout) y seleccione **ocultar panel de lectura** y, a continuación, **Guardar**. Esto le dará más espacio a la pantalla para mostrar las carpetas.
+
+Si elimina una carpeta por error, puede recuperarla si todavía está en la carpeta elementos eliminados. Para obtener más información, consulte [restauración de mensajes de correo electrónico eliminados en Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).
