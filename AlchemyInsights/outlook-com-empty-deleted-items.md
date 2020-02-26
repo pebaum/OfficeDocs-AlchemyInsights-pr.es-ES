@@ -3,6 +3,7 @@ title: Vacíe la carpeta elementos eliminados en Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
+ms.date: 2/25/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
+ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768709"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42277948"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Vaciar la carpeta elementos eliminados
 
-Para purgar todos los mensajes de Outlook eliminados , vaya a la [carpeta elementos eliminados](https://outlook.live.com/mail/deleteditems)y seleccione **vaciar carpeta**y, después, seleccione **recuperar elementos eliminados de esta carpeta** por encima de la lista de mensajes y vuelva a seleccionar la **carpeta** vacía.
+1. Abra la carpeta elementos eliminados y seleccione **vaciar carpeta**.
+2. Seleccione **elementos recuperables** en la parte superior de la página y seleccione **vaciar carpeta** de nuevo.
 
-Si ha eliminado muchos mensajes, es posible que se tarde algún tiempo hasta que los elementos se muevan a la carpeta elementos eliminados o se purguen de ellos. Deje abierta la ventana del explorador hasta que se eliminen los elementos.
+**No se puede vaciar la carpeta elementos eliminados**
 
-Si los mensajes no se pueden eliminar correctamente, intente eliminar un número menor de mensajes.
+- Si ha eliminado una gran cantidad de correo electrónico, es posible que los elementos tarden algún tiempo en moverse o eliminarse de la carpeta elementos eliminados. Deje abierta la ventana del explorador mientras se realiza la eliminación.
+- Si el correo electrónico sigue sin poder eliminar correctamente, seleccione un lote más pequeño para eliminar.
+- Si el correo electrónico eliminado vuelve, puede deberse a que haya eliminado mucho correo electrónico recientemente. Inténtelo de nuevo más tarde.
