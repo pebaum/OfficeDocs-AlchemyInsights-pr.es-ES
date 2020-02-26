@@ -3,6 +3,7 @@ title: Vacíe la carpeta elementos eliminados en Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
+ms.date: 2/25/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
+ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768709"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42277948"
 ---
-# <a name="empty-the-deleted-items-folder"></a><span data-ttu-id="ea9d9-102">Vaciar la carpeta elementos eliminados</span><span class="sxs-lookup"><span data-stu-id="ea9d9-102">Empty the Deleted Items folder</span></span>
+# <a name="empty-the-deleted-items-folder"></a><span data-ttu-id="c4274-102">Vaciar la carpeta elementos eliminados</span><span class="sxs-lookup"><span data-stu-id="c4274-102">Empty the Deleted Items folder</span></span>
 
-<span data-ttu-id="ea9d9-103">Para purgar todos los mensajes de Outlook eliminados , vaya a la [carpeta elementos eliminados](https://outlook.live.com/mail/deleteditems)y seleccione **vaciar carpeta**y, después, seleccione **recuperar elementos eliminados de esta carpeta** por encima de la lista de mensajes y vuelva a seleccionar la **carpeta** vacía.</span><span class="sxs-lookup"><span data-stu-id="ea9d9-103">To purge all your deleted Outlook messages, go to your [Deleted Items folder](https://outlook.live.com/mail/deleteditems) and select **Empty folder**, then select **Recover items deleted from this folder** above the message list and select **Empty folder** again.</span></span>
+1. <span data-ttu-id="c4274-103">Abra la carpeta elementos eliminados y seleccione **vaciar carpeta**.</span><span class="sxs-lookup"><span data-stu-id="c4274-103">Open your Deleted Items folder and select **Empty folder**.</span></span>
+2. <span data-ttu-id="c4274-104">Seleccione **elementos recuperables** en la parte superior de la página y seleccione **vaciar carpeta** de nuevo.</span><span class="sxs-lookup"><span data-stu-id="c4274-104">Select **Recoverable items** at the top of the page and select **Empty folder** again.</span></span>
 
-<span data-ttu-id="ea9d9-104">Si ha eliminado muchos mensajes, es posible que se tarde algún tiempo hasta que los elementos se muevan a la carpeta elementos eliminados o se purguen de ellos.</span><span class="sxs-lookup"><span data-stu-id="ea9d9-104">If you've deleted a lot of messages, it may take some time for those items to move to or be purged from the Deleted Items folder.</span></span> <span data-ttu-id="ea9d9-105">Deje abierta la ventana del explorador hasta que se eliminen los elementos.</span><span class="sxs-lookup"><span data-stu-id="ea9d9-105">Please leave the browser window open until the items are deleted.</span></span>
+<span data-ttu-id="c4274-105">**No se puede vaciar la carpeta elementos eliminados**</span><span class="sxs-lookup"><span data-stu-id="c4274-105">**Unable to empty the Deleted Items folder**</span></span>
 
-<span data-ttu-id="ea9d9-106">Si los mensajes no se pueden eliminar correctamente, intente eliminar un número menor de mensajes.</span><span class="sxs-lookup"><span data-stu-id="ea9d9-106">If messages fail to delete properly, try deleting a smaller number of messages.</span></span>
+- <span data-ttu-id="c4274-106">Si ha eliminado una gran cantidad de correo electrónico, es posible que los elementos tarden algún tiempo en moverse o eliminarse de la carpeta elementos eliminados.</span><span class="sxs-lookup"><span data-stu-id="c4274-106">If you've deleted a lot of email, it may take some time for those items to move to or be deleted from the Deleted Items folder.</span></span> <span data-ttu-id="c4274-107">Deje abierta la ventana del explorador mientras se realiza la eliminación.</span><span class="sxs-lookup"><span data-stu-id="c4274-107">Leave the browser window open while the deleting takes place.</span></span>
+- <span data-ttu-id="c4274-108">Si el correo electrónico sigue sin poder eliminar correctamente, seleccione un lote más pequeño para eliminar.</span><span class="sxs-lookup"><span data-stu-id="c4274-108">If the email still fails to delete properly, select a smaller batch to delete.</span></span>
+- <span data-ttu-id="c4274-109">Si el correo electrónico eliminado vuelve, puede deberse a que haya eliminado mucho correo electrónico recientemente.</span><span class="sxs-lookup"><span data-stu-id="c4274-109">If deleted email comes back, it could be because you've deleted a lot of email recently.</span></span> <span data-ttu-id="c4274-110">Inténtelo de nuevo más tarde.</span><span class="sxs-lookup"><span data-stu-id="c4274-110">Please try again later.</span></span>
