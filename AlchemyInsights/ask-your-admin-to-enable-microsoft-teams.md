@@ -12,15 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
-ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
+ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
+ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/13/2020
-ms.locfileid: "41962314"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42573149"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a><span data-ttu-id="5aa60-102">¡ Falta!</span><span class="sxs-lookup"><span data-stu-id="5aa60-102">You're missing out!</span></span> <span data-ttu-id="5aa60-103">Pídale al administrador que habilite Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="5aa60-103">Ask your admin to enable Microsoft Teams</span></span>
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a><span data-ttu-id="1bb98-102">¡ Falta!</span><span class="sxs-lookup"><span data-stu-id="1bb98-102">You're missing out!</span></span> <span data-ttu-id="1bb98-103">Pídale al administrador que habilite Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="1bb98-103">Ask your admin to enable Microsoft Teams</span></span>
 
-<span data-ttu-id="5aa60-104">¿Los profesores y el personal pueden tener acceso a teams pero los alumnos no pueden, o bien sus usuarios con licencia de F1 no pueden acceder a Microsoft Teams?</span><span class="sxs-lookup"><span data-stu-id="5aa60-104">Are faculty and staff able to access Teams but students cannot, or are your F1 licensed users unable to access Teams?</span></span>
+<span data-ttu-id="1bb98-104">Si tiene un inquilino de EDU, debe habilitar Microsoft Teams manualmente.</span><span class="sxs-lookup"><span data-stu-id="1bb98-104">If you have an EDU tenant, you need to enable Microsoft Teams manually.</span></span> <span data-ttu-id="1bb98-105">Para ello, vaya al centro de administración de Microsoft 365 > **servicios y complementos > Microsoft Teams**.</span><span class="sxs-lookup"><span data-stu-id="1bb98-105">To do this, go to the Microsoft 365 admin center > **Services and add-ins > Microsoft Teams**.</span></span> <span data-ttu-id="1bb98-106">Si está usando el nuevo centro de administración de Microsoft Teams, tendrá que desactivar **probar el nuevo centro** de administración para buscar **servicios y complementos**.</span><span class="sxs-lookup"><span data-stu-id="1bb98-106">If you're using the new Teams admin center, you'll have to turn off **Try the new admin center** to find **Services and add-ins**.</span></span> 
 
-<span data-ttu-id="5aa60-105">Los equipos deben estar habilitados explícitamente para los alumnos y las licencias de F1.</span><span class="sxs-lookup"><span data-stu-id="5aa60-105">Teams must be explicitly enabled for students and F1 licenses.</span></span> <span data-ttu-id="5aa60-106">Puede encontrar instrucciones más detalladas sobre cómo habilitar Teams para su centro educativo en [configurar Teams para el ámbito educativo](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education).</span><span class="sxs-lookup"><span data-stu-id="5aa60-106">You can find more detailed instructions about how to enable Teams for your school in [Configure Teams for Education](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education).</span></span> 
+<span data-ttu-id="1bb98-107">**Importante**: es posible que tenga que esperar hasta 24 horas para que los cambios surtan efecto.</span><span class="sxs-lookup"><span data-stu-id="1bb98-107">**IMPORTANT**: You may have to wait up to 24 hours for your changes to take effect.</span></span>
