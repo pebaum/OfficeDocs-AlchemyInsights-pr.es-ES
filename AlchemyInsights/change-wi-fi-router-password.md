@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: ef7f9a4a40dec764f22c66bd9781c9141fb30d10
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: c0413d1a262d2b7c0245f0fae16b4b60d0a35e19
+ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796394"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42584530"
 ---
 # <a name="change-your-wi-fi-router-password"></a>Cambiar la contraseña del enrutador Wi-Fi
 

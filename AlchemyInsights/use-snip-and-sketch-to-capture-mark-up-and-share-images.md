@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: dbd1cd9db4830278703a2dfb8d0541e9f706a326
-ms.sourcegitcommit: dc3f616893e02c72e8cdf4700b1c49ccfa12a975
+ms.openlocfilehash: 1aa8876dd56010f9b45c56c4bf7e8db9ca8539e6
+ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42365185"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42584494"
 ---
 # <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Usar el recorte & boceto para capturar, marcar y compartir imágenes
 
@@ -27,7 +27,8 @@ El boceto de la pantalla ahora se llama **recorte & esbozo**. **Para realizar r�
 2. Elija un punto en el borde del área que desee copiar y haga clic con el botón primario en el cursor. 
 
 3. Mueva el cursor para resaltar el área que desea capturar. El área que capture aparecerá en la pantalla.
-:::image type="content" source="media/snipone.png" alt-text="imagen de la selección resaltada":::
+
+   ![imagen de la selección resaltada](media/snipone.png)
 
 La imagen que recortadas se guarda en el portapapeles, lista para pegarla en un correo electrónico o documento. 
 
@@ -35,4 +36,4 @@ La imagen que recortadas se guarda en el portapapeles, lista para pegarla en un 
 
 - Haga clic en el icono de notificaciones en el extremo derecho de la barra de tareas; a continuación, haga clic en la imagen que acaba de capturar. El recorte se abrirá en la aplicación de boceto & de recorte.
 
-:::image type="content" source="media/sniptwo.png" alt-text="imagen de imagen que muestra en recortes de aplicación":::
+   ![imagen de imagen que se muestra en recortes de aplicación](media/sniptwo.png)
