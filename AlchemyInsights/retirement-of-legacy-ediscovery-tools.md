@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: c4632b52dde579b7d5b2e6e15f1583300a0bd136
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157724"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600401"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Retirada de herramientas de eDiscovery heredadas
 
@@ -37,7 +37,7 @@ Como resultado de la nueva y mejorada funcionalidad de eDiscovery en el centro d
     - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Office 365 Advanced eDiscovery v 1.0](https://docs.microsoft.com/en-us/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Office 365 Advanced eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Escala de tiempo para la jubilación**:
 - 1 de abril de 2020: no podrá crear nuevas búsquedas y suspensiones, pero puede seguir ejecutando, editando y eliminando las búsquedas existentes bajo su propio riesgo. El soporte técnico de Microsoft ya no admitirá las retenciones de exhibición de documentos electrónicos local & en el EAC.
@@ -46,9 +46,9 @@ Como resultado de la nueva y mejorada funcionalidad de eDiscovery en el centro d
 
 **Para obtener más información, vea**:
 
- - [Migrar las búsquedas y suspensiones de eDiscovery heredado al centro de cumplimiento de Microsoft 365](https://docs.microsoft.com/en-us/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Retirada de herramientas de eDiscovery heredadas](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [Preguntas más frecuentes sobre la exhibición de documentos electrónicos local y las suspensiones locales](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Migrar las búsquedas y suspensiones de eDiscovery heredado al centro de cumplimiento de Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Retirada de herramientas de eDiscovery heredadas](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [Preguntas más frecuentes sobre la exhibición de documentos electrónicos local y las suspensiones locales](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
