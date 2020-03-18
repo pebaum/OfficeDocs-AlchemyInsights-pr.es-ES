@@ -11,12 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000744"
 - "3813"
-ms.openlocfilehash: 49dfa590dd68790983c7e68b6ddae60e70849727
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+- "3818"
+ms.openlocfilehash: d071c44c3c23dbb3a167c30e486f39cb86fd1dca
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
 ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692583"
+ms.locfileid: "42707552"
 ---
 # <a name="sign-in-issues-for-students"></a>Problemas de inicio de sesión para estudiantes
 
