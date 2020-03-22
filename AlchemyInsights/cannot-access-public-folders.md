@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: a9305b175e1ca0b992c014a73705447d67e037bc
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: a579b89b68bfb8432adfe64b155803eda2c3b086
+ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959511"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42891766"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook no puede conectarse a las carpetas públicas
 
-Si el acceso a la carpeta pública no funciona con pocos usuarios, pruebe lo siguiente:
+Si el acceso a la carpeta pública no funciona para algunos usuarios, intente lo siguiente:
 
-Conéctese a la PowerShell EXO y configure DefaultPublicFolderMailbox en la cuenta de usuario con problemas para que sea igual a una en una cuenta de usuario que funcione.
+Conéctese a EXO PowerShell y configure el parámetro DefaultPublicFolderMailbox en la cuenta de usuario problemática para que cumpla el parámetro en una cuenta de usuario que funcione.
 
 Ejemplo:
 
@@ -31,3 +31,5 @@ Get-Mailbox WorkingUser | DefaultPublicFolderMailbox ft, EffectivePublicFolderMa
 Set-Mailbox ProblemUser-DefaultPublicFolderMailbox \<valor del comando anterior>
 
 Espere al menos una hora para que el cambio surta efecto.
+
+Si el problema persiste, siga [este procedimiento](https://aka.ms/pfcte) para solucionar problemas de acceso a carpetas públicas con Outlook.
