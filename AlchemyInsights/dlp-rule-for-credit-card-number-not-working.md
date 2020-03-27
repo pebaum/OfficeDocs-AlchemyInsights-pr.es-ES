@@ -12,18 +12,16 @@ ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: 6b28534d072c024a98a9b05f6cb55bfdc3435db6
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: 40a4a1668039b70455e09ee662359c05235645e8
+ms.sourcegitcommit: d108a2da2f5dab05246e30b5108cca5173e09051
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932460"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42977215"
 ---
 # <a name="dlp-issues-with-credit-card-numbers"></a>Problemas de DLP con números de tarjeta de crédito
 
-**Importante**: muchos clientes de SharePoint Online y OneDrive ejecutan aplicaciones críticas para la empresa en el servicio que se ejecutan en segundo plano. Estas incluyen la migración de contenido, la prevención de pérdida de datos (DLP) y soluciones de copia de seguridad. En estos tiempos sin precedente, aplicamos las medidas necesarias para garantizar que los servicios de SharePoint Online y OneDrive permanezcan altamente disponibles y confiables para los usuarios que dependen del servicio más que nunca en escenarios de trabajo remoto.
-
-Para apoyar este objetivo, hemos implementado límites más estrictos para las aplicaciones en segundo plano (como la migración, DLP y las soluciones de copia de seguridad) durante las horas de la semana laboral. Se anticipa que estas aplicaciones obtengan un rendimiento muy limitado durante estas horas. Sin embargo, durante las horas de la noche y del fin de semana de la región, el servicio estará listo para procesar un volumen mucho más elevado de solicitudes de aplicaciones en segundo plano.
+**Importante**: durante estas horas sin precedentes, estamos llevando a cabo pasos para garantizar que los servicios de SharePoint Online y OneDrive sigan estando disponibles; visite [ajustes temporales de características de SharePoint Online](https://aka.ms/ODSPAdjustments) para obtener más información.
 
 **Problemas de DLP con números de tarjeta de crédito**
 
