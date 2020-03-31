@@ -12,14 +12,18 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: ff4471727b38b6d43b9639b551f92b87e9e9360c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e19d680f5688fe9c5e263019c20f10c678d7f7e5
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664337"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059753"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Cómo agregar o editar un VatID
+
+**Nota**: Si está en un país que usa el impuesto sobre el valor añadido (IVA), como el Reino Unido, Microsoft Invoicing calcula el IVA y aplica el importe a sus facturas. Para obtener más información, consulte la [declinación de responsabilidades de VIES](https://go.microsoft.com/fwlink/?LinkID=841741) publicada por la Comisión Europea.
+
+**Adición o edición de un VatID**
 
 1. En el centro de administración de Microsoft 365, vaya a la página de productos de **facturación** \> [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
@@ -27,7 +31,7 @@ ms.locfileid: "36664337"
 
 3. En la sección **configuración & acciones** , seleccione **Editar dirección de uso del servicio**.
 
-4. En la página **editar la dirección de uso del servicio** , escriba su NIF en **** el cuadro NIF y, a continuación, seleccione **Guardar**.
+4. En la página **editar la dirección de uso del servicio** , escriba su NIF en **el cuadro NIF y** , a continuación, seleccione **Guardar**.
 
     Cuando termine, el IVA no se cargará en la próxima factura.
 
