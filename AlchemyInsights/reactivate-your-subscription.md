@@ -11,14 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002304"
 - "4473"
-ms.openlocfilehash: 3f45d9dca00804cacb4063a41a2bba5a375df643
-ms.sourcegitcommit: aff07e85010fe85c026218ef8d64ab721f7fe0b5
+- "9001497"
+- "4736"
+- "3551"
+ms.openlocfilehash: 83f4c28ae26267e71af5488484330df53e08d1bd
+ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43116528"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43160869"
 ---
 # <a name="reactivate-your-subscription"></a>Reactivar la suscripción
+
+Si su subscripción ha expirado, Microsoft la ha deshabilitado o si la ha cancelado en medio del período de suscripción, puede volver a activarla en el centro de administración. 
 
 1. En el centro de administración, vaya a **Facturación > [Productos y servicios](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
@@ -28,3 +33,19 @@ ms.locfileid: "43116528"
 
 Para obtener más información, vea [Reactivar 
 la suscripción](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+
+**Administrar la renovación de la suscripción**
+
+Para administrar la facturación mensual o anual puede activar o desactivar la facturación periódica.
+
+1. En el centro de administración, vaya a **Facturación > [Productos y servicios](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+
+2. Elija la suscripción para la que quiere administrar la facturación periódica. 
+
+3. En Facturación, junto a Se renueva en o Caduca en, haga clic en **Editar**.
+
+4. En el panel de configuración de Facturación periódica, seleccione **Desactivar** para desactivarla. Si la opción de facturación periódica está desactivada, haga clic en **Mensual** o **Una vez** para activarla. 
+
+5. Haga clic en **Enviar cambios**.
+
+Para obtener más información, consulte [Activar o desactivar la facturación periódica](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
