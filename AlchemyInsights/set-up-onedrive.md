@@ -12,10 +12,10 @@ ms.custom:
 - "5800002"
 ms.assetid: bd7d87d5-abf3-4c72-941d-ac88dab48795
 ms.openlocfilehash: 47635cd7fbe55b4d5dc2d38259877a7c0e184b51
-ms.sourcegitcommit: aff07e85010fe85c026218ef8d64ab721f7fe0b5
+ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2020
+ms.lasthandoff: 04/08/2020
 ms.locfileid: "43116350"
 ---
 # <a name="use-the-onedrive-sync-client-to-sync-onedrive-or-sharepoint-files"></a>Usar el cliente de sincronización de OneDrive para sincronizar archivos de OneDrive o SharePoint
