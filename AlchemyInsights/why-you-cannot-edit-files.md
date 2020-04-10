@@ -13,12 +13,12 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 766df76bc1e19218b6de131115af414a8007a7a7
+ms.sourcegitcommit: 75346a972c2174248de3bb55a19d714cee43c1cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771160"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43209437"
 ---
 # <a name="why-cant-i-edit-files"></a>¿Por qué no puedo editar archivos?
 
@@ -32,7 +32,8 @@ Si tiene bibliotecas con las columnas o los metadatos de **desprotección, requi
 
 Para obtener más información acerca de los archivos bloqueados para Word o Excel, consulte los artículos siguientes.
 
+- [Error "no se pudo cargar" o "no se pudo guardar automáticamente" al editar un archivo de Office](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
+
 - [El archivo de Excel está bloqueado para edición por otro usuario](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
 - [El archivo de Word está bloqueado por otro usuario para su edición](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
-

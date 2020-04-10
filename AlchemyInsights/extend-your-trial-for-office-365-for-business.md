@@ -12,23 +12,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad9b06d5a14e48b4a03963b0e8fe606a58269623
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665021"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207354"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Ampliar el periodo de prueba de Office 365 para la empresa
 
-Si la suscripción de prueba está en 15 días tras la expiración y la versión de prueba no se ha ampliado antes, puede ampliar la prueba durante otro período de 30 días. Solo puede hacerlo una vez.
+Puede ampliar la prueba durante otro período de 30 días. Solo puede hacerlo una vez.
   
-1. En el centro de administración, vaya a la página productos de **facturación** \> [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. En el centro de administración, vaya a **facturación** \> de [productos & servicios](https://portal.office.com/adminportal/home#/subscriptions).
 
-2. Elija la suscripción de prueba que desea extender.
+2. Seleccione la suscripción de prueba que desea extender.
 
-3. En las **secciones & sección acciones** , elija **extender prueba** y complete los pasos restantes.
+3. Haga clic en **ampliar prueba** y complete los pasos del asistente.
 
 4. Debe proporcionar la información de la tarjeta de crédito para extender la versión de prueba. No cargaremos su tarjeta de crédito para la extensión de la versión de prueba.
 
-Para obtener más información, consulte [ampliar la versión de prueba de Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+Para obtener más información acerca de la ampliación de la versión de prueba o para obtener instrucciones paso a paso, consulte [Extend Trial for Office 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
