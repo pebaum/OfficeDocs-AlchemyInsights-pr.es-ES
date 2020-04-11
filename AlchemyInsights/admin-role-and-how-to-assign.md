@@ -1,5 +1,5 @@
 ---
-title: Rol de administrador y cómo asignar
+title: Rol de administrador y cómo hacer la asignación
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -7,26 +7,21 @@ ms.date: 2/24/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: MT
+ms.openlocfilehash: 5bee71c66ae81fda95df152405dfd689055a10cf
+ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36737104"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43183414"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>¿Qué son los roles de administrador y cómo se asignan?
+# <a name="admin-roles"></a>Roles de administrador
 
-Parece que tiene algunas preguntas sobre los roles de administrador. Estos artículos deben responder a todas sus preguntas.
-  
-- [Acerca de los roles de administrador](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
+- Seleccione [Roles](https://admin.microsoft.com/Adminportal/Home#/roles) en el centro de administración para asignar u obtener más información sobre los roles de administrador.
 
-- [Asignar roles de administrador](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
-
-¿No responde su pregunta? No hay ningún problema. Use la opción "llámenos" para hablar con un ingeniero de soporte técnico.
-  
+- Después, seleccione el nombre del rol y haga clic en **asignar rol**, o bien, haga clic en **comparar roles** para obtener más información.
