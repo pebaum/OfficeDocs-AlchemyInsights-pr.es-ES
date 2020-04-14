@@ -13,28 +13,28 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 35fe9ae76ca77faa43796b288af09be8525cb6df
-ms.sourcegitcommit: 929f8accdca2b8e5be170e0fc8edd527581453d4
+ms.openlocfilehash: 4f69de167dc51961fa7cf71b4d73ca7ee3ed4d55
+ms.sourcegitcommit: 57fb994ddd3854d06faa67680c971b003b06bf83
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/12/2020
-ms.locfileid: "43232647"
+ms.lasthandoff: 04/13/2020
+ms.locfileid: "43241269"
 ---
 # <a name="fix-messages-that-are-stuck-in-the-outbox"></a>Corregir mensajes que están atascados en la bandeja de salida
 
-Le recomendamos que empiece por ejecutar el escenario ["tengo problemas para enviar, recibir o encontrar mensajes de correo electrónico"](https://aka.ms/SaRA-OutlookSendReceive) desde la herramienta [Asistente para soporte y recuperación de Microsoft](https://diagnostics.office.com/#/) en el equipo afectado.
+Le recomendamos que empiece por ejecutar el escenario ["tengo problemas para enviar, recibir o encontrar mensajes de correo electrónico"](https://aka.ms/SaRA-OutlookSendReceive) desde la herramienta [Asistente para soporte y recuperación de Microsoft](https://diagnostics.office.com/#/) .
 
 Cuando un mensaje se bloquea en la bandeja de salida, la causa más probable es un dato adjunto grande o la opción "enviar inmediatamente cuando está conectado" no está habilitada.
 
 **Quitar los datos adjuntos grandes**
 
-1. Haga clic en **enviar y recibir** > **trabajo sin conexión**. 
-2. En el panel de navegación, haga clic en **bandeja de salida**. Desde aquí, puede: 
-    - Elimine el mensaje. Solo tiene que seleccionarlo y hacer clic en **eliminar**.
-    - Arrastre el mensaje a la **carpeta Borradores**, haga doble clic en él para abrir el mensaje y elimine los datos adjuntos (haga clic en él y haga clic en **eliminar**).
-3. Si un error indica que Outlook está intentando transmitir el mensaje, cierre Outlook. La salida puede tardar unos minutos. Si Outlook no se cierra, presione **Ctrl + Alt + Supr** y haga clic en **iniciar el administrador de tareas**. En el administrador de tareas, seleccione la pestaña **procesos** , desplácese hacia abajo hasta Outlook. exe y haga clic en **Finalizar proceso**.
-4. Una vez que Outlook se cierre, reinicie Outlook y repita los pasos 2-3. 
-5. Después de quitar los datos adjuntos, haga clic en **enviar y recibir** > **trabajar sin conexión** para anular la selección del botón y reanudar el trabajo en línea. 
+1. En Outlook, seleccione **enviar y recibir** > **trabajar sin conexión**. 
+2. En el panel de navegación, seleccione **bandeja de salida**. Desde aquí, puede: 
+    - Elimine el mensaje (selecciónelo y, a continuación, seleccione **eliminar**).
+    - Arrastre el mensaje a la carpeta Borradores, haga doble clic en él para abrirlo, quite los datos adjuntos, selecciónelo y, a continuación, seleccione **eliminar**).
+3. Si recibe un error que indica que Outlook está intentando transmitir el mensaje, cierre Outlook. La salida puede tardar unos minutos. Si Outlook no se cierra, presione Ctrl + Alt + Supr y seleccione **iniciar el administrador de tareas**. En el administrador de tareas, seleccione la pestaña **procesos** , desplácese hacia abajo hasta Outlook. exe y seleccione **Finalizar proceso**.
+4. Una vez que Outlook se cierre, reinícielo y repita los pasos 2 y 3. 
+5. Después de quitar los datos adjuntos, haga clic en **enviar y recibir** > **trabajo sin conexión** para continuar trabajando en línea. 
 
 Los mensajes también se atascan en la bandeja de salida cuando hace clic en **Enviar**, pero no está conectado. Haga clic en **enviar y recibir** y mire el botón **trabajar sin conexión** . Si es azul, está desconectado. Haga clic en él para conectarse (el botón se vuelve blanco) y haga clic en **enviar todo**.
  
