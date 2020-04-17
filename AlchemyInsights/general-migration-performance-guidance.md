@@ -11,19 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958555"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537758"
 ---
 # <a name="general-migration-performance-guidance"></a>Instrucciones de rendimiento de la migración general
 
+
 **Importante**: durante estos tiempos, se siguen pasos para asegurarse de que los servicios de SharePoint Online y OneDrive estén altamente disponibles. Para obtener más información, visite [Ajustes temporales de características de SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**Instrucciones de rendimiento de la migración**
+**Opciones de migración**
 
-El rendimiento de la migración puede verse afectado por la infraestructura de red, el tamaño de archivo, el tiempo de migración y la limitación. La comprensión de esto le ayudará a planear y maximizar la eficacia de la migración.
+Hay diferentes opciones disponibles para migrar el contenido a SharePoint Online, según el tamaño y la cantidad de los archivos que necesita mover, consulte una lista de opciones [ubicada aquí](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 
-- [Instrucciones de rendimiento de la migración general](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+Para obtener más información acerca de la migración de contenido, visite los siguientes vínculos:
+
+- [Herramienta de migración de SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+
+- [Primeros pasos con el Administrador de migración](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [Mover](https://mover.io/)
