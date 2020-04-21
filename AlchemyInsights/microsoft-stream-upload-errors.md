@@ -17,7 +17,7 @@ ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43591623"
+ms.locfileid: "43599370"
 ---
 # <a name="microsoft-stream-upload-errors"></a><span data-ttu-id="b440c-102">Errores de carga de Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="b440c-102">Microsoft Stream upload errors</span></span>
 
