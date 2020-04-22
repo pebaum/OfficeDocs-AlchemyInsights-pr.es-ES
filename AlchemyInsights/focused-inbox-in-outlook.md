@@ -3,7 +3,7 @@ title: 1800019 bandeja de entrada prioritarios en Outlook
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 9/11/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "908"
 - "1800019"
 ms.assetid: f01362e1-17da-4528-b116-9b3240dd3f15
-ms.openlocfilehash: 9f647338efd63d78bafca3424fcf735cf4c4dbd1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8eb4f8c9eca75b68fdc5c32235f31b5c2c8bf2ef
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524572"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719938"
 ---
 # <a name="focused-inbox-in-outlook"></a>Bandeja de entrada prioritarios en Outlook
 

@@ -3,7 +3,7 @@ title: Calendario de cumpleaños en Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1811"
 - "9000229"
-ms.openlocfilehash: 5b1285bb6e28d7e28bae1a8d02c796940acabb67
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3a4906f38f381110d5c53b33b5a18d980638f2d9
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548300"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760861"
 ---
 # <a name="add-a-birthday-calendar-in-outlookcom"></a>Agregar un calendario de cumpleaños en Outlook.com
 

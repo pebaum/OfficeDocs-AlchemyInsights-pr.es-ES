@@ -2,7 +2,7 @@
 title: Ataque de ransomware en SharePoint o OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 8/07/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a95973cbb1a3b61c03c05bceeb9d85c17c6db5bb
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a14b6b935c5cc123e16812ef217588903abae831
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054286"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742822"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Ataque de ransomware en SharePoint o OneDrive
 
@@ -33,7 +33,7 @@ Detener o pausar inmediatamente la sincronización de OneDrive (si la hay) o des
 Para obtener más información sobre cómo restaurar, consulte:
 
 - [Restaurar una biblioteca de OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
-- [Restauración de una biblioteca de documentos](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
+- [Restaurar una biblioteca de documentos](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
 Para obtener más información acerca de la protección contra amenazas avanzada (ATP), consulte:
 - [ATP para SharePoint, OneDrive y Microsoft Teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)

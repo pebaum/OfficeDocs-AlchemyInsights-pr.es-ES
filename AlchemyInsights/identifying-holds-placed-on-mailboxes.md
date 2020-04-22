@@ -3,7 +3,7 @@ title: Identificación de retenciones colocadas en buzones
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 5d6f8f2dff42d89a91759c4504cab68b5d1c22f4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7b41745a3e86b6727d5f8fac48a33ae8dce1f9f8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538820"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724793"
 ---
 # <a name="identify-holds-placed-on-mailboxes"></a>Identificación de suspensiones colocadas en buzones
 
-¿Tiene Office 365 contenido que se **conserva** con una **suspensión** que no puede identificar? ¿Necesita **saber** dónde se encuentra la retención en el **buzón de correo** ? Las suspensiones (*características de retención*) se pueden aplicar por uno de los métodos siguientes en Office 365:
+¿Tiene contenido de Microsoft 365 que está **retenido** por una **suspensión** que no puede identificar? ¿Necesita **saber** dónde se encuentra la retención en el **buzón de correo** ? Las suspensiones (*características de retención*) se pueden aplicar mediante uno de los métodos siguientes:
   
 - Retención por juicio
 
@@ -29,12 +29,12 @@ ms.locfileid: "36538820"
 
 - Retención en contexto
 
-- Directiva de retención de Office 365 
+- Directiva de retención de Microsoft 365 
 
   - Directivas de retención de ubicación específicas
 
   - Directivas de retención de toda la organización
 
-- Etiquetas de Office 365
+- Etiquetas 365 de Microsoft
 
 Para identificar el tipo de retención que se aplica al buzón de un usuario, consulte [How to identify The Type of Hold in a Exchange Online Mailbox](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).

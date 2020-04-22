@@ -3,7 +3,7 @@ title: 'Outlook.com cambiar contraseña: Francés'
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/10/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "1153"
 - "1154"
 - "8000075"
-ms.openlocfilehash: b665e1385c77a59b8af96031ae3369d55bf0a737
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1ab7357250974c220a4f558b3a1f24c5c605872a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537436"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722015"
 ---
 # <a name="changer-votre-mot-de-passe-dans-outlookcom"></a>Modificador votre MOT de paso dans Outlook.com
 
@@ -25,7 +25,7 @@ Votre MOT de Pass Outlook.com est le même que votre MOT de Pass Compte Microsof
 
 1. Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **sécurité du MOT de Pass**.
 2. Par mesure de sécurité, Vous pouvez être invité à confirmation votre Identité à l'aide d'un à Code de sécurité.
-3. Entrez votre MOT de Pass Actuel, votre Nouveau MOT de Pass, puis sélectionnez deregistrer. ****
+3. Entrez votre MOT de Pass Actuel, votre Nouveau MOT de Pass, puis sélectionnez **deregistrer**.
 
 Si vous avez oublié votre MOT de Pass, accédez à la [Página de réinitialisation de MOT de paso](https://go.microsoft.com/fwlink/p/?linkid=841909)de Compte Microsoft, puis Suivez los invitados.
 

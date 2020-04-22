@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: bc848b88cb92dc8d747f5f2dce2cee69e04a23e7
-ms.sourcegitcommit: 23e5b94f1758bfe202008384e300b81816975375
+ms.openlocfilehash: 2122726c0503ee8ed8331cbbfd3bbe884e690a0e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43506685"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743290"
 ---
 # <a name="outlook-on-the-web-send-out-of-office-replies"></a>Outlook en la Web: enviar respuestas de fuera de oficina
 
 **Establecer respuestas automáticas en la versión de Outlook en la Web**
 
-1. [Inicie sesión en Outlook en la Web](https://support.office.com/es-ES/article/how-to-sign-in-to-outlook-on-the-web-763fab4d-0138-4814-b450-37fc286bcb79).
+1. [Inicie sesión en Outlook en la Web](https://support.office.com/article/how-to-sign-in-to-outlook-on-the-web-763fab4d-0138-4814-b450-37fc286bcb79).
 
 2. En la parte superior de la página, haga clic en **Configuración > Ver toda la configuración de Outlook > Correo > Respuestas automáticas**.
 

@@ -3,7 +3,7 @@ title: Vacíe la carpeta elementos eliminados en Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/25/2020
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
-ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
+ms.openlocfilehash: 25140869694e48d79ed3f29f159c8114c244c34d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42277948"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43723466"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Vaciar la carpeta elementos eliminados
 

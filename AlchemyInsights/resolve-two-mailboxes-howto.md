@@ -3,7 +3,7 @@ title: 1374 resolver dos buzones de correo HOWTO
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/2/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 15723e0b9b98dbee5c8ad4d0417f86a03fa08c7e
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 95d85d7737ae0684b2a2c017134104bd377695f1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37026611"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722549"
 ---
 # <a name="a-user-has-two-mailboxes"></a>Un usuario tiene dos buzones de correo
 

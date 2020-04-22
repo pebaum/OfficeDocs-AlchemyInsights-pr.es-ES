@@ -2,7 +2,7 @@
 title: Teams Freemium
 ms.author: heidip
 author: heidip
-ms.date: 3/6/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom:
 - "997"
 - "6500005"
-ms.openlocfilehash: d3dfcda1250aaf783e890cd897c51c8639cef48f
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 8de8414610fa181c0ad477563c5fdb8eaee5a3bd
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599357"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43737813"
 ---
 # <a name="id-like-to-sign-up-for-teams-for-free"></a>Me gustaría suscribirse a Microsoft Teams de forma gratuita
 

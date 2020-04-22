@@ -3,18 +3,18 @@ title: Adjuntar archivos en Outlook en la web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 77497bdfe7b336c6453ce7e382482058fb09a0f3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d6bced3e72b7853a9d826e76ac5acc24ba64ef23
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557374"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743182"
 ---
 # <a name="how-to-attach-files-in-outlook-on-the-web"></a>Cómo adjuntar archivos en Outlook en la web
 
@@ -22,4 +22,4 @@ ms.locfileid: "36557374"
 .
 1. Seleccione **examinar este equipo** para adjuntar un archivo al equipo o **examinar ubicaciones en la nube** para adjuntar un archivo en línea.
 
-Para obtener más información, vea adjuntar [archivos en Outlook en la web](https://support.office.com/article/48b8dca1-7a76-43ce-97d1-e1cf73893f55).
+Para obtener más información, vea [adjuntar archivos en Outlook en la web](https://support.office.com/article/48b8dca1-7a76-43ce-97d1-e1cf73893f55).

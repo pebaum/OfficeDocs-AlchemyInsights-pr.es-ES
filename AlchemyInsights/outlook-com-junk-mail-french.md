@@ -3,7 +3,7 @@ title: Correo no deseado Outlook.com-francés
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/10/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "1149"
 - "1150"
 - "8000072"
-ms.openlocfilehash: 752c69dec3349d5d33f671f36019a2ad13f6ff8f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4de36c66b960a897a70212442e8dc12ad4f04b72
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546500"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760069"
 ---
 # <a name="empcher-le-courrier-indsirable-dans-outlookcom"></a>Empêcher le courrier Indésirable dans Outlook.com
 

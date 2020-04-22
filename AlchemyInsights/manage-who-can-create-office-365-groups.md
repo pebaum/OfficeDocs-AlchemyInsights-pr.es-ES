@@ -3,7 +3,7 @@ title: Administrar quién puede crear grupos de Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f68aada0-7700-4e61-b822-6ce203afd145
-ms.openlocfilehash: 0856b811f2366b4161387fc5b5c929a382ba9948
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: f476f4afa11d8f87988da5cb84fd2ff5941c67d0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36738934"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720520"
 ---
 # <a name="manage-who-can-create-office-365-groups"></a>Administrar quién puede crear grupos de Office 365
 

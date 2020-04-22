@@ -3,7 +3,7 @@ title: Buscar y recuperar correos electrónicos, eventos de calendario o contact
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -20,12 +20,12 @@ ms.custom:
 - "803"
 - "8000003"
 ms.assetid: 8e24b096-fcbf-4d7e-a412-f6db2afad623
-ms.openlocfilehash: 7dbd19cb54828343655d019d1251d9ab88113a02
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c8e3d07410a2ceb3f66e60b2b3df4aad05977544
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535264"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743902"
 ---
 # <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-outlookcom"></a>Buscar y recuperar mensajes de correo electrónico eliminados o que faltan, eventos de calendario o contactos Outlook.com
 

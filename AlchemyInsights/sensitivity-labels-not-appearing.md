@@ -3,7 +3,7 @@ title: No aparecen las etiquetas de confidencialidad
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 67719380aea0481f96c03fa591542e8e5a6e6993
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 72dc88a55b55954f34c95fa5b5038f472261c5bb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048669"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758531"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>No aparecen las etiquetas de confidencialidad
 
-Las etiquetas de confidencialidad le permiten clasificar y ayudar a proteger el contenido confidencial. Se pueden crear en el centro de cumplimiento de Microsoft 365, el centro de seguridad de Microsoft 365 o el centro de cumplimiento de & de seguridad de Office 365 en las etiquetas de confidencialidad > clasificación. Para obtener más información acerca de esta característica, consulte [información general sobre las etiquetas de confidencialidad](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Las etiquetas de confidencialidad le permiten clasificar y ayudar a proteger el contenido confidencial. Se pueden crear en el centro de cumplimiento de Microsoft 365, el centro de seguridad de Microsoft 365 o el centro de cumplimiento de & de seguridad de Microsoft 365 en las etiquetas de confidencialidad > clasificación. Para obtener más información acerca de esta característica, consulte [información general sobre las etiquetas de confidencialidad](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
 Si ha configurado las etiquetas de confidencialidad pero no aparecen en las aplicaciones de Office, compruebe lo siguiente:
 
 - Confirme que la etiqueta de confidencialidad se ha [publicado](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) en los usuarios y grupos que desee.
 
-- Confirme que el usuario usa una aplicación que admite etiquetas de confidencialidad (consulte [las etiquetas de confidencialidad en el documento](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable)).
+- Confirme que el usuario usa una aplicación que admite etiquetas de confidencialidad (consulte [las etiquetas de confidencialidad en el documento](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable)).
 
 - Si va a [migrar las etiquetas de Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), tenga en cuenta las consideraciones que se enumeran [aquí](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 

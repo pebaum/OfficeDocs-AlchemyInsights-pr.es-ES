@@ -3,18 +3,18 @@ title: Insertar una imagen en Outlook en la web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 0f358f34b0b458ddf7c030d521542f1c20ffb806
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa3608b19a2393bd8fa0b587d291e88270b3f6ad
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556798"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742894"
 ---
 # <a name="insert-a-picture-in-outlook-on-the-web"></a>Insertar una imagen en Outlook en la web
 

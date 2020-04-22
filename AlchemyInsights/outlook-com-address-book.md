@@ -3,7 +3,7 @@ title: 9000232 Outlook.com libreta de direcciones
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1816"
 - "9000232"
-ms.openlocfilehash: 38e08429a34e3cd65089505a71a6ca08001439fa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2c55b52c3e6da7902796f0b0effd58bdd268c054
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537965"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722213"
 ---
 # <a name="address-book-in-outlookcom"></a>Libreta de direcciones en Outlook.com
 

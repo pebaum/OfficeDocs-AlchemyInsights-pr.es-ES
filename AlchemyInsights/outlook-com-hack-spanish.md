@@ -3,7 +3,7 @@ title: 8000066-regla 2-Outlook.com Hacked-Español
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/7/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "1140"
 - "8000066"
 - "8000067"
-ms.openlocfilehash: 4ea588f8d66042ee6e2f6794d6ae73bcca2027bd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0149559d03e8f7ceedad9ea74a5610255b0c7ba6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536416"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760213"
 ---
 # <a name="han-pirateado-mi-cuenta-de-outlookcom"></a>Han pirateado mi cuenta de Outlook.com
 

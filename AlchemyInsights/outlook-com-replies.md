@@ -3,7 +3,7 @@ title: 9000240 Outlook.com respuestas
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1825"
 - "9000240"
-ms.openlocfilehash: 8f15b4fc8c56e14a978b60d642b5abe54b677978
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0fece3194ab9a14b8fb21123b0b92c2a9aabba62
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535228"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743794"
 ---
 # <a name="replying-in-outlookcom"></a>Responder en Outlook.com
 
@@ -30,14 +30,14 @@ Para responder automáticamente a todos los mensajes:
 
 1. Vaya a <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
 **Configuración** > **Ver todos los valores** > de Outlook**respuestas automáticas** de**correo** > para abrir la [configuración de respuestas automáticas](https://outlook.live.com/mail/options/mail/automaticReplies).
-2. Seleccione el botón **Activar alternancia de respuestas automáticas** .
+2. Seleccione la opción **Activar respuestas automáticas**.
 3. La activación de la casilla de verificación **enviar respuestas solo durante un período de tiempo** permite:
     - Enviar respuestas solo cuando elija. Si no establece un período de tiempo, la respuesta automática permanece activa hasta que la desactiva.
     - Bloquear el calendario
     - Rechazar automáticamente nuevas invitaciones
-    - Rechazar y cancelar mis reuniones durante este período
+    - Rechazar y cancelar las reuniones durante este período
 4. En el cuadro de mensaje, escriba un mensaje para enviar a los usuarios durante el período de tiempo en el que está ausente.
 5. Para enviar respuestas sólo a los contactos, active la casilla de verificación **enviar respuestas a contactos solamente** .
-6. Haga clic en **Guardar**.
+6. Seleccione **Guardar**.
 
 Obtenga más información sobre el [reenvío automático en Outlook.com](https://support.office.com/article/14614626-9855-48dc-a986-dec81d07b1a0?wt.mc_id=Office_Outlook_com_Alchemy).

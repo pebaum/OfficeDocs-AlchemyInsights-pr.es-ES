@@ -3,7 +3,7 @@ title: Eliminar un contacto en Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "262"
 - "8000012"
 ms.assetid: b65125f0-7d6a-42c8-a5d8-a1ce733dddf7
-ms.openlocfilehash: 32b8353718d7cfc3aea273ab26a2fa14f178b1f8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c3ad699c032dbe8b6119d3e33b585ae111e8915d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547004"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43723975"
 ---
 # <a name="delete-a-contact-in-outlookcom"></a>Eliminar un contacto en Outlook.com
 

@@ -3,7 +3,7 @@ title: '976-procedimiento-habilitado: retención en litigios'
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
-ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
+ms.openlocfilehash: 688b5dd936b22ccfc2f556776a0362d179c37edf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37398644"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720749"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Poner un buzón en retención legal
 
@@ -26,4 +26,4 @@ ms.locfileid: "37398644"
 
 - Para habilitar la retención por juicio para un solo usuario, [siga estos pasos](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Cuando la retención por juicio está habilitada, se conserva todo el contenido del buzón.
 
-- Para conservar el contenido de todos los buzones de la organización, puede usar una [Directiva de retención de Office 365 de toda la organización](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Tenga en cuenta que en el caso de las directivas de retención de toda la organización, los nuevos usuarios se asignarán automáticamente a la Directiva.
+- Para conservar el contenido de todos los buzones de la organización, puede usar una [Directiva de retención para toda la organización](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Tenga en cuenta que en el caso de las directivas de retención de toda la organización, los nuevos usuarios se asignarán automáticamente a la Directiva.

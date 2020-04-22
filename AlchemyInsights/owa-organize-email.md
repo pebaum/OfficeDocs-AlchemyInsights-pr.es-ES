@@ -3,18 +3,18 @@ title: Organizar el correo electrónico en Outlook en la web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: f863adb782abac77c45336ad68a99006e070ee09
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a6f7fd08098a7d56351faa56c2b05878d99a8ee3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556762"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742858"
 ---
 # <a name="organize-your-email"></a>Organizar el correo electrónico
 
