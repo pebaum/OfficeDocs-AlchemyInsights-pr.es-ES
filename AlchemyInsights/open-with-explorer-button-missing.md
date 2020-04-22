@@ -3,7 +3,7 @@ title: Botón abrir con el explorador que falta
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 12/18/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 712afc25-b9db-4f55-bf79-9f4e5861ab9f
-ms.openlocfilehash: 35b12036dfa056b4c5928223133e58259d7edc3e
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: dd8d65bc674ae7bcbc8c4b2179adab05856969e4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36543078"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713087"
 ---
 # <a name="the-open-with-explorer-button-is-missing"></a>Falta el botón abrir con el explorador
 

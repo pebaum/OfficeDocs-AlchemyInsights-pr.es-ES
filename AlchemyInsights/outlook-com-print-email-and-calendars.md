@@ -3,7 +3,7 @@ title: Imprimir el correo electrónico y los calendarios en Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,12 +14,12 @@ ms.custom:
 - "808"
 - "809"
 - "1327"
-ms.openlocfilehash: a91a67bce775292bd33f25301ea379fba91fa541
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 70ef5eba6ab4f203cb8df4cdc40b87ad462dc11a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545419"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712871"
 ---
 # <a name="print-email-and-calendars-in-outlookcom"></a>Imprimir el correo electrónico y los calendarios en Outlook.com
 

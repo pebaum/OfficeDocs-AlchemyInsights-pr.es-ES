@@ -12,16 +12,16 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: e3ebeaef819945562d1e7e4d6a41430a9525d69d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: c0e444f0e87748aff172d3070c25e0ed02682b0a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665633"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712008"
 ---
 # <a name="isues-with-calendar-sharing-in-outlook"></a>Isues con el uso compartido de calendarios en Outlook
 
-- Si no ve la información de disponibilidad de otros calendarios o si otras personas no pueden ver la información de disponibilidad de su calendario, use el [Asistente de soporte y recuperación de Office 365 de Microsoft](https://diagnostics.office.com/).
+- Si no puede ver la información de disponibilidad de calendario en otros calendarios o si otros usuarios no pueden ver la información de disponibilidad en el calendario, use el [Asistente para soporte y recuperación de Microsoft para microsoft 365](https://diagnostics.office.com/).
 
 **Recursos adicionales:**
 

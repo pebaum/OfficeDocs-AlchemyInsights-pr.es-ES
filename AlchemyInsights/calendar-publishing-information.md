@@ -3,7 +3,7 @@ title: Información de publicación de calendario 613
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: c82eaa3717942ff223bb262f8fe7bdbe56cbb17a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 08be08e96ac34c0559a5f5d2b2e47fbb48da28ad
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36737710"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712080"
 ---
 # <a name="calendar-publishing-information"></a>Información de publicación de calendario
 

@@ -9,13 +9,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 400
 ms.assetid: 2a4ceadc-242a-492f-b794-682d40781e9f
-ms.openlocfilehash: 7c3e9f99f0132f3fffa492c995cd8c45959749ea
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b708df774bbcb71a5ba8051fb857bcdd4ca99a0c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768493"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711864"
 ---
 # <a name="issues-seeing-calendar-freebusy-information"></a>Problemas al ver la información de disponibilidad del calendario
 
-Si no puede ver la información de disponibilidad de calendario en otros calendarios de Outlook o si otros usuarios no pueden ver la información de disponibilidad en el calendario, use el [Asistente para soporte y recuperación de Microsoft para Office 365](https://diagnostics.office.com/).
+Si no puede ver la información de disponibilidad de calendario en otros calendarios de Outlook o si otros usuarios no pueden ver la información de disponibilidad en el calendario, use el [Asistente para soporte y recuperación de Microsoft para microsoft 365](https://diagnostics.office.com/).

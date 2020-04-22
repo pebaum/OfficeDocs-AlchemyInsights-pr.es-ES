@@ -3,7 +3,7 @@ title: Corregir problemas de entrega de correo electrónico en carpetas pública
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "1956"
 - "3500007"
 ms.assetid: ''
-ms.openlocfilehash: f7b5e5a230d26870d5e95e8762b5874f73723c6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e261fe60843555fa45927b0a6b36e1ccf79fb028
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525153"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716369"
 ---
 # <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Corregir problemas de entrega de correo electrónico en carpetas públicas habilitadas para correo
 
@@ -25,9 +25,9 @@ Si los remitentes externos no pueden enviar mensajes a sus carpetas públicas ha
 
 1. Abra el [centro de administración de Exchange (EAC)](https://docs.microsoft.com/Exchange/exchange-admin-center).
 
-2. Vaya a **** \> **dominios aceptados**de flujo de correo, seleccione el dominio aceptado y, a continuación, haga clic en **Editar**.
+2. Vaya a **Mail flow** \> **dominios aceptados**de flujo de correo, seleccione el dominio aceptado y, a continuación, haga clic en **Editar**.
 
-3. En la página de propiedades que se abre, si el tipo de dominio **** está configurado como autoritativo, cambie el valor a retransmisión **interna** y, a continuación, haga clic en **Guardar**.
+3. En la página de propiedades que se abre, si el tipo de dominio está configurado como **autoritativo**, cambie el valor a **retransmisión interna** y, a continuación, haga clic en **Guardar**.
 
 Si los remitentes externos reciben el error **que no tiene permiso (550 5.7.13)**, ejecute el siguiente comando en [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) para ver los permisos de los usuarios anónimos en la carpeta pública:
 

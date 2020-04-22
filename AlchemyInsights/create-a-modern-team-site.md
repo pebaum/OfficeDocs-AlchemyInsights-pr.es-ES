@@ -1,19 +1,19 @@
 ---
 title: Crear un sitio de grupo moderno
 ms.author: clake
-author: spowriter
-ms.date: 11/9/2018
+author: pebaum
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
-ms.openlocfilehash: caeb3d464ecb528f3ffc87cf75be4a3f9b410798
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7778ce6afd7dd92d62bda85a978637608b187107
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36516334"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715541"
 ---
 # <a name="create-an-office-365-group-connected-team-site"></a>Crear un sitio de grupo conectado a un grupo de Office 365
 

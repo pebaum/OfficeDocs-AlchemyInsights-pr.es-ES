@@ -1,9 +1,9 @@
 ---
-title: Simulador de ataque de 2681 en Office 365
+title: Simulador de ataque de 2681 en Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 07d7622c00074f7bd0d567185824db448f1eeef3
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 74bd2dd62b24aaf6c9d7b387ab1d97ddab31e902
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305348"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713483"
 ---
-# <a name="attack-simulator-in-office-365"></a>Simulador de ataques en Office 365
+# <a name="attack-simulator-in-microsoft-365"></a>Simulador de ataques en Microsoft 365
 
-- ¿Falta el simulador de ataque? El simulador de ataque requiere el **plan 2 de la protección contra amenazas avanzada de office 365 (ATP plan 2)** u **Office 365 Enterprise E5**. El simulador de ataques **no** se incluye en el plan 1 de la protección contra amenazas avanzada de Office 365 (ATP plan 1), Office 365 Enterprise E3 o cualquier suscripción a Office 365 Business.
+- ¿Falta el simulador de ataque? El simulador de ataque requiere el **plan 2 de la protección contra amenazas avanzada de office 365 (ATP plan 2)** u **Office 365 Enterprise E5**. El simulador de ataque **no** se incluye en el plan 1 de la protección contra amenazas avanzada de Office 365 (ATP plan 1), Office 365 Enterprise E3 o cualquier suscripción a Microsoft 365 para empresas.
 
 - La cuenta que use para iniciar ataques simulados requiere permisos de administrador global o de administrador de seguridad y autenticación multifactor (MFA). Para obtener más información acerca de los requisitos de los simuladores de ataques, vea [este tema](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin).
 
@@ -38,4 +38,4 @@ ms.locfileid: "37305348"
 
 - Informes: una vez completado el ataque simulado, puede hacer clic en detalles de los **ataques** para ver el informe.
 
-- Para obtener instrucciones detalladas y nuevas características en el simulador de ataques, vea [simulador de ataques en Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Para obtener instrucciones detalladas y nuevas características en el simulador de ataques, consulte [simulador de ataques en Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).

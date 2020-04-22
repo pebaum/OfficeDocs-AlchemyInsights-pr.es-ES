@@ -3,7 +3,7 @@ title: Identificar la dirección IP y el cliente en los registros de auditoría
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539046"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716405"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Identificar la dirección IP y el cliente en los registros de auditoría
 
-En los registros de auditoría se muestra la dirección IP que corresponde a una actividad de un usuario o administrador de Office 365. También se registra la información del cliente. Estos son los pasos para identificar dicha información
+La dirección IP que corresponde a una actividad por parte de un usuario o administrador de Microsoft 365 se muestra en los registros de auditoría. También se registra la información del cliente. Estos son los pasos para identificar dicha información
 
-1. Inicie sesión en el [centro de cumplimiento de & de seguridad de Office 365](https://protection.office.com/).
+1. Inicie sesión en el [centro de cumplimiento de & de seguridad de Microsoft 365](https://protection.office.com/).
 
 2. Vaya a la página de**búsqueda del registro de auditoría** de **búsqueda** > .
 
@@ -33,6 +33,6 @@ En los registros de auditoría se muestra la dirección IP que corresponde a una
 
 3. Especifique el nombre de usuario en el campo **usuarios** , seleccione el intervalo de fechas adecuado para la actividad y, a continuación, haga clic en **Buscar**.
 
-En los resultados, puede ver la dirección IP de esa actividad en el panel de resultados. Seleccione el registro de auditoría para ver información detallada en **** el control flotante (por ejemplo, el cliente, el usuario que realizó la acción, etc.).
+En los resultados, puede ver la dirección IP de esa actividad en el panel de resultados. Seleccione el registro de auditoría para ver información detallada en **el control flotante** (por ejemplo, el cliente, el usuario que realizó la acción, etc.).
 
 Para obtener más información, consulte [Buscar la dirección IP del equipo usado para obtener acceso a una cuenta en peligro](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).

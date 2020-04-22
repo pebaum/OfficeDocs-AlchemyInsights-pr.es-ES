@@ -3,7 +3,7 @@ title: Asociar sitios concentradores como propietario del sitio
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 9/18/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000717"
 - "2638"
-ms.openlocfilehash: ecf505a0a3a7851c919f3949321c6b048b904780
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: fa9813ad8dd99777fb9c3c33b1bf83217f3e1c64
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37122490"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712511"
 ---
 # <a name="associate-hub-sites-as-site-owner"></a>Asociar sitios concentradores como propietario del sitio
 
 [Centro de mensajes 186626](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626) compartido cómo se puede realizar la Unión a un concentrador de SharePoint ahora por parte de los propietarios del sitio. Si su organización desea administrar personas específicas que pueden asociarse a un concentrador, siga estos pasos: 
 
-1. Inicie sesión en Office 365 ([https://portal.office.com](https://portal.office.com)) con derechos de administrador.
+1. Inicie sesión en ([https://portal.office.com](https://portal.office.com)) con derechos de administrador.
 2. Seleccione el **iniciador de aplicaciones** (icono con nueve cuadrados) en la parte superior izquierda de la pantalla y, a continuación, seleccione **Administrador**.
 3. Seleccione **centro de administración** en el menú del lado izquierdo de la pantalla y, a continuación, seleccione **SharePoint**.
 4. En el banner azul situado en la parte superior de la pantalla, seleccione **Iniciar aplicación ahora** para mostrar el nuevo centro de administración de SharePoint.

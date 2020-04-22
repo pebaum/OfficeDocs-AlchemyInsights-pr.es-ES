@@ -3,7 +3,7 @@ title: Identificar el reenvío externo de correo electrónico en los buzones de 
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539118"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716477"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identificar cuándo se configura el reenvío externo de correo electrónico en los buzones
 
-Cuando un usuario de Office 365 configura el reenvío externo de correo electrónico en un buzón, la actividad se audita como parte del cmdlet **set-Mailbox** . Puede ver la actividad mediante la búsqueda de registros de auditoría en el centro de seguridad & cumplimiento.
+Cuando un usuario de Microsoft 365 configura el reenvío externo de correo electrónico en un buzón, la actividad se audita como parte del cmdlet **set-Mailbox** . Puede ver la actividad mediante la búsqueda de registros de auditoría en el centro de seguridad & cumplimiento.
 
-1. Inicie sesión en el [centro de cumplimiento de & de seguridad de Office 365](https://protection.office.com/).
+1. Inicie sesión en el [centro de cumplimiento de & de seguridad de Microsoft 365](https://protection.office.com/).
 
 2. Vaya a la página de**búsqueda del registro de auditoría** de **búsqueda** > .
 
-3. Seleccione el intervalo de fechas en los campos **fecha de inicio** y **fecha** de finalización. No es necesario especificar un nombre de usuario. Compruebe que el campo **actividades** está configurado para **Mostrar resultados para todas las actividades**.
+3. Seleccione el intervalo de fechas en los campos **fecha de inicio** y **fecha de finalización** . No es necesario especificar un nombre de usuario. Compruebe que el campo **actividades** está configurado para **Mostrar resultados para todas las actividades**.
 
 4. Haga clic en **Buscar**.
 
@@ -35,7 +35,7 @@ En los resultados, haga clic en **filtrar resultados** y escriba **set-Mailbox**
 
 - **ObjectId**: el valor de alias del buzón que se modificó.
 
-- **** Parameters: _ForwardingSmtpAddress_ indica la dirección de correo electrónico de destino.
+- **Parameters**: _ForwardingSmtpAddress_ indica la dirección de correo electrónico de destino.
 
 - **Userid**: usuario que configuró el reenvío de correo electrónico en el buzón del campo **objectId** .
 

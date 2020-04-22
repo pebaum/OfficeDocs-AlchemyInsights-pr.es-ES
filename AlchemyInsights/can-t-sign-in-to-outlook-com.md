@@ -3,7 +3,7 @@ title: 8000050 no se puede iniciar sesión en Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/31/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,12 +14,12 @@ ms.custom:
 - "842"
 - "8000050"
 ms.assetid: 4dedba59-2b0a-4783-a97e-0cdacc5059ec
-ms.openlocfilehash: 71a8f729e0192673489d3d6eab4284890e7d7665
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7b6fbc3e7667b8827c444b0b824ecb7f92bd75a8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505467"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711612"
 ---
 # <a name="i-cant-sign-in-or-forgot-my-password"></a>No puedo iniciar sesión ni he olvidado mi contraseña
 

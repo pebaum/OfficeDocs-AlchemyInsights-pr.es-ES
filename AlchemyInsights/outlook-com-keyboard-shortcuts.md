@@ -3,18 +3,18 @@ title: 8000087 métodos abreviados de teclado de Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000087
-ms.openlocfilehash: 6144caa8f992fffdfd82c800a780155b29010416
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 68fc08f4c21da5bab74b7b2a05f0dd47d537cf1c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546464"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715973"
 ---
 # <a name="keyboard-shortcuts-in-outlookcom"></a>Métodos abreviados de teclado de Outlook.com
 

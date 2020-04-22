@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 7bbc6a5819b7d7bb879dd730637b90bbe458724d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 24bd59fde3373382edfd1a79066368e064d0bfc5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053494"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713303"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Herramienta de búsqueda de contenido para encontrar información relevante
 
@@ -26,6 +26,6 @@ Antes de usar la [búsqueda de contenido](https://sip.protection.office.com/cont
 
 Obtenga más información sobre la búsqueda de contenido mediante la revisión de los [requisitos y los límites](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), la [investigación de elementos parcialmente indizados](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) y otros resultados que deben tenerse en cuenta.
 
-Después de revisar las opciones de configuración y las restricciones de la búsqueda de contenido, consulte [usar</a> la búsqueda de contenido para buscar elementos locales como correo electrónico, documentos y conversaciones de mensajería instantánea en su organización de Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search).
+Después de revisar las opciones de configuración y las restricciones de la búsqueda de contenido, consulte [usar</a> la búsqueda de contenido para buscar elementos locales como correo electrónico, documentos y conversaciones de mensajería instantánea en su organización](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
 Para obtener más información paso a paso de la búsqueda de contenido, vea [buscar contenido en Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) para obtener más información.

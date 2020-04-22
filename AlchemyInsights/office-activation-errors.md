@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: acd99c8f4ed9ea25bd5e15b161e8c3fae083112b
-ms.sourcegitcommit: 75553b64261eaeaeee16259410753e7bf8982ca1
+ms.openlocfilehash: 6dfd3a767b09f647a615ed24300377169b93f105
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43118478"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713339"
 ---
 # <a name="office-activation-errors"></a>Errores de activación de Office
 
@@ -26,6 +26,6 @@ ms.locfileid: "43118478"
 
 3. Si Office sigue sin licencia, descargue y ejecute el [Solucionador de problemas de activación](https://aka.ms/SARA-OfficeActivation-Alchemy) en el equipo afectado para corregir los problemas de activación. 
 
-4. Si Office sigue sin licencia, [restablezca el estado de activación de Office](https://docs.microsoft.com/es-ES/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). Después, reinicie Office e inicie sesión con su cuenta profesional o educativa, si se le solicita.  
+4. Si Office sigue sin licencia, [restablezca el estado de activación de Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). Después, reinicie Office e inicie sesión con su cuenta profesional o educativa, si se le solicita.  
 
 5. Para ver más acciones de solución de problemas, consulte [Errores de activación y de producto sin licencia en Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).

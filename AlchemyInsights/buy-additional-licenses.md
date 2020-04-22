@@ -12,16 +12,16 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: f41cfd77ce1173e6786f25316f04e84bfa35af07
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 4940746e178ad4f01de0ae237b7bb49bbd045135
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664733"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712188"
 ---
-# <a name="buy-additional-office-365-licenses"></a>Comprar licencias adicionales de Office 365
+# <a name="buy-additional-licenses"></a>Comprar licencias adicionales
 
-1. En el centro de administración, vaya a la página productos de **facturación** \> [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. En el centro de administración, vaya a **Facturación** \> [Productos y servicios](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
 2. Busque la suscripción a la que desea agregar licencias y, a continuación, seleccione **Agregar o quitar licencias**.
 
@@ -32,8 +32,8 @@ ms.locfileid: "36664733"
     > [!NOTE]
     > Si paga la suscripción mediante tarjeta de crédito o cuenta bancaria, todas las licencias nuevas que compre estarán disponibles inmediatamente después de recibir la confirmación del pedido. Si paga mediante factura, es posible que tenga que esperar una comprobación de crédito para que las nuevas licencias estén disponibles para su uso.
 
-Para obtener más información, vea [comprar licencias para la suscripción a Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+Para obtener más información, consulte [comprar licencias para la suscripción a Microsoft 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
 
 **Recursos adicionales**
 
-- [Asignar licencias a usuarios en Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Asignar licencias a usuarios en Microsoft 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)

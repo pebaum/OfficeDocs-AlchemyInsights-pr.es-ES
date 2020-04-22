@@ -1,9 +1,9 @@
 ---
-title: Cancelar la suscripción a Office 365
+title: Cancelar la suscripción a Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 3aecd74ad35c7c9cfc799cc73434e57065f09fdf
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7d1e37d00876c117f7c83f960c05a350ed8a982c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665539"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711576"
 ---
-# <a name="cancelling-your-office-365-subscription"></a>Cancelar la suscripción a Office 365?
+# <a name="cancelling-your-microsoft-365-subscription"></a>¿Está cancelando su suscripción a Microsoft 365?
 
 Lamentamos que vaya, pero estas son las opciones para cancelar su suscripción:
   

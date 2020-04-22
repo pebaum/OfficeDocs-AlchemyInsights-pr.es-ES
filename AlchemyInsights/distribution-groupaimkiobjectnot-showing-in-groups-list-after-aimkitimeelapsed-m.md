@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
-ms.openlocfilehash: af6f3e2040ebf2966f7bf7c4ffe796fa31106ecf
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c1a575b305701953c1b21bee6ebdff5e87072961
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36530512"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715059"
 ---
 # <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>El grupo de distribución "{AimKIObject}" no muestra en la lista de grupos después de {AimKITimeElapsed} minutos
 
@@ -21,4 +21,3 @@ El grupo "{AimKIObject}" se creó hace {AimKITimeElapsed} minutos. Normalmente, 
   
 Es posible que pueda usar la característica Recipients > Groups en el [centro de administración de Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) para administrar su grupo ahora, o usar la opción "Permítanos llamar" para hablar con un ingeniero de soporte técnico. 
   
-

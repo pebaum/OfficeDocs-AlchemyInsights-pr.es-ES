@@ -3,7 +3,7 @@ title: Suscripción expirada
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f7574ff6855481a9378f8563735e380565a3ecf0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665057"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714167"
 ---
 # <a name="expired-subscription"></a>Suscripción expirada
 
@@ -26,15 +26,16 @@ Parece que tiene una o más suscripciones expiradas. Si desea continuar con el s
   
 **Reactivar**
   
-1. En el centro de administración, vaya a la página productos de **facturación** \> [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. En el centro de administración, vaya a **Facturación** \> [Productos y servicios](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Busque la suscripción que desea reactivar. En la sección **facturación** , elija **** reactivar.
+2. Busque la suscripción que quiere reactivar.  En la sección **Facturación**, elija **Reactivar**.
 
-Si no ve reactivar como acción disponible, llame al soporte técnico para reactivar la suscripción. ****
+Si no ve **Reactivar** como acción disponible, llame al soporte técnico para volver a activar la suscripción.
 
-3. Confirmar los detalles de pago. Puede actualizar aquí su información de pago actual. Cuando haya terminado de introducir el método de pago, **** elija reactivar.
+3. Confirme los datos de pago. Puede actualizar aquí su información de pago actual. Cuando haya terminado de especificar el método de pago, seleccione **Reactivar**.
 
-Para obtener más información, consulte reactivar [la suscripción](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Para obtener más información, vea [Reactivar 
+la suscripción](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Realizar una compra nueva**
   
