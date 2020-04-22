@@ -3,19 +3,19 @@ title: 934 habilitar cuentas POP e IMAP
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/15/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 934
 ms.assetid: 2e07bd5a-5aad-41a9-aaba-6b2bedaf92f9
-ms.openlocfilehash: fc1a55f9f3d58ac35645ffd7aaea1692e05d716d
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 733b70f50991ba8d73c566e04521aec0d78889b7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34752828"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703407"
 ---
 # <a name="pop-and-imap4-settings"></a>Configuración de POP e IMAP4
 

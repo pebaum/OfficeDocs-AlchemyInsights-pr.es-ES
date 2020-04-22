@@ -2,18 +2,18 @@
 title: Restringir el acceso a SharePoint o OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 242388af3ae8887616fc123f24502a8e5ac8dfbe
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 39aa8cd6e649eca4a1e196eeb589a825364d0977
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053782"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692782"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>Restringir el acceso a SharePoint o OneDrive
 
@@ -31,11 +31,11 @@ En SharePoint Online y OneDrive para la empresa, se restringe el acceso a elemen
 
 - [Control de acceso desde dispositivos no administrados](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-Como administrador global o de SharePoint en Office 365, puede bloquear o limitar el acceso a SharePoint y el contenido de OneDrive desde dispositivos no administrados (los que no son compatibles con AD híbrido o son compatibles con Intune).
+Como administrador global o de SharePoint, puede bloquear o limitar el acceso a contenido de SharePoint y OneDrive desde dispositivos no administrados (no compatibles con AD híbrido o compatibles con Intune).
 
 **Restricción de ubicación de red**
 
-Como administrador de ti, puede controlar el acceso a los recursos de SharePoint y OneDrive en función de las ubicaciones de red definidas en las que confíe. También se conoce como directiva basada en la ubicación. Para obtener más información, vea [controlar el acceso a los datos de SharePoint Online y OneDrive en función de la ubicación de la red](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location) .
+Como administrador de ti, puede controlar el acceso a los recursos de SharePoint y OneDrive en función de las ubicaciones de red definidas en las que confíe. Esto también se conoce como directiva basada en la ubicación. Para obtener más información, vea [controlar el acceso a los datos de SharePoint Online y OneDrive en función de la ubicación de la red](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location) .
 
 **Restricción de bloqueo del sitio** 
 
@@ -43,5 +43,5 @@ En SharePoint Online tiene la posibilidad de bloquear una colección de sitios, 
 
 **Restringir a los usuarios la creación de sitios o subsitios**
 
-Como administrador de SharePoint o administrador global de Office 365, puede permitir a los usuarios crear y administrar sus propios sitios de SharePoint, determinar qué tipo de sitios pueden crear y especificar la ubicación de los sitios. Para obtener más información, vea [administrar la creación de sitios en SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation) .
+Como administrador de SharePoint o administrador global, puede permitir a los usuarios crear y administrar sus propios sitios de SharePoint, determinar el tipo de sitios que pueden crear y especificar la ubicación de los sitios. Para obtener más información, vea [administrar la creación de sitios en SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation) .
 

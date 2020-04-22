@@ -2,7 +2,7 @@
 title: Código de error 550 5.7.501 acceso denegado, abuso de correo no deseado detectado
 ms.author: chrisda
 author: chrisda
-ms.date: 6/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "351"
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
-ms.openlocfilehash: 545cab07cc7c49def849be20bb6363da228a5393
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7be23f02878d12aa08cb4970af6f99539a9cefab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36740158"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703043"
 ---
 # <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 acceso denegado, se ha detectado abuso de correo no deseado
 
-Normalmente, este mensaje se produce cuando los usuarios envían mensajes de correo electrónico desde direcciones IP mediante el dominio inicial *. onmicrosoft.com* que está asignado a los nuevos inquilinos en Office 365. La forma más sencilla de solucionar este problema es:
+Normalmente, este mensaje se produce cuando los usuarios envían mensajes de correo electrónico desde direcciones IP mediante el dominio inicial *. onmicrosoft.com* que está asignado a los nuevos inquilinos en Microsoft 365. La forma más sencilla de solucionar este problema es:
 
 1. [Agregue un dominio a su inquilino](https://docs.microsoft.com//office365/admin/setup/add-domain).
 

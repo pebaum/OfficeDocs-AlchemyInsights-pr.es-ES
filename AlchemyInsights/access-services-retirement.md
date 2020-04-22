@@ -10,16 +10,16 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: cb8123583b68e945ef878fdbaf211fd1d8205bb3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 977bd5887ef58b328463a9befcd6b47ac55f5a85
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050506"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687275"
 ---
 # <a name="access-services-retirement"></a>Jubilación de servicios de Access
 
-Como se anunció originalmente en MC97576, en marzo de 2017, y se continuó la comunicación a través del último año, los servicios de Access se están retirando de Office 365. La siguiente fase de este proceso será la eliminación de las bases de datos Web de Access que usan listas de SharePoint como almacenamiento de datos subyacente.
+Como se anunció originalmente en MC97576, en el 2017 de marzo, y se siguió comunicándose a través del último año, los servicios de Access se están retirando. La siguiente fase de este proceso será la eliminación de las bases de datos Web de Access que usan listas de SharePoint como almacenamiento de datos subyacente.
 
 **¿Qué me afecta?**
 

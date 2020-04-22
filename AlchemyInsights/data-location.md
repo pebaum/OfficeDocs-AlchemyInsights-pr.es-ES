@@ -10,16 +10,16 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: ec8fb91dfe77cb251579ce23eb0579b114b101d9
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: c769c17796d805f88afb4d5b32adb7d4a9bb3ce0
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627863"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43655299"
 ---
 # <a name="data-location"></a>Ubicación de datos
 
-Puede ver la ubicación del inquilino de Office 365 en el centro de administración o conectándose a Exchange Online a través de PowerShell.
+Puede ver la ubicación del inquilino en el centro de administración o conectándose a Exchange Online a través de PowerShell.
 
 
 **Centro de administración:**

@@ -12,16 +12,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1209e59668bbe69fe88408933ae11b357b8d4f1a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661313"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687635"
 ---
-# <a name="office-365-alert-policies"></a>Directivas de alertas de 365 de Office
+# <a name="alert-policies"></a>Directivas de alerta
 
-El centro de cumplimiento de & de seguridad de Office 365 ofrece [directivas de alerta predeterminadas](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) que desencadenan alertas para organizaciones con una suscripción de Office 365 Enterprise o Office 365 US Government E1/G1, E3/G3 o E5/G5. Por lo tanto, es posible que los administradores reciban una notificación de correo electrónico de alerta enviada por Office365Alerts@microsoft.com con una línea de asunto como "una alerta de gravedad baja: *nombre de la Directiva de alerta*". Las notificaciones de alerta se envían cuando se desencadenan alertas para actividades comunes, como cuando los usuarios:
+El centro de cumplimiento de & de seguridad de Microsoft 365 ofrece [directivas de alertas predeterminadas](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) que desencadenan alertas para organizaciones con una suscripción de Office 365 Enterprise o Office 365 US Government E1/G1, E3/G3 o E5/G5. Por lo tanto, es posible que los administradores reciban una notificación de correo electrónico de alerta enviada por Office365Alerts@microsoft.com con una línea de asunto como "una alerta de gravedad baja: *nombre de la Directiva de alerta*". Las notificaciones de alerta se envían cuando se desencadenan alertas para actividades comunes, como cuando los usuarios:
 
 - Crear reglas de la bandeja de entrada que reenvíen correo.
 - Asigne permisos a su buzón.

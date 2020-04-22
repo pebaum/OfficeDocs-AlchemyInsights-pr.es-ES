@@ -3,20 +3,20 @@ title: ¿Ve retrasos de correo electrónico o correo en cola?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1937
 ms.assetid: ''
-ms.openlocfilehash: 285ad9e856390dc0cba10ebed9aae07461de3e14
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ae90583cc93653a615b5f1abdaa699b52a8b8af5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765441"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703804"
 ---
 # <a name="are-you-seeing-email-delays-or-queued-mail"></a>¿Ve retrasos de correo electrónico o correo en cola?
 
-Recientemente hemos empezado a descartar extremos SMTP de Office 365 anteriores. Estos valores de destino de Office 365 estaban disponibles para usarlos en los registros MX y Smart hosts anteriores a 2012. Si todavía usa uno de estos valores anteriores, tendrá que actualizar el punto de conexión de Office 365 a un valor admitido. Para obtener más información, consulte esta [compatibilidad con KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).
+Recientemente empezamos a descartar los extremos SMTP más antiguos. Estos valores de destino estaban disponibles para usarlos en los registros MX y Smart hosts antes 2012. Si todavía usa uno de estos valores anteriores, deberá actualizar el extremo a un valor admitido. Para obtener más información, consulte esta [compatibilidad con KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).

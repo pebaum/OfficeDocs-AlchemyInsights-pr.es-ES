@@ -3,7 +3,7 @@ title: Outlook.com carpetas que faltan
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/9/2020
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,12 +15,12 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: e6a5170655d98eaa914f686753e0aea3873fc058
-ms.sourcegitcommit: e1307138631f9a5489f5309dfc5dd1bc6be3dc96
+ms.openlocfilehash: b484939b1427c0461e9893f75cfc8c5c6288b70f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42572592"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698363"
 ---
 # <a name="find-missing-folders"></a>Buscar carpetas que faltan
 

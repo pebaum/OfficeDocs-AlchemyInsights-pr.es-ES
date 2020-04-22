@@ -3,7 +3,7 @@ title: Establecimiento o cambio de permisos de carpetas públicas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 8/27/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
-ms.openlocfilehash: 1015c2203406e15d6b418c387b6632a182d6d2ff
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: cf891a4db05b8a2bdb223cc86693f5072faca494
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36734686"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43681121"
 ---
 # <a name="permissions-and-public-folders"></a>Permisos y carpetas públicas
 

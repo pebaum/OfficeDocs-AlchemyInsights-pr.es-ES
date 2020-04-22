@@ -3,18 +3,18 @@ title: Cambiar la información de la cuenta en Outlook en la web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 71895ba9ab1f2ac78bbe59415dd59099c4270cc1
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 861892a3e51727f00fcbbeedf1cf434589d7432a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36510604"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43667010"
 ---
 # <a name="change-account-information-in-outlook-on-the-web"></a>Cambiar la información de la cuenta en Outlook en la web
 

@@ -3,7 +3,7 @@ title: Eliminar un sitio de SharePoint
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 7/30/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: aa881dd6618f6912b854929db625f4cbaeb048d7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36514081"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705030"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Eliminar sitios que pertenecen a un grupo de Office 365
 
@@ -26,7 +26,7 @@ Cuando los usuarios crean un nuevo sitio de grupo desde la Página principal de 
     
 2. Active la casilla de verificación situada junto al grupo.
     
-3. Seleccione **eliminar**.
+3. Seleccione **Eliminar**.
     
 Nota: cuando se elimina un grupo, puede haber un retraso antes de que se quite el sitio de SharePoint.
   

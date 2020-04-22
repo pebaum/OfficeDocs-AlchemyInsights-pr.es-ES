@@ -3,7 +3,7 @@ title: Abrir archivo en modo de solo lectura
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: eddd427b159a782abf53adda934de8b15a02ed00
-ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
+ms.openlocfilehash: c045188af15fcec0f868eb0e5b399bd1fb42a09a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/10/2019
-ms.locfileid: "36822251"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702791"
 ---
 # <a name="file-open-read-only"></a>Abrir archivo en modo de solo lectura
 
@@ -37,7 +37,7 @@ Los archivos de Internet y de otras ubicaciones potencialmente no seguras pueden
   
  **¿Está lleno OneDrive?**
   
-Si el archivo está almacenado en OneDrive y el espacio de almacenamiento de OneDrive está lleno, no podrá guardar el documento hasta que se encuentre en el espacio asignado. Puede comprobar el espacio libre en OneDrive haciendo clic en el icono de OneDrive en el centro de notificaciones y eligiendo administrar almacenamiento, o [http://onedrive.live.com](http://onedrive.live.com)puede iniciar sesión y tener en cuenta la cantidad de espacio usado en la parte inferior izquierda de la pantalla.
+Si el archivo está almacenado en OneDrive y el espacio de almacenamiento de OneDrive está lleno, no podrá guardar el documento hasta que se encuentre en el espacio asignado. Puede comprobar el espacio libre en OneDrive haciendo clic en el icono de OneDrive en el centro de notificaciones y eligiendo administrar almacenamiento, o [https://onedrive.live.com](https://onedrive.live.com)puede iniciar sesión y tener en cuenta la cantidad de espacio usado en la parte inferior izquierda de la pantalla.
   
  **¿Está Office activado?**
   

@@ -12,12 +12,12 @@ ms.custom:
 - "277"
 - "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 9408ea841ec142450c6a796b703021e0e2835543
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: 72a0ea867e8ea6bc5fff80b6a8497195c15f82e7
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068314"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43655515"
 ---
 # <a name="change-payment-method"></a>Cambiar el método de pago
 
@@ -29,4 +29,4 @@ Puede comprobar y cambiar el método de pago que está configurado en el centro 
 
 3. Siga los pasos que se indican en la pantalla para completar el cambio.
 
-Para obtener más información, consulte [cambiar el método de pago de Office 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
+Para obtener más información, consulte [cambiar el método de pago de Microsoft 365 para empresas](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)

@@ -1,5 +1,5 @@
 ---
-title: Configurar SPF en Office 365
+title: Configurar SPF
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,12 +14,12 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: bece763f0408199aadbd76899b2c59a3f05e0f94
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 03fd19c5758e591a1b791e3cfd081647c5584b6d
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286331"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43646013"
 ---
 # <a name="set-passwords-to-never-expire"></a>Establecer contraseñas nunca para expirar
 

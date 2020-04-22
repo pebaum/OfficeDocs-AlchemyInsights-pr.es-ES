@@ -3,7 +3,7 @@ title: 8000045 agregar emojis
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/26/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1402"
 - "8000045"
-ms.openlocfilehash: 92de9a03b8fbb1a0d8a27ba1479e2b1dd5454b88
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4fc30ba6d5e582ef2bab9a3484177559c8044b2c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538073"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43681949"
 ---
 # <a name="adding-emojis-to-email-messages"></a>Adición de emojis a mensajes de correo electrónico
 

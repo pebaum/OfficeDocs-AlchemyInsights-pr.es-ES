@@ -2,18 +2,18 @@
 title: Acceso denegado al ver un flujo de trabajo
 ms.author: pebaum
 author: pebaum
-ms.date: 11/27/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 1cfda8e08ada05858a28f2bede8c31261f9de351
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: c576bf88225582f2577e0b59506a7482cf9f38d5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050542"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687347"
 ---
 # <a name="access-denied-when-viewing-a-workflow"></a>Acceso denegado al ver un flujo de trabajo
 

@@ -3,7 +3,7 @@ title: Acceso denegado al asignar una unidad a SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: c41bfd9d25c8aa946a4ec5156be6d2424f4e2133
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 23ee86df5404b6f20f3a4b605038b31b6f9fd731
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36737494"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687383"
 ---
 # <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Solucionar problemas con bibliotecas de SharePoint asignadas a unidades de red
 

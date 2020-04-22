@@ -3,7 +3,7 @@ title: 1048 5.7.750 servicio no disponible. El cliente bloqueó el envío de dom
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
 ms.custom:
 - "1048"
 - "3100026"
-ms.openlocfilehash: 7126b4de7f7d8861afdb22af2540d6910c1d014f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 48b9c2de27f8d7f52215c3a3d547bdf746a3a4cd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494472"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676730"
 ---
-# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a>el cliente de 5.7.750 bloqueó el envío desde un dominio no registrado
+# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a>5.7.750: se bloqueó el envío de un dominio no registrado
 
-El error se produce cuando se envía un gran volumen de mensajes desde dominios que no se aprovisionan en Office 365 (que se agregan como dominios aceptados y se validan).
+El error se produce cuando se envía un gran volumen de mensajes desde dominios no aprovisionados en el espacio empresarial (agregados como dominios aceptados y validados).
 
 Para evitar este error, puede usar un conector de flujo de correo basado en certificados donde el dominio del certificado sea un dominio aprovisionado o puede aprovisionar todos los dominios de envío.

@@ -3,7 +3,7 @@ title: 1245-Import-PST-Services
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +13,20 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: bab1a842d3c9c8ec32c066e7615e175c2e1d7a7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bac2f919f65d318fd669f97690a4543717ffc884
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496380"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687779"
 ---
-# <a name="office-365-import-service"></a>Servicio de importación de Office 365
+# <a name="microsoft-365-import-service"></a>Servicio de importación 365 de Microsoft
 
-El servicio de importación de Office 365 le permite importar de forma masiva varios archivos PST a los buzones de Exchange Online.
+El servicio de importación de Microsoft 365 le permite importar de forma masiva varios archivos PST a los buzones de Exchange Online.
 
 Para acceder al servicio de importación e iniciar el proceso de importación:
 
-1. Vaya al [centro de seguridad & cumplimiento](https://protection.office.com) e inicie sesión con las credenciales de una cuenta de administrador en la organización de Office 365.
+1. Vaya al [centro de seguridad & cumplimiento](https://protection.office.com) e inicie sesión con las credenciales de una cuenta de administrador de la organización.
 
 2. En el panel izquierdo del **centro de seguridad & cumplimiento**, haga clic en **gobierno de datos > importar**.
 

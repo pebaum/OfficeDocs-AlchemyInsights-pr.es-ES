@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2593"
 - "9000698"
-ms.openlocfilehash: d95bd56839e56b199c7a7c4e569c8fe2c5d00c1e
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: c349f896d68c408ce6e5adba4bd69d012e0f2daa
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908866"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43655407"
 ---
 # <a name="pstn-calling-with-skype-for-business-online"></a>Llamadas RTC con Skype empresarial online
 
-Si desea realizar llamadas RTC en Office 365, necesitará un [plan de llamadas de office 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) o una conexión con su infraestructura de telefonía RTC local. Para obtener más información, vea:
+Si desea realizar llamadas RTC en Microsoft 365, necesitará un [plan de llamadas de microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) o una conexión con su infraestructura de telefonía RTC local. Para obtener más información, vea:
 
-- [Disponibilidad de país y región para audioconferencia y planes de llamada](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
-- [Preguntas comunes relacionadas con Microsoft Office 365 audio audioconferencia](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
-- [Adición de fondos y administración de créditos de comunicaciones](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
+- [Country and region availability for Audio Conferencing and Calling Plans](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) (Países y regiones donde Audioconferencia y Planes de llamada están disponibles)
+- [Preguntas comunes relacionadas con Microsoft 365 audio audioconferencia](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
+- [Agregar fondos y administrar los créditos de comunicaciones](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
 - [Los autores de llamadas RTC no pueden unirse a una llamada de conferencia de acceso telefónico local de Skype empresarial](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)

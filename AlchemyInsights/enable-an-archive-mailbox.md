@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: bf2526460ed8b2684ea3ad210f451180a6ca8014
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43132628"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703696"
 ---
 # <a name="enable-an-archive-mailbox"></a>Habilitación de un buzón de archivo
 
@@ -25,7 +25,7 @@ Esta es la manera de crear un buzón de archivo:
   
 1. Vaya a [https://protection.office.com](https://protection.office.com).
 
-2. Inicie sesión en Office 365 con su cuenta de administrador.
+2. Inicie sesión en Microsoft 365 con su cuenta de administrador.
 
 3. En el panel izquierdo del centro de &amp; seguridad y cumplimiento, seleccione **archivo**de **gobierno** \> de información.
 
@@ -51,6 +51,6 @@ Para habilitar el archivo para un buzón compartido:
 
 Para obtener más información, vea:
   
-- [Habilitar buzones de archivo en Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Habilitar buzones de archivo](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Configurar una directiva de archivo y eliminación en Office 365](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [Configurar una directiva de archivo y eliminación](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

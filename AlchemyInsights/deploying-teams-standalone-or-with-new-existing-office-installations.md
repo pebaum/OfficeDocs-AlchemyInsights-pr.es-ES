@@ -3,7 +3,7 @@ title: Implementación de Teams como independiente o con instalaciones de Office
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
-ms.date: 08/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "2509"
-ms.openlocfilehash: 3318e1b17cc99e927e1011f7ca9eca8dec616d59
-ms.sourcegitcommit: 4600dd4fb577bf5f5482a24616c2d9a6b81e8052
+ms.openlocfilehash: 4b843407f05db207f3b676c03c7088d3d0ba062e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054247"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704650"
 ---
 # <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Implementación de Teams como independiente o con instalaciones de Office nuevas o existentes
 
-Microsoft Teams ahora se incluye como parte de las ***nuevas instalaciones*** de Office 365 ProPlus, Office 365 empresa y Office para Mac. Para obtener más información, vea [¿Cuándo Microsoft Teams se incluirá en las nuevas instalaciones de Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft Teams ahora se incluye como parte de las ***nuevas instalaciones*** de las aplicaciones de Microsoft 365 para empresas, Microsoft 365 apps for Business y Office para Mac. Para obtener más información, vea [¿Cuándo Microsoft Teams se incluirá en las nuevas instalaciones de Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
-Además, a partir de la versión 1906 en el canal mensual, los equipos se ***agregarán a las instalaciones existentes*** de Office 365 ProPlus (y Office 365 Business) en los dispositivos que ejecutan Windows cuando actualice la instalación existente a la versión más reciente. Para obtener más información, vea [¿Qué ocurre con las instalaciones existentes de Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
+Además, a partir de la versión 1906 en el canal mensual, los equipos se ***agregarán a las instalaciones existentes*** de Microsoft 365 apps for Enterprise (y Microsoft 365 apps for Business) en dispositivos que ejecuten Windows cuando actualice la instalación existente a la versión más reciente. Para obtener más información, vea [¿Qué ocurre con las instalaciones existentes de Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
 > [!NOTE]
 > Si no desea esperar a esta programación de lanzamiento, puede implementar Teams como independiente para los usuarios siguiendo [estas instrucciones](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) o puede hacer que los usuarios instalen Teams para sí mismos [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads).
