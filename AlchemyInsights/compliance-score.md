@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: 304b50b9be50d42a4d54a1898773b458fca7eb4d
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: e77bb9a93325b49cf0f45cc74109432badc481c5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600388"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706110"
 ---
 # <a name="compliance-score"></a>Puntuación de cumplimiento
 
@@ -33,7 +33,7 @@ El administrador global tendrá que configurar los [permisos](https://docs.micro
 
 **Para obtener más información sobre**:
 
-- Configuración de permisos de acceso para la puntuación de cumplimiento, vea [proporcionar acceso a los usuarios al centro de cumplimiento de & de seguridad de Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
+- Configuración de permisos de acceso para la puntuación de cumplimiento, consulte [proporcionar a los usuarios acceso al centro de cumplimiento de & de seguridad de Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
 - Trabajar con acciones de mejora en la puntuación de cumplimiento, vea [Working with Compliance score](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
 - Cómo se calcula la puntuación de cumplimiento, consulte [metodología de puntuación de cumplimiento](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
 - Puntuación de cumplimiento frente a administrador de cumplimiento, consulte [Relationship to Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).

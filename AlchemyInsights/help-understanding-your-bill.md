@@ -3,7 +3,7 @@ title: Ayuda para comprender su factura
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: b58ec93be19f42bf0fe04c71d615c7b680a599e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 97b26cb0843233bea281cac2363ff4ccf1bec58e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523096"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710100"
 ---
 # <a name="help-understanding-your-bill"></a>Ayuda para comprender su factura
 
-El importe facturado por su suscripción de Office 365 para empresas refleja el precio de la licencia multiplicado por el número de licencias adquiridas y los impuestos o cuotas necesarios.
+El importe facturado para su suscripción refleja el precio de la licencia multiplicado por el número de licencias adquiridas y los impuestos/cuotas que se han solicitado.
   
 Si el importe facturado es diferente y se espera, hay algunas razones por las que esto puede ocurrir:
   
-- Se agregaron o quitaron licencias de la suscripción. Cuando las licencias cambian a plazo medio, esto se refleja en la siguiente factura. Es posible que vea un crédito y una nueva factura del período de servicio anterior para tener en cuenta este cambio.
+- Se agregaron o quitaron licencias de la suscripción. Cuando las licencias cambian a plazo medio, esto se refleja en la siguiente factura. Es posible que vea que se ha generado crédito y una factura nueva del período de servicio anterior debido a este cambio.
 
-- La suscripción se ha cancelado. Recibirá una factura tras la cancelación con cualquier saldo pendiente menos los créditos.
+- Se ha cancelado la suscripción. Recibirá una factura tras la cancelación con el saldo pendiente menos el crédito que tuviera disponible.
 
-- La suscripción se ha renovado para un nuevo plazo y el precio de la licencia ha cambiado.
+- La suscripción se renovó para un nuevo período y el precio de la licencia ha cambiado.
 
 Para obtener más información sobre la factura, vea: [comprender la factura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)

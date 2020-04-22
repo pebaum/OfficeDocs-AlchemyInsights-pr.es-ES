@@ -3,7 +3,7 @@ title: Cómo obtener acceso a Outlook.com durante el viaje
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "921"
 - "8000056"
 ms.assetid: d497edc0-f945-4c45-9fe0-f7060c259848
-ms.openlocfilehash: b341642e2ad078e53829b3a34d238a68b73cd0a7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c24722758fe023246bf37c3cc260735848c656ac
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522700"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709748"
 ---
 # <a name="how-to-access-outlookcom-while-traveling"></a>Cómo obtener acceso a Outlook.com durante el viaje
 

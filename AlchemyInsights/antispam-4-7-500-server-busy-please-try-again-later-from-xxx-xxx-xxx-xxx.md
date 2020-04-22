@@ -3,7 +3,7 @@ title: 1050 contra 4.7.500 servidor ocupado. Vuelva a intentarlo más tarde desd
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "1050"
 - "3100024"
 ms.assetid: a97b7845-4884-4d99-bab6-52539603cab2
-ms.openlocfilehash: 7f6a8bee1417741e7a8145778f03bf6fd8c9bdcd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e1f6d7d6db0b229c116de79ae66bac48ef81bac8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494328"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707964"
 ---
 # <a name="47500-server-busy-please-try-again-later"></a>4.7.500 el servidor está ocupado; inténtelo de nuevo más tarde.
 

@@ -3,7 +3,7 @@ title: 760 conectarse a Exchange Online PowerShell
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "760"
 - "3500011"
 ms.assetid: 0f9e4dc5-1e06-4941-860b-4474a6f63247
-ms.openlocfilehash: 72f98bd0838b7fbb12f328b0a8b84b8a9ac86796
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7b7e717a6f5946fc50c762a9e353c6d975c3589b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516940"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705786"
 ---
 # <a name="connect-to-exchange-online-powershell"></a>Conexión a Exchange Online PowerShell
 

@@ -3,7 +3,7 @@ title: Cambiar los permisos de una lista o biblioteca de SharePoint
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
-ms.openlocfilehash: 9033e8da6b3032b47b761b89e18af643100afaa0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: a42d23edd663523f8da1392eaf57290ee1fc900b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36519100"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706657"
 ---
 # <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Cambiar los permisos de una lista o biblioteca de SharePoint
 

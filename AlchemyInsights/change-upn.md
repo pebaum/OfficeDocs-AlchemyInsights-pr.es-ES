@@ -3,7 +3,7 @@ title: Cambiar UPN
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: d7a7cdea8de8f6e12a9c98142c86dc80f7e1b172
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 4ea3c9e8cd2e90aa8dc5a3ec00b19245627398c3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36738610"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706471"
 ---
 # <a name="change-a-users-email-address"></a>Cambiar la dirección de correo electrónico de un usuario
 
@@ -30,14 +30,14 @@ Cambiar la dirección de correo electrónico de una persona es fácil. Siga esto
     
 4. En el cuadro **alias** , escriba un nuevo correo electrónico y, a continuación, elija **Agregar**.
     
-    **IMPORTANTE**: Si recibe el mensaje de error " **No se encuentra ningún parámetro que coincida con el nombre de parámetro 'EmailAddresses'"**, significa que Office 365 está tardando un poco más en finalizar la configuración de su espacio empresarial o de su dominio personalizado si ha agregado alguno recientemente. El proceso de configuración puede tardar hasta 4 horas en completarse. Espere un poco para que el proceso de configuración tenga el tiempo suficiente para finalizarse y después inténtelo de nuevo. Si el problema continúa, llame al soporte técnico, que realizará una sincronización completa.
+    **Importante**: Si recibe el mensaje de error " **no se encuentra un parámetro que coincida con el nombre de parámetro ' EmailAddresses**", significa que se está tardando mucho tiempo en finalizar la configuración del espacio empresarial o en el dominio personalizado si agregó uno recientemente. El proceso de configuración puede tardar hasta 4 horas en completarse. Espere un poco para que el proceso de configuración tenga el tiempo suficiente para finalizarse y después inténtelo de nuevo. Si el problema continúa, llame al soporte técnico, que realizará una sincronización completa.
     
-    Si recibe el mensaje de error "lo **sentimos, el usuario no se puede editar. Revise la información de usuario y vuelva a intentarlo**"significa que no es un administrador global de Office 365 y no tiene permisos para cambiar el nombre del usuario.
+    Si recibe el mensaje de error "lo **sentimos, el usuario no se puede editar. Revise la información de usuario y vuelva a intentarlo**"significa que no es un administrador global y que no tiene permisos para cambiar el nombre del usuario.
     
 5. Elija **Establecer como principal** para la dirección de correo electrónico que desea establecer como la dirección de correo electrónico principal de esa persona. Si compró la suscripción a GoDaddy, debe iniciar sesión en su consola de administración para establecer la dirección de correo electrónico principal. 
     
 6. Elija **Guardar**y, **después,** haga clic en finalizar.
     
-¿No era tan fácil? Para obtener más detalles y pasos con capturas de pantallas, consulte este artículo: [cambiar el nombre de usuario y la dirección de correo electrónico en Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
+¿No era tan fácil? Para obtener más detalles y pasos con capturas de pantallas, consulte este artículo: [cambiar el nombre de usuario y la dirección de correo electrónico](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
   
 

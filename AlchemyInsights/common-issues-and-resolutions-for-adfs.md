@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 4453a9d62a63e980a9f9f56eb6ff2551c58e3e2b
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 555f633601672084f0e3d56b674be4e425455749
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286676"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706218"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Problemas comunes y soluciones para ADFS
 
@@ -28,4 +28,4 @@ La configuración del dominio federado se puede actualizar tal y como se describ
 
 - [2647020](https://support.microsoft.com/help/2647020) "lo sentimos, pero estamos teniendo problemas para iniciar su sesión" y "80041317" o "80043431" cuando un usuario federado intenta iniciar sesión en Office 365, Azure o Intune.
 
-Para obtener más información, vea [Actualizar o reparar la configuración de un dominio federado en Office 365, Azure o Intune](https://docs.microsoft.com/es-ES/office365/troubleshoot/active-directory/update-federated-domain-office-365).
+Para obtener más información, vea [Actualizar o reparar la configuración de un dominio federado en Office 365, Azure o Intune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).

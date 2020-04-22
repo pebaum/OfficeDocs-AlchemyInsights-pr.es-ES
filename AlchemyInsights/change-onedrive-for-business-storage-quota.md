@@ -3,7 +3,7 @@ title: Cambiar la cuota de almacenamiento de OneDrive para la empresa
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 5/18/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
-ms.openlocfilehash: cd774b8b5a046d946aeefd6a0473a05d8afd9b36
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 3a8278954b6d9ad475bf4e7d403672ad483af04a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050218"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706736"
 ---
 # <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Cambiar el espacio de almacenamiento predeterminado de OneDrive para los usuarios
 

@@ -3,18 +3,18 @@ title: Imprimir el correo electrónico, los calendarios y los datos adjuntos en 
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: bf4ae61907e2a179bba39edb4f8eb05608e00907
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cd555c205a6b84cf010aff8494c8ec3b18eb24b9
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556726"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707312"
 ---
 # <a name="print-email-calendars-and-attachments"></a>Imprimir correo electrónico, calendarios y datos adjuntos
 

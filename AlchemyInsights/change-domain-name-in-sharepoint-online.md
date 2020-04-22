@@ -10,18 +10,18 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: 7eb6e1463b95e01554722dd4790ab334371c86d9
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a1bb502f7afdbd700a6c247046dc2033a9ab065b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050254"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706916"
 ---
 # <a name="change-domain-name-in-sharepoint-online"></a>Cambiar el nombre de dominio en SharePoint Online
 
-Por desgracia, no se puede cambiar el nombre de dominio de SharePoint Online para su organización en Office 365. Por ejemplo, si el nombre de su organización cambia de "Contoso" a "Fourth Coffee", no puede cambiar contoso.sharepoint.com a fourthcoffee.sharepoint.com.
+Por desgracia, no se puede cambiar el nombre de dominio de SharePoint Online para su organización. Por ejemplo, si el nombre de su organización cambia de "Contoso" a "Fourth Coffee", no puede cambiar contoso.sharepoint.com a fourthcoffee.sharepoint.com.
   
-Para usar el nombre de dominio fourthcoffee.sharepoint.com, debe comprar una nueva suscripción a Office 365 y mover todo el correo electrónico, todos los archivos y cualquier otro dato que desee conservar a la nueva suscripción.
+Para usar el nombre de dominio fourthcoffee.sharepoint.com, debe comprar una nueva suscripción y mover todo el correo electrónico, todos los archivos y cualquier otro dato que desee conservar a la nueva suscripción.
   
  **Nota**: por ejemplo, para cambiar el nombre de un sitio de https://contoso.sharepoint.com/sites/sample1 a https://contoso.sharepoint.com/sites/sample2, siga las instrucciones de [este artículo](https://docs.microsoft.com/sharepoint/change-site-address). 
   

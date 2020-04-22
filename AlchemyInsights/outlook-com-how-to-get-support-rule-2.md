@@ -3,7 +3,7 @@ title: Outlook.com Cómo obtener soporte técnico
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1326"
 - "8000080"
-ms.openlocfilehash: 9e77e1bb55477ec1279bd9e0cae5a2f4875afac7
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 5b4fe5e6d31cec63c4580f69bf54ec9b83befe20
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36536498"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708812"
 ---
 # <a name="how-to-get-support-in-outlookcom"></a>Cómo obtener soporte técnico en Outlook.com
 

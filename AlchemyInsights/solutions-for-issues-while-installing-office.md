@@ -2,7 +2,7 @@
 title: Soluciones para problemas durante la instalación de Office
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,12 +12,12 @@ ms.custom:
 - "852"
 - "2000020"
 ms.assetid: 26f1e0e6-7fbb-4c6d-aa31-eb60a2a77655
-ms.openlocfilehash: 496db627c9d56fb19322e2fda7d9733ded7407ce
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 40f5f691754469bc82a89a88407cf26d0134cc4a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501456"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709100"
 ---
 # <a name="solutions-for-issues-while-installing-office"></a>Soluciones para problemas durante la instalación de Office
 
@@ -29,7 +29,7 @@ Pruebe una de estas soluciones para corregir el error de Office:
 
 1. Cuando se abre, desde **desinstalar productos de Office** seleccione la versión que quiere desinstalar y seleccione **siguiente**.
 
-2. Continúe pasando por las pantallas y reinicie el equipo cuando se le pida.
+2. Siga por el resto de las pantallas y cuando se le pida, reinicie el equipo.
 
     Después de reiniciar, el Asistente para soporte y recuperación se vuelve a abrir automáticamente para completar el proceso de desinstalación.
 

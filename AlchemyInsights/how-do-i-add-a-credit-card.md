@@ -3,7 +3,7 @@ title: ¿Cómo agrego una tarjeta de crédito?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: 14c1c3af556eff16abbc4d1e0f8046ce1aa8343f
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
+ms.openlocfilehash: 2d308a5ec0ed959c9c0794a94a8b8dc4855de7a5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43100308"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710064"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>¿Cómo agrego una tarjeta de crédito?
 

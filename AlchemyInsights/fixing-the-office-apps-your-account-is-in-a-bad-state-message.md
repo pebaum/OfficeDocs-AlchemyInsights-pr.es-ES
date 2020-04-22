@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2558"
 - "9000571"
-ms.openlocfilehash: b28865ff1da434a254c9051183074be35cdd0252
-ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
+ms.openlocfilehash: ac760b417ad98b9d5bb6be4b92e60074ab93ceb3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/17/2020
-ms.locfileid: "43547979"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708704"
 ---
 # <a name="fixing-the-office-apps-your-account-is-in-a-bad-state-error"></a>Error al reparar las aplicaciones de Office "la cuenta está en mal estado"
 
@@ -27,5 +27,5 @@ Para solucionar este error, pruebe las siguientes opciones en el equipo afectado
   **Nota:** Las rutas del registro para Office 2016 han cambiado a 16,0. Por ejemplo, \Software\Microsoft\Office\16.0\Common\Identity\
 - Si el error se produce al conectar con Office 365 mediante Office 2013, [habilite la autenticación moderna](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication) para el cliente de Office.
 
-Para obtener más información, vea [cómo solucionar problemas de aplicaciones que no son de explorador que no pueden iniciar sesión en Office 365, Azure o Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1).
+Para obtener más información, vea [cómo solucionar problemas de aplicaciones que no son de explorador que no pueden iniciar sesión en Microsoft 365, Azure o Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1).
 

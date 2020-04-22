@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001724"
 - "3823"
-ms.openlocfilehash: d1625793baf17749415abc304d16e885ffffeeea
-ms.sourcegitcommit: 5aa4a4f40cf064f0cdb944ef35054719e87eeda3
+ms.openlocfilehash: 08a6cb319b3aea720178a8ef988482140fc44856
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42699822"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703335"
 ---
 # <a name="enabling-teams-and-office-365-a1"></a>Habilitar Teams y Office 365 A1
 
@@ -25,6 +25,3 @@ Si tiene un espacio empresarial educativo, debe habilitar Microsoft Teams manual
 **Importante**: es posible que tenga que esperar 24 horas para que los cambios surtan efecto. 
 
 Obtenga más información sobre la [Formación y aprendizaje remotos en Office 365 Educación](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4), instrucciones para TI en [Introducción a Microsoft Teams para el aprendizaje remoto](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) y [Realizar la transición a aprendizaje remoto](https://www.microsoft.com/education/remote-learning).
-
- 
-

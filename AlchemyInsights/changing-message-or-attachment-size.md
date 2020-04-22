@@ -10,16 +10,16 @@ ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: bbb8741fcb394d0951a1fb40400a7534737d3a7a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 18d136f1fdd67b4af89b0f81da19e052f5ea3ff8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769680"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706428"
 ---
 # <a name="changing-message-or-attachment-size"></a>Cambiar el tamaño de mensajes o datos adjuntos
 
-Como administrador de Office 365, puede cambiar el tamaño máximo/mínimo de los mensajes (que incluye datos adjuntos) que envían los usuarios. Puede hacerlo para usuarios individuales o para todos los usuarios (valor predeterminado de la organización). Después de cambiar esta configuración, tardará unos 30 minutos en entrar en vigor.
+Como administrador de Microsoft 365, puede cambiar el tamaño máximo/mínimo de los mensajes (que incluye datos adjuntos) que envían los usuarios. Puede hacerlo para usuarios individuales o para todos los usuarios (valor predeterminado de la organización). Después de cambiar esta configuración, tardará unos 30 minutos en entrar en vigor.
   
 - Para cambiar el tamaño del mensaje para un usuario específico, vaya **a centro** \> de administración de los **buzones de correo**de los **destinatarios** \> de **Exchange** \> . Seleccione el buzón de un usuario. Seleccione el icono Editar, seleccione **características de buzón**y, a continuación, en **restricciones en el tamaño del mensaje**, elija **Ver detalles** y especifique el tamaño máximo del mensaje.
 

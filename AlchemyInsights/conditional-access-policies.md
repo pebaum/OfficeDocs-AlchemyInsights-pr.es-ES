@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002357"
 - "4583"
-ms.openlocfilehash: 8ce41d007988f2a45f1ded385ae50ac3def97c1b
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
+ms.openlocfilehash: 569507318b499cdbcf2a1cd75e84046953f62212
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43100637"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706074"
 ---
 # <a name="conditional-access-policies"></a>Directivas de acceso condicional
 
@@ -24,7 +24,7 @@ El acceso condicional es una función de Azure AD que le permite aplicar control
 
 Obtenga más información sobre el [acceso condicional de Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/).  
 
-[Nota](http://aka.ms/securitydefaults): si su espacio empresarial se creó después del 21 de octubre de 2019 y se le pide MFA de manera inesperada, es probable que tenga **valores predeterminados de seguridad** habilitados en el espacio empresarial.
+[Nota](https://aka.ms/securitydefaults): si su espacio empresarial se creó después del 21 de octubre de 2019 y se le pide MFA de manera inesperada, es probable que tenga **valores predeterminados de seguridad** habilitados en el espacio empresarial.
 
 **Para administrar los valores predeterminados de seguridad**
 

@@ -3,7 +3,7 @@ title: Cambiar la cantidad de licencias de aplicaciones
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000568"
 - "2425"
-ms.openlocfilehash: 86a61336da218fb64876401741f4babe8958f64c
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 9914a95ddbebf376e740b2d7b3d88ae58aed4a45
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36519784"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707060"
 ---
 # <a name="change-app-license-quantity"></a>Cambiar la cantidad de licencias de aplicaciones
 

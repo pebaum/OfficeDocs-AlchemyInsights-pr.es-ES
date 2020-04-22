@@ -3,7 +3,7 @@ title: Outlook.com no puede enviar correo electrónico
 ms.author: lpyfer
 author: lpyfer
 manager: joallard
-ms.date: 10/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "9000251"
 - "1845"
 - "1841"
-ms.openlocfilehash: b04fa37bc4d56eafa397e00033919dcb56240ff5
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 5f6dbd98b899ff915a4706c5996c9d3c35be9773
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37698181"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710820"
 ---
 # <a name="unable-to-send-email-in-outlookcom"></a>No se puede enviar correo electrónico en Outlook.com
 

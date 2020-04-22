@@ -1,5 +1,5 @@
 ---
-title: Cumplimiento con la comunidad
+title: Cumplimiento de las comunicaciones
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: e612c1fb9c0a1b1f6e9a53a2b9eefeed0583dc9e
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: a10d6ce44ab205087669b3f2152351a949030b02
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274986"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706182"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Cumplimiento de la comunicación en Microsoft 365
 
-El cumplimiento de la comunicación es una nueva solución de cumplimiento de Microsoft 365 que ayuda a las organizaciones a cumplir los requisitos de cumplimiento de supervisión y a minimizar los riesgos de comunicación. Se basa en la característica de supervisión de Office 365 y contiene nuevas mejoras, entre las que se incluyen:
+El cumplimiento de la comunicación es una nueva solución de cumplimiento de Microsoft 365 que ayuda a las organizaciones a cumplir los requisitos de cumplimiento de supervisión y a minimizar los riesgos de comunicación. Se basa en la característica de supervisión y contiene nuevas mejoras, entre las que se incluyen:
 
 - Plantillas inteligentes y personalizables
 - Flujos de trabajo de corrección flexibles
 - Información que requiere acción
 
-Si actualmente usa [directivas de supervisión en Office 365](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), le recomendamos que ahora use el nuevo cumplimiento de la comunicación para satisfacer las necesidades regulatorias.
+Si actualmente usa [directivas de supervisión](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), le recomendamos que ahora use el nuevo cumplimiento de la comunicación para satisfacer las necesidades regulatorias.
 
 Para configurar el cumplimiento de comunicaciones, vea [Configure Communication Compliance](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
 

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002450"
 - "4766"
-ms.openlocfilehash: bc95cabc61266643b49777d21f4829fb1fcc1ea3
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: c83fa35f948456d0ee2a53621e9b4e7ad63b84f2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286772"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706880"
 ---
 # <a name="change-exchange-online-plans"></a>Cambiar los planes de Exchange Online
 
@@ -24,7 +24,7 @@ Los administradores necesitan cambiar de plan de forma manual. Para obtener los 
 
 1. Compre el nuevo plan de suscripción. En el centro de administración de Microsoft 365, vaya a **Facturación > [Servicios de compra](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Es más fácil usar el cuadro de búsqueda para buscar los planes de Exchange.
 
-2. Compruebe su nueva suscripción y licencias. En el centro de administración de Microsoft 365, vaya a **> de facturación [suscripciones](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Si la nueva suscripción no aparece en la lista, o si no lo está, consulte [siguiente](https://docs.microsoft.com/en-us/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#the-new-subscription-isnt-listed-or-isnt-active).
+2. Compruebe su nueva suscripción y licencias. En el centro de administración de Microsoft 365, vaya a **> de facturación [suscripciones](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Si la nueva suscripción no aparece en la lista, o si no lo está, consulte [siguiente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#the-new-subscription-isnt-listed-or-isnt-active).
 
 3. Reasigne licencias a los usuarios. En el centro de administración de Microsoft 365, vaya a **usuarios > [usuarios activos](https://go.microsoft.com/fwlink/p/?linkid=834822)** y asignar licencias.
 
