@@ -3,7 +3,7 @@ title: No se pueden seleccionar contactos al redactar correo electrónico en Out
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,13 +14,13 @@ ms.custom:
 - "880"
 - "8000048"
 ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
-ms.openlocfilehash: b74cabb36a6214c81ba90004225e1c08eeb1b262
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d674538e9d84f47ab7ee51975e752ac24f6e1ea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518632"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711684"
 ---
-# <a name="cant-select-contacts-when-composing-email"></a><span data-ttu-id="ae59a-102">No se pueden seleccionar contactos al redactar correo electrónico</span><span class="sxs-lookup"><span data-stu-id="ae59a-102">Can't select contacts when composing email</span></span>
+# <a name="cant-select-contacts-when-composing-email"></a><span data-ttu-id="0a081-102">No se pueden seleccionar contactos al redactar correo electrónico</span><span class="sxs-lookup"><span data-stu-id="0a081-102">Can't select contacts when composing email</span></span>
 
-<span data-ttu-id="ae59a-103">Al redactar un nuevo correo electrónico, algunos clientes no ven la lista de contactos cuando hacen clic en los botones **para** o **CC** .</span><span class="sxs-lookup"><span data-stu-id="ae59a-103">When composing a new email, some customers don't see their list of contacts when they click the **To** or **Cc** buttons.</span></span> <span data-ttu-id="ae59a-104">Para seleccionar un contacto, empiece a escribir en los campos **para** o **CC** y se mostrarán los contactos relacionados.</span><span class="sxs-lookup"><span data-stu-id="ae59a-104">To select a contact, start typing in the **To** or **Cc** fields and your related contacts will be displayed.</span></span>
+<span data-ttu-id="0a081-103">Al redactar un nuevo correo electrónico, algunos clientes no ven la lista de contactos cuando hacen clic en los botones **para** o **CC** .</span><span class="sxs-lookup"><span data-stu-id="0a081-103">When composing a new email, some customers don't see their list of contacts when they click the **To** or **Cc** buttons.</span></span> <span data-ttu-id="0a081-104">Para seleccionar un contacto, empiece a escribir en los campos **para** o **CC** y se mostrarán los contactos relacionados.</span><span class="sxs-lookup"><span data-stu-id="0a081-104">To select a contact, start typing in the **To** or **Cc** fields and your related contacts will be displayed.</span></span>

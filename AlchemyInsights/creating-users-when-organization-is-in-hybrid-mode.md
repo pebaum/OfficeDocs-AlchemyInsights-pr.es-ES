@@ -3,7 +3,7 @@ title: 744 crear usuarios cuando la organización está en modo híbrido
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "744"
 - "1200022"
 ms.assetid: ed17197d-cee9-4539-b3dc-de5ac04efc79
-ms.openlocfilehash: 3300b746e60158db4feac5b1df9f9f95a30c0d9f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2ccad7ce9f2cdfa2c11dc020a0bcb84eec1cf096
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514924"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715285"
 ---
-# <a name="create-users-in-hybrid-deployments"></a><span data-ttu-id="67864-102">Crear usuarios en implementaciones híbridas</span><span class="sxs-lookup"><span data-stu-id="67864-102">Create users in hybrid deployments</span></span>
+# <a name="create-users-in-hybrid-deployments"></a><span data-ttu-id="8cd2b-102">Crear usuarios en implementaciones híbridas</span><span class="sxs-lookup"><span data-stu-id="8cd2b-102">Create users in hybrid deployments</span></span>
 
-<span data-ttu-id="67864-103">Cuando su organización es una implementación híbrida entre un entorno local y Office 365, debe crear todos los objetos de usuario en su implementación local de Active Directory.</span><span class="sxs-lookup"><span data-stu-id="67864-103">When your organization is a hybrid deployment between an on-premises environment and Office 365, you need to create all user objects in your on-premises Active Directory.</span></span> <span data-ttu-id="67864-104">Cree los objetos de usuario en la unidad organizativa (Uo) adecuada para que se sincronicen en su organización de Office 365.</span><span class="sxs-lookup"><span data-stu-id="67864-104">You create the user objects in the appropriate organizational unit (OU) so they're synchronized into your Office 365 organization.</span></span>
+<span data-ttu-id="8cd2b-103">Cuando su organización es una implementación híbrida entre un entorno local y Microsoft 365, debe crear todos los objetos de usuario en su implementación local de Active Directory.</span><span class="sxs-lookup"><span data-stu-id="8cd2b-103">When your organization is a hybrid deployment between an on-premises environment and Microsoft 365, you need to create all user objects in your on-premises Active Directory.</span></span> <span data-ttu-id="8cd2b-104">Cree los objetos de usuario en la unidad organizativa (OU) adecuada para que se sincronicen en su organización.</span><span class="sxs-lookup"><span data-stu-id="8cd2b-104">You create the user objects in the appropriate organizational unit (OU) so they're synchronized into your organization.</span></span>
