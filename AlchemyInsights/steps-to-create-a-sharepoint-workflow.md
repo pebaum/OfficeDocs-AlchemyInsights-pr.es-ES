@@ -2,7 +2,7 @@
 title: Pasos para crear un flujo de trabajo de SharePoint
 ms.author: pebaum
 author: pebaum
-ms.date: 8/6/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "1718"
-ms.openlocfilehash: ee76edc1ab5d4b174d72e61f432f3ff7fe07e0c5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 137ddfe7cecb95b01657d8a0db364c0f1483c6a1
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053566"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764062"
 ---
 # <a name="steps-to-create-a-sharepoint-workflow"></a>Pasos para crear un flujo de trabajo de SharePoint
 

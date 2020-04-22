@@ -2,18 +2,18 @@
 title: ¿Quién tiene un archivo desprotegido?
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
-ms.openlocfilehash: 4fcf59f7f803f4824bedc38c1a57ff2368367c11
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1f834d972829aa643edd90f7ae2419b402e3a8f5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054899"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765142"
 ---
 # <a name="who-has-a-file-checked-out"></a>¿Quién tiene un archivo desprotegido?
 

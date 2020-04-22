@@ -3,7 +3,7 @@ title: Solucionar problemas de directivas y perfiles de Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 19d2bf0e85e83b9e1a7fbdc24a4b3d21abf34941
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4c01baf99b17addb50209be19edf11d45116071b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533644"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766690"
 ---
 # <a name="troubleshooting-intune-policy-and-profiles"></a>Solución de problemas de directivas y perfiles de Intune
 

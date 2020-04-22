@@ -1,5 +1,5 @@
 ---
-title: S/MIME en Outlook en la web
+title: S/MIME en Outlook en la Web
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 33e94eac6a2982b8036e13d17bf60015f244f2cb
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7184ffd68f56639a8bcb87e9c6cab88388868103
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053242"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764889"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>Cifrar mensajes de correo electrónico en Outlook
 
-El cifrado de mensajes de Office 365 se basa en Microsoft Azure Rights Management (Azure RMS), que forma parte de Azure Information Protection. Si su suscripción incluye Azure Rights Management o Azure Information Protection, **no necesita realizar ninguna acción para habilitar o activar manualmente** el servicio Rights Management.
+El cifrado de mensajes de Microsoft 365 se basa en Microsoft Azure Rights Management (Azure RMS), que forma parte de Azure Information Protection. Si su suscripción incluye Azure Rights Management o Azure Information Protection, **no necesita realizar ninguna acción para habilitar o activar manualmente** el servicio Rights Management.
 
 En función de los comentarios de los clientes, ya no se habilitarán las reglas de flujo de correo de Exchange para cifrar automáticamente el correo saliente que contiene determinados tipos de información confidencial en el espacio empresarial de forma predeterminada. En su lugar, proporcionamos instrucciones detalladas sobre cómo puede hacerlo usted mismo. Para obtener más información sobre cómo crear una regla de transporte para cifrar información confidencial, consulte [este artículo](https://aka.ms/OmeEtr).
 

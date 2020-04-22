@@ -3,7 +3,7 @@ title: Característica de solicitudes de acceso
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 11/14/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: c61947bc99d92768b18baaafd8d857d402e867b0
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 56cf55fcc58a33e8f2501196a552b3ac2dad7dff
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051910"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767338"
 ---
 # <a name="give-users-access-to-sharepoint-site"></a>Conceder a los usuarios acceso al sitio de SharePoint
 

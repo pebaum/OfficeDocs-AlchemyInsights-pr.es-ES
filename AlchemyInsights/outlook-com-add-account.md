@@ -3,7 +3,7 @@ title: 9000236 Outlook.com agregar cuenta
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: a7eed96ea74b037adaa39bbe2d91936d65fe54c3
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8224ded963b3098b78b20f6bb157c183243d769b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36538217"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761005"
 ---
 # <a name="add-your-other-email-accounts-to-outlookcom"></a>Agregue sus otras cuentas de correo electrónico a Outlook.com
 

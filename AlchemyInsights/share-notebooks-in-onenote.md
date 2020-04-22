@@ -3,7 +3,7 @@ title: Cómo compartir blocs de notas en OneNote para la web o en OneNote 2016
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 5/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000556"
 - "2406"
-ms.openlocfilehash: 4648aa6e072e20fb5914e91faf25c2011d8aa6b5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 557e9f7736ac075a8f2619e6c11f115c9fca58e6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549308"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767446"
 ---
 # <a name="share-notebooks-in-onenote-for-the-web-or-onenote-2016"></a>Compartir blocs de notas en OneNote para la web o OneNote 2016
 

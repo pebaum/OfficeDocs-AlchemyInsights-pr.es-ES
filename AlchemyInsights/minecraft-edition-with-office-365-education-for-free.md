@@ -3,7 +3,7 @@ title: Minecraft Edition con Office 365 educación gratuita
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 11/6/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: e4e88f315b94e4b1318fada8abde8413233c41a6
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: aa65e494dce09d4cb54fea29b5b37d6f54c4a089
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389665"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762082"
 ---
 # <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Edition con Office 365 educación gratuita
 

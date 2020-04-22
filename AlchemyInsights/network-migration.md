@@ -2,7 +2,7 @@
 title: Migración de red
 ms.author: pebaum
 author: pebaum
-ms.date: 7/27/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 2fb66d68e131d22bc44f0fd878717d5e5e776dac
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: aada8e90d168a4c621dd81ee8d306b934c20d119
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36734722"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761831"
 ---
 # <a name="network-migration"></a>Migración de red
 
-El inquilino de O365 probablemente está asociado a varias redes de Yammer en un espacio empresarial de 1: muchas configuraciones de red. A partir del 16 de octubre de 2018, Yammer ya no será compatible con varias redes de Yammer asociadas con un inquilino de Office 365. Puede realizar una migración de red para obtener una configuración de 1:1 preferida.
+El inquilino de O365 probablemente está asociado a varias redes de Yammer en un espacio empresarial de 1: muchas configuraciones de red. A partir del 16 de octubre de 2018, Yammer ya no será compatible con varias redes de Yammer asociadas a un espacio empresarial. Puede realizar una migración de red para obtener una configuración de 1:1 preferida.
   
-- Para ver una lista de las redes asociadas a su inquilino, inicie sesión en Yammer como administrador global de Office 365 y vaya a **Administrador de red**y, a continuación, **migración de red**. Elija **Siguiente**.
+- Para ver una lista de las redes asociadas a su inquilino, inicie sesión en Yammer como administrador global y vaya a **Administrador de red**y, a continuación, **migración de red**. Elija **Siguiente**.
 
 - Si ve varias redes en la lista del paso 2 de 3, tiene varias redes de Yammer asociadas con el inquilino de O365.
 

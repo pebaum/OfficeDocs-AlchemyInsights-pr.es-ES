@@ -3,7 +3,7 @@ title: 8000068-Outlook.com agregar cuenta-Español
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/7/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1141"
 - "8000068"
-ms.openlocfilehash: 97d3ed4dfc367141ec9f2e1a6264b96f711dcac4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f41d82cf08efe107fbd3b21bebe99998c786d9ee
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542826"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761041"
 ---
 # <a name="agregar-sus-otras-cuentas-de-correo-electrnico"></a>Agregar sus otras cuentas de correo electrónico
 

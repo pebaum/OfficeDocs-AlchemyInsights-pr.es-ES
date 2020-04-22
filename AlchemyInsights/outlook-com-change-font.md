@@ -3,7 +3,7 @@ title: Cambiar fuente en Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,12 +14,12 @@ ms.custom:
 - "1919"
 - "8000013"
 ms.assetid: 824035f6-90d3-4ea2-a92b-6b73b4ec0076
-ms.openlocfilehash: e60bf163d00bcffc9fde96b06941c56576b60ce8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9b7106b78435e71d9e23662e7b5b71e8099e3d41
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547723"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760753"
 ---
 # <a name="change-font-or-font-size"></a>Cambiar la fuente o el tamaño de fuente
 

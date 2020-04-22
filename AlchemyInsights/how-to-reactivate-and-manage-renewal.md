@@ -3,7 +3,7 @@ title: Cómo reactivar y administrar la renovación
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,32 +13,33 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 5b9674920eb28cd48805ecab72cdf6f4149d62e3
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: a0e06904289b026b498aadf09c426473b11e9662
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739330"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763460"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Cómo reactivar y administrar la facturación recurrente
 
 Parece que tiene una suscripción que ha expirado. Si desea volver a activarla, siga estos pasos.
   
-1. En el centro de administración, vaya a la página productos de **facturación** \> [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. En el centro de administración, vaya a **Facturación** \> [Productos y servicios](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Busque la suscripción que desea reactivar. En la sección **facturación** , seleccione **reactivar**.
+2. Busque la suscripción que quiere reactivar.  En la sección **facturación** , seleccione **reactivar**.
 
     Si no ve **reactivar** como opción, use el botón "Necesito ayuda" para hablar con un ingeniero de soporte técnico para reactivar la suscripción.
 
-3. Confirmar los detalles de pago. Puede actualizar aquí su información de pago actual. Cuando haya terminado de introducir el método de pago, seleccione **reactivar**.
+3. Confirme los datos de pago. Puede actualizar aquí su información de pago actual. Cuando haya terminado de introducir el método de pago, seleccione **reactivar**.
 
-Para obtener más información, consulte [reactivar la suscripción](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Para obtener más información, vea [Reactivar 
+la suscripción](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 Para administrar la facturación mensual o anual, puede activar o desactivar la **facturación periódica** .
   
-1. En el centro de administración, vaya a la página productos de **facturación** \> [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. En el centro de administración, vaya a **Facturación** \> [Productos y servicios](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Elija la suscripción para la que desea administrar la facturación recurrente.
+2. Elija la suscripción para la que quiere administrar la facturación periódica.
 
 3. En **facturación**, seleccione **Editar**, junto a **renueva** o **expiración**.
 
@@ -46,4 +47,4 @@ Para administrar la facturación mensual o anual, puede activar o desactivar la 
 
 5. Seleccione **Enviar cambio**.
 
-Para obtener más información, consulte [activar o desactivar la facturación recurrente](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Para más información, consulte [Activar o desactivar la facturación periódica](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

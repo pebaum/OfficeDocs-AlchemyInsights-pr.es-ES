@@ -3,18 +3,18 @@ title: Volver a la versión clásica de Outlook en la web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: b50d8c94d831a1836a65077bc33cd7665db9baa9
-ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
+ms.openlocfilehash: 5fe1b04c69527cc12902f6d33fee50d6b1673f49
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/10/2019
-ms.locfileid: "36822142"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765646"
 ---
 # <a name="the-new-outlook-on-the-web"></a>El nuevo Outlook en la web
 

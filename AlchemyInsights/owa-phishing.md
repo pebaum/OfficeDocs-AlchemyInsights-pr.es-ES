@@ -3,19 +3,19 @@ title: Trabajar con suplantación de identidad (phishing) en Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000289"
-ms.openlocfilehash: d9f199035251c8b4f8041fc8530d1eca2eb3c7e8
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e63a58a73c84ae65e9ff562436f995c511d5cb85
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36556625"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765718"
 ---
 # <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Cómo tratar un correo de suplantación de identidad (phishing) en Outlook en la web
 

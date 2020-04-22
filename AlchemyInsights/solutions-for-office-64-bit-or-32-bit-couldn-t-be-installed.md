@@ -3,7 +3,7 @@ title: No se pudieron instalar las soluciones para ' Office (64-bit o 32-bit)
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,12 +14,12 @@ ms.custom:
 - "905"
 - "2000023"
 ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
-ms.openlocfilehash: e32916d40a2cfebf71440573e5d35439ded26b5f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cff7315b2a8967d99941c56ce0c62d025172895a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501263"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764206"
 ---
 # <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Soluciones para "Office (64-bit o 32-bit) no se pudo instalar
 
@@ -31,7 +31,7 @@ Para solucionar este error y cambiar de 32 a 64 bits, debe hacer lo siguiente en
 
 1. Cuando se abre, desde **desinstalar productos de Office** seleccione la versión que quiere desinstalar y seleccione **siguiente**.
 
-2. Continúe pasando por las pantallas y reinicie el equipo cuando se le pida.
+2. Siga por el resto de las pantallas y cuando se le pida, reinicie el equipo.
 
     Después de reiniciar, el Asistente para soporte y recuperación se vuelve a abrir automáticamente para completar el proceso de desinstalación.
 

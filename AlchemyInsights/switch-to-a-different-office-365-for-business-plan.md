@@ -1,5 +1,5 @@
 ---
-title: Cambiar a otro plan de Office 365 para empresas
+title: Cambiar a otro plan de Microsoft 365 para empresas
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fecb44a283b3c68611f4e2cbf9163b96ea806cd6
-ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
+ms.openlocfilehash: 1bc79393f28feae564ef02866143f25ca5791011
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/17/2020
-ms.locfileid: "43548015"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763810"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Cambiar a otro plan de Office 365 para empresas
+# <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Cambiar a otra suscripción de Microsoft 365 para empresas
 
-Cuando cambie su empresa o necesite más características de Office 365, puede actualizar a un nuevo plan.
+Cuando cambie su empresa o necesite más características, puede actualizar a un nuevo plan.
   
 1. En el centro de administración, vaya **a \> facturación de [productos & servicios](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 

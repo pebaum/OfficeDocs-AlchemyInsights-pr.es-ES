@@ -3,7 +3,7 @@ title: Soluciones para el error 30015-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,12 +14,12 @@ ms.custom:
 - "834"
 - "2000020"
 ms.assetid: 4293f495-01c5-4ea4-8268-bfc0a25bdf57
-ms.openlocfilehash: 8a45e9c7f75db4f821eda92bc7f8ed290f363708
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ebd6db153ab812d803ed5aecabe9dddb91300d51
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501919"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43757074"
 ---
 # <a name="solutions-for-error-30015-4"></a>Soluciones para el error 30015-4
 
@@ -29,7 +29,7 @@ ms.locfileid: "36501919"
 
 1. Cuando se abre, desde **desinstalar productos de Office** seleccione la versión que quiere desinstalar y seleccione **siguiente**.
 
-2. Continúe pasando por las pantallas y reinicie el equipo cuando se le pida.
+2. Siga por el resto de las pantallas y cuando se le pida, reinicie el equipo.
 
     Después de reiniciar, el Asistente para soporte y recuperación se vuelve a abrir automáticamente para completar el proceso de desinstalación.
 

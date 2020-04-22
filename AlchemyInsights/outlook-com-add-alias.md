@@ -3,7 +3,7 @@ title: 9000238 Outlook.com Agregar alias
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1821"
 - "9000238"
-ms.openlocfilehash: 7fcef66309b6330f46062d62a89829f9f342fd31
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 48645126925cd5e40fae435c55847501ec1c17d8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36542718"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760969"
 ---
 # <a name="add-an-email-alias-in-outlookcom"></a>Agregar un alias de correo electrónico en Outlook.com
 
