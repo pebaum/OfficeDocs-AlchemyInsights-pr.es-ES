@@ -3,7 +3,7 @@ title: Los archivos están bloqueados para su edición
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 766df76bc1e19218b6de131115af414a8007a7a7
-ms.sourcegitcommit: 75346a972c2174248de3bb55a19d714cee43c1cc
+ms.openlocfilehash: 3e332ecb76e76b7e56437cc0fef0254b9dca4438
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43209437"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765106"
 ---
 # <a name="why-cant-i-edit-files"></a>¿Por qué no puedo editar archivos?
 

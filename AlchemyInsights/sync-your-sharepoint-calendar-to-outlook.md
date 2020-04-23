@@ -3,7 +3,7 @@ title: Sincronizar el calendario de SharePoint con Outlook
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 08/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 8158b1fd762fe541a56c821fd68f1bdfa5d7339c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f997fa106f00d3c5598e955aea9c8e4e79a54f6e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050794"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766978"
 ---
 # <a name="issues-synchronizing-your-calendar-to-devices"></a>Problemas al sincronizar el calendario con los dispositivos
 

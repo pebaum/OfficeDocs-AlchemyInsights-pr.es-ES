@@ -3,7 +3,7 @@ title: Notificaciones de alerta de SharePoint no entregadas
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: 978ca8df40736228932ae6f6a7c33ad0b159d4e5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40047084"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742064"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>Notificaciones de alerta de SharePoint no entregadas
 
@@ -26,7 +26,7 @@ Compruebe la carpeta de correo no deseado en el correo electrónico, ya que a ve
 
 Determine si no **se entregan todas las alertas** o si no se entrega **una alerta individual** de un archivo o biblioteca específicos.
 
-- **No se entregan alertas individuales**: Si no se entrega una alerta individual de un archivo o biblioteca específicos, puede intentar eliminarla y volver a crearla. Consulte [administrar, ver o eliminar alertas de SharePoint](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online) para volver a crear la alerta.
+- **No se entregan alertas individuales**: Si no se entrega una alerta individual de un archivo o biblioteca específicos, puede intentar eliminarla y volver a crearla. Consulte [administrar, ver o eliminar alertas de SharePoint](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) para volver a crear la alerta.
 - **No se entregan todas las alertas**: Si no se entregan todas las alertas de varios archivos o bibliotecas, visite el [Panel de estado del servicio](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) para comprobar si hay algún asesor o incidente que pueda producirse con SharePoint o Exchange. El problema podría estar relacionado con la capacidad de alerta de SharePoint o con retrasos en los correos electrónicos a través de Exchange. También será importante tener en cuenta si se va a entregar otro correo electrónico y, de no ser así, es probable que el problema se produzca con retrasos de Exchange.
 
 Preguntas más frecuentes sobre alertas:

@@ -3,7 +3,7 @@ title: Restaurar un sitio eliminado de OneDrive
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 10/31/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "3174"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: 822c7462bc0cbcd5cbcb4041aa93fd47e7a4c70e
-ms.sourcegitcommit: fc2357059b6126b2ae3571baeec1ee89a5d36bdd
+ms.openlocfilehash: 151cd3f6fc0be241e689ec9cfe84b437d53529ed
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37913718"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764637"
 ---
 # <a name="restore-a-deleted-onedrive-site"></a>Restaurar un sitio eliminado de OneDrive
 

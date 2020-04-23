@@ -3,7 +3,7 @@ title: Agregar una cuenta de Gmail a Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1820"
 - "9000236"
-ms.openlocfilehash: 59325a0d1221dac6fcd905f3918c164f69551271
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 75e5c4b76192daa1793717c7e9534583e6c15c78
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36538145"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760933"
 ---
 # <a name="add-your-gmail-account-to-outlookcom"></a>Agregar su cuenta de Gmail a Outlook.com
 

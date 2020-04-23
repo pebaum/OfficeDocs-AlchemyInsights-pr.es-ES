@@ -3,7 +3,7 @@ title: Soluciones para el error 30179-25
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 12/19/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: 858c2f23-bcf5-42e4-92c5-8749eed29dfb
 ms.custom:
 - "835"
 - "2000020"
-ms.openlocfilehash: dca552a2b2ec743c6d4a0feff81e93341b800443
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 37e4c78ecd28c11d5f42a1448d96b856ef05d92c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501600"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767230"
 ---
 # <a name="solutions-for-error-30179-25"></a>Soluciones para el error 30179-25
 

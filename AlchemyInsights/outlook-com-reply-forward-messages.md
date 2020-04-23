@@ -3,7 +3,7 @@ title: Cómo responder o reenviar mensajes en Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "762"
 - "8000033"
 ms.assetid: 16e5bfdc-3363-4e1b-9436-789ce67ad22e
-ms.openlocfilehash: f36f4015f4dcc10775a1324130d080baa6b0db5a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9e4e102ee5734cfe3bdbd011668262d053a5363b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545528"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743758"
 ---
 # <a name="how-to-reply-to-or-forward-messages-in-outlookcom"></a>Cómo responder o reenviar mensajes en Outlook.com
 

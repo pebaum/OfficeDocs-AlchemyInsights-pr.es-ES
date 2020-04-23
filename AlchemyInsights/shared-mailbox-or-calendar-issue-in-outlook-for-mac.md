@@ -3,18 +3,18 @@ title: ¿Buzón compartido o problema de calendario en Outlook para Mac?
 ms.author: supravee
 author: supravee
 manager: jackiesm
-ms.date: 8/22/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77d6f7c0-4a3b-49c6-8def-a18f4a120443
-ms.openlocfilehash: 9ec02849481dfbe65873722214cd00c3796c67af
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a66de94cdb4b66167650addfe7739957cfc8547b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548984"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742292"
 ---
 # <a name="shared-mailbox-or-calendar-issue-in-outlook-for-mac"></a>¿Buzón compartido o problema de calendario en Outlook para Mac?
 

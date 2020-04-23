@@ -2,7 +2,7 @@
 title: Identificador de regla de perfiles de aprovisionamiento de iOS 1029
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
-ms.openlocfilehash: 1bde6205c98b97eae3340bcbfe154402c8c82c8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 07f98f96958e4897a3e14cef424cb0d7bd491dcc
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498144"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765934"
 ---
 # <a name="ios-provisioning-profiles"></a>Perfiles de aprovisionamiento de iOS
 

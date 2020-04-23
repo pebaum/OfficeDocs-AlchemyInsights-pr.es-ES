@@ -10,16 +10,16 @@ localization_priority: Priority
 ms.custom:
 - "595"
 - "3100017"
-ms.openlocfilehash: 394fb3f3ddb432f45f7410f69627c80f66adb7d8
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 74581bcadf668d5d40c7dcc6d9ac2635875c29fe
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664841"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712619"
 ---
 # <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>¿Recibes demasiado correo no deseado o de suplantación de identidad en tu buzón?
 
-Vea [Reducir el correo no deseado en Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) para solucionar problemas de correo no deseado.
+Vea [Cómo reducir el correo no deseado](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) para solucionar problemas de correo no deseado.
   
 La mejor forma de notificar sobre estos tipos de problemas es:
   

@@ -3,7 +3,7 @@ title: 1488-realizar-eDiscovery-y-Content-searchs
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555250"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764745"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Cómo realizar búsquedas de contenido y búsquedas de exhibición de documentos electrónicos
 
-Use la herramienta de búsqueda de contenido en el centro de seguridad & cumplimiento para encontrar rápidamente el correo electrónico en los buzones de Exchange, los documentos en los sitios de SharePoint y la cuenta de OneDrive, y las conversaciones de mensajería instantánea en Skype empresarial. También puede usar la herramienta de búsqueda de contenido para buscar correos electrónicos, documentos y conversaciones de mensajería instantánea en las herramientas de colaboración de Office 365, como Microsoft Teams y Office 365 groups.
+Use la herramienta de búsqueda de contenido en el centro de seguridad & cumplimiento para encontrar rápidamente el correo electrónico en los buzones de Exchange, los documentos en los sitios de SharePoint y la cuenta de OneDrive, y las conversaciones de mensajería instantánea en Skype empresarial. También puede usar la herramienta de búsqueda de contenido para buscar correos electrónicos, documentos y conversaciones de mensajería instantánea en las herramientas de colaboración de Microsoft 365, como Microsoft Teams y Office 365 groups.
 
 **Para realizar una búsqueda de contenido**
 

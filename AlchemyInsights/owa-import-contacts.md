@@ -3,7 +3,7 @@ title: '8000019: Cómo agregar o importar contactos'
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/23/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "8000019"
 - "2002"
 ms.assetid: ''
-ms.openlocfilehash: 2c3fcc98f85715305949873b19747be59f633d9b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 729c974995f4f4da3c2370dc7804416035dda508
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556650"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742930"
 ---
 # <a name="import-contacts"></a>Importar contactos
 

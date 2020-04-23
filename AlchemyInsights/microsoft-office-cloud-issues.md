@@ -1,5 +1,5 @@
 ---
-title: Rol de administrador y cómo asignar
+title: Rol de administrador y cómo hacer la asignación
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: c734b2707003a17e6ac88f32ca28adc4e96e139a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8bc63bd52b1d6a9a7913f025c9dc3390ffbb023f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054791"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762370"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>¿Tiene problemas con un servicio en la nube?
 
@@ -23,5 +23,5 @@ Si experimenta problemas con un servicio en la nube, puede comprobar el [Estado 
 
 **Directiva de notificación**
 
-Cuando ocurre un incidente de servicio, Microsoft es consciente de que una comunicación precisa, destinada a las personas indicadas y a tiempo resulta fundamental para los clientes. Microsoft notifica a los administradores de Office 365 mediante la actualización del panel de estado del servicio específico del inquilino [(publicación)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) en el portal de administración de Office 365. Las actualizaciones de incidentes de servicio se proporcionan en una cadencia por horas o, si se requiere una cadencia distinta, se indicará en el registro de comunicación de publicación. Para obtener más información, vea [Cómo comprobar el estado del servicio de Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Cuando ocurre un incidente de servicio, Microsoft es consciente de que una comunicación precisa, destinada a las personas indicadas y a tiempo resulta fundamental para los clientes. Microsoft notifica a los administradores mediante la actualización del panel de estado del servicio específico del inquilino [(publicación)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) en el portal de administración de Microsoft 365. Las actualizaciones de incidentes de servicio se proporcionan en una cadencia por horas o, si se requiere una cadencia distinta, se indicará en el registro de comunicación de publicación. Para obtener más información, consulta [Cómo comprobar el estado del servicio de Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

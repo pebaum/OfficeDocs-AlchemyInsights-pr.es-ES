@@ -3,7 +3,7 @@ title: Solución de problemas al usar abrir con el explorador
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 12/10/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: a9ab7dd27e4dc1bd76c93cc81260616063e638ed
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: cb26876d93a110b3b0addd7821206215c783f959
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36742750"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759709"
 ---
 # <a name="fix-problems-with-open-with-explorer"></a>Solucionar problemas con abrir con el explorador
 

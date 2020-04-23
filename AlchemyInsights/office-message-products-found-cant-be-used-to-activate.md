@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: a2f2062ddecf74e41dcca2ee90999827a42f4b04
-ms.sourcegitcommit: 75553b64261eaeaeee16259410753e7bf8982ca1
+ms.openlocfilehash: 2593baeb696ae4dcc74dd997ff5e9f630897fea9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43118473"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761466"
 ---
 # <a name="office-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Mensaje de aplicaciones de Office: Los productos encontrados en la cuenta no se pueden usar para activar
 
 - Compruebe que el [estado de la suscripción](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) es válido y que el usuario afectado tiene [asignada una licencia válida](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) y está conectado a Internet. 
 
-- Abra una aplicación de Office, haga clic en **Archivo > Cuenta** y cierre la sesión de todas las cuentas. Vuelva a iniciar sesión con una cuenta de usuario que tenga una licencia válida. Para obtener información más detallada, consulte [Cuentas en Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9?ui=en-US&rs=en-GB&ad=GB).
+- Abra una aplicación de Office, haga clic en **Archivo > Cuenta** y cierre la sesión de todas las cuentas. Vuelva a iniciar sesión con una cuenta de usuario que tenga una licencia válida. Para obtener información más detallada, consulte [Cuentas en Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
 - Ejecute el [Solucionador de problemas de activación](https://aka.ms/SARA-OfficeActivation-Alchemy) y reinicie el equipo.
 

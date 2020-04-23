@@ -3,7 +3,7 @@ title: Desinstalar el cliente de Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/27/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f34326-94dd-44e7-867f-c6cac0b4fa75
-ms.openlocfilehash: 3cae4997148bd2abd1be4865e5348b5c5b38c95a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b99f8342baab92121a60b39a4d7408d294e5bcea
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532960"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766582"
 ---
 # <a name="uninstall-office-client"></a>Desinstalar el cliente de Office
 

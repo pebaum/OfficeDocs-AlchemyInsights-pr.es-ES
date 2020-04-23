@@ -3,7 +3,7 @@ title: Administrar licencias de aplicación
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: 0282917f473dbe0718953c8668c4730d8f3448fd
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c7656c23142f9dcf649f0cf6294d105603b109eb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36497388"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762658"
 ---
-# <a name="manage-office-365-app-licenses"></a>Administrar licencias de aplicaciones de Office 365
+# <a name="manage-app-licenses"></a>Administrar licencias de aplicación
 
 ## <a name="to-change-license-quantity"></a>Para cambiar la cantidad de licencias
 

@@ -3,7 +3,7 @@ title: Cómo reactivar una suscripción
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/21/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 62f7af474db4eb99563744cfe266e1eac92bf53d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 3754bc626264cf8eefe116bccaa0fac60384f55d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664013"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763522"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Cómo reactivar una suscripción
 

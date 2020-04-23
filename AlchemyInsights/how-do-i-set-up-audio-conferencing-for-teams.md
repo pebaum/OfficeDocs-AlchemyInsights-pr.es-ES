@@ -12,16 +12,16 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692412"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709956"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Audioconferencias en Microsoft Teams
 
-¿Necesita ayuda para activar o configurar las audioconferencias en Microsoft Teams? ¿Se ha creado este usuario recientemente?  Si es así, tendrá que esperar entre 2 y 24 horas para que la configuración se aplique.    
+¿Necesita ayuda para activar o configurar las audioconferencias en Microsoft Teams? ¿Se ha creado este usuario recientemente?  Si es así, tendrá que esperar entre 2 y 24 horas para que la configuración se aplique.
 
 Para comprobar que el usuario tiene licencia para las audioconferencias y un número de pago predeterminado:
 
@@ -39,4 +39,4 @@ Para comprobar que el usuario tiene licencia para las audioconferencias y un nú
 
 7. Seleccione el usuario en cuestión y compruebe que tiene un **Número de teléfono predeterminado**.
 
-Para obtener más información, consulte [Planes de llamadas para Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) o llame al Equipo de facturación comercial de Microsoft Commerce para que le respondan a preguntas relacionadas con las licencias.
+Para obtener más información, consulte [Planes de llamadas](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) o llame al Equipo de facturación comercial de Microsoft Commerce para preguntas relacionadas con las licencias.

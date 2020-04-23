@@ -3,7 +3,7 @@ title: ¿Cuál es mi dirección de correo electrónico de Outlook.com?
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: b7cd4910bea61f438e23dd2a520570d58d42bc22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d11d453f4f4512378f0226d16de15c09c695f019
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511534"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743398"
 ---
 # <a name="see-your-own-outlookcom-email-address"></a>Ver su propia dirección de correo electrónico Outlook.com
 

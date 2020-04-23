@@ -3,7 +3,7 @@ title: Desactivar la bandeja de entrada prioritarios
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "8000001"
 - "1988"
 - "1989"
-ms.openlocfilehash: 46f50cd85a7cf797554af1c8736c1b73f122d2e1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bf058b0e8a2fc3c6257b87655634847af7dd9aac
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555707"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768238"
 ---
 # <a name="turn-off-focused-inbox"></a>Desactivar la bandeja de entrada prioritarios
 

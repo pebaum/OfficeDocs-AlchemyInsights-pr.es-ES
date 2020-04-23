@@ -3,7 +3,7 @@ title: Listas de contactos de Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,12 +11,12 @@ ms.custom:
 - "9000258"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 9fd529fd2b655deed55f907ee9d20a539421ff30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c6cf17b7a6fc2c40e8a18de3a5be6e1c6969156b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536920"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760537"
 ---
 # <a name="organizing-your-outlookcom-mailbox"></a>Organizar el buzón de correo de Outlook.com
 

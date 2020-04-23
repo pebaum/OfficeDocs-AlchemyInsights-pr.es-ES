@@ -3,7 +3,7 @@ title: Revisar la ortografía en Outlook en la web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/7/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000007"
 - "1992"
-ms.openlocfilehash: 945d3168352bd00259a14508434243028720d6f0
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 4ab3a63aa72cadd26ecc69c4322cf970ce52638f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36510568"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768634"
 ---
 # <a name="use-your-browser-to-check-spelling"></a>Usar el explorador para revisar la ortografía
 

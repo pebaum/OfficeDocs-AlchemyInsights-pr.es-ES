@@ -3,7 +3,7 @@ title: Solucionar problemas de sincronización de correo electrónico de Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/16/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.assetid: 6f48a145-b258-4d47-ac7e-c4c3f76bd1c1
 ms.custom:
 - "8000048"
-ms.openlocfilehash: 6ff26ad4fa5fad61f5863a40774ead68c2156102
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: da438ebeb28dbe8419067b5a89143322d29889f6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546628"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760285"
 ---
 # <a name="fix-outlookcom-email-sync-issues"></a>Solucionar problemas de sincronización de correo electrónico de Outlook.com
 

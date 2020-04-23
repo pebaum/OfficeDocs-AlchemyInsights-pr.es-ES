@@ -3,7 +3,7 @@ title: Cómo responder o reenviar mensajes en Outlook en la web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000033"
-ms.openlocfilehash: bd8353e4ead02391d71cfba66f4aee842af03a1b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b76c4fe86fddf10af35e8fba94670432f8ee1b2f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556114"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768347"
 ---
 # <a name="how-to-reply-to-or-forward-messages-in-outlook-on-the-web"></a>Cómo responder o reenviar mensajes en Outlook en la web
 

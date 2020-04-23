@@ -2,7 +2,7 @@
 title: Cambiar el sitio raíz clásico por un sitio moderno
 ms.author: pebaum
 author: pebaum
-ms.date: 8/6/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: fe1f0f662c49de2bd0b5b997697c98309cb7983f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f4831c6a232a4dee0f8f5ac0c83e4307221cfe2d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40042944"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741561"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Cambiar el sitio raíz clásico por un sitio moderno
 
@@ -28,7 +28,7 @@ Si el entorno se configuró antes del 2019 de abril, puede cambiar el sitio raí
 
 - Se presentarán funciones adicionales próximamente que le permitirán seguir usando el contenido en el sitio, pero convertir el sitio existente en un sitio de comunicación. 
 >[!Important]
->Estas funciones se implementarán gradualmente. Continúe con la comprobación del centro de mensajes de Office 365 para obtener actualizaciones. 
+>Estas funciones se implementarán gradualmente. Siga comprobando si hay actualizaciones en el centro de mensajes. 
 
 ## <a name="known-issues-with-swapping-sites"></a>Problemas conocidos con el intercambio de sitios
 
@@ -37,8 +37,3 @@ Si el entorno se configuró antes del 2019 de abril, puede cambiar el sitio raí
 - Todo lo que dependa de los vínculos "estáticos" (como los archivos de OneNote y la sincronización de archivos) deberá corregirse manualmente.
 - Si el sitio de origen era un sitio de noticias de la organización, actualice la dirección URL.Obtenga una lista de todos los sitios de noticias de la organización.
 - Es posible que sea necesario validar los sitios de Project Server para asegurarse de que siguen asociados correctamente.
-
-
-
-
-

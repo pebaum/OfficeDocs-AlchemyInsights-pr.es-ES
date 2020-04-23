@@ -3,7 +3,7 @@ title: Restaurar archivos o carpetas eliminados en OneDrive
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 10/31/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "3172"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: 7e13d1171e0659c58b1ae3951ebe0d0a5eabd982
-ms.sourcegitcommit: fc2357059b6126b2ae3571baeec1ee89a5d36bdd
+ms.openlocfilehash: 1c4a297150c322e4978113cf7a6af54bcd0ea58b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37913719"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742634"
 ---
 # <a name="restore-deleted-files-or-folders-in-onedrive"></a>Restaurar archivos o carpetas eliminados en OneDrive
 
