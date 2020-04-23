@@ -11,15 +11,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: 52ab5336858c0013667be721dc865fdccf71bfa0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 7fda732dc49e4e01b2dc0fcbf0fcde83b4dcbab4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739654"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722393"
 ---
-# <a name="configure-multi-factor-authentication-in-office-365"></a><span data-ttu-id="7739c-102">Configure multi-factor Authentication en Office 365</span><span class="sxs-lookup"><span data-stu-id="7739c-102">Configure multi-factor authentication in Office 365</span></span>
+# <a name="configure-multi-factor-authentication"></a><span data-ttu-id="b8af7-102">Configurar la autenticación multifactor</span><span class="sxs-lookup"><span data-stu-id="b8af7-102">Configure multi-factor authentication</span></span>
 
-<span data-ttu-id="7739c-103">Para configurar la MFA, vea [set up multi-factor Authentication for Office 365 users](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).</span><span class="sxs-lookup"><span data-stu-id="7739c-103">To configure MFA, see [Set up multi-factor authentication for Office 365 users](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).</span></span>
+<span data-ttu-id="b8af7-103">Para configurar la MFA, consulte [set up multi-factor Authentication](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).</span><span class="sxs-lookup"><span data-stu-id="b8af7-103">To configure MFA, see [Set up multi-factor authentication](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).</span></span>
 
-<span data-ttu-id="7739c-104">Tenga en cuenta que debe ser un administrador global de Office 365 para habilitar y configurar la MFA.</span><span class="sxs-lookup"><span data-stu-id="7739c-104">Note that you need to be an Office 365 global admin to enable and configure MFA.</span></span>
+<span data-ttu-id="b8af7-104">Tenga en cuenta que debe ser un administrador global para habilitar y configurar la MFA.</span><span class="sxs-lookup"><span data-stu-id="b8af7-104">Note that you need to be a global admin to enable and configure MFA.</span></span>
