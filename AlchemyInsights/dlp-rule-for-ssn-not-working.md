@@ -12,12 +12,12 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: cfe884a207490a19325ce059652de158c16dc801
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5af843c2b70b5b2e1aaf82c9f01356546929d840
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704102"
+ms.locfileid: "43788719"
 ---
 # <a name="dlp-issues-with-social-security-numbers"></a>Problemas de DLP con números de la seguridad social
 
@@ -25,7 +25,7 @@ ms.locfileid: "43704102"
 
 **Problemas de DLP con SSN**
 
-¿Tiene problemas con la **prevención de pérdida de datos (DLP)** que no funciona para contenido que contiene un número de la **seguridad social (SSN)** al usar un tipo de información confidencial en Office 365? Si es así, asegúrese de que el contenido contiene la información necesaria para el aspecto de la Directiva DLP. 
+¿Tiene problemas con la **prevención de pérdida de datos (DLP)** que no funciona para contenido que contiene un número de la **seguridad social (SSN)** al usar un tipo de información confidencial en Microsoft 365? Si es así, asegúrese de que el contenido contiene la información necesaria para el aspecto de la Directiva DLP. 
   
 Por ejemplo, para una directiva SSN configurada con un nivel de confianza de 85%, se evalúa lo siguiente y debe detectarse para que la regla desencadene:
   

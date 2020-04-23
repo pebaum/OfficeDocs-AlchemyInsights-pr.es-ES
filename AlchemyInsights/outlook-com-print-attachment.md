@@ -3,7 +3,7 @@ title: Cómo imprimir datos adjuntos
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "8000046"
 - "1002"
 - "1003"
-ms.openlocfilehash: d06d8a5b44c18046ac1cb6c6f470537f3a48a642
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c1ca25336ce89a9dee176be620af37273ee4f63a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535829"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43744750"
 ---
 # <a name="print-an-attachment-in-outlookcom"></a>Imprimir datos adjuntos en Outlook.com
 

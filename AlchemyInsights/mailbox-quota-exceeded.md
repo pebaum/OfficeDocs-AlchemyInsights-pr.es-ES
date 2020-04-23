@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001106"
 - "3067"
-ms.openlocfilehash: 7e1108cb4c9f2c5deecb32dc669800c5d23cc975
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 898c80d915ba24d9977b1f96063fa09f99c006fc
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286283"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784708"
 ---
 # <a name="mailbox-quota-exceeded"></a>Cuota de buzón excedida
 
@@ -30,4 +30,4 @@ Ha superado su cuota de buzón de correo para su cuenta. Hay varios pasos que pu
 
 4. Guarde sus datos adjuntos en OneDrive para que no se almacenen en el buzón de correo. Para obtener más información, vea [límites de almacenamiento en Outlook.com](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) . 
 
-Si es un usuario de Office 365, también puede solicitar un aumento del buzón de correo de su administrador de ti.
+Si es un usuario de Microsoft 365, también puede solicitar un aumento del buzón de correo de su administrador de ti.

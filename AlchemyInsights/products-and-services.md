@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: ed6981629941e2f2ecc348effe98eaa6388a14d8
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: d2d1599809c3c36c9a46e47a3caf3ccf32c38c8c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279074"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758807"
 ---
 # <a name="products--services"></a>Productos & servicios
 
@@ -24,7 +24,7 @@ Puede encontrar las suscripciones que posee su organización en la página de pr
 
 1. Administre el número de licencias que se han comprado para cada suscripción junto con cuántos están en uso.  **Nota**: las licencias que no están en uso (no asignadas a un usuario) se siguen cargando.  Para que no se le cobren licencias sin usar, reduzca el número de licencias adquiridas. Para obtener información sobre cómo agregar o quitar licencias de una suscripción, consulte [How to Add or reduce licenses](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 
-2. Ver la fecha de renovación o de expiración de la suscripción.  Puede administrar la renovación haciendo clic en el vínculo **Editar** situado junto a la fecha **renews/Expires** .  Consulte [renovar Office 365 for Business](https://go.microsoft.com/fwlink/?linkid=2119216) para obtener más información sobre cómo administrar la facturación recurrente.
+2. Ver la fecha de renovación o de expiración de la suscripción.  Puede administrar la renovación haciendo clic en el vínculo **Editar** situado junto a la fecha **renews/Expires** .  Consulte [renovar Microsoft 365 for Business](https://go.microsoft.com/fwlink/?linkid=2119216) para obtener más información sobre cómo administrar la facturación recurrente.
 
 3. [Reactivar una suscripción expirada o deshabilitada](https://go.microsoft.com/fwlink/?linkid=2117519).
 
@@ -34,4 +34,4 @@ Puede encontrar las suscripciones que posee su organización en la página de pr
 
 6. [Cancelar la suscripción](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-Puede comprar suscripciones adicionales desde la página **** > [**servicios de compras**](https://go.microsoft.com/fwlink/p/?linkid=868433) de facturación.
+Puede comprar suscripciones adicionales desde la página **Billing** > [**servicios de compras**](https://go.microsoft.com/fwlink/p/?linkid=868433) de facturación.
