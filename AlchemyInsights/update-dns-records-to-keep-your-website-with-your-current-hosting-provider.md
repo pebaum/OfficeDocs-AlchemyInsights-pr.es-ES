@@ -3,7 +3,7 @@ title: Actualizar registros DNS para conservar su sitio web con su proveedor de 
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/8/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "419"
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: f9b0529d3200dd53afc70023c0b60d9d415a8fc1
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8edebef125f23e880713237787bd00cc917258b0
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36742282"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789427"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Actualizar registros DNS para conservar su sitio web con su proveedor de hospedaje actual
 
-Como parte del proceso de mover el sitio web público de Office 365 a otro proveedor de hospedaje, es probable que deba realizar cambios en los registros del dominio.
+Como parte del proceso de mover el sitio web público de Microsoft 365 a otro proveedor de hospedaje, es probable que deba realizar cambios en los registros del dominio.
   
 1. En el centro de administración, vaya a **configuración** \> de **dominios** y elija el nombre de dominio que desea cambiar.
 

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4352"
-ms.openlocfilehash: 6b1d6043013fd90d2aa7e5688c25cc1186d734f1
-ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.openlocfilehash: 5677d41c37f3114f40c2fae7cb0fd48c040813a6
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43541866"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43789031"
 ---
 # <a name="teams-dial-in-conferencing-number-removal"></a>Quitar el número de conferencia de acceso telefónico de Teams
 
@@ -24,7 +24,7 @@ ms.locfileid: "43541866"
 
 El número de teléfono predeterminado del puente de conferencia define el identificador de llamadas que se utilizará cuando un participante u organizador realice una llamada saliente desde una reunión.
 
-1. Inicie sesión a Office 365 con su cuenta de trabajo.
+1. Inicie sesión con su cuenta profesional.
 
 2. Ir al **Centro de administración de Microsoft 365**.
 
