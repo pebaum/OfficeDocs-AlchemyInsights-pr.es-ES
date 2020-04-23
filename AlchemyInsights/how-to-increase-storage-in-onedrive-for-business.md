@@ -2,18 +2,18 @@
 title: Cómo aumentar el almacenamiento en OneDrive para la empresa
 ms.author: pebaum
 author: pebaum
-ms.date: 12/14/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: c4b6aefb2a7f25972d0fdfc7732f9a1a59b9acb9
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 176d56c09142fc91f2433e1bf948e8b9c550f4a1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051874"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759313"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>Cómo aumentar el almacenamiento en OneDrive para la empresa
 
@@ -25,10 +25,10 @@ Esta configuración de espacio de almacenamiento se aplica a todos los usuarios 
   
  **Nota**: parece que no tiene un plan que incluya almacenamiento ilimitado. Para obtener información sobre el almacenamiento que incluye cada plan, consulte [OneDrive for Business Service Description](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   
-Para aumentar el almacenamiento en OneDrive para la empresa, elija un plan de Office 365 que incluya **OneDrive para la empresa plan 2** u **Office 365 Enterprise E3**. 
+Para aumentar el almacenamiento en OneDrive para la empresa, elija una suscripción que incluya **OneDrive para la empresa plan 2** u **Office 365 Enterprise E3**. 
   
 Para cambiar los planes, en el centro de administración de Microsoft 365, vaya a **suscripciones**de **facturación** \> y, después, elija **cambiar de plan.**
   
-Para obtener más información sobre el cambio de planes y el almacenamiento de OneDrive para la empresa, vea [cambiar a otro plan de Office 365 para empresas](https://go.microsoft.com/fwlink/?LinkId=2031117) y la [Descripción del servicio de onedrive para](https://go.microsoft.com/fwlink/?LinkId-2031122)la empresa.
+Para obtener más información sobre el cambio de planes y el almacenamiento de OneDrive para la empresa, vea [cambiar a otro Microsoft 365 para el plan de negocios](https://go.microsoft.com/fwlink/?LinkId=2031117) y la [Descripción del servicio de onedrive para](https://go.microsoft.com/fwlink/?LinkId-2031122)la empresa.
   
 

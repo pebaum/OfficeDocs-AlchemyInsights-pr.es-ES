@@ -13,18 +13,18 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 40bbb44876600dcc6d0269363a36eacecc337870
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599501"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43737669"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft Teams instalado con las actualizaciones de Office
 
-Microsoft Teams se incluye como parte de las ***nuevas instalaciones*** de Office 365 ProPlus, Office 365 empresa y Office para Mac. Para obtener más información, vea [¿Cuándo Microsoft Teams se incluirá en las nuevas instalaciones de Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft Teams se incluye como parte de las ***nuevas instalaciones*** de Microsoft 365 apps for Enterprise, Microsoft 365 apps for Business y Office para Mac. Para obtener más información, vea [¿Cuándo Microsoft Teams se incluirá en las nuevas instalaciones de Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
-Además, a partir de la versión 1906 en el canal mensual, Microsoft Teams se agrega gradualmente a las ***instalaciones existentes*** de Office 365 ProPlus (y Office 365 Business) en dispositivos que ejecutan Windows cuando se actualiza la instalación existente a la versión más reciente. Para obtener más información, vea [¿Qué ocurre con las instalaciones existentes de Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
+Además, a partir de la versión 1906 en el canal mensual, los equipos se agregarán gradualmente a las ***instalaciones existentes*** de Microsoft 365 apps for Enterprise (y Microsoft 365 apps for Business) en dispositivos que ejecuten Windows cuando actualice la instalación existente a la versión más reciente. Para obtener más información, vea [¿Qué ocurre con las instalaciones existentes de Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
 **Nota:** Si no desea esperar a esta programación de lanzamiento, puede implementar Teams como independiente para los usuarios siguiendo [estas instrucciones](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)o puede hacer que los usuarios instalen Teams para sí mismos https://teams.microsoft.com/downloads.
 

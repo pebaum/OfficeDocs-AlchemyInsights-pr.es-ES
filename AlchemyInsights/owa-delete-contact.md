@@ -3,7 +3,7 @@ title: Eliminar un contacto en Outlook en la web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "8000012"
 - "1997"
-ms.openlocfilehash: 20bce234fdc486d23ab24b059d9e78c836577481
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 695952c1c3179a41be1aa40b5be12c254687cb02
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510460"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721216"
 ---
 # <a name="delete-a-contact"></a>Eliminar un contacto
 

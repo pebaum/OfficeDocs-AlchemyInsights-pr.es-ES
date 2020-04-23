@@ -3,7 +3,7 @@ title: Solucionar problemas de sincronización de contraseñas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 2b0a1527ab1b16f56a97891445a2dcb4570302f5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edd4f68466296f72c2dc0bafda45e6749d62d942
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533824"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732527"
 ---
 # <a name="troubleshoot-password-synchronization"></a>Solucionar problemas de sincronización de contraseñas
 
@@ -26,7 +26,7 @@ Para solucionar problemas en los que no se ha sincronizado ninguna contraseña c
   
 1. Abra una nueva sesión de Windows PowerShell en su servidor de Azure AD Connect con la opción **Ejecutar como administrador** .
 
-2. Ejecute **Set-ExecutionPolicy RemoteSigned** o **Set-ExecutionPolicy**Unrestricted.
+2. Ejecute **Set-ExecutionPolicy RemoteSigned** o **Set-ExecutionPolicy Unrestricted**.
 
 3. Inicie el Asistente de Azure AD Connect.
 

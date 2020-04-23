@@ -3,18 +3,18 @@ ms.author: pebaum
 title: Problemas de Outlook con Exchange 2007
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0123668d-e18b-4186-9c58-4325168d8aec
-ms.openlocfilehash: 1ebcbc27f1a508f56c82c7706be9209c22baa1c6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5fea63cad08955d340a0382145c433bbc48b40ea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372829"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743326"
 ---
 # <a name="solution-for-error-you-wont-be-able-to-receive-mail-from-a-current-mailbox"></a>Solución para el error "no podrá recibir correo de un buzón actual"
 Si intenta usar Outlook 365/2016 con un servidor Exchange 2007, recibirá los siguientes errores:

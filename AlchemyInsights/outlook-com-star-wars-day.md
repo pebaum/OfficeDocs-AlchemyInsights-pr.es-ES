@@ -3,19 +3,19 @@ title: Día de las guerras de 8000045 estrella
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/26/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000045
-ms.openlocfilehash: a1c0f8bf1ea220e5e8d3efc98451abb0fd352c89
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 576525b9d5c7e251b0cdbfa086cda40991433d69
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36512116"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743506"
 ---
 # <a name="star-wars-day"></a>Día de las guerras
 
