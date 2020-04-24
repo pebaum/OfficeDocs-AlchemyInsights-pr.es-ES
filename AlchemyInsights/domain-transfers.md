@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: 4508c70331f8d83f9f3569c64d49e963af801eb9
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: e78b560329254f7035869c076db5ff31427dc7ae
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530556"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43783988"
 ---
 # <a name="domain-transfers"></a>Transferencias de dominios
 
@@ -24,9 +24,9 @@ ms.locfileid: "43530556"
 
     - Aunque los dominios comprados por Microsoft no admiten el cambio de registros NS, considere la posibilidad de [actualizar los registros DNS para su sitio web](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) en lugar de transferir el registro de dominio al host de la web.
 
-- Un dominio comprado por Microsoft no se puede transferir entre espacios empresariales de Office 365. 
+- Un dominio comprado por Microsoft no se puede transferir entre espacios empresariales de Microsoft 365. 
 
-    - Sin embargo, puede transferir un dominio de terceros entre los espacios empresariales de Office 365 si [quita el dominio de un espacio empresarial](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide) y verifica el dominio en otro espacio empresarial.
+    - Sin embargo, puede transferir un dominio de terceros entre los espacios empresariales de Microsoft 365 si [quita el dominio de un espacio empresarial](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide) y verifica el dominio en otro espacio empresarial.
 
 - No se puede transferir un registro o facturación de dominios de terceros a Microsoft.
 
