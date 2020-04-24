@@ -3,7 +3,7 @@ title: Bloquear o desbloquear remitentes en Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
+ms.date: 04/23/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,29 +15,28 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: 67bd05e8d2effa325e152ca568748d4cd92930cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b6a80faa0542f3f68ac431e4ccd7b59894e8eeb9
+ms.sourcegitcommit: 86881d80c859e68bdf9d301a2df6ca9d75e086a0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43717781"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43793972"
 ---
 # <a name="block-or-unblock-senders"></a>Bloquear o desbloquear remitentes
 
-Los mensajes de direcciones de correo electrónico o dominios de los remitentes bloqueados Irán directamente a la carpeta de correo electrónico no deseado de Outlook. El correo electrónico se quita automáticamente de la carpeta correo electrónico no deseado transcurridos 30 días y no es recuperable. Seleccione un elemento para ver cuándo se quitará.
+Los mensajes de direcciones de correo electrónico o dominios de la lista de remitentes bloqueados no se incluirán en el buzón de Outlook.com.
 
 **Desde la bandeja de entrada:**
 
 - En la lista mensaje, seleccione el mensaje y, a continuación, seleccione**bloque**de **correo no deseado** > .
-- **Nota:** Bloquear un elemento que ya está en la carpeta de correo no deseado no lo eliminará.
 
 **De la configuración:**
 
 1. Abrir la configuración del [correo electrónico no deseado](https://outlook.live.com/mail/options/mail/junkEmail) .
 2. En **remitentes y dominios bloqueados**, seleccione **Agregar**.
 3. Escriba la dirección de correo electrónico del dominio que quiera bloquear y presione Entrar.
-4. Seleccione **Guardar**.
+4. Haga clic en **Guardar**.
 
 Para desbloquear un remitente, seleccione el icono de la papelera junto a la dirección de correo electrónico o el dominio que quiera desbloquear.
 
-Para obtener más información, consulte [marcar el correo electrónico como no deseado o bloquear a los remitentes en Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Para obtener más información, consulte [bloquear remitentes o marcar correo electrónico como correo no deseado](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
