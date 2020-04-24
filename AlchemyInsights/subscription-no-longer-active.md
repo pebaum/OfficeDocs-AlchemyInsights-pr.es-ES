@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 0556a27795e6bff0969dae292d4f3f3d14dd31b4
-ms.sourcegitcommit: ff4b89d630597a044441e56d415b5b566a821f28
+ms.openlocfilehash: 8f9b9a06d12c289f40f9be8247621a01c619f21e
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43154441"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789247"
 ---
 # <a name="subscription-no-longer-active"></a>La suscripción ya no está activa
 
-Si cuando se abre una [aplicación de Office 365 aparece un aviso de suscripción](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4CABE32C-F594-4C0E-9191-3D3ADE10CCEB), es probable que deba reactivar la suscripción.
+Si al abrir una [aplicación de Microsoft aparece un aviso de suscripción](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4CABE32C-F594-4C0E-9191-3D3ADE10CCEB), es probable que deba reactivar la suscripción.
 
 **Reactivar una suscripción**
 

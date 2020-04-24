@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 556150c41ccf363e6025ba6fac0660d1fb74f9b8
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 72a189b64aecba3a46b6150e304ce3b8674fbb1a
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43060014"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784564"
 ---
 # <a name="set-up-insider-risk-management"></a>Configurar la administración de riesgos internos
 
@@ -26,13 +26,13 @@ Use las directivas de administración de riesgos internos para identificar las a
 
 - Suscripción a **Microsoft 365 E3** con complemento de cumplimiento Microsoft E5.
 
-Si no tiene un **plan existente de Microsoft 365 E5** y quiere probar la administración de riesgos internos, puede Agregar Microsoft 365 a la suscripción existente de Office 365 o suscribirse a una versión de prueba de Microsoft 365 Enterprise E5.
+Si no tiene un **plan existente de Microsoft 365 E5** y quiere probar la administración de riesgos internos, puede Agregar Microsoft 365 a la suscripción existente o suscribirse a una versión de prueba de Microsoft 365 Enterprise E5.
 
 Estos son los pasos básicos para usar la administración de riesgos internos:
 
 1. Habilitar los permisos para la administración de riesgos internos.
 
-2. Habilitar el registro de auditoría de Office 365.
+2. Habilitar el registro de auditoría.
 
 3. Configurar los requisitos previos para la plantilla (opcional).
 

@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856814"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739453"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Problemas comunes de Teams para los clientes de educación
 
@@ -34,7 +34,7 @@ Si necesita ayuda para que Teams admita la formación remota, visite el [Centro 
 - **Habilitar el acceso de invitados a Teams**: revise la [lista de comprobación de acceso para invitados de Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist) y asegúrese de que se han completado todos los pasos.
     - [Comprender el acceso de invitado de Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access)
     - [Configuración de la lista de comprobación para el acceso de invitado de Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
-    - [Cómo se une un invitado a un equipo](https://docs.microsoft.com/microsoftteams/guest-joins)
+    - [Cómo se une un invitado a un Equipo](https://docs.microsoft.com/microsoftteams/guest-joins)
 
 - **Llamadas y reuniones en Teams**: ¿Necesita ayuda para activar o configurar las audioconferencias en Microsoft Teams? ¿Se ha creado este usuario recientemente? Si es así, tendrá que esperar entre 2 y 24 horas para que la configuración se aplique. Para comprobar que el usuario tiene licencia para las audioconferencias y un número de pago predeterminado:
     1. Vaya a Usuarios activos y seleccione el usuario en cuestión.
@@ -45,12 +45,12 @@ Si necesita ayuda para que Teams admita la formación remota, visite el [Centro 
     6. En el Centro de administración de Skype Empresarial, haga clic en **Audioconferencia** y luego en **Usuarios**.
     7. Seleccione el usuario en cuestión y compruebe que tiene un número de teléfono de pago predeterminado.
 
-    Para obtener más información, consulte [Planes de llamadas para Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) o llame al Equipo de facturación comercial de Microsoft Commerce para preguntas relacionadas con las licencias.
+    Para obtener más información, consulte [Planes de llamadas](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) o llame al Equipo de facturación comercial de Microsoft Commerce para preguntas relacionadas con las licencias.
 
     Recursos adicionales
 
     - [Reuniones y conferencias en Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [Audioconferencia en Office 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [Audioconferencia](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **Directivas de reunión**: las directivas de reunión se usan para controlar las características disponibles para sus participantes para reuniones programadas por usuarios de la organización. Cuando cree una directiva y realice los cambios, puede asignar usuarios a la directiva.
 

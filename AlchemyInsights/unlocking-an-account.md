@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: f66eb26df12412162e6f092c2528138bb30b7eb2
-ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
+ms.openlocfilehash: 3d32123f757a727e1f6ef04270152e276cf803fa
+ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43231436"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43799068"
 ---
 # <a name="unlocking-an-account"></a>Desbloquear una cuenta
 
-Es posible que los usuarios estén bloqueados de Office 365 debido a demasiados intentos con contraseñas incorrectas o u otros riesgos. Para ayudar a los usuarios a volver a iniciar sesión en Microsoft 365, **puede intentar los siguientes pasos antes de abrir una solicitud de soporte**. 
+Es posible que los usuarios estén bloqueados en Microsoft 365 debido a demasiados intentos de inicio de sesión con contraseñas incorrectas o a otros problemas de seguridad. Para ayudar a los usuarios a volver a iniciar sesión en Microsoft 365, **puede intentar los siguientes pasos antes de abrir una solicitud de soporte**. 
 
 **Correo electrónico restringido**
 
@@ -28,19 +28,16 @@ Como administrador, si uno de los usuarios tiene restringido el envío de correo
 
 **Restablecer la contraseña del usuario**
 
-1. En el Centro de administración, vaya a **Usuarios > Usuarios activos**.
+1. En el Centro de administración, vaya a **Usuarios > [Usuarios activos](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.
 
 2. Seleccione el usuario y después haga clic en **Restablecer contraseña**.
 
 **Asegurarse de que el usuario pueda iniciar sesión**
 
-1. En el Centro de administración, vaya a **Usuarios > Usuarios activos**.
+1. En el Centro de administración, vaya a **Usuarios > [Usuarios activos](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.
 
-2. Seleccione el usuario y haga clic en **Más acciones (...)** y, a continuación, haga clic en **Editar el estado del inicio de sesión**.
+2. Seleccione el usuario y haga clic en**Más acciones (...)**; luego haga clic en**Editar estado de inicio de sesión**.
 
-Para obtener más información sobre los distintos casos del autoservicio de restablecimiento de contraseña, vea [Restablecer las contraseñas de Microsoft 365 Empresa](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
+Para más escenarios de restablecimiento de contraseñas, incluido el restablecimiento de contraseñas de autoservicio, consulte [Restablecimiento de Microsoft 365 para los múltiples intentos de cargar las contraseñas de los instrumentos de pago en línea.](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
 
-
-Como administrador, si uno de los usuarios tiene restringido el envío de correo electrónico, puede [desbloquear la cuenta](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam) **sin tener que abrir un caso de soporte**. El usuario podrá enviar correo electrónico en una hora después de quitar la restricción.
-
-El servicio impide que los usuarios envíen correos electrónicos después de detectar la evidencia de un correo no deseado saliente o una cuenta en peligro. Como precaución, siga los pasos descritos en [Responder a una cuenta de correo electrónico en peligro en Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) para el usuario.
+El servicio evita que un usuario envíe correo electrónico después de detectar evidencia de una cuenta comprometida y/o spam saliente. Como precaución, siga los pasos descritos en [Responder a una cuenta de correo electrónico en peligro en Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) para el usuario.

@@ -1,5 +1,5 @@
 ---
-title: Rendimiento de la migración de SharePoint
+title: Instrucciones del rendimiento de la migración de SharePoint
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,25 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: ae62607bf5991eb8fd8764ebad64da040389df6b
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+- "3179"
+ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958771"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789319"
 ---
-# <a name="sharepoint-migration-performance"></a>Rendimiento de la migración de SharePoint
+# <a name="sharepoint-migration-performance-guidance"></a>Instrucciones del rendimiento de la migración de SharePoint
 
-**Importante**: durante estos tiempos, se siguen pasos para asegurarse de que los servicios de SharePoint Online y OneDrive estén altamente disponibles. Para obtener más información, visite [Ajustes temporales de características de SharePoint Online](https://aka.ms/ODSPAdjustments).
+El rendimiento de la migración puede verse afectado por la infraestructura de red, el tamaño de archivo, el tiempo de migración y la limitación.
 
-**Rendimiento de la migración**
+Para obtener más información, visite:
 
-El rendimiento de la migración puede verse afectado por la infraestructura de red, el tamaño de archivo, el tiempo de migración y la limitación. La comprensión de esto le ayudará a planear y maximizar la eficacia de la migración.
-
-Para obtener más información, visite los vínculos siguientes.
-
-- [Velocidad de migración de SharePoint Online y ODB](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [Instrucciones generales de rendimiento de la migración](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
 - [Evitar las limitaciones o los bloqueos en SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [Descargar e instalar la Herramienta de migración de SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
