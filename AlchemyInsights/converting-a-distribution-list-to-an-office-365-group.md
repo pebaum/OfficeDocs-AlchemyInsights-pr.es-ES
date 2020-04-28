@@ -1,5 +1,5 @@
 ---
-title: 712 convertir una lista de distribución en un grupo de Office 365
+title: 712 convertir una lista de distribución en un grupo de Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: 0aa4928b33c75051c7210e88098555b82e130fd5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c135727d1a3dd26aebca7a5140956cc75c78705b
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715757"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908685"
 ---
-# <a name="convert-a-distribution-group-to-an-office-365-group"></a>Convertir un grupo de distribución en un grupo de Office 365
+# <a name="convert-a-distribution-group-to-an-microsoft-365-group"></a>Convertir un grupo de distribución en un grupo de 365 de Microsoft
 
-Puede convertir los grupos de distribución a los grupos de Office 365 si cumplen determinados criterios. Para convertir un grupo o solucionar problemas de conversión, consulte [actualizar listas de distribución a grupos de Office 365 en Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).
+Puede convertir los grupos de distribución a grupos de Microsoft 365 si cumplen determinados criterios. Para convertir un grupo o solucionar problemas de conversión, consulte [actualizar listas de distribución a grupos de 365 de Microsoft en Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 8ee45688c5ffb4b02295e7a4df655c6e3a8dd6fe
-ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
+ms.openlocfilehash: b886dca3123bc2c437f4235c8d8ced7a5cc36a40
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42573230"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912803"
 ---
 # <a name="modernize-your-sharepoint-sites"></a>Modernizar los sitios de SharePoint
 
@@ -24,6 +24,6 @@ Para obtener una introducción paso a paso sobre la modernización de los sitios
 
 * Para maximizar el uso de la interfaz de usuario moderna de sus páginas del sitio y páginas de listas y bibliotecas, consulte el artículo [Modernizar la interfaz de usuario](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).
 * Para obtener más información sobre cómo desbloquear sus listas y bibliotecas cuando se use la interfaz de usuario moderna, consulte el artículo [Maximizar el uso de la interfaz de usuario moderna de listas y bibliotecas](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries) 
-* Para obtener más información sobre cómo conectarse a un grupo de Office 365 y realizar una conexión de grupo, consulte el artículo [Conectarse a un grupo de Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+* Para obtener más información acerca de cómo conectarse a un grupo de Microsoft 365 y realizar una conexión de grupo, vea [Connect to a microsoft 365 Group](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
 
 **Importante**: Si siente que la página ya debería mostrarse en la vista moderna y no es así, vaya a la página en cuestión, copie la dirección URL y proporcione la dirección URL como parte de los detalles de la incidencia de soporte técnico.

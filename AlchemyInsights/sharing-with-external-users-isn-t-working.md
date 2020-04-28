@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 285535d6144825f0935bf72579a483260c2f2bd6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767266"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43913019"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Solucionar problemas de uso compartido de contenido de SharePoint con usuarios externos
 
@@ -32,7 +32,7 @@ Asegúrese de que el uso compartido externo esté activado para el sitio. Para u
     
 2. Seleccione el sitio o los sitios y, en la cinta de opciones, haga clic en **compartir**.
     
-Para un sitio de grupo que pertenece a un grupo de Office 365 o a un sitio de comunicación:
+Para un sitio de grupo que pertenece a un grupo de Microsoft 365 o a un sitio de comunicación:
   
 - Estos nuevos tipos de sitio tienen la misma configuración de uso compartido que la configuración de toda la organización, a menos que la configuración de toda la organización permita compartir archivos mediante vínculos que no requieran el inicio de sesión. En este caso, los sitios permiten el uso compartido con usuarios externos nuevos y existentes que inician sesión. Para cambiar la configuración de sitios específicos, use el nuevo centro de administración de SharePoint o PowerShell. [Más información](https://go.microsoft.com/fwlink/?linkid=871863).
     

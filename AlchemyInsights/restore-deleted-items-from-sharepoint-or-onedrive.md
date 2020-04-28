@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: a8438d6ac489abfdbe49bc8541b9abdd5e799713
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1a1c72078f6357332f48d369e482ab20cb82f868
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742532"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912564"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Restaurar elementos eliminados de SharePoint o OneDrive
 
@@ -34,6 +34,6 @@ Cuando se eliminan archivos, carpetas, bibliotecas, listas y elementos de lista 
   
 [Restaurar las colecciones de sitios eliminados](https://go.microsoft.com/fwlink/?linkid=867660) (administradores globales o de SharePoint en Microsoft 365) 
   
-Para los sitios que pertenecen a un grupo de Office 365, debe restaurar el grupo para restaurar el sitio. Vea [restaurar un grupo de Office 365 eliminado](https://go.microsoft.com/fwlink/?linkid=867802) (administrador global) 
+Para los sitios que pertenecen a un grupo de Microsoft 365, debe restaurar el grupo para restaurar el sitio. Vea [restaurar un grupo de Microsoft 365 eliminado](https://go.microsoft.com/fwlink/?linkid=867802) (administrador global) 
   
 

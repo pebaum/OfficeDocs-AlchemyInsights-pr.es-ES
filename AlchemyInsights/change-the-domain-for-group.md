@@ -1,5 +1,5 @@
 ---
-title: Cambiar el dominio del grupo de Office 365
+title: Cambiar el dominio del grupo de Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 4257191c183e4a20943c56c382b5fc78176330b8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7aab6fd8bef120a6d589fc3c2d852fd4cb499aca
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706506"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911309"
 ---
-# <a name="change-the-domain-for-office-365-group"></a>Cambiar el dominio del grupo de Office 365
+# <a name="change-the-domain-for-microsoft-365-group"></a>Cambiar el dominio del grupo de Microsoft 365
 
-Si desea cambiar el dominio de un grupo de Office 365 durante la creación, siga los pasos descritos en [Choose The domain to use When Creating Office 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
+Si desea cambiar el dominio de un grupo de Microsoft 365 durante la creación, siga los pasos descritos en [Choose The domain to use When Creating Microsoft 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
 
-Una vez creado el grupo de Office 365, no hay ninguna forma de cambiar el dominio. La única forma es crear un nuevo grupo de Office 365 y eliminar el antiguo si es necesario (se pueden agregar direcciones de correo electrónico adicionales a través del [centro de administración de Exchange](https://outlook.office365.com/ecp).
+Una vez que ya se haya creado el grupo 365 de Microsoft, no hay ninguna forma de cambiar el dominio. La única forma es crear un nuevo grupo de Microsoft 365 y eliminar el antiguo si es necesario (se pueden agregar direcciones de correo electrónico adicionales a través del [centro de administración de Exchange](https://outlook.office365.com/ecp).

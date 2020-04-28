@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: e397923c13f01f436667d488523c8bc1641c2b37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710532"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912911"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Permisos de usuario en SharePoint y OneDrive
 
@@ -27,7 +27,7 @@ Si un usuario de la organización no puede obtener acceso a SharePoint o OneDriv
   
 1. Abra el sitio en un explorador Web.
     
-2. Si el sitio pertenece a un grupo de Office 365, haga clic en el icono de configuración en la esquina superior derecha y, a continuación, haga clic en **permisos del sitio**. Haga clic en **invitar personas**y, a continuación, elija Agregar miembros al grupo de Office 365 o compartir solo el sitio. 
+2. Si el sitio pertenece a un grupo de Microsoft 365, haga clic en el icono de configuración en la esquina superior derecha y, a continuación, haga clic en **permisos del sitio**. Haga clic en **invitar personas**y, a continuación, elija Agregar miembros al grupo de Microsoft 365 o compartir solo el sitio. 
     
     Para un sitio de comunicación, haga clic en **compartir sitio** en la esquina superior derecha, escriba el nombre de la persona y, a continuación, seleccione el nivel de permisos (lectura, edición o control total). 
     

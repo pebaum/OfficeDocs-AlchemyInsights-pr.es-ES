@@ -1,5 +1,5 @@
 ---
-title: 'Posponer la actualización de Teams '
+title: Posponer la actualización de Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: 37263aefe56b673429eb773719413688b72457e7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: fcf724e335bd6a7cb4801d9b2789447befc06ff7
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43785356"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912528"
 ---
 # <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Cómo posponer la actualización de Microsoft Teams controlada por Microsoft
+
+**Importante**: podemos ayudarle a solucionarlo con un diagnóstico de soporte técnico, pero parece que no está usando el nuevo centro de administración. Para usar el nuevo centro de administración, deslice el botón de alternancia de la parte superior derecha que dice **nuevo centro de administración** a la derecha. Con el nuevo centro de administración, haga clic en el widget **¿necesita ayuda?** , escriba "posponer la actualización de Microsoft Teams" y, a continuación, siga las instrucciones para ejecutar el diagnóstico.
 
 Si recibe información sobre una actualización automatizada controlada por Microsoft desde Skype empresarial a Microsoft Teams y desea posponer la actualización automatizada en una fecha posterior, su administrador global puede iniciar sesión en el portal de [Administración de Teams](https://admin.teams.microsoft.com/dashboard) y, después de seleccionar el botón **Actualizar estado** en actualización de Microsoft Teams, seleccione el botón **posponer** . Para ver la nueva fecha de la actualización automatizada de su espacio empresarial a Microsoft Teams, actualice la página del portal de administración de Teams.
 

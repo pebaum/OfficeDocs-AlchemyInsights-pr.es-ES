@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 07b205224b494f377fc92654a67fa9237f78bbdb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b4c322896efc5e382674cc1bd3dde6a5baeaf81c
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705642"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908757"
 ---
-# <a name="control-creation-of-office-365-groups"></a>Control de la creación de grupos de Office 365
+# <a name="control-creation-of-microsoft-365-groups"></a>Control de la creación de grupos de Microsoft 365
 
 De forma predeterminada, todos los usuarios de la compañía pueden crear grupos. Si es necesario, puede cambiar esto y asignar el derecho a crear grupos a un conjunto de personas dentro de su empresa. Tenga en cuenta que esto tendrá un impacto en la creación de grupos desde cualquier servicio de Microsoft 365 (como Outlook, Microsoft Teams, Planner, etc.).
   
-Instrucciones: [administrar quién puede crear grupos de Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
+Instrucciones: [administrar quién puede crear grupos de 365 de Microsoft](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
