@@ -1,5 +1,5 @@
 ---
-title: Cómo agregar o reducir licencias
+title: Agregar o quitar licencias de la suscripción
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,20 +12,20 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: bf92bc9d6bfc8d7a07bff02d18fda7a8800247d4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e97658ab8fff504c8adccfa7e68cce0b613aee53
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709604"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957851"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>Cómo agregar o reducir licencias
+# <a name="add-or-remove-licenses-for-your-subscription"></a>Agregar o quitar licencias de la suscripción
 
 Esta es la manera de agregar o quitar licencias.
   
 1. Vaya a **facturación > [suscripciones](https://portal.office.com/adminportal/home#/subscriptions)**.
 
-2. Elija la suscripción de la que desea agregar o quitar licencias.
+2. Elija la suscripción para la que desea agregar o quitar licencias.
 
 3. Haga clic en **Agregar o quitar licencias**.
 
@@ -41,6 +41,6 @@ Para obtener información sobre cómo asignar licencias, consulte [asignar licen
   
 - [Administrar licencias de suscripción: comprar o quitar](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
-- [Cancelar Office 365 para empresas](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Cancelar Microsoft 365 para empresas](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
 
-- [Comprar otra suscripción a Office 365 para empresas](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
+- [Comprar otra suscripción de Microsoft 365 para empresas](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
