@@ -12,16 +12,16 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 46dd8532d920c33d2bd82c1cea752944b3a99866
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e39bfd064d5a1a712e87cb026851b6a4cc4ff8a5
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702899"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005347"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>Amplíe la versión de prueba de Microsoft 365 para empresas
 
-Puede ampliar la prueba durante otro período de 30 días. Solo puede hacerlo una vez.
+Puede ampliar la versión de prueba durante un período de 30 días. Una vez que la versión de prueba entra en un [período de gracia](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial)de 30 días adicional. Siga estos pasos para extender la versión de prueba:
   
 1. En el centro de administración, vaya a **facturación** \> de [productos & servicios](https://portal.office.com/adminportal/home#/subscriptions).
 

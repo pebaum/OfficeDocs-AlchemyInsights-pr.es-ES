@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724573"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005275"
 ---
-# <a name="inbox-rules"></a>Reglas de la bandeja de entrada
+# <a name="inbox-rules-in-outlook-desktop"></a>Reglas de bandeja de entrada en el escritorio de Outlook
 
-Para obtener más información acerca del uso de reglas de bandeja de entrada en su propio buzón de correo, consulte:
+1. Vaya a **archivo > administrar reglas & alertas** para abrir el cuadro de diálogo **reglas y alertas** .
+2. En la pestaña **reglas de correo electrónico** , haga clic en **nueva regla**.
+3. Seleccione una de las plantillas del **paso 1**. Para iniciar desde una regla en blanco, seleccione **Aplicar regla en los mensajes que reciba o aplicar regla en los mensajes que envíe**.
+4. En el **cuadro paso 2: editar la descripción de la regla**, haga clic en cualquier opción subrayada para configurarla. Por ejemplo, si seleccionó **marcar los mensajes de una persona para seguimiento** en el paso 1, haga clic en **personas o en grupo público** para seleccionar los mensajes de los remitentes que desea marcar; a continuación, haga clic en **seguimiento en este momento** para seleccionar una marca y una fecha de seguimiento.
+5. Haga clic en **Siguiente**.
 
-- [Administrar mensajes de correo electrónico mediante el uso de reglas en Outlook para PC](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [Administrar los mensajes con reglas de la bandeja de entrada en Outlook en la web](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-También puede administrar las reglas de la bandeja de entrada en Exchange Online PowerShell. Para obtener más información, [vea Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (View), [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (Create), [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (Delete), [set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (Modify Existing), [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (Disable Existing) y [enable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (Enable Existing).
+Para obtener más información sobre cómo trabajar con reglas de la bandeja de entrada, consulte [administrar mensajes de correo electrónico mediante reglas](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).
