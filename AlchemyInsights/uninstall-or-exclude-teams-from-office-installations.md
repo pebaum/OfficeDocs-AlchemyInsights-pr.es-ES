@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2662"
 - "9000660"
-ms.openlocfilehash: c6d5c0233acb8fb71127dcb54c719b71aa1a5bcb
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b6613733e743e08a9b18b1ada70fde164b0d5dc3
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769824"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010332"
 ---
 # <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>Desinstalar o excluir equipos de instalaciones de Office nuevas o existentes
 
-Microsoft Teams se incluye como parte de Office 365 ProPlus, Office 365 empresa y Office para Mac.
+Microsoft Teams se incluye como parte de Microsoft 365 apps for Enterprise, Microsoft 365 apps for Business y Office para Mac.
 
-- Use la [herramienta de implementación de Office](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) para excluir equipos de nuevas instalaciones de Office.
+- Use la [herramienta de implementación de Office](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) para excluir equipos de nuevas instalaciones de Office.
 - Para *desinstalar* Teams desde un dispositivo que ejecuta Windows, vea [desinstalar Microsoft Teams](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81). Para limpiar Microsoft Teams de varios equipos o usuarios de destino, vea limpieza de la [implementación de Microsoft Teams](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
 - Use la opción [PreventTeamsInstall](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams
 ) para impedir que Microsoft Teams se instale automáticamente con Office.
