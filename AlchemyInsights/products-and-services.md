@@ -1,5 +1,5 @@
 ---
-title: Productos & servicios
+title: Sus productos
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: d2d1599809c3c36c9a46e47a3caf3ccf32c38c8c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758807"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062878"
 ---
-# <a name="products--services"></a>Productos & servicios
+# <a name="your-products"></a>Sus productos
 
-Puede encontrar las suscripciones que posee su organización en la página de productos de **facturación** > [**& Services**](https://go.microsoft.com/fwlink/p/?linkid=842054) . Estos son algunos de los elementos destacados de esta página junto con los vínculos para obtener más información sobre cada característica:
+Puede encontrar las suscripciones que pertenecen a su organización en la página **facturación** > de**[productos](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Estos son algunos de los elementos destacados de esta página junto con los vínculos para obtener más información sobre cada característica:
 
 1. Administre el número de licencias que se han comprado para cada suscripción junto con cuántos están en uso.  **Nota**: las licencias que no están en uso (no asignadas a un usuario) se siguen cargando.  Para que no se le cobren licencias sin usar, reduzca el número de licencias adquiridas. Para obtener información sobre cómo agregar o quitar licencias de una suscripción, consulte [How to Add or reduce licenses](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 

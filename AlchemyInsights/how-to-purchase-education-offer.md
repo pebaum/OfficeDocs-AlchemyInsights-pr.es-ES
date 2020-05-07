@@ -14,18 +14,18 @@ ms.custom:
 - "369"
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: 41b98b2ea96d14ba65ae03e0e4ed46486f61f7d9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7de2ebb0226b51003a6f9caf36899122b1177ddd
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763774"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063526"
 ---
 # <a name="how-to-purchase-education-offer"></a>Cómo comprar la oferta de educación
 
 Ha recibido la aprobación para Office 365 Educación. Para comprar:
   
-1. En el centro de administración, vaya a **Facturación** \> [Productos y servicios](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. En el centro de administración, vaya a la página **facturación** \> **[de productos](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Elija la versión de prueba para **alumnos o profesores**.
 

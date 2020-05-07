@@ -12,18 +12,18 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 733625a79fe2da5436e9b14899121fd02132bf0e
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 039a60a6a4eece841fc494f619f13f1021b8906a
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789175"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064374"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Cambiar a otra suscripción de Microsoft 365 para empresas
 
 Cuando cambie su empresa o necesite más características, puede actualizar a un nuevo plan.
   
-1. En el centro de administración, vaya **a \> facturación de [productos & servicios](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. En el centro de administración, vaya a la página **facturación** \> **[de productos](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Seleccione la suscripción que desea actualizar.
 

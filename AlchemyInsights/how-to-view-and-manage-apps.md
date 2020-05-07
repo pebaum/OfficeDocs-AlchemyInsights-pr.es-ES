@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000561"
 - "2420"
-ms.openlocfilehash: 63c3b42c046efbcae0f509045a8f3e45e49002ac
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7ee232ccd037b64c7591b7332ab58931b86ba349
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43717141"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063742"
 ---
 # <a name="how-to-view-and-manage-apps"></a>Cómo ver y administrar aplicaciones
 
 Puede ver las aplicaciones en el centro de administración de Microsoft 365. 
 
-1. En el centro de administración, vaya a la página productos de **facturación** > [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. En el centro de administración, vaya a la página **facturación** > **[de productos](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
-2. En la página **productos & Services** , seleccione la pestaña **aplicaciones** .
+2. En la página **[sus productos](https://go.microsoft.com/fwlink/p/?linkid=842054)** , seleccione la pestaña **aplicaciones** .
