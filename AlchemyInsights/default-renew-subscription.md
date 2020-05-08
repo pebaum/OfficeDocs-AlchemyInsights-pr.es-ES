@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 78f6dc6b2cc6e8d3db6a53f38bea9483ef817c2c
-ms.sourcegitcommit: 38c993eaa89c33cae59de19a381f7d4aafaef19b
+ms.openlocfilehash: 8219cefc33ac085ee71e50c512f9f94abc047fca
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37549740"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062265"
 ---
 # <a name="renewing-your-subscription"></a>Renovar la suscripción
 
@@ -26,6 +26,6 @@ Si prepago la suscripción con una clave de producto, su suscripción expirará 
 
 Para activar la facturación periódica: 
 
-1. Vaya a productos de **facturación** > **& servicios**.
+1. Vaya a **facturación** > **[de los productos](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 2. Elija la suscripción para la que desea administrar la facturación periódica.
 3. En **facturación**, seleccione **Editar** y realice los cambios en la ventana **configuración de facturación recurrente** . 

@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: f7574ff6855481a9378f8563735e380565a3ecf0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714167"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063490"
 ---
 # <a name="expired-subscription"></a>Suscripción expirada
 
@@ -26,7 +26,7 @@ Parece que tiene una o más suscripciones expiradas. Si desea continuar con el s
   
 **Reactivar**
   
-1. En el centro de administración, vaya a **Facturación** \> [Productos y servicios](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. En el centro de administración, vaya a la página **facturación** \> **[de productos](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Busque la suscripción que quiere reactivar.  En la sección **Facturación**, elija **Reactivar**.
 
@@ -39,7 +39,7 @@ la suscripción](https://docs.microsoft.com/office365/admin/subscriptions-and-bi
 
 **Realizar una compra nueva**
   
-1. En el centro de administración, vaya a la página [servicios de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) de **facturación** \> .
+1. En el centro de administración, vaya a la página **[servicios de compra](https://go.microsoft.com/fwlink/p/?linkid=868433)** de **facturación** \> .
 
 2. Elija la suscripción que desea comprar y, después, elija **comprar**.
 

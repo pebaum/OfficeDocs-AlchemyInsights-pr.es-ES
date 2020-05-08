@@ -12,12 +12,12 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 210510bf13ef3838d8f005b51222034039876426
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: edd8b4abdaf35ea3b58515dfaa0a1afbd0a525c8
+ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711432"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44086691"
 ---
 # <a name="canceling-your-subscription"></a>¿Cancela la suscripción?
 
@@ -25,9 +25,9 @@ Lamentamos que vaya, pero si quiere cancelar su suscripción, estas son las opci
   
 - Si es un cliente de prueba, no hay nada que cancelar. Las suscripciones de prueba expiran automáticamente a menos que proporcione un método de pago.
 
-- Si tiene menos de 25 licencias asignadas, puede cancelar la suscripción en línea. Vaya a la página de productos de **facturación** \> [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) . En la sección **configuración & acciones** , elija **Cancelar suscripción**.
+- Si tiene menos de 25 licencias asignadas, puede cancelar la suscripción en línea. Vaya a la página **facturación** \> **[de productos](https://go.microsoft.com/fwlink/p/?linkid=842054)** . En la sección **configuración & acciones** , elija **Cancelar suscripción**.
 
-- Si tiene más de 25 licencias asignadas, puede quitar a los usuarios hasta que tenga menos de 25 o usar la opción "Permítanos llamar" para hablar con un ingeniero de soporte técnico.
+- Si tiene más de 25 licencias asignadas, puede quitar usuarios hasta que tenga menos de 25.
   
 **Reembolso: se le devolverá cualquier crédito prorrateado dentro del siguiente ciclo de facturación.** 
 

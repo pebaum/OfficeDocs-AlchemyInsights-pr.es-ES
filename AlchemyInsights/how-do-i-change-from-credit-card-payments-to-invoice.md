@@ -13,19 +13,19 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 7269a60e2802d5ae884a918641873b71b1ad6fa3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 05ba3bb421cedf94352d5bbb6c5daf1417eca609
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710028"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062445"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>¿Cómo puedo cambiar los pagos con tarjeta de crédito a la factura?
 
 > [!NOTE]
 > La opción de pago mediante factura solo está disponible si la suscripción cuesta una cantidad determinada (que varía según la ubicación de servicio). En el caso de los pagos de las facturas con un importe más elevado, puede ser necesario realizar una comprobación de crédito. Para obtener más información, consulte [Pay for your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
   
-1. En el centro de administración, vaya a **Facturación** \> [Productos y servicios](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. En el centro de administración, vaya a la página **facturación** \> **[de productos](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Seleccione la suscripción que quiere cambiar. En la sección **facturación** , seleccione la opción **Editar** para su método de pago actual.
 

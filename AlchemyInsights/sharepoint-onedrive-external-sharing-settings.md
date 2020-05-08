@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: e39b8525fbcd43ee3778e5f3df9d3576fbd8924f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4883c5a8fe77610e86a66637e2e12c3a18fe6e67
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692890"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063670"
 ---
 # <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Mensaje de ADVERTENCIA: las directivas de la organización no le permiten compartir con estos usuarios
 

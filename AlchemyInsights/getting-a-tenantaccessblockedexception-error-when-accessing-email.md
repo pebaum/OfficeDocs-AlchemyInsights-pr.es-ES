@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 5249783915d125703c1c5d4b650e99b0f0a7c909
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 32ad81e9b1234d8adff3d2cac9c9e4b619e35688
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708920"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062229"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>¿Se obtiene un error de TenantAccessBlockedException al obtener acceso al correo electrónico?
 
 Hay varios motivos por los que podría recibir este error. Por ejemplo:
 
-- Compruebe que la suscripción es válida en la página de productos de **facturación** \> [& Services](https://portal.office.com/adminportal/home#/subscriptions) en el centro de administración de Microsoft 365.
+- Compruebe que la suscripción es válida en la página **facturación** \> de **[productos](https://portal.office.com/adminportal/home#/subscriptions)** en el centro de administración de Microsoft 365.
 
-- Compruebe si hay notificaciones vencidas **en la** \> página [facturas & pagos](https://portal.office.com/adminportal/home#/billoverview) en el centro de administración de Microsoft 365.
+- Compruebe si hay notificaciones vencidas **en la** \> página **[facturas & pagos](https://portal.office.com/adminportal/home#/billoverview)** en el centro de administración de Microsoft 365.
 
 - Si la facturación y las suscripciones de su cuenta se han actualizado recientemente, es posible que los cambios tarden algún tiempo en propagarse. Inténtalo de nuevo en unos minutos y, si el problema persiste, ponte en contacto con nosotros.
