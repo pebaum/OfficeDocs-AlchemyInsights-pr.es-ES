@@ -12,10 +12,10 @@ ms.custom:
 - "9001499"
 - "3552"
 ms.openlocfilehash: 3165cd1180cf1c1716692d270e27b1ba9e675c8f
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062013"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Agregar, quitar o impedir que los usuarios cambien fotos de perfil

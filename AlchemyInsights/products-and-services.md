@@ -12,15 +12,15 @@ ms.custom:
 - "9001669"
 - "3736"
 ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062878"
 ---
 # <a name="your-products"></a>Sus productos
 
-Puede encontrar las suscripciones que pertenecen a su organización en la página **facturación** > de**[productos](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Estos son algunos de los elementos destacados de esta página junto con los vínculos para obtener más información sobre cada característica:
+Puede encontrar las suscripciones que pertenecen a su organización en la página **facturación**de  >  **[productos](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Estos son algunos de los elementos destacados de esta página junto con los vínculos para obtener más información sobre cada característica:
 
 1. Administre el número de licencias que se han comprado para cada suscripción junto con cuántos están en uso.  **Nota**: las licencias que no están en uso (no asignadas a un usuario) se siguen cargando.  Para que no se le cobren licencias sin usar, reduzca el número de licencias adquiridas. Para obtener información sobre cómo agregar o quitar licencias de una suscripción, consulte [How to Add or reduce licenses](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 
@@ -34,4 +34,4 @@ Puede encontrar las suscripciones que pertenecen a su organización en la págin
 
 6. [Cancelar la suscripción](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-Puede comprar suscripciones adicionales desde la página **Billing** > [**servicios de compras**](https://go.microsoft.com/fwlink/p/?linkid=868433) de facturación.
+Puede comprar suscripciones adicionales desde la **Billing**  >  página[**servicios de compras**](https://go.microsoft.com/fwlink/p/?linkid=868433) de facturación.

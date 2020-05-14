@@ -14,10 +14,10 @@ ms.custom:
 - "3179"
 ms.assetid: ''
 ms.openlocfilehash: 0f754fd4264d7800e4e02a295147cded46aca817
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "43692674"
 ---
 # <a name="general-migration-performance-guidance"></a>Instrucciones de rendimiento de la migración general

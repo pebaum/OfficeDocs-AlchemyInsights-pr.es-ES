@@ -13,17 +13,17 @@ ms.custom:
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
 ms.openlocfilehash: 4fc934fcf9c1af0cd68aa20d5dc31d3d82264965
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063562"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Cómo realizar una compra de Microsoft 365
 
 Las compras en Microsoft 365 se pueden realizar en el centro de administración.
   
-- Para comprar un plan, vaya a la página de [servicios de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) de **facturación** \> .
+- Para comprar un plan, vaya a la **Billing** \> Página de [servicios de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) de facturación.
 
 - Para adquirir más licencias, vaya a la página **facturación** \> **[de productos](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Elija la suscripción a la que desea agregar licencias y, a continuación, seleccione **Agregar o quitar licencias**.
   

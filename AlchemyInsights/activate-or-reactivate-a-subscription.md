@@ -13,10 +13,10 @@ ms.custom:
 - "1500028"
 - "482"
 ms.openlocfilehash: f53c65ff8bd434c186a589fa4285751963944815
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062121"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Activar o reactivar una suscripción
@@ -33,7 +33,7 @@ ms.locfileid: "44062121"
 
 Si su suscripción expira, Microsoft ha deshabilitado o lo ha cancelado a mediados de un término de suscripción, puede reactivarlo en el centro de administración.
   
-1. En el centro de administración de Microsoft 365, vaya a la página **facturación** > [de productos](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. En el centro de administración de Microsoft 365, vaya a la página **facturación**  >  [de productos](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Elija la suscripción que desea reactivar y, a continuación, seleccione **reactivar**. Si no ve **Reactivar** como acción disponible, [llame al soporte técnico](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) para volver a activar la suscripción.
 

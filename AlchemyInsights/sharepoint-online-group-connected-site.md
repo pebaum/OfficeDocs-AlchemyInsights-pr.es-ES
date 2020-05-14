@@ -11,10 +11,10 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
 ms.openlocfilehash: b54457427ffa563b6a6323d85e1c8800191eca11
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44064410"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problemas al crear un sitio conectado a grupo en SharePoint

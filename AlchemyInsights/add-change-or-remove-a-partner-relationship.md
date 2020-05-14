@@ -12,10 +12,10 @@ ms.custom:
 - "9001683"
 - "3748"
 ms.openlocfilehash: c388609ebb1c2cc9506ea1f95f5fa692ef95b24f
-ms.sourcegitcommit: bcd6df19adeb5e3a04e518a05621dd6c68da93f2
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/30/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "43955470"
 ---
 # <a name="add-change-or-remove-a-partner-relationship"></a>Agregar, cambiar o quitar una relación de asociado

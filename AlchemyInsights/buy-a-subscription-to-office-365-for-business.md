@@ -13,10 +13,10 @@ ms.custom:
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
 ms.openlocfilehash: 07505ce77b392f5b22ae2a2cf0519d4eadda9d02
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44061760"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Compre una suscripción a Microsoft 365 desde su versión de prueba gratuita
@@ -31,7 +31,7 @@ Ha probado Microsoft 365 y ya está listo para comprar. Tiene dos opciones al co
 
 **Comprar una suscripción diferente**
   
-1. En el centro de administración, vaya a la página [servicios de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) de **facturación** \> .
+1. En el centro de administración, vaya a **Billing** la \> Página servicios de [compra](https://go.microsoft.com/fwlink/p/?linkid=868433) de facturación.
 
 3. Busque la suscripción que desea comprar, seleccione **comprar**y siga los pasos para desproteger.
 

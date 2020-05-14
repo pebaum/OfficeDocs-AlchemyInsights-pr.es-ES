@@ -13,10 +13,10 @@ ms.custom:
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
 ms.openlocfilehash: 1da70e15c3d777a316ddb79c4dfe9739a8285923
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44064246"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Cambiar suscripciones para aumentar el tamaño del buzón

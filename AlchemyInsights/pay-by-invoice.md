@@ -14,10 +14,10 @@ ms.custom:
 - "1500024"
 ms.assetid: 3e687777-13bf-467e-9746-a1f35571178f
 ms.openlocfilehash: e4291e4c16b1edb68efd97ca7fbb4ae03685fa37
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062409"
 ---
 # <a name="pay-by-invoice"></a>Pagar mediante factura

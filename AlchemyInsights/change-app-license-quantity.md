@@ -13,10 +13,10 @@ ms.custom:
 - "9000568"
 - "2425"
 ms.openlocfilehash: 39512e97c9fba1e15a2c88ce7bc1de8a15c65cc0
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44058769"
 ---
 # <a name="change-app-license-quantity"></a>Cambiar la cantidad de licencias de aplicaciones
@@ -25,7 +25,7 @@ Puede ver o cambiar el número de licencias que tiene y asignarlas a usuarios en
 
 ## <a name="to-change-license-quantity"></a>Para cambiar la cantidad de licencias
 
-1. Vaya a la página **facturación** > **[de productos](https://go.microsoft.com/fwlink/p/?linkid=842054)** y, a continuación, elija la pestaña **aplicaciones** .
+1. Vaya a la página **facturación**  >  **[de productos](https://go.microsoft.com/fwlink/p/?linkid=842054)** y, a continuación, elija la pestaña **aplicaciones** .
 
 2. Busque y seleccione la aplicación que desea administrar.  
 
@@ -35,7 +35,7 @@ Puede ver o cambiar el número de licencias que tiene y asignarlas a usuarios en
 
 ## <a name="to-assign-app-licenses"></a>Para asignar licencias de aplicaciones
 
-1. Vaya a la página **facturación** > **[de productos](https://go.microsoft.com/fwlink/p/?linkid=842054)** y, a continuación, elija la pestaña **aplicaciones** .
+1. Vaya a la página **facturación**  >  **[de productos](https://go.microsoft.com/fwlink/p/?linkid=842054)** y, a continuación, elija la pestaña **aplicaciones** .
 
 2. Busque y seleccione la aplicación que desea administrar.  
 

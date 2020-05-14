@@ -14,10 +14,10 @@ ms.custom:
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
 ms.openlocfilehash: da471e392abd5d5a732206fd7306f48975268b74
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44058444"
 ---
 # <a name="compare-upgrade-or-purchase-subscriptions"></a>Comparar, actualizar o comprar suscripciones
@@ -28,4 +28,4 @@ Si su organización está interesada en comparar todos los planes y precios, rev
   
 Si su organización ya ha comprado suscripciones y está interesado en cambiar a un plan diferente, puede hacerlo desde el centro de administración de 365 de Microsoft. Vaya a la página **facturación** \> [de productos](https://go.microsoft.com/fwlink/p/?linkid=842054) , seleccione la suscripción que desea cambiar y, a continuación, elija la pestaña **actualización** para ver la lista de los nuevos planes disponibles.
   
-La organización también puede mezclar y hacer coincidir las suscripciones para satisfacer las necesidades y los requisitos de características de los usuarios. Desde el centro de administración, vaya a la página [servicios de compra](https://go.microsoft.com/fwlink/p/?linkid=868433) de **facturación** \> .
+La organización también puede mezclar y hacer coincidir las suscripciones para satisfacer las necesidades y los requisitos de características de los usuarios. Desde el centro de administración, vaya a **Billing** la \> Página servicios de [compra](https://go.microsoft.com/fwlink/p/?linkid=868433) de facturación.

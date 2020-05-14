@@ -12,10 +12,10 @@ ms.custom:
 - "9001511"
 - "3571"
 ms.openlocfilehash: 41bbec42eeaba3545937700eee23573879133644
-ms.sourcegitcommit: 264b782ac2fba8ffd84524180dc4f7d60b45e9a4
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/04/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44015742"
 ---
 # <a name="live-events-in-microsoft-stream"></a>Eventos en directo de Microsoft Stream

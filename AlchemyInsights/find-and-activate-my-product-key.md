@@ -12,10 +12,10 @@ ms.custom:
 - "9001519"
 - "3576"
 ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062481"
 ---
 # <a name="find-and-activate-my-product-key"></a>Buscar y activar la clave de producto
@@ -32,7 +32,7 @@ Si compró el estándar de Microsoft 365 Business Premium desde una tienda minor
 
 **Nota**: para usar una clave de producto para ampliar la fecha de expiración o agregar una licencia a su suscripción de Microsoft 365 Business Premium estándar existente, necesita una clave nueva y no usada para la misma suscripción a Microsoft 365.  La especificación de la clave de producto de Microsoft 365 original no funcionará porque una clave que ya se ha canjeado no se puede volver a usar.
 
-1. En el centro de administración, vaya a la página **facturación** > **[de productos](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. En el centro de administración, vaya a la página **facturación**  >  **[de productos](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Busque la suscripción a la que desea ampliar la fecha de expiración o agregue licencias.  Haga clic en [extender fecha final](https://go.microsoft.com/fwlink/p/?linkid=842054) o [Agregar más licencias](https://go.microsoft.com/fwlink/p/?linkid=842054).
 

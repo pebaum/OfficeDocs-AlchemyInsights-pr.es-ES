@@ -13,10 +13,10 @@ ms.custom:
 - "1400001"
 - "4722"
 ms.openlocfilehash: 2389daa13aa08f394feded5c5cd67839e62734ff
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44061651"
 ---
 # <a name="cancel-project-subscription"></a>Cancelar suscripción de proyecto

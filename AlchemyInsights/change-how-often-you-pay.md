@@ -15,10 +15,10 @@ ms.custom:
 - "4552"
 - "1500025"
 ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
-ms.sourcegitcommit: 7755f288fcc718571367cf1960962b19a82bac4f
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/29/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "43939672"
 ---
 # <a name="change-how-often-you-pay"></a>Cambiar la frecuencia de pago

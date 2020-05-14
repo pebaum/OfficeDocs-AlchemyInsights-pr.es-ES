@@ -12,10 +12,10 @@ ms.custom:
 - "9001694"
 - "3772"
 ms.openlocfilehash: 0fdfee4e6675a12921dc7309a76cb9cb8e0cc292
-ms.sourcegitcommit: 264b782ac2fba8ffd84524180dc4f7d60b45e9a4
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/04/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44015778"
 ---
 # <a name="share-your-videos-in-microsoft-stream"></a>Compartir vídeos en Microsoft Stream
