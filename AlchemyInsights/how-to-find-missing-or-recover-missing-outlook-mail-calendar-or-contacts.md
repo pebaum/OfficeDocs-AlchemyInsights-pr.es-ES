@@ -12,19 +12,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: a5e7e1ee245331acbd6e67d7112736e261ccca1f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 75f7a7e842d8fafdd4cad3d48289d3cc609caec6
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720713"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235314"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Cómo buscar y recuperar los mensajes, contactos o elementos de calendario que faltan en Outlook
 
-- Puede usar la [herramienta problemas de envío, recepción o búsqueda de mensajes de correo electrónico](https://aka.ms/SaRA-OutlookSendReceive) en el equipo afectado. Esta herramienta comprobará una serie de problemas y le sugerirá posibles soluciones.
+1. En Outlook, vaya a la lista de carpetas de correo electrónico y, a continuación, seleccione **elementos eliminados**. **Importante**: Si no ve la carpeta **elementos eliminados** , pero ve la carpeta **papelera** , la cuenta no admite la recuperación de un elemento que ya no está en la carpeta **elementos eliminados** .
 
-- [Determinar si la cuenta está en peligro](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Si se viera en peligro, siga los pasos [que se indican en responder a una cuenta de correo electrónico en peligro.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
+2. En el menú **Inicio** , haga clic en **recuperar elementos eliminados del servidor**. **Importante**: Si no hay ningún comando **recuperar elementos eliminados del servidor** en el menú, la cuenta no admite la recuperación de un elemento que ya no está en la carpeta **elementos eliminados** .
 
-- [Buscar el mensaje o elemento mediante la búsqueda instantánea](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+3. Seleccione los elementos que desee recuperar, haga clic en **Restaurar elementos seleccionados**y, a continuación, haga clic en **Aceptar**.
 
-- [Recuperación de elementos eliminados en Outlook para Windows](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
+**¿Dónde van los elementos recuperados?** Cuando se recuperan elementos de la carpeta elementos recuperables, se mueven a la carpeta **elementos eliminados** . Después de recuperar un elemento, puede encontrarlo en la carpeta **elementos eliminados** y, a continuación, puede moverlo a otra carpeta.
+
+También puede usar la [herramienta problemas de envío, recepción o búsqueda de mensajes de correo electrónico](https://aka.ms/SaRA-OutlookSendReceive) **en el equipo afectado**. Esta herramienta comprobará una serie de problemas y le sugerirá posibles soluciones.

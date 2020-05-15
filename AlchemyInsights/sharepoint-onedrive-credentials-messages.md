@@ -10,26 +10,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: b3bcff33fd0fa59b4f660af12cdd2a5c82409d1e
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: cd281c5f503e5e7f7d4d4012183c173316b7e364
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053962"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235458"
 ---
 # <a name="credential-messages-in-sharepoint-or-onedrive"></a>Mensajes de credenciales en SharePoint o OneDrive
 
 Es posible que Office solicite periódicamente a los usuarios credenciales de SharePoint Online o OneDrive cuando intente abrir documentos.
 
-A continuación se muestran algunos ejemplos de los mensajes de credenciales:
-
-- Iniciar sesión con su cuenta de la organización
-
-- Se requieren credenciales
-
-- No podemos conectarte ahora mismo, comprueba tu conexión de red
-
 Si experimenta estos síntomas, pruebe los pasos que se encuentran en [este artículo](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint).
 
 Como alternativa, si usa el inicio de sesión único (SSO) para autenticar, consulte [este artículo](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10) en su lugar.
-
