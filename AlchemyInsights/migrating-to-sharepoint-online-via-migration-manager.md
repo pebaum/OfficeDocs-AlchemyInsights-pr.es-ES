@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3192"
-ms.openlocfilehash: ad9e9d929664ecdfd796e977891d83f80f557333
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 54f3e3a396334b7c1640b078e2efed4d6b463ba3
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552808"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235386"
 ---
 # <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Migrar a SharePoint Online con el Administrador de migración
 
@@ -25,7 +25,3 @@ ms.locfileid: "43552808"
 Ubicado en el Centro de Administración de SharePoint, el Administrador de Migración le guiará por el proceso de configuración de los dispositivos y la creación de las tareas. Puede especificar una configuración global o específica de la tarea, ver todo el progreso de la tarea y descargar informes globales y de la tarea.
 
 - [Primeros pasos con el Administrador de migración](https://docs.microsoft.com/sharepointmigration/mm-get-started)
-
-- [Configurar clientes del Administrador de migración](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
-
-- [Configuración del Administrador de migración](https://docs.microsoft.com/sharepointmigration/mm-settings)
