@@ -1,5 +1,5 @@
 ---
-title: Se ha bloqueado el remitente por enviar demasiado spam
+title: El remitente tiene restricciones por envío excesivo de correo no deseado
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: ab49df06697f45e23e80e18b56257c45140722aa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ff93b67a6a6b3eae9e94061d968c72064dd42afb
+ms.sourcegitcommit: 0cf8d133d6feade6df8b1082444ce73faa91e145
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709172"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44209896"
 ---
-# <a name="account-is-blocked-for-sending-too-much-spam"></a>Se ha bloqueado la cuenta por enviar demasiado spam
+# <a name="account-is-restricted-for-sending-too-much-spam"></a>Se ha restringido la cuenta por enviar demasiado correo no deseado
 
 Como administrador, si uno de los usuarios tiene restringido el envío de correo electrónico, puede [desbloquear la cuenta](https://protection.office.com/?hash=/restrictedusers) **sin tener que abrir un caso de soporte**. El usuario podrá enviar correo electrónico en una hora después de quitar la restricción.
 
