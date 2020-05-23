@@ -11,21 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "5128"
-ms.openlocfilehash: 08125121083a3ddc7b84ea27a6262247c7ef3e0f
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
+ms.openlocfilehash: 59698324fc21dcf49b96363d61145e17364f9e01
+ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991366"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44263965"
 ---
 # <a name="payment-faq"></a>Preguntas más frecuentes sobre el pago
 
 Administrar pagos en el **Centro de administración de Microsoft 365**. 
 
-1. Vaya a **Facturación > [Productos y servicios](https://go.microsoft.com/fwlink/p/?linkid=842054)** para asignar o cambiar métodos de pago de suscripción.
-2. Vaya a **Facturación > [Métodos de pago](https://go.microsoft.com/fwlink/p/?linkid=2018806)** para agregar, actualizar o quitar métodos de pago.
-
-**Problemas y soluciones comunes**
+- Vaya a **Facturación > [Sus productos](https://go.microsoft.com/fwlink/p/?linkid=842054)** para asignar o cambiar los métodos de pago de la suscripción.
+- Vaya a **Facturación > [Métodos de pago](https://go.microsoft.com/fwlink/p/?linkid=2018806)** para agregar, actualizar o quitar métodos de pago.
 
 - **Métodos de pago**: al pagar con tarjeta de crédito o cuenta bancaria, el método de pago asociado a las suscripciones se cargará en unos días después de crear la factura. Si se produce un error en el pago, actualice su método de pago. Para más información, consulte [Agregar, actualizar o quitar métodos de pago](https://go.microsoft.com/fwlink/?linkid=2118133).
 

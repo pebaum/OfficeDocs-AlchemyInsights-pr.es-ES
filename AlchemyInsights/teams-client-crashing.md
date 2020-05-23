@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ce37b260d126f876d2b6177515bd8a7c3874ef2c
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
+ms.openlocfilehash: c49dfbf422b312f4744711d5f12b0eb83b6ebf2e
+ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030671"
+ms.lasthandoff: 05/16/2020
+ms.locfileid: "44268789"
 ---
 # <a name="teams-client-crashing"></a>¿El cliente de Teams está fallando?
 
@@ -24,9 +24,9 @@ Si el cliente de Teams está fallando, intenta lo siguiente:
 
 - Si está usando la aplicación de escritorio de Teams, asegúrese de que la aplicación esté completamente actualizada.
 
-- Asegúrese de que todas las [URL e intervalos de direcciones de Office 365](https://docs.microsoft.com/microsoftteams/connectivity-issues) sean accesibles.
+- Asegúrese de que todas las [URL e intervalos de direcciones de Microsoft 365](https://docs.microsoft.com/microsoftteams/connectivity-issues) sean accesibles.
 
-- Inicie sesión con su cuenta de administrador y compruebe el [panel de estado del servicio](https://docs.microsoft.com/office365/enterprise/view-service-health) para verificar que no exista ninguna interrupción o degradación del servicio.
+- Inicie sesión con su cuenta de administrador de inquilino y compruebe el [panel de estado del servicio](https://docs.microsoft.com/office365/enterprise/view-service-health) para verificar que no exista ninguna interrupción o degradación del servicio.
 
  - Como último paso, puede intentar borrar la memoria caché del cliente de Teams:
 
@@ -53,3 +53,11 @@ Si el cliente de Teams está fallando, intenta lo siguiente:
         - Por último, en **tmp**, elimine cualquier archivo: %appdata%\Microsoft\teams\tmp.
 
     4. Reinicie su cliente de Teams.
+
+Si el cliente de su equipo aún se bloquea, ¿puede reproducir el problema? En ese caso: 
+
+1. Use la Grabación de acciones de usuario para capturar los pasos.
+    - Cierre todas las aplicaciones innecesarias o confidenciales.
+    - Inicie sesión con la cuenta de usuario afectada, abra la Grabación de acciones de usuario y reproduzca el problema.
+    
+2. Anexe el archivo a su caso de soporte técnico.
