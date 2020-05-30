@@ -13,12 +13,12 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c3968ef0ac4926fae3e8a0f988c464471f740a94
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062301"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417621"
 ---
 # <a name="declined-credit-card"></a>Tarjeta de crédito rechazada
 
@@ -28,4 +28,4 @@ Para obtener más información, consulte "¿Qué sucede si mi tarjeta de crédit
   
 Si sigue viendo el mensaje "rechazado", póngase en contacto con el banco. Es posible que la tarjeta de crédito no esté activa. Por ejemplo, si ha recibido recientemente la tarjeta de crédito por correo con la fecha de expiración actualizada, puede que necesite activarla. Su banco también puede decirle si su tarjeta de crédito no está aprobada para transacciones en línea, internacionales o periódicas.  
   
-Para obtener más información [, consulte solución de problemas de tarjetas de crédito y cuentas bancarias](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Para obtener más información, consulte [Manage Payment Methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
