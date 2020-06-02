@@ -11,12 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4487"
-ms.openlocfilehash: d40c8c07bb80c20b0f09521df334fdb99d96ac04
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+- "3496"
+- "2000021"
+ms.openlocfilehash: e7229980d39b60ec0f60ebd5e51948e8cf34bc76
+ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722637"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44474478"
 ---
 # <a name="resolve-office-activation-error-0xd000000c"></a>Solucionar el error de activación de Office 0xD000000C
 
